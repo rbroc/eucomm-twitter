@@ -1,0 +1,3336 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-11T10:46:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 5,
+                        "tag": "Malmstrom"
+                    },
+                    {
+                        "end": 85,
+                        "start": 82,
+                        "tag": "eu"
+                    },
+                    {
+                        "end": 98,
+                        "start": 86,
+                        "tag": "homeaffairs"
+                    }
+                ]
+            },
+            "id": "36013281478967296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Cssr #Malmstrom starts a blog on her website http://blogs.ec.europa.eu/malmstrom/ #eu #homeaffairs"
+        },
+        {
+            "created_at": "2011-02-11T10:18:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Cssr Andris",
+                        "probability": 0.9668,
+                        "start": 10,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 22,
+                        "tag": "Piebalgs"
+                    }
+                ]
+            },
+            "id": "36006239540477952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Speech by Cssr Andris #Piebalgs \"EU Development policy: Shaping the future together\" http://bit.ly/hPsp0g"
+        },
+        {
+            "created_at": "2011-02-11T09:41:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 13,
+                        "tag": "Barnier"
+                    },
+                    {
+                        "end": 114,
+                        "start": 108,
+                        "tag": "audit"
+                    }
+                ]
+            },
+            "id": "35996725973880832",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Speech: Cssr #Barnier, March\u00e9 int\u00e9rieur et services \"Audit 2011 \u2013 L'Ann\u00e9e de l'Audace\" http://bit.ly/eZR5up #audit"
+        },
+        {
+            "created_at": "2011-02-11T09:37:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Portugal",
+                        "probability": 0.9345,
+                        "start": 26,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 9,
+                        "tag": "ETS"
+                    },
+                    {
+                        "end": 91,
+                        "start": 81,
+                        "tag": "emissions"
+                    }
+                ]
+            },
+            "id": "35995874131705856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "National #ETS registry of Portugal resumes work as of today http://bit.ly/hK86cb #emissions"
+        },
+        {
+            "created_at": "2011-02-11T09:34:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 26,
+                        "tag": "F\u00fcle"
+                    },
+                    {
+                        "end": 63,
+                        "start": 57,
+                        "tag": "Selek"
+                    },
+                    {
+                        "end": 92,
+                        "start": 85,
+                        "tag": "turkey"
+                    }
+                ]
+            },
+            "id": "35995108608442368",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Statement by Commissioner #F\u00fcle on the case of Mrs Pinar #Selek http://bit.ly/hguXGC #turkey"
+        },
+        {
+            "created_at": "2011-02-11T09:32:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Catherine",
+                        "probability": 0.7263,
+                        "start": 22,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 32,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 82,
+                        "start": 74,
+                        "tag": "Mubarak"
+                    },
+                    {
+                        "end": 110,
+                        "start": 104,
+                        "tag": "egypt"
+                    },
+                    {
+                        "end": 117,
+                        "start": 111,
+                        "tag": "jan25"
+                    }
+                ]
+            },
+            "id": "35994562874982400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Statement by EU HR/VP Catherine #Ashton following the speech of President #Mubarak http://bit.ly/i6Rxoi #egypt #jan25"
+        },
+        {
+            "created_at": "2011-02-09T15:49:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 18,
+                        "tag": "Prysmian"
+                    },
+                    {
+                        "end": 78,
+                        "start": 72,
+                        "tag": "Draka"
+                    },
+                    {
+                        "end": 116,
+                        "start": 108,
+                        "tag": "mergers"
+                    }
+                ]
+            },
+            "id": "35364766717317120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Commission clears #Prysmian's proposed acquisition of rival cable maker #Draka Holding http://bit.ly/hgRZ4x #mergers"
+        },
+        {
+            "created_at": "2011-02-09T15:29:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 22,
+                        "tag": "Barroso"
+                    }
+                ]
+            },
+            "id": "35359527943544832",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Discours du Pr\u00e9sident #Barroso 'Un an apr\u00e8s le trait\u00e9 de Lisbonne: un test de r\u00e9sistance r\u00e9ussi' http://bit.ly/hIaFEI"
+        },
+        {
+            "created_at": "2011-02-09T14:09:54.000Z",
+            "id": "35339609630191616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#President#Barroso#: \"All it takes is political will and partnership. And that is exactly what I see today.\"  Read http://bit.ly/eF56w9"
+        },
+        {
+            "created_at": "2011-02-09T14:09:10.000Z",
+            "id": "35339425147789312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#President#Barroso#: \"If we set the right framework, invest in our scientists and research, then businesses will lead the way.\""
+        },
+        {
+            "created_at": "2011-02-09T14:08:48.000Z",
+            "id": "35339332927627264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#President#Barroso#: \"What we are all involved in here is a race to the top.\"  http://bit.ly/eF56w9"
+        },
+        {
+            "created_at": "2011-02-09T14:06:38.000Z",
+            "id": "35338789303877632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#President#Barroso#@The Road to Low Carbon Posperity. Read http://bit.ly/eF56w9"
+        },
+        {
+            "created_at": "2011-02-09T13:50:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Low Carbon Prosperity Summit",
+                        "probability": 0.379,
+                        "start": 24,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 79,
+                        "normalized_text": "Europe",
+                        "probability": 0.948,
+                        "start": 74,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 8,
+                        "tag": "Barroso"
+                    }
+                ]
+            },
+            "id": "35334661714477057",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Speech: #Barroso at the Low Carbon Prosperity Summit: \"A race to the top: Europe's low-carbon future\" http://bit.ly/fl2lpG"
+        },
+        {
+            "created_at": "2011-02-09T13:49:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Cssr Geoghegan",
+                        "probability": 0.7954,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 19,
+                        "normalized_text": "Quinn",
+                        "probability": 0.4964,
+                        "start": 15,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 67,
+                        "start": 58,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 83,
+                        "start": 72,
+                        "tag": "innovation"
+                    },
+                    {
+                        "end": 92,
+                        "start": 84,
+                        "tag": "funding"
+                    },
+                    {
+                        "end": 117,
+                        "start": 114,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "35334428754448385",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Cssr Geoghegan-Quinn launches consultation on simplifying #research and #innovation #funding http://bit.ly/hIoqvy #EU"
+        },
+        {
+            "created_at": "2011-02-09T11:00:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Cssr Geoghegan",
+                        "probability": 0.8839,
+                        "start": 31,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Quinn",
+                        "probability": 0.5598,
+                        "start": 46,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "Research"
+                    },
+                    {
+                        "end": 105,
+                        "start": 94,
+                        "tag": "Innovation"
+                    },
+                    {
+                        "end": 114,
+                        "start": 106,
+                        "tag": "funding"
+                    }
+                ]
+            },
+            "id": "35291900688728064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "After Midday Briefing: PC with Cssr Geoghegan-Quinn on the future Framework for #Research and #Innovation #funding http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-09T08:59:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 74,
+                        "normalized_text": "Brussels",
+                        "probability": 0.8541,
+                        "start": 67,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 23,
+                        "tag": "\u0160emeta"
+                    },
+                    {
+                        "end": 45,
+                        "start": 38,
+                        "tag": "Single"
+                    },
+                    {
+                        "end": 53,
+                        "start": 46,
+                        "tag": "Market"
+                    }
+                ]
+            },
+            "id": "35261438167621632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Speech of Commissioner #\u0160emeta to the #Single #Market Conference - Brussels, 8 February 2011 http://bit.ly/gYUB2h"
+        },
+        {
+            "created_at": "2011-02-09T08:56:54.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Ki Moon",
+                        "probability": 0.1952,
+                        "start": 49,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 19,
+                        "tag": "Ciolos"
+                    },
+                    {
+                        "end": 36,
+                        "start": 33,
+                        "tag": "UN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2982188999",
+                        "start": 3,
+                        "username": "ECspokesRoger"
+                    }
+                ]
+            },
+            "id": "35260841976664064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @ECspokesRoger: #Ciolos meets #UN Sec Gen Ban Ki Moon to discuss global food security http://bit.ly/ewUiYo http://twitpic.com/3xxm7t"
+        },
+        {
+            "created_at": "2011-02-08T15:12:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 25,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 118,
+                        "start": 111,
+                        "tag": "suisse"
+                    }
+                ]
+            },
+            "id": "34992916283785216",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "D\u00e9claration du Pr\u00e9sident #Barroso suite \u00e0 sa rencontre avec Micheline Calmy-Rey, Pr\u00e9sident de la Conf\u00e9d\u00e9ration #suisse http://bit.ly/eb2Y1c"
+        },
+        {
+            "created_at": "2011-02-08T15:09:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "#UN Security Council United Nations New York",
+                        "probability": 0.1755,
+                        "start": 32,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 6,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 35,
+                        "start": 32,
+                        "tag": "UN"
+                    }
+                ]
+            },
+            "id": "34992342150680576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "HR/VP #Ashton 's address at the #UN Security Council United Nations New York, 8 February 2011 http://bit.ly/fRNgk3"
+        },
+        {
+            "created_at": "2011-02-08T14:23:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.6877,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "European Transport Network",
+                        "probability": 0.3748,
+                        "start": 55,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "34980528411115520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "EU transport ministers discuss the future of the Trans-European Transport Network http://bit.ly/g72Rtw"
+        },
+        {
+            "created_at": "2011-02-08T11:23:00.000Z",
+            "id": "34935220713033728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "text": "Today is Safer Internet Day: \u201cIt\u2019s more than a game, it\u2019s your life\u201d http://bit.ly/gK8BSa"
+        },
+        {
+            "created_at": "2011-02-08T11:00:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Cssr Geoghegan",
+                        "probability": 0.8839,
+                        "start": 31,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Quinn",
+                        "probability": 0.5598,
+                        "start": 46,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "Research"
+                    },
+                    {
+                        "end": 105,
+                        "start": 94,
+                        "tag": "Innovation"
+                    },
+                    {
+                        "end": 114,
+                        "start": 106,
+                        "tag": "funding"
+                    }
+                ]
+            },
+            "id": "34929442027610112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "After Midday Briefing: PC with Cssr Geoghegan-Quinn on the future Framework for #Research and #Innovation #funding http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-07T11:05:09.000Z",
+            "id": "34568341557350401",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Safer Internet Day 8/2 Nearly one third of internet users in the EU27 caught a computer virus in 2010 http://bit.ly/hFEhsj ^ac"
+        },
+        {
+            "created_at": "2011-02-07T10:31:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 4,
+                        "tag": "cars"
+                    },
+                    {
+                        "end": 32,
+                        "start": 24,
+                        "tag": "daytime"
+                    },
+                    {
+                        "end": 48,
+                        "start": 41,
+                        "tag": "lights"
+                    }
+                ]
+            },
+            "id": "34559877829365761",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "New #cars equipped with #daytime running #lights as of today - watch the press briefing at 12:00 on http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-07T08:59:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 75,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 108,
+                        "start": 101,
+                        "tag": "Reding"
+                    }
+                ]
+            },
+            "id": "34536621235773440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "International Day against Female Genital Mutilation: Joint Statement of HR #Ashton and Commission VP #Reding http://bit.ly/hjEWnD"
+        },
+        {
+            "created_at": "2011-02-04T21:02:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.6723,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "European Council",
+                        "probability": 0.4951,
+                        "start": 57,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 98,
+                        "tag": "EUCO"
+                    },
+                    {
+                        "end": 111,
+                        "start": 104,
+                        "tag": "energy"
+                    },
+                    {
+                        "end": 123,
+                        "start": 112,
+                        "tag": "innovation"
+                    }
+                ]
+            },
+            "id": "33631417174851584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "President Barroso's final press conference following the European Council: http://bit.ly/bOIulB   #EUCO #energy #innovation"
+        },
+        {
+            "created_at": "2011-02-04T20:20:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.6847,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 93,
+                        "tag": "EUCO"
+                    },
+                    {
+                        "end": 106,
+                        "start": 99,
+                        "tag": "energy"
+                    },
+                    {
+                        "end": 118,
+                        "start": 107,
+                        "tag": "innovation"
+                    }
+                ]
+            },
+            "id": "33620820257411072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "President Barroso's presentation on innovation for the European Council http://bit.ly/i8sG5o #EUCO #energy #innovation"
+        },
+        {
+            "created_at": "2011-02-04T16:05:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 23,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 92,
+                        "start": 85,
+                        "tag": "Energy"
+                    },
+                    {
+                        "end": 108,
+                        "start": 97,
+                        "tag": "Innovation"
+                    }
+                ]
+            },
+            "id": "33556642410790912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "17h30 PressConf w/ Pdt #Barroso and @euHvR on the outcome of the European Council on #Energy and #Innovation http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-04T13:32:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 21,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 118,
+                        "start": 110,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 133,
+                        "start": 119,
+                        "tag": "eu_commission"
+                    },
+                    {
+                        "end": 139,
+                        "start": 134,
+                        "tag": "euco"
+                    }
+                ]
+            },
+            "id": "33518220233285632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Commission plans for #EU energy market agreed by European Council.Here's the substance: http://bit.ly/gfMvrn  #Barroso #eu_commission #euco"
+        },
+        {
+            "created_at": "2011-02-04T11:36:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 5,
+                        "tag": "Barroso"
+                    }
+                ]
+            },
+            "id": "33489070399307776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pdt  #Barroso: today we must show the determination of all to tackle the economy and take concrete decisions on energy and innovation"
+        },
+        {
+            "created_at": "2011-02-04T11:36:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "Barroso",
+                        "probability": 0.7726,
+                        "start": 11,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 41,
+                        "tag": "EUCO"
+                    },
+                    {
+                        "end": 55,
+                        "start": 48,
+                        "tag": "Energy"
+                    },
+                    {
+                        "end": 78,
+                        "start": 71,
+                        "tag": "Europe"
+                    }
+                ]
+            },
+            "id": "33489070055235584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#President#Barroso's presentation to the #EUCO: #Energy Priorities for #Europe. See http://bit.ly/g6iVZR"
+        },
+        {
+            "created_at": "2011-02-04T11:35:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 4,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 101,
+                        "start": 96,
+                        "tag": "EUCO"
+                    }
+                ]
+            },
+            "id": "33488856883924992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Pdt #Barroso: the ideas of some MS fit well with our approach to reinforce economic governance. #EUCO"
+        },
+        {
+            "created_at": "2011-02-04T11:19:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 85,
+                        "tag": "SaferInternet"
+                    },
+                    {
+                        "end": 109,
+                        "start": 100,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 121,
+                        "start": 110,
+                        "tag": "innovation"
+                    },
+                    {
+                        "end": 128,
+                        "start": 122,
+                        "tag": "child"
+                    },
+                    {
+                        "end": 136,
+                        "start": 129,
+                        "tag": "rights"
+                    }
+                ]
+            },
+            "id": "33484814380175360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Top News from the European Commission 4 February \u201310 March 2011 http://bit.ly/ijRYrq #SaferInternet #research #innovation #child #rights"
+        },
+        {
+            "created_at": "2011-02-04T11:06:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Tunisia",
+                        "probability": 0.9536,
+                        "start": 58,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 74,
+                        "normalized_text": "Egypt",
+                        "probability": 0.9285,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 86,
+                        "tag": "EUCO"
+                    }
+                ]
+            },
+            "id": "33481636205039616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "News from 1st European Council in 2011: energy innovation Tunisia and Egypt, Euro via #EUCO & http://bit.ly/EBSlive + http://bit.ly/EBSplus"
+        },
+        {
+            "created_at": "2011-02-03T15:35:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 5,
+                        "tag": "Barnier"
+                    },
+                    {
+                        "end": 111,
+                        "start": 105,
+                        "tag": "banks"
+                    },
+                    {
+                        "end": 123,
+                        "start": 112,
+                        "tag": "insurances"
+                    },
+                    {
+                        "end": 133,
+                        "start": 124,
+                        "tag": "pensions"
+                    }
+                ]
+            },
+            "id": "33186882460327936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Cssr #Barnier launches European Systemic Risk Board to monitor the financial sector http://bit.ly/gONxKX #banks #insurances #pensions"
+        },
+        {
+            "created_at": "2011-02-03T15:29:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "EU",
+                        "probability": 0.6356,
+                        "start": 52,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 5,
+                        "tag": "Hahn"
+                    },
+                    {
+                        "end": 75,
+                        "start": 68,
+                        "tag": "Danube"
+                    }
+                ]
+            },
+            "id": "33185400176517121",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Cssr #Hahn announces priority area coordinators for EU Strategy for #Danube Region http://bit.ly/hFTrul"
+        },
+        {
+            "created_at": "2011-02-03T15:28:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 6,
+                        "tag": "Kallas"
+                    },
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "Hedegaard"
+                    },
+                    {
+                        "end": 90,
+                        "start": 82,
+                        "tag": "climate"
+                    },
+                    {
+                        "end": 124,
+                        "start": 120,
+                        "tag": "CO2"
+                    }
+                ]
+            },
+            "id": "33184942678609920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cssrs #Kallas, #Hedegaard: \"... shipping sector must deliver on the fight against #climate change\" http://bit.ly/eyxqdX #CO2"
+        },
+        {
+            "created_at": "2011-02-03T10:11:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 92,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 109,
+                        "start": 103,
+                        "tag": "Egypt"
+                    }
+                ]
+            },
+            "id": "33105311254446080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "\"...it is the responsibility of the army and law enforcement to protect its citizens\" HR/VP #Ashton on #Egypt http://bit.ly/h8MP4S"
+        },
+        {
+            "created_at": "2011-02-03T09:50:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 35,
+                        "tag": "ETS"
+                    },
+                    {
+                        "end": 85,
+                        "start": 77,
+                        "tag": "climate"
+                    },
+                    {
+                        "end": 96,
+                        "start": 86,
+                        "tag": "emissions"
+                    }
+                ]
+            },
+            "id": "33100065287446528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Update on transitional measure: EU #ETS registry system http://bit.ly/fspuFU #climate #emissions"
+        },
+        {
+            "created_at": "2011-02-03T09:49:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Catherine",
+                        "probability": 0.4274,
+                        "start": 17,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 27,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 44,
+                        "start": 38,
+                        "tag": "Sudan"
+                    },
+                    {
+                        "end": 51,
+                        "start": 48,
+                        "tag": "EP"
+                    }
+                ]
+            },
+            "id": "33099734168109056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Remarks by HR/VP Catherine #Ashton on #Sudan at #EP 2 February 2011 http://bit.ly/ifiIBw"
+        },
+        {
+            "created_at": "2011-02-03T09:47:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Catherine",
+                        "probability": 0.5395,
+                        "start": 17,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 27,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 44,
+                        "start": 38,
+                        "tag": "Egypt"
+                    },
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Tunisia"
+                    }
+                ]
+            },
+            "id": "33099325986832384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Remarks by HR/VP Catherine #Ashton on #Egypt and #Tunisia http://bit.ly/dJreHS"
+        },
+        {
+            "created_at": "2011-02-03T09:36:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 85,
+                        "normalized_text": "Mr Abu-Bakr Al-Qirbi",
+                        "probability": 0.9224,
+                        "start": 66,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 6,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 64,
+                        "start": 58,
+                        "tag": "Yemen"
+                    }
+                ]
+            },
+            "id": "33096433041145856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "HR/VP #Ashton met with the Minister of Foreign Affairs of #Yemen, Mr Abu-Bakr Al-Qirbi, yesterday http://bit.ly/hegw04"
+        },
+        {
+            "created_at": "2011-02-03T09:28:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 114,
+                        "normalized_text": "Mr Ahmed Ouneies",
+                        "probability": 0.827,
+                        "start": 99,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 17,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "Tunisia"
+                    }
+                ]
+            },
+            "id": "33094418995093504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Remarks by HR/VP #Ashton after her meeting yesterday with Minister of Foreign Affairs of #Tunisia, Mr Ahmed Ouneies http://bit.ly/eIydmV"
+        },
+        {
+            "created_at": "2011-02-02T16:56:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Europe",
+                        "probability": 0.9978,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 4,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 84,
+                        "start": 77,
+                        "tag": "energy"
+                    }
+                ]
+            },
+            "id": "32844879906213888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Pdt #Barroso: No more energy islands in Europe by 2015. #EU to reduce annual #energy bill by around EUR 200 billion.  http://bit.ly/ifZ400"
+        },
+        {
+            "created_at": "2011-02-02T16:50:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 21,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 140,
+                        "start": 137,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "32843392366944256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Strong appeal of Pdt #Barroso to strengthen economic governance in full coherence with Community method and Treaty. http://bit.ly/ifZ400 #EU"
+        },
+        {
+            "created_at": "2011-02-02T16:46:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Friday European Council",
+                        "probability": 0.4189,
+                        "start": 57,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 15,
+                        "start": 4,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 28,
+                        "start": 20,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 90,
+                        "start": 84,
+                        "tag": "Egypt"
+                    },
+                    {
+                        "end": 100,
+                        "start": 92,
+                        "tag": "Tunisia"
+                    },
+                    {
+                        "end": 110,
+                        "start": 102,
+                        "tag": "Belarus"
+                    },
+                    {
+                        "end": 140,
+                        "start": 134,
+                        "tag": "eucon"
+                    }
+                ]
+            },
+            "id": "32842260164902912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU #Commission Pdt #Barroso  expects clear statement of Friday European Council on #Egypt, #Tunisia, #Belarus.  http://bit.ly/ifZ400 #eucon"
+        },
+        {
+            "created_at": "2011-02-02T14:10:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 86,
+                        "tag": "F\u00fcle"
+                    },
+                    {
+                        "end": 116,
+                        "start": 108,
+                        "tag": "Belarus"
+                    }
+                ]
+            },
+            "id": "32803112775323649",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "EU to help \"strengthen civil society\u2019s capacity to promote democratic reform...\" Cssr #F\u00fcle on situation in #Belarus http://bit.ly/dT3ej6"
+        },
+        {
+            "created_at": "2011-02-02T14:06:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "The Commission",
+                        "probability": 0.682,
+                        "start": 11,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 107,
+                        "start": 101,
+                        "tag": "Egypt"
+                    }
+                ]
+            },
+            "id": "32801948310704128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Barroso: \"The Commission calls for orderly transition and the holding of free and fair elections in #Egypt.\"  http://bit.ly/dY8lqI"
+        },
+        {
+            "created_at": "2011-02-02T14:04:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Cssr",
+                        "probability": 0.417,
+                        "start": 10,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "Berlin",
+                        "probability": 0.7826,
+                        "start": 72,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 15,
+                        "tag": "Almunia"
+                    }
+                ]
+            },
+            "id": "32801411372687360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Speech by Cssr #Almunia on \"Landesbanken and the EU competition rules\", Berlin 2 February 2011 http://bit.ly/fYXaid"
+        },
+        {
+            "created_at": "2011-02-02T12:26:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "Raw"
+                    },
+                    {
+                        "end": 15,
+                        "start": 5,
+                        "tag": "materials"
+                    },
+                    {
+                        "end": 20,
+                        "start": 17,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 32,
+                        "start": 21,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 138,
+                        "start": 134,
+                        "tag": "G20"
+                    }
+                ]
+            },
+            "id": "32776869191360512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Raw #materials: #EU #Commission calls for action to secure supply, analyse and regulate commodity markets. Read http://bit.ly/esbsbW #G20"
+        },
+        {
+            "created_at": "2011-02-02T11:20:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "Malmstr\u00f6m"
+                    },
+                    {
+                        "end": 135,
+                        "start": 131,
+                        "tag": "PNR"
+                    }
+                ]
+            },
+            "id": "32760143196196864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "PressConf Cssr #Malmstr\u00f6m, Proposal for a Directive for the use of Passenger Name Record data, live 12h45 at http://bit.ly/EBSlive #PNR"
+        },
+        {
+            "created_at": "2011-02-02T11:00:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "Tajani"
+                    },
+                    {
+                        "end": 36,
+                        "start": 28,
+                        "tag": "Barnier"
+                    },
+                    {
+                        "end": 48,
+                        "start": 41,
+                        "tag": "Ciolos"
+                    }
+                ]
+            },
+            "id": "32755213571985408",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "PressConf VP #Tajani, Cssrs #Barnier and #Ciolos on raw materials and commodity markets live at 12h15 http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-02T09:37:23.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "EU",
+                        "probability": 0.4791,
+                        "start": 66,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 15,
+                        "tag": "Sefcovic"
+                    }
+                ]
+            },
+            "id": "32734314139488256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "PressConf Cssr #Sefcovic \"Success of policy to recruit staff from EU-10 after 2004 enlargement\" live at 11h15 on http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-01T11:40:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Cssrs",
+                        "probability": 0.4477,
+                        "start": 19,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": "Europe",
+                        "probability": 0.9844,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 25,
+                        "tag": "HAHN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 49,
+                        "id": "218812123",
+                        "start": 35,
+                        "username": "LaszloAndorEU"
+                    }
+                ]
+            },
+            "id": "32402792857468928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "13:00 PressConf by Cssrs #HAHN and @LaszloAndorEU on 5th Cohesion Forum \"Investing in Europe's future ...\"  http://bit.ly/EBSplus"
+        },
+        {
+            "created_at": "2011-02-01T11:00:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Cssr",
+                        "probability": 0.6215,
+                        "start": 36,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "Princess Laurentien",
+                        "probability": 0.4739,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 41,
+                        "tag": "Vassiliou"
+                    },
+                    {
+                        "end": 111,
+                        "start": 102,
+                        "tag": "literacy"
+                    }
+                ]
+            },
+            "id": "32392767699156992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "After Midday Briefing: PressConf by Cssr #Vassiliou and NL Princess Laurentien on High level group on #literacy http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-02-01T10:00:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Cssr",
+                        "probability": 0.583,
+                        "start": 42,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "Quinn",
+                        "probability": 0.7734,
+                        "start": 58,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 30,
+                        "tag": "Tajani"
+                    },
+                    {
+                        "end": 57,
+                        "start": 47,
+                        "tag": "Geoghegan"
+                    },
+                    {
+                        "end": 87,
+                        "start": 76,
+                        "tag": "Innovation"
+                    }
+                ]
+            },
+            "id": "32377750958374913",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "11h15: Press Conference by VP #Tajani and Cssr #Geoghegan-Quinn on European #Innovation Scoreboard http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-01-31T12:43:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 5,
+                        "tag": "cohesion"
+                    },
+                    {
+                        "end": 128,
+                        "start": 120,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 136,
+                        "start": 129,
+                        "tag": "speech"
+                    }
+                ]
+            },
+            "id": "32056263521083393",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "\"The #cohesion policy is not a policy of the past, it nurtures the future of the European Union.\"  http://bit.ly/eU5CQJ #Barroso #speech"
+        },
+        {
+            "created_at": "2011-01-31T10:50:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 21,
+                        "tag": "Vassiliou"
+                    },
+                    {
+                        "end": 113,
+                        "start": 110,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 124,
+                        "start": 114,
+                        "tag": "education"
+                    }
+                ]
+            },
+            "id": "32027818082705408",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Watch PressConf Cssr #Vassiliou on early school leavers today after the midday briefing http://bit.ly/EBSlive #EU #education"
+        },
+        {
+            "created_at": "2011-01-31T10:03:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 37,
+                        "tag": "ETS"
+                    },
+                    {
+                        "end": 89,
+                        "start": 79,
+                        "tag": "emissions"
+                    }
+                ]
+            },
+            "id": "32016148782387201",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Update on transitional measure of EU #ETS registry system http://bit.ly/edxuTt #emissions"
+        },
+        {
+            "created_at": "2011-01-31T09:45:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 21,
+                        "tag": "Oettinger"
+                    },
+                    {
+                        "end": 62,
+                        "start": 55,
+                        "tag": "energy"
+                    }
+                ]
+            },
+            "id": "32011456157323264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Watch PressConf Cssr #Oettinger on financing renewable #energy live at 11h00: http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-01-28T16:13:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 12,
+                        "tag": "Greek"
+                    },
+                    {
+                        "end": 24,
+                        "start": 19,
+                        "tag": "debt"
+                    },
+                    {
+                        "end": 39,
+                        "start": 25,
+                        "tag": "restructuring"
+                    },
+                    {
+                        "end": 47,
+                        "start": 43,
+                        "tag": "buy"
+                    },
+                    {
+                        "end": 70,
+                        "start": 66,
+                        "tag": "COM"
+                    }
+                ]
+            },
+            "id": "31022077880303617",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "No plan for #Greek #debt #restructuring or #buy-back  proposed by #COM or discussed in search of comprehensive response http://bit.ly/eaRnKT"
+        },
+        {
+            "created_at": "2011-01-28T12:55:28.000Z",
+            "id": "30972226744352768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Top News from the European Commission 28 January \u2013 03 March 2011 http://bit.ly/i8apmO"
+        },
+        {
+            "created_at": "2011-01-28T09:34:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 90,
+                        "start": 85,
+                        "tag": "Data"
+                    },
+                    {
+                        "end": 102,
+                        "start": 91,
+                        "tag": "Protection"
+                    }
+                ]
+            },
+            "id": "30921668046102528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 27
+            },
+            "text": "Think before you share your personal data! http://youtu.be/v4IIH3sJIMc 28 January is #Data #Protection Day. Spread the word!"
+        },
+        {
+            "created_at": "2011-01-27T13:29:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 101,
+                        "normalized_text": "Europe",
+                        "probability": 0.9494,
+                        "start": 96,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 31,
+                        "tag": "HAHN"
+                    }
+                ]
+            },
+            "id": "30618326677852160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Watch today's press conf: Cssr #HAHN on Regional Policy's Contribution to sustainable Growth in Europe 2020 http://bit.ly/hIfiVZ"
+        },
+        {
+            "created_at": "2011-01-27T13:27:03.000Z",
+            "id": "30617786698956800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Watch the press conference on the new infringement cases here http://bit.ly/eaPFjw"
+        },
+        {
+            "created_at": "2011-01-27T08:41:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "Cssr",
+                        "probability": 0.5473,
+                        "start": 13,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 18,
+                        "tag": "F\u00fcle"
+                    },
+                    {
+                        "end": 52,
+                        "start": 44,
+                        "tag": "Tunisia"
+                    }
+                ]
+            },
+            "id": "30545842578395136",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Statement by Cssr #F\u00fcle on the situation in #Tunisia yesterday at the EP http://bit.ly/i46Dvy"
+        },
+        {
+            "created_at": "2011-01-27T08:39:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 5,
+                        "tag": "Malmstr\u00f6m"
+                    },
+                    {
+                        "end": 72,
+                        "start": 69,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 80,
+                        "start": 73,
+                        "tag": "Turkey"
+                    },
+                    {
+                        "end": 134,
+                        "start": 124,
+                        "tag": "migration"
+                    }
+                ]
+            },
+            "id": "30545398653255680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Cssr #Malmstr\u00f6m welcomes the finalisation of the negotiations of the #EU-#Turkey Readmission Agreement http://bit.ly/f3NO4M #migration"
+        },
+        {
+            "created_at": "2011-01-26T17:07:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "GDF"
+                    },
+                    {
+                        "end": 129,
+                        "start": 121,
+                        "tag": "mergers"
+                    },
+                    {
+                        "end": 133,
+                        "start": 130,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "30310873172017152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Commission approves proposed acquisition of International Power by #GDF Suez, subject to conditions http://bit.ly/gsLVVQ #mergers #EU"
+        },
+        {
+            "created_at": "2011-01-26T17:06:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 18,
+                        "tag": "Intel"
+                    },
+                    {
+                        "end": 58,
+                        "start": 51,
+                        "tag": "McAfee"
+                    }
+                ]
+            },
+            "id": "30310517654421504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Commission clears #Intel's proposed acquisition of #McAfee subject to conditions http://bit.ly/ikxlpf"
+        },
+        {
+            "created_at": "2011-01-26T17:05:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 5,
+                        "tag": "Almunia"
+                    },
+                    {
+                        "end": 74,
+                        "start": 67,
+                        "tag": "Aegean"
+                    },
+                    {
+                        "end": 93,
+                        "start": 85,
+                        "tag": "Olympic"
+                    }
+                ]
+            },
+            "id": "30310306135678976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cssr #Almunia: Introductory remarks at the press conference on the #Aegean Airlines/ #Olympic decision http://bit.ly/i4fFj8"
+        },
+        {
+            "created_at": "2011-01-26T13:37:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 35,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 90,
+                        "start": 86,
+                        "tag": "ETS"
+                    }
+                ]
+            },
+            "id": "30258048958205952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Statement on the suspension of the #EU Emissions Trading System http://bit.ly/f4H8RC  #ETS"
+        },
+        {
+            "created_at": "2011-01-26T13:36:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 46,
+                        "tag": "Aegean"
+                    },
+                    {
+                        "end": 75,
+                        "start": 67,
+                        "tag": "Olympic"
+                    }
+                ]
+            },
+            "id": "30257707869016065",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "The Commission blocks proposed merger between #Aegean Airlines and #Olympic Air http://bit.ly/hCQ86v"
+        },
+        {
+            "created_at": "2011-01-26T10:13:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 57,
+                        "tag": "Almunia"
+                    },
+                    {
+                        "end": 83,
+                        "start": 71,
+                        "tag": "competition"
+                    }
+                ]
+            },
+            "id": "30206725952901120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "After Midday Briefing today: PressConf by Vice-President #Almunia on a #competition case. Tune into http://bit.ly/EBSlive at noon."
+        },
+        {
+            "created_at": "2011-01-26T10:09:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Europe",
+                        "probability": 0.5371,
+                        "start": 79,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 56,
+                        "id": "2560246616",
+                        "start": 40,
+                        "username": "JanezPotocnikEU"
+                    }
+                ]
+            },
+            "id": "30205777989869569",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "11h30: Press conference by Commissioner @JanezPotocnikEU on Resource Efficient Europe live at http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-01-25T16:58:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Karel De Gucht",
+                        "probability": 0.8807,
+                        "start": 18,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Davos",
+                        "probability": 0.3451,
+                        "start": 78,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "World Economic Forum",
+                        "probability": 0.5387,
+                        "start": 92,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 117,
+                        "start": 113,
+                        "tag": "WEF"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 53,
+                        "id": "177179008",
+                        "start": 37,
+                        "username": "VivianeRedingEU"
+                    }
+                ]
+            },
+            "id": "29946104212623360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#EU Commissioners Karel De Gucht and @VivianeRedingEU both confirmed to go to Davos for the World Economic Forum #WEF"
+        },
+        {
+            "created_at": "2011-01-25T14:30:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 28,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 53,
+                        "start": 47,
+                        "tag": "RUTTE"
+                    }
+                ]
+            },
+            "id": "29908986832625664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Joint press briefing by Pdt #Barroso  and Mark #RUTTE, Dutch Prime Minister, live today at 15:45 on http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-01-25T10:28:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Barroso",
+                        "probability": 0.9241,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 93,
+                        "tag": "Domodedovo"
+                    }
+                ]
+            },
+            "id": "29848135400431616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Barroso: \"It was with shock and great sadness that I heard about the terrorist attack at the #Domodedovo airport ...\" http://bit.ly/ffFGj2"
+        },
+        {
+            "created_at": "2011-01-24T14:43:13.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "EU",
+                        "probability": 0.7283,
+                        "start": 27,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 91,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 108,
+                        "start": 100,
+                        "tag": "Karimov"
+                    }
+                ]
+            },
+            "id": "29549790949806080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "...that we can further the EU's unanimously agreed policy of engagement most effectively.\" #Barroso #Karimov 4/4"
+        },
+        {
+            "created_at": "2011-01-24T14:42:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 129,
+                        "tag": "Karimov"
+                    }
+                ]
+            },
+            "id": "29549633730519040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "... at the heart of EU foreign policy. I believe it is through such a robust eye to eye dialogue, and not an empty-chair policy, #Karimov/3"
+        },
+        {
+            "created_at": "2011-01-24T14:41:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Europe",
+                        "probability": 0.9904,
+                        "start": 34,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 123,
+                        "start": 115,
+                        "tag": "Karimov"
+                    }
+                ]
+            },
+            "id": "29549306620940289",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I have raised all key concerns of Europe, notably regarding human rights and fundamental freedoms, which stand ... #Karimov/2"
+        },
+        {
+            "created_at": "2011-01-24T14:40:13.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "The European Union",
+                        "probability": 0.3058,
+                        "start": 28,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 132,
+                        "normalized_text": "Uzbekistan",
+                        "probability": 0.4982,
+                        "start": 123,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 20,
+                        "start": 12,
+                        "tag": "Karimov"
+                    }
+                ]
+            },
+            "id": "29549035291418625",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Barroso on #Karimov visit \"The European Union follows a policy of critical, conditional and comprehensive engagement with Uzbekistan ... 1/"
+        },
+        {
+            "created_at": "2011-01-24T14:06:43.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Cssr Geoghegan",
+                        "probability": 0.8643,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 19,
+                        "normalized_text": "Quinn",
+                        "probability": 0.7198,
+                        "start": 15,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 118,
+                        "start": 114,
+                        "tag": "FP7"
+                    },
+                    {
+                        "end": 122,
+                        "start": 119,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 132,
+                        "start": 123,
+                        "tag": "research"
+                    }
+                ]
+            },
+            "id": "29540605575036929",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cssr Geoghegan-Quinn's remarks at the Commission midday press conference: text now available http://bit.ly/ehiDj1 #FP7 #EU #research"
+        },
+        {
+            "created_at": "2011-01-24T13:05:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 94,
+                        "tag": "WEF"
+                    },
+                    {
+                        "end": 102,
+                        "start": 99,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "177179008",
+                        "start": 10,
+                        "username": "VivianeRedingEU"
+                    }
+                ]
+            },
+            "id": "29525095634436097",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Davos: VP @VivianeRedingEU to participate in World Economic Forum for the European Commission #WEF #EU"
+        },
+        {
+            "created_at": "2011-01-24T10:40:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Cssr Geoghegan",
+                        "probability": 0.9399,
+                        "start": 26,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 45,
+                        "normalized_text": "Quinn",
+                        "probability": 0.4042,
+                        "start": 41,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 61,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 115,
+                        "start": 111,
+                        "tag": "FP7"
+                    },
+                    {
+                        "end": 120,
+                        "start": 117,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "29488601809031168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "12:00 today: Statement by Cssr Geoghegan-Quinn on simplified #research funding live on https://bit.ly/EBSlive  #FP7  #EU"
+        },
+        {
+            "created_at": "2011-01-24T09:54:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 84,
+                        "tag": "asylum"
+                    },
+                    {
+                        "end": 116,
+                        "start": 106,
+                        "tag": "Malmstr\u00f6m"
+                    }
+                ]
+            },
+            "id": "29477250302742528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "\"Ruling by European Court of Human Rights shows the EU's need to establish a common #asylum system,\" says #Malmstr\u00f6m http://bit.ly/hpuhC3"
+        },
+        {
+            "created_at": "2011-01-21T13:01:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Emissions"
+                    },
+                    {
+                        "end": 19,
+                        "start": 11,
+                        "tag": "trading"
+                    },
+                    {
+                        "end": 76,
+                        "start": 72,
+                        "tag": "gas"
+                    },
+                    {
+                        "end": 110,
+                        "start": 106,
+                        "tag": "ETS"
+                    }
+                ]
+            },
+            "id": "28436918899314688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Emissions #trading: Commission welcomes vote to ban certain industrial #gas credits http://bit.ly/hnUFqN #ETS"
+        },
+        {
+            "created_at": "2011-01-21T11:21:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 4,
+                        "tag": "News"
+                    },
+                    {
+                        "end": 93,
+                        "start": 90,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "28411890392637440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Top #News from the European Commission 21 January \u2013 23 February 2011 http://bit.ly/f0AGjz #EU"
+        },
+        {
+            "created_at": "2011-01-21T11:19:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 62,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 70,
+                        "start": 66,
+                        "tag": "ETS"
+                    },
+                    {
+                        "end": 113,
+                        "start": 104,
+                        "tag": "emission"
+                    },
+                    {
+                        "end": 122,
+                        "start": 114,
+                        "tag": "trading"
+                    }
+                ]
+            },
+            "id": "28411374052843522",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Questions & Answers on suspension of transactions in national #EU #ETS registries  http://bit.ly/fp6Dar #emission #trading"
+        },
+        {
+            "created_at": "2011-01-20T17:59:34.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Germany",
+                        "probability": 0.9914,
+                        "start": 54,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 4,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 33,
+                        "start": 22,
+                        "tag": "innovative"
+                    },
+                    {
+                        "end": 39,
+                        "start": 34,
+                        "tag": "high"
+                    },
+                    {
+                        "end": 50,
+                        "start": 45,
+                        "tag": "SMEs"
+                    }
+                ]
+            },
+            "id": "28149649655201792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Pdt #Barroso visiting #innovative #high-tech #SMEs in Germany  http://bit.ly/f7DI2i and   http://bit.ly/gCsz9v  and http://bit.ly/gZdHO4"
+        },
+        {
+            "created_at": "2011-01-20T11:37:52.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Baden-W\u00fcrttemberg",
+                        "probability": 0.7932,
+                        "start": 29,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.6349,
+                        "start": 48,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Stuttgart",
+                        "probability": 0.5798,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 107,
+                        "normalized_text": "Europe",
+                        "probability": 0.9735,
+                        "start": 102,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "28053593328197632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "During his official visit to Baden-W\u00fcrttemberg, President Barroso delivered the \"Stuttgart address on Europe\"  Read http://bit.ly/goP0qT"
+        },
+        {
+            "created_at": "2011-01-19T16:50:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "VP Catherine",
+                        "probability": 0.5132,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "Belarus"
+                    },
+                    {
+                        "end": 52,
+                        "start": 49,
+                        "tag": "EP"
+                    }
+                ]
+            },
+            "id": "27769754987008001",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "VP Catherine #Ashton Remarks on #Belarus  in the #EP http://bit.ly/hyJsGo"
+        },
+        {
+            "created_at": "2011-01-19T13:50:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Ashton",
+                        "probability": 0.7361,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "EU Delegation",
+                        "probability": 0.4058,
+                        "start": 61,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "CoE European Parliament Strasbourg",
+                        "probability": 0.2532,
+                        "start": 78,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "80803819",
+                        "start": 3,
+                        "username": "eu_eeas"
+                    }
+                ]
+            },
+            "id": "27724670107127808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @eu_eeas: EU HR/VP Ashton: Remarks at Official Opening of EU Delegation to CoE European Parliament Strasbourg http://tinyurl.com/5wmnfeh"
+        },
+        {
+            "created_at": "2011-01-19T13:50:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 28,
+                        "tag": "Kallas"
+                    },
+                    {
+                        "end": 66,
+                        "start": 57,
+                        "tag": "Airports"
+                    },
+                    {
+                        "end": 96,
+                        "start": 89,
+                        "tag": "EUROPE"
+                    },
+                    {
+                        "end": 125,
+                        "start": 120,
+                        "tag": "snow"
+                    }
+                ]
+            },
+            "id": "27724461977378816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "15.00 Live press conf w/ VP #Kallas,  after meeting with #Airports Council International #EUROPE  http://bit.ly/EBSlive #snow"
+        },
+        {
+            "created_at": "2011-01-19T12:20:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 31,
+                        "tag": "Dalli"
+                    },
+                    {
+                        "end": 57,
+                        "start": 46,
+                        "tag": "Grosset\u00eate"
+                    },
+                    {
+                        "end": 72,
+                        "start": 63,
+                        "tag": "Patients"
+                    },
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "rights"
+                    }
+                ]
+            },
+            "id": "27701813620772864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "13h30: Live press conf w/ Cssr #Dalli and MEP #Grosset\u00eate, on \"#Patients' #rights in cross-border healthcare\" http://bit.ly/EBSplus"
+        },
+        {
+            "created_at": "2011-01-19T11:22:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 10,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 52,
+                        "start": 40,
+                        "tag": "inspections"
+                    },
+                    {
+                        "end": 62,
+                        "start": 56,
+                        "tag": "truck"
+                    },
+                    {
+                        "end": 96,
+                        "start": 93,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 138,
+                        "start": 128,
+                        "tag": "antitrust"
+                    }
+                ]
+            },
+            "id": "27687233939046400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Yesterday #Commission officials started #inspections at #truck industry companies in several #EU countries http://bit.ly/eDVW4L #antitrust"
+        },
+        {
+            "created_at": "2011-01-19T11:18:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 13,
+                        "tag": "Environment"
+                    },
+                    {
+                        "end": 48,
+                        "start": 39,
+                        "tag": "Poto\u010dnik"
+                    },
+                    {
+                        "end": 56,
+                        "start": 52,
+                        "tag": "air"
+                    },
+                    {
+                        "end": 65,
+                        "start": 57,
+                        "tag": "quality"
+                    }
+                ]
+            },
+            "id": "27686380071034880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Statement by #Environment Commissioner #Poto\u010dnik on #air #quality  http://bit.ly/hhwW3f"
+        },
+        {
+            "created_at": "2011-01-19T11:16:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 14,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 107,
+                        "start": 98,
+                        "tag": "economic"
+                    },
+                    {
+                        "end": 119,
+                        "start": 108,
+                        "tag": "governance"
+                    },
+                    {
+                        "end": 125,
+                        "start": 120,
+                        "tag": "Euro"
+                    }
+                ]
+            },
+            "id": "27685703374606336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Speech by Pdt #Barroso at the post-European Council debate at the EP plenary http://bit.ly/hqJYTT #economic #governance #Euro"
+        },
+        {
+            "created_at": "2011-01-18T14:20:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 10,
+                        "tag": "Tajani"
+                    },
+                    {
+                        "end": 72,
+                        "start": 62,
+                        "tag": "satellite"
+                    },
+                    {
+                        "end": 84,
+                        "start": 73,
+                        "tag": "navigation"
+                    },
+                    {
+                        "end": 129,
+                        "start": 121,
+                        "tag": "Galileo"
+                    },
+                    {
+                        "end": 136,
+                        "start": 130,
+                        "tag": "EGNOS"
+                    }
+                ]
+            },
+            "id": "27369670247981059",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "15h30: VP #Tajani press conf: mid-term evaluation of European #satellite #navigation programmes at http://bit.ly/EBSlive #Galileo #EGNOS"
+        },
+        {
+            "created_at": "2011-01-18T13:50:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 89,
+                        "normalized_text": "Strasbourg",
+                        "probability": 0.8245,
+                        "start": 80,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 27,
+                        "tag": "Vassiliou"
+                    },
+                    {
+                        "end": 69,
+                        "start": 62,
+                        "tag": "Sports"
+                    }
+                ]
+            },
+            "id": "27362080826855425",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "15h00 : Press conf w/ Cssr #Vassiliou on the Communication on #Sports live from Strasbourg at  http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-01-18T13:35:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 8,
+                        "normalized_text": "Cssr John",
+                        "probability": 0.6622,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 10,
+                        "tag": "Dalli"
+                    },
+                    {
+                        "end": 45,
+                        "start": 38,
+                        "tag": "dioxin"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "Germany"
+                    }
+                ]
+            },
+            "id": "27358517232926720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Cssr John #Dalli: Speech at EP on the #dioxin incident in #Germany:  http://bit.ly/gkoYbh"
+        }
+    ],
+    "meta": {
+        "newest_id": "36013281478967296",
+        "next_token": "7vh6z3esgzqo5bt8yympc02iu9da9xvspuw5efwz25",
+        "oldest_id": "27358517232926720",
+        "result_count": 100
+    }
+}

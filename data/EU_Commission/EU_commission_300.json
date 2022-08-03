@@ -1,0 +1,3760 @@
+{
+    "data": [
+        {
+            "created_at": "2012-01-26T15:11:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 85,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 82,
+                        "id": "377976301",
+                        "start": 68,
+                        "username": "MarosSefcovic"
+                    }
+                ]
+            },
+            "id": "162553163046592512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "WE're still collecting questions for the panellists, please send to @MarosSefcovic w #ECI"
+        },
+        {
+            "created_at": "2012-01-26T15:07:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Alain Lamassoure",
+                        "probability": 0.5719,
+                        "start": 21,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Zita Gurmai",
+                        "probability": 0.9692,
+                        "start": 39,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 65,
+                        "normalized_text": "Gerald H\u00e4fner",
+                        "probability": 0.9823,
+                        "start": 53,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "Mercedes Bresso",
+                        "probability": 0.9642,
+                        "start": 72,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ECI"
+                    }
+                ]
+            },
+            "id": "162552125170270208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#ECI Panel III: MEPs Alain Lamassoure, Zita Gurmai & Gerald H\u00e4fner, and Mercedes Bresso, President of the Committee of the Regions."
+        },
+        {
+            "created_at": "2012-01-26T15:06:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ynUeHK",
+                        "end": 94,
+                        "expanded_url": "http://bit.ly/ynUeHK",
+                        "start": 74,
+                        "url": "http://t.co/c1JEvBPt"
+                    }
+                ]
+            },
+            "id": "162551872220172288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#ECI 15.45 \u2013 17.15 PANEL III: The follow-up to an initiative - watch here http://t.co/c1JEvBPt"
+        },
+        {
+            "created_at": "2012-01-26T15:00:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 20,
+                        "start": 9,
+                        "tag": "Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yhkgLw",
+                        "end": 117,
+                        "expanded_url": "http://bit.ly/yhkgLw",
+                        "start": 97,
+                        "url": "http://t.co/cw20G63K"
+                    }
+                ]
+            },
+            "id": "162550462942412800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "#EU law: #Commission acts to ensure that European legislation is fully and properly implemented  http://t.co/cw20G63K"
+        },
+        {
+            "created_at": "2012-01-26T14:55:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Cyprus",
+                        "probability": 0.9762,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 34,
+                        "normalized_text": "Greece",
+                        "probability": 0.9929,
+                        "start": 29,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 67,
+                        "start": 64,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 80,
+                        "start": 68,
+                        "tag": "environment"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xBKusp",
+                        "end": 101,
+                        "expanded_url": "http://bit.ly/xBKusp",
+                        "start": 81,
+                        "url": "http://t.co/kS6x9BWq"
+                    }
+                ]
+            },
+            "id": "162549109138534400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Commission urges Cyprus and Greece to clean up waste landfills #EU #environment http://t.co/kS6x9BWq"
+        },
+        {
+            "created_at": "2012-01-26T14:54:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Poland",
+                        "probability": 0.983,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 76,
+                        "start": 64,
+                        "tag": "environment"
+                    },
+                    {
+                        "end": 80,
+                        "start": 77,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wmNKMX",
+                        "end": 101,
+                        "expanded_url": "http://bit.ly/wmNKMX",
+                        "start": 81,
+                        "url": "http://t.co/qEclmd0A"
+                    }
+                ]
+            },
+            "id": "162548853713809408",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#Commission urges Poland to comply with nature protection rules #environment #EU http://t.co/qEclmd0A"
+        },
+        {
+            "created_at": "2012-01-26T14:45:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 108,
+                        "start": 105,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wylqQp",
+                        "end": 130,
+                        "expanded_url": "http://bit.ly/wylqQp",
+                        "start": 110,
+                        "url": "http://t.co/iIEqt2Sz"
+                    }
+                ]
+            },
+            "id": "162546589523648513",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#Commission demande \u00e0 la France de se conformer \u00e0 la l\u00e9gislation europ\u00e9enne sur les d\u00e9chets d\u2019emballages #EU  http://t.co/iIEqt2Sz"
+        },
+        {
+            "created_at": "2012-01-26T14:30:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Italy",
+                        "probability": 0.9677,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 72,
+                        "start": 69,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 85,
+                        "start": 73,
+                        "tag": "environment"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ztrRpd",
+                        "end": 106,
+                        "expanded_url": "http://bit.ly/ztrRpd",
+                        "start": 86,
+                        "url": "http://t.co/iNJIRg43"
+                    }
+                ]
+            },
+            "id": "162542822707306496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#Commission urges Italy to comply with extractive mining waste rules #EU #environment http://t.co/iNJIRg43"
+        },
+        {
+            "created_at": "2012-01-26T13:56:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 22,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "919836523",
+                        "start": 0,
+                        "username": "colin_crowell"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "yfrog.com/nzdtwbej",
+                        "end": 59,
+                        "expanded_url": "http://yfrog.com/nzdtwbej",
+                        "start": 39,
+                        "url": "http://t.co/FSQCv3yx"
+                    }
+                ]
+            },
+            "id": "162534388540780545",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "@colin_crowell at the #ECI conference  http://t.co/FSQCv3yx"
+        },
+        {
+            "created_at": "2012-01-26T13:10:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ysnhnB",
+                        "end": 128,
+                        "expanded_url": "http://bit.ly/ysnhnB",
+                        "start": 108,
+                        "url": "http://t.co/Cq5oLeau"
+                    }
+                ]
+            },
+            "id": "162522694296932352",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "#Commission acts to ensure implementation of simplified #EU rules on mergers and divisions in six countries http://t.co/Cq5oLeau"
+        },
+        {
+            "created_at": "2012-01-26T13:02:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 135,
+                        "start": 131,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "377976301",
+                        "start": 99,
+                        "username": "MarosSefcovic"
+                    }
+                ]
+            },
+            "id": "162520695794958336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "If you want to ask questions about the Citizens' Initiative and social media to panel II, tweet to @MarosSefcovic with the hashtag #ECI"
+        },
+        {
+            "created_at": "2012-01-26T12:56:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 39,
+                        "id": "5802192",
+                        "start": 28,
+                        "username": "simonh1000"
+                    },
+                    {
+                        "end": 55,
+                        "id": "919836523",
+                        "start": 41,
+                        "username": "colin_crowell"
+                    },
+                    {
+                        "end": 113,
+                        "id": "20437491",
+                        "start": 99,
+                        "username": "markpmcdonald"
+                    }
+                ]
+            },
+            "id": "162519296491266048",
+            "lang": "ro",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#ECI Panel II: Erika Mann,  @simonh1000, @colin_crowell, Giuseppe de Martino, Christophe Leclercq, @markpmcdonald"
+        },
+        {
+            "created_at": "2012-01-26T12:55:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 102,
+                        "start": 98,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ynUeHK",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/ynUeHK",
+                        "start": 77,
+                        "url": "http://t.co/c1JEvBPt"
+                    }
+                ]
+            },
+            "id": "162518909818384384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "14.00 \u2013 15.30 PANEL II: The potential for using social networks - watch live http://t.co/c1JEvBPt #ECI"
+        },
+        {
+            "created_at": "2012-01-26T12:55:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "EU",
+                        "probability": 0.5581,
+                        "start": 61,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 105,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yOQsc2",
+                        "end": 129,
+                        "expanded_url": "http://bit.ly/yOQsc2",
+                        "start": 109,
+                        "url": "http://t.co/uxLXgVbU"
+                    }
+                ]
+            },
+            "id": "162518903489183744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Internal Market: Commission acts to ensure implementation of EU rules in the area of defence procurement #EU http://t.co/uxLXgVbU"
+        },
+        {
+            "created_at": "2012-01-26T12:50:34.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Czech Republic",
+                        "probability": 0.4763,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 43,
+                        "normalized_text": "Lithuania",
+                        "probability": 0.8479,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "EU",
+                        "probability": 0.7561,
+                        "start": 71,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 119,
+                        "start": 116,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xbhXJ4",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/xbhXJ4",
+                        "start": 120,
+                        "url": "http://t.co/DYotMqPD"
+                    }
+                ]
+            },
+            "id": "162517785904283648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#Commission gives Czech Republic , Lithuania two months to comply with EU rules on the free movement of EU citizens #EU http://t.co/DYotMqPD"
+        },
+        {
+            "created_at": "2012-01-26T12:47:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Latvian Mortgage and Land Bank",
+                        "probability": 0.869,
+                        "start": 64,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xN8xGm",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/xN8xGm",
+                        "start": 95,
+                        "url": "http://t.co/JfUrzjWo"
+                    }
+                ]
+            },
+            "id": "162516891624153088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EU Commission grants temporary approval to Latvian support for Latvian Mortgage and Land Bank http://t.co/JfUrzjWo"
+        },
+        {
+            "created_at": "2012-01-26T11:58:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 15,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 100,
+                        "start": 97,
+                        "tag": "eu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yV9xxZ",
+                        "end": 121,
+                        "expanded_url": "http://bit.ly/yV9xxZ",
+                        "start": 101,
+                        "url": "http://t.co/Rj0Trbit"
+                    }
+                ]
+            },
+            "id": "162504561691607040",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "D\u00e9claration du #Barroso suite \u00e0 sa rencontre avec les Pr\u00e9sidents des partis politiques europ\u00e9ens #eu http://t.co/Rj0Trbit"
+        },
+        {
+            "created_at": "2012-01-26T11:54:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.5819,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 74,
+                        "normalized_text": "Belgium",
+                        "probability": 0.8155,
+                        "start": 68,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 93,
+                        "start": 90,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "162503560297316352",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "14h30: VIP Corner: President Barroso receives the Prime Minister of Belgium, Elio di Rupo #EU"
+        },
+        {
+            "created_at": "2012-01-26T11:19:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 99,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 88,
+                        "id": "377976301",
+                        "start": 74,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ynUeHK",
+                        "end": 138,
+                        "expanded_url": "http://bit.ly/ynUeHK",
+                        "start": 118,
+                        "url": "http://t.co/c1JEvBPt"
+                    }
+                ]
+            },
+            "id": "162494763055063040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "If you have questions to the speakers in panel I and II, send them now to @MarosSefcovic - include #ECI (program here http://t.co/c1JEvBPt )"
+        },
+        {
+            "created_at": "2012-01-26T11:00:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ECI"
+                    },
+                    {
+                        "end": 9,
+                        "start": 6,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wzTl64",
+                        "end": 98,
+                        "expanded_url": "http://bit.ly/wzTl64",
+                        "start": 78,
+                        "url": "http://t.co/sjdLToTR"
+                    }
+                ]
+            },
+            "id": "162490141238247424",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#ECI  #EU Erfolgreiche Konferenz im Dienste der Europ\u00e4ischen B\u00fcrgerinitiative http://t.co/sjdLToTR"
+        },
+        {
+            "created_at": "2012-01-26T11:00:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ECI"
+                    },
+                    {
+                        "end": 9,
+                        "start": 6,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xetBMF",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/xetBMF",
+                        "start": 115,
+                        "url": "http://t.co/OxOvLTNh"
+                    }
+                ]
+            },
+            "id": "162490016667418624",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#ECI  #EU Le succ\u00e8s de la conf\u00e9rence consacr\u00e9e \u00e0 l'initiative citoyenne europ\u00e9enne nous rapproche de son lancement http://t.co/OxOvLTNh"
+        },
+        {
+            "created_at": "2012-01-26T10:59:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 78,
+                        "start": 74,
+                        "tag": "ECI"
+                    },
+                    {
+                        "end": 83,
+                        "start": 80,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/A4jUHe",
+                        "end": 104,
+                        "expanded_url": "http://bit.ly/A4jUHe",
+                        "start": 84,
+                        "url": "http://t.co/k0lrtxgh"
+                    }
+                ]
+            },
+            "id": "162489887268941824",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "Successful conference brings European Citizens' Initiatives a step closer #ECI  #EU http://t.co/k0lrtxgh"
+        },
+        {
+            "created_at": "2012-01-26T10:57:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 97,
+                        "start": 94,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 102,
+                        "start": 98,
+                        "tag": "ECI"
+                    },
+                    {
+                        "end": 111,
+                        "start": 104,
+                        "tag": "speech"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "377976301",
+                        "start": 0,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yasXNQ",
+                        "end": 133,
+                        "expanded_url": "http://bit.ly/yasXNQ",
+                        "start": 113,
+                        "url": "http://t.co/J0Osd8Vs"
+                    }
+                ]
+            },
+            "id": "162489417922121728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@MarosSefcovic  - For those that missed it, Warming up for the European Citizens' Initiative  #EU #ECI  #speech  http://t.co/J0Osd8Vs"
+        },
+        {
+            "created_at": "2012-01-26T10:54:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "ECI"
+                    }
+                ]
+            },
+            "id": "162488472010100736",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "13h30: Press Conference in Charlemagne, VIP corner on the ground floor, with Vice President \u0160ef\u010dovi\u010d: European Citizens' Initiative  #ECI"
+        },
+        {
+            "created_at": "2012-01-26T10:53:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.6347,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "President of Bulgaria",
+                        "probability": 0.4161,
+                        "start": 50,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Rosen Plevneliev",
+                        "probability": 0.855,
+                        "start": 73,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "162488365936160768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "12h15: VIP Corner: President Barroso receives the President of Bulgaria, Rosen Plevneliev"
+        },
+        {
+            "created_at": "2012-01-26T10:38:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 135,
+                        "start": 131,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 120,
+                        "id": "377976301",
+                        "start": 106,
+                        "username": "MarosSefcovic"
+                    }
+                ]
+            },
+            "id": "162484558560903168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "If you have questions related to how the member states and civil society can contribute, send them now to @MarosSefcovic - include #ECI"
+        },
+        {
+            "created_at": "2012-01-26T10:34:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 31,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ApdKrG",
+                        "end": 120,
+                        "expanded_url": "http://bit.ly/ApdKrG",
+                        "start": 100,
+                        "url": "http://t.co/3evlqTPi"
+                    }
+                ]
+            },
+            "id": "162483645091819521",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "PANEL I: Implementation of the #ECI - Perspectives from member states and civil society \u2013 watch now http://t.co/3evlqTPi"
+        },
+        {
+            "created_at": "2012-01-26T10:10:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 18,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "56392389",
+                        "start": 3,
+                        "username": "EC_AVService"
+                    },
+                    {
+                        "end": 66,
+                        "id": "377976301",
+                        "start": 52,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tinyurl.com/6qgcnwy",
+                        "end": 87,
+                        "expanded_url": "http://tinyurl.com/6qgcnwy",
+                        "start": 67,
+                        "url": "http://t.co/H5alyIvV"
+                    }
+                ]
+            },
+            "id": "162477420061011968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "RT @EC_AVService: #ECI conference: Participation of @MarosSefcovic http://t.co/H5alyIvV"
+        },
+        {
+            "created_at": "2012-01-26T10:02:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 58,
+                        "tag": "ECI"
+                    }
+                ]
+            },
+            "id": "162475493805916160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Unfortunately @DianaWallisMEP will not be speaking at the #ECI conference today."
+        },
+        {
+            "created_at": "2012-01-26T09:58:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 37,
+                        "tag": "ECI"
+                    },
+                    {
+                        "end": 114,
+                        "start": 110,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 99,
+                        "id": "377976301",
+                        "start": 85,
+                        "username": "MarosSefcovic"
+                    }
+                ]
+            },
+            "id": "162474602973495297",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "If you have questions related to the #ECI website and the software, send them now to @MarosSefcovic - include #ECI"
+        },
+        {
+            "created_at": "2012-01-26T09:54:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 46,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ynUeHK",
+                        "end": 92,
+                        "expanded_url": "http://bit.ly/ynUeHK",
+                        "start": 72,
+                        "url": "http://t.co/c1JEvBPt"
+                    }
+                ]
+            },
+            "id": "162473489310289920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Now an explanation of the software behind the #ECI website - watch live http://t.co/c1JEvBPt"
+        },
+        {
+            "created_at": "2012-01-26T09:41:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 27,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "yfrog.com/ocy4ynkj",
+                        "end": 63,
+                        "expanded_url": "http://yfrog.com/ocy4ynkj",
+                        "start": 43,
+                        "url": "http://t.co/22AEhD8N"
+                    }
+                ]
+            },
+            "id": "162470084655325184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Social media stands at the #ECI conference http://t.co/22AEhD8N"
+        },
+        {
+            "created_at": "2012-01-26T09:40:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 25,
+                        "tag": "Barroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xSmaN4",
+                        "end": 127,
+                        "expanded_url": "http://bit.ly/xSmaN4",
+                        "start": 107,
+                        "url": "http://t.co/tYzA7RWV"
+                    }
+                ]
+            },
+            "id": "162469828467232769",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "D\u00e9claration du Pr\u00e9sident #Barroso suite \u00e0 sa rencontre avec les Pr\u00e9sidents des partis politiques europ\u00e9ens http://t.co/tYzA7RWV"
+        },
+        {
+            "created_at": "2012-01-26T09:36:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 14,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "yfrog.com/h8luhebj",
+                        "end": 52,
+                        "expanded_url": "http://yfrog.com/h8luhebj",
+                        "start": 32,
+                        "url": "http://t.co/4h8PADwi"
+                    }
+                ]
+            },
+            "id": "162468928776437760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Stands at the #ECI conference:  http://t.co/4h8PADwi  \"The world has gone social\""
+        },
+        {
+            "created_at": "2012-01-26T09:20:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 14,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "121710908",
+                        "start": 0,
+                        "username": "centerevropa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xgVv7T",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/xgVv7T",
+                        "start": 87,
+                        "url": "http://t.co/zCMazhz3"
+                    }
+                ]
+            },
+            "id": "162464814055170048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@centerevropa #ECI's must respect treaties and fall within EU competencies. More here: http://t.co/zCMazhz3"
+        },
+        {
+            "created_at": "2012-01-26T09:16:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 19,
+                        "tag": "ECI"
+                    },
+                    {
+                        "end": 126,
+                        "start": 115,
+                        "tag": "opensource"
+                    },
+                    {
+                        "end": 136,
+                        "start": 127,
+                        "tag": "software"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ApdKrG",
+                        "end": 114,
+                        "expanded_url": "http://bit.ly/ApdKrG",
+                        "start": 94,
+                        "url": "http://t.co/3evlqTPi"
+                    }
+                ]
+            },
+            "id": "162463999760400384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "Introduction: \"The #ECI procedure step by step and demonstration of the register\" - watch now http://t.co/3evlqTPi #opensource #software"
+        },
+        {
+            "created_at": "2012-01-26T09:06:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 4,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/8GR05",
+                        "end": 72,
+                        "expanded_url": "http://ow.ly/8GR05",
+                        "start": 52,
+                        "url": "http://t.co/ZTrCoGZx"
+                    }
+                ]
+            },
+            "id": "162461362415607808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "New #ECI website launched, you can access it here:  http://t.co/ZTrCoGZx"
+        },
+        {
+            "created_at": "2012-01-26T09:03:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Europe",
+                        "probability": 0.9828,
+                        "start": 20,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "Nikolaj Wammen",
+                        "probability": 0.7657,
+                        "start": 28,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 103,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ApdKrG",
+                        "end": 137,
+                        "expanded_url": "http://bit.ly/ApdKrG",
+                        "start": 117,
+                        "url": "http://t.co/3evlqTPi"
+                    }
+                ]
+            },
+            "id": "162460631495221248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Danish Minister for Europe, Nikolaj Wammen: \"The role of Member states in the successful launch of the #ECI\" - watch http://t.co/3evlqTPi"
+        },
+        {
+            "created_at": "2012-01-26T09:00:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "239818784",
+                        "start": 28,
+                        "username": "StaffNilsson"
+                    },
+                    {
+                        "end": 57,
+                        "id": "919836523",
+                        "start": 43,
+                        "username": "colin_crowell"
+                    },
+                    {
+                        "end": 70,
+                        "id": "5802192",
+                        "start": 59,
+                        "username": "simonh1000"
+                    },
+                    {
+                        "end": 103,
+                        "id": "23930852",
+                        "start": 89,
+                        "username": "kaufmannbruno"
+                    },
+                    {
+                        "end": 119,
+                        "id": "20437491",
+                        "start": 105,
+                        "username": "markpmcdonald"
+                    }
+                ]
+            },
+            "id": "162459771344142336",
+            "lang": "et",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#ECI panellists on Twitter: @StaffNilsson, @colin_crowell, @simonh1000, @dianawallismep, @kaufmannbruno, @markpmcdonald"
+        },
+        {
+            "created_at": "2012-01-26T08:38:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 97,
+                        "start": 93,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "377976301",
+                        "start": 0,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ApdKrG",
+                        "end": 126,
+                        "expanded_url": "http://bit.ly/ApdKrG",
+                        "start": 106,
+                        "url": "http://t.co/3evlqTPi"
+                    }
+                ]
+            },
+            "id": "162454345324052481",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@MarosSefcovic intro speech: \"Where does the Commission stand in implanting the regulation?\" #ECI \u2013 watch http://t.co/3evlqTPi"
+        },
+        {
+            "created_at": "2012-01-26T08:34:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 54,
+                        "normalized_text": "Theo Angelopoulos",
+                        "probability": 0.9815,
+                        "start": 38,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 77,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xlatA9",
+                        "end": 76,
+                        "expanded_url": "http://bit.ly/xlatA9",
+                        "start": 56,
+                        "url": "http://t.co/c9GlLLrh"
+                    }
+                ]
+            },
+            "id": "162453228552863744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Tribute to legendary Greek film maker Theo Angelopoulos http://t.co/c9GlLLrh #EU"
+        },
+        {
+            "created_at": "2012-01-26T08:31:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 7,
+                        "tag": "ACTA"
+                    },
+                    {
+                        "end": 60,
+                        "start": 55,
+                        "tag": "SOPA"
+                    }
+                ]
+            },
+            "id": "162452669636677632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Q&A on #ACTA (Anti-counterfeiting Trade Agreement) and #SOPA (US legislation): bit.ly/a8bmP5"
+        },
+        {
+            "created_at": "2012-01-26T08:31:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Facebook",
+                        "probability": 0.6516,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 28,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "on.fb.me/zkaEfD",
+                        "end": 137,
+                        "expanded_url": "http://on.fb.me/zkaEfD",
+                        "start": 117,
+                        "url": "http://t.co/8k85AxiZ"
+                    }
+                ]
+            },
+            "id": "162452468591112194",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "You can also check into the #ECI event on Facebook, where you can pose questions to the panels during the conference http://t.co/8k85AxiZ"
+        },
+        {
+            "created_at": "2012-01-26T08:29:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 129,
+                        "start": 125,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 107,
+                        "id": "377976301",
+                        "start": 93,
+                        "username": "MarosSefcovic"
+                    }
+                ]
+            },
+            "id": "162451965480140800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "If you want to ask questions about the Citizens' Initiative or to panelists, send a tweet to @MarosSefcovic with the hashtag #ECI"
+        },
+        {
+            "created_at": "2012-01-26T08:27:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 105,
+                        "start": 101,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ApdKrG",
+                        "end": 100,
+                        "expanded_url": "http://bit.ly/ApdKrG",
+                        "start": 80,
+                        "url": "http://t.co/3evlqTPi"
+                    }
+                ]
+            },
+            "id": "162451470644543488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "If you want sound and pictures to go with the liveblogging tool, they are here: http://t.co/3evlqTPi #ECI"
+        },
+        {
+            "created_at": "2012-01-26T08:02:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 111,
+                        "tag": "ECI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ECI_EU",
+                        "end": 109,
+                        "expanded_url": "http://bit.ly/ECI_EU",
+                        "start": 89,
+                        "url": "http://t.co/S50zi5Hx"
+                    }
+                ]
+            },
+            "id": "162445170942558208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Good morning! You can follow today's European Citizens' Initiative conference live here: http://t.co/S50zi5Hx  #ECI"
+        },
+        {
+            "created_at": "2012-01-25T15:47:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 22,
+                        "start": 17,
+                        "tag": "data"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wio2eS",
+                        "end": 61,
+                        "expanded_url": "http://bit.ly/wio2eS",
+                        "start": 41,
+                        "url": "http://t.co/CRoSJDCT"
+                    }
+                ]
+            },
+            "id": "162199974069796865",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU VP Reding on #data protection reform http://t.co/CRoSJDCT"
+        },
+        {
+            "created_at": "2012-01-25T13:56:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "Dataprotection"
+                    },
+                    {
+                        "end": 81,
+                        "start": 73,
+                        "tag": "EUDataP"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yCpNyk",
+                        "end": 71,
+                        "expanded_url": "http://bit.ly/yCpNyk",
+                        "start": 51,
+                        "url": "http://t.co/CLhFKB2M"
+                    }
+                ]
+            },
+            "id": "162172055981268992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "#Dataprotection reform: Frequently asked questions http://t.co/CLhFKB2M  #EUDataP"
+        },
+        {
+            "created_at": "2012-01-25T13:55:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Belarus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Aun1hc",
+                        "end": 78,
+                        "expanded_url": "http://bit.ly/Aun1hc",
+                        "start": 58,
+                        "url": "http://t.co/xgqX514R"
+                    }
+                ]
+            },
+            "id": "162171664807895042",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#Belarus: Cssr F\u00fcle with the activists of Viasna and FIDH http://t.co/xgqX514R"
+        },
+        {
+            "created_at": "2012-01-25T13:24:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "EU High Rep",
+                        "probability": 0.5378,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 31,
+                        "normalized_text": "UNRWA",
+                        "probability": 0.5945,
+                        "start": 27,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "General Filippo Grandi",
+                        "probability": 0.4138,
+                        "start": 48,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 15,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 109,
+                        "start": 104,
+                        "tag": "Gaza"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/zto7R7",
+                        "end": 136,
+                        "expanded_url": "http://bit.ly/zto7R7",
+                        "start": 116,
+                        "url": "http://t.co/IhDpewDn"
+                    }
+                ]
+            },
+            "id": "162163967651880960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "EU High Rep/VP #Ashton and UNRWA's Commissioner General Filippo Grandi sign \u20ac 55.4 million agreement in #Gaza today http://t.co/IhDpewDn"
+        },
+        {
+            "created_at": "2012-01-25T13:20:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 54,
+                        "start": 39,
+                        "tag": "dataprotection"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "EUDataP"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ye02JS",
+                        "end": 123,
+                        "expanded_url": "http://bit.ly/ye02JS",
+                        "start": 103,
+                        "url": "http://t.co/gNlRAK6o"
+                    }
+                ]
+            },
+            "id": "162163047438352384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "text": "#EC proposes a comprehensive reform of #dataprotection rules to increase users' control of their data  http://t.co/gNlRAK6o #EUDataP"
+        },
+        {
+            "created_at": "2012-01-25T11:38:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 55,
+                        "tag": "WTO"
+                    },
+                    {
+                        "end": 67,
+                        "start": 64,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 97,
+                        "id": "429346144",
+                        "start": 84,
+                        "username": "EUmissionWTO"
+                    }
+                ]
+            },
+            "id": "162137286081912833",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "To all you out there intersted in international trade, #WTO and #EU affairs: follow @EUmissionWTO"
+        },
+        {
+            "created_at": "2012-01-25T11:35:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "France",
+                        "probability": 0.9998,
+                        "start": 73,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Germany",
+                        "probability": 0.8552,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Sweden",
+                        "probability": 0.9971,
+                        "start": 93,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 6,
+                        "tag": "aid"
+                    },
+                    {
+                        "end": 15,
+                        "start": 12,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xWO8dQ",
+                        "end": 120,
+                        "expanded_url": "http://bit.ly/xWO8dQ",
+                        "start": 100,
+                        "url": "http://t.co/IcokVhXs"
+                    }
+                ]
+            },
+            "id": "162136612803854337",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "State #aid: #EC opens in-depth investigations in air transport sector in France, Germany and Sweden http://t.co/IcokVhXs"
+        },
+        {
+            "created_at": "2012-01-25T11:34:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 19,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xybjSr",
+                        "end": 90,
+                        "expanded_url": "http://bit.ly/xybjSr",
+                        "start": 70,
+                        "url": "http://t.co/THntm86P"
+                    }
+                ]
+            },
+            "id": "162136141561208832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "European railways: #EC promotes interoperability and competitiveness  http://t.co/THntm86P"
+        },
+        {
+            "created_at": "2012-01-25T11:01:52.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Viasna",
+                        "probability": 0.2949,
+                        "start": 43,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Belarus"
+                    },
+                    {
+                        "end": 20,
+                        "start": 15,
+                        "tag": "F\u00fcle"
+                    },
+                    {
+                        "end": 86,
+                        "start": 80,
+                        "tag": "human"
+                    },
+                    {
+                        "end": 94,
+                        "start": 87,
+                        "tag": "rights"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Aun1hc",
+                        "end": 79,
+                        "expanded_url": "http://bit.ly/Aun1hc",
+                        "start": 59,
+                        "url": "http://t.co/xgqX514R"
+                    }
+                ]
+            },
+            "id": "162128045493334016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#Belarus: Cssr #F\u00fcle with the activists of Viasna and FIDH http://t.co/xgqX514R #human #rights"
+        },
+        {
+            "created_at": "2012-01-25T11:00:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 60,
+                        "tag": "data"
+                    },
+                    {
+                        "end": 129,
+                        "start": 121,
+                        "tag": "privacy"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 49,
+                        "id": "177179008",
+                        "start": 33,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 120,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 100,
+                        "url": "http://t.co/JzpIY7Hx"
+                    }
+                ]
+            },
+            "id": "162127605632471040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "12h30 CET: Press conference with @VivianeRedingEU on new EU #data protection reforms. Watch live on http://t.co/JzpIY7Hx #privacy"
+        },
+        {
+            "created_at": "2012-01-24T16:24:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Twitter",
+                        "probability": 0.5686,
+                        "start": 23,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "461919971",
+                        "start": 0,
+                        "username": "EU_Justice"
+                    },
+                    {
+                        "end": 51,
+                        "id": "177179008",
+                        "start": 35,
+                        "username": "VivianeRedingEU"
+                    }
+                ]
+            },
+            "id": "161846878030409730",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "@EU_Justice Welcome on Twitter! Cc @VivianeRedingEU"
+        },
+        {
+            "created_at": "2012-01-24T13:50:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 21,
+                        "tag": "EP"
+                    },
+                    {
+                        "end": 68,
+                        "start": 53,
+                        "tag": "CostaConcordia"
+                    },
+                    {
+                        "end": 77,
+                        "start": 70,
+                        "tag": "Speech"
+                    },
+                    {
+                        "end": 113,
+                        "start": 101,
+                        "tag": "SafetyFirst"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2982227086",
+                        "start": 3,
+                        "username": "SiimKallasEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/AurkGy",
+                        "end": 100,
+                        "expanded_url": "http://bit.ly/AurkGy",
+                        "start": 80,
+                        "url": "http://t.co/CRtfu5lu"
+                    }
+                ]
+            },
+            "id": "161808075722981377",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "MT @SiimKallasEU: In #EP. We will learn lessons from #CostaConcordia. #Speech:  http://t.co/CRtfu5lu #SafetyFirst."
+        },
+        {
+            "created_at": "2012-01-24T13:45:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 71,
+                        "start": 64,
+                        "tag": "speech"
+                    },
+                    {
+                        "end": 75,
+                        "start": 72,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 86,
+                        "start": 76,
+                        "tag": "Fisheries"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 63,
+                        "id": "266031327",
+                        "start": 47,
+                        "username": "MariaDamanakiEU"
+                    }
+                ]
+            },
+            "id": "161806907978428417",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "\"Eating sustainably means fishing sustainably\" @MariaDamanakiEU #speech #EU #Fisheries"
+        },
+        {
+            "created_at": "2012-01-24T13:44:00.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "177179008",
+                        "start": 0,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wv5qx5",
+                        "end": 138,
+                        "expanded_url": "http://bit.ly/wv5qx5",
+                        "start": 118,
+                        "url": "http://t.co/eTSmd5am"
+                    }
+                ]
+            },
+            "id": "161806459867377664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "@VivianeRedingEU: \"In 1993, the Internet carried only 1% of all telecommunicated information. Today, more than 97%. \" http://t.co/eTSmd5am"
+        },
+        {
+            "created_at": "2012-01-24T13:43:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 3,
+                        "tag": "Data"
+                    },
+                    {
+                        "end": 20,
+                        "start": 9,
+                        "tag": "Protection"
+                    },
+                    {
+                        "end": 104,
+                        "start": 97,
+                        "tag": "speech"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "177179008",
+                        "start": 105,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wv5qx5",
+                        "end": 96,
+                        "expanded_url": "http://bit.ly/wv5qx5",
+                        "start": 76,
+                        "url": "http://t.co/eTSmd5am"
+                    }
+                ]
+            },
+            "id": "161806320830394369",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "text": "EU #Data #Protection Reform 2012 - Data Protection Rules in the Digital Age http://t.co/eTSmd5am #speech @VivianeRedingEU"
+        },
+        {
+            "created_at": "2012-01-24T13:39:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 5,
+                        "tag": "Vassiliou"
+                    },
+                    {
+                        "end": 98,
+                        "start": 95,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 109,
+                        "start": 99,
+                        "tag": "Education"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/zfG9pC",
+                        "end": 94,
+                        "expanded_url": "http://bit.ly/zfG9pC",
+                        "start": 74,
+                        "url": "http://t.co/WFableVW"
+                    }
+                ]
+            },
+            "id": "161805382933684225",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "Cssr #Vassiliou on \"The Economic Crisis, Education and the Labour Market\" http://t.co/WFableVW #EU #Education"
+        },
+        {
+            "created_at": "2012-01-24T13:34:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "Council & EC",
+                        "probability": 0.4767,
+                        "start": 4,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Supervisory Committee",
+                        "probability": 0.4042,
+                        "start": 47,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 104,
+                        "tag": "OLAF"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xURcIT",
+                        "end": 130,
+                        "expanded_url": "http://bit.ly/xURcIT",
+                        "start": 110,
+                        "url": "http://t.co/fiJSE4ge"
+                    }
+                ]
+            },
+            "id": "161804010448363520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "EP, Council &  EC appointed new members of the Supervisory Committee of the European Anti-Fraud Office, #OLAF http://t.co/fiJSE4ge"
+        },
+        {
+            "created_at": "2012-01-24T13:32:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "Europe",
+                        "probability": 0.9873,
+                        "start": 77,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 4,
+                        "tag": "ERC"
+                    },
+                    {
+                        "end": 53,
+                        "start": 41,
+                        "tag": "researchers"
+                    },
+                    {
+                        "end": 113,
+                        "start": 105,
+                        "tag": "BlueSky"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xIm9oO",
+                        "end": 104,
+                        "expanded_url": "http://bit.ly/xIm9oO",
+                        "start": 84,
+                        "url": "http://t.co/xRTeskk9"
+                    }
+                ]
+            },
+            "id": "161803441935618048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "The #ERC supports another 294 senior top #researchers in 20 countries across Europe http://t.co/xRTeskk9 #BlueSky"
+        },
+        {
+            "created_at": "2012-01-24T09:45:07.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/zKIt3m",
+                        "end": 139,
+                        "expanded_url": "http://bit.ly/zKIt3m",
+                        "start": 119,
+                        "url": "http://t.co/1Su2xEKR"
+                    }
+                ]
+            },
+            "id": "161746342023143424",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 58
+            },
+            "text": "5 million Europeans under the age of 25 can't find work.  Action to tackle youth unemployment is most urgently needed: http://t.co/1Su2xEKR"
+        },
+        {
+            "created_at": "2012-01-23T15:21:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 50,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ycqho8",
+                        "end": 74,
+                        "expanded_url": "http://bit.ly/ycqho8",
+                        "start": 54,
+                        "url": "http://t.co/4XMuWBQ2"
+                    }
+                ]
+            },
+            "id": "161468497489170432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "January 2012: Flash Consumer Confidence Indicator #EU http://t.co/4XMuWBQ2"
+        },
+        {
+            "created_at": "2012-01-23T15:07:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 57,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wphW8m",
+                        "end": 133,
+                        "expanded_url": "http://bit.ly/wphW8m",
+                        "start": 113,
+                        "url": "http://t.co/4X5ogpEa"
+                    }
+                ]
+            },
+            "id": "161465142092107776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "text": "Investing in creating the entrepreneurs of tomorrow says #EU Vassilliou at launch of EIT entrepreneurship awards http://t.co/4X5ogpEa"
+        },
+        {
+            "created_at": "2012-01-23T14:06:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "speech"
+                    },
+                    {
+                        "end": 16,
+                        "start": 8,
+                        "tag": "Barroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xrtWCo",
+                        "end": 112,
+                        "expanded_url": "http://bit.ly/xrtWCo",
+                        "start": 92,
+                        "url": "http://t.co/5ioiZsUz"
+                    }
+                ]
+            },
+            "id": "161449674316857344",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#speech #Barroso \u00e0 l'occasion du cinquanti\u00e8me anniversaire de la Politique agricole commune http://t.co/5ioiZsUz"
+        },
+        {
+            "created_at": "2012-01-23T14:00:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 26,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "on.fb.me/yC8eC2",
+                        "end": 113,
+                        "expanded_url": "http://on.fb.me/yC8eC2",
+                        "start": 93,
+                        "url": "http://t.co/QA6KvxVh"
+                    }
+                ]
+            },
+            "id": "161448148869455872",
+            "lang": "fi",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Don't miss the chat  with #EU Maro\u0161 \u0160ef\u010dovi\u010d  starting now on the wall of our Facebook page! http://t.co/QA6KvxVh"
+        },
+        {
+            "created_at": "2012-01-23T13:53:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 136,
+                        "tag": "ECI"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 135,
+                        "id": "377976301",
+                        "start": 121,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "facebook.com/EuropeanCommis\u2026",
+                        "end": 93,
+                        "expanded_url": "http://www.facebook.com/EuropeanCommission",
+                        "start": 73,
+                        "url": "http://t.co/TMmlIHbM"
+                    }
+                ]
+            },
+            "id": "161446377367416832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Curious to know more about the European Citizens' Initiative? Join us on http://t.co/TMmlIHbM at 15h CET for a chat with @MarosSefcovic #ECI"
+        },
+        {
+            "created_at": "2012-01-23T13:30:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "Brussels",
+                        "probability": 0.8775,
+                        "start": 69,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 101,
+                        "start": 98,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/AaZ0Qd",
+                        "end": 122,
+                        "expanded_url": "http://bit.ly/AaZ0Qd",
+                        "start": 102,
+                        "url": "http://t.co/oO5jXsku"
+                    }
+                ]
+            },
+            "id": "161440561918783488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Preparation of Eurogroup and Economic and Finance Ministers Council, Brussels, 23-24 January 2012 #EU http://t.co/oO5jXsku"
+        },
+        {
+            "created_at": "2012-01-23T13:15:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Territories",
+                        "probability": 0.4659,
+                        "start": 53,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 7,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yICFoP",
+                        "end": 85,
+                        "expanded_url": "http://bit.ly/yICFoP",
+                        "start": 65,
+                        "url": "http://t.co/F4IR0zAc"
+                    }
+                ]
+            },
+            "id": "161436773384327168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Q&A on #EU relations with its Overseas Countries and Territories http://t.co/F4IR0zAc"
+        },
+        {
+            "created_at": "2012-01-23T13:10:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "ECI"
+                    }
+                ]
+            },
+            "id": "161435522349268994",
+            "lang": "fi",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Today at 15.00CET on the European Commission page for Vice-President Maro\u0161 \u0160ef\u010dovi\u010d live chat on the European Citizens' Initiative.  #ECI"
+        },
+        {
+            "created_at": "2012-01-23T13:00:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 56,
+                        "start": 53,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "on.fb.me/yC8eC2",
+                        "end": 126,
+                        "expanded_url": "http://on.fb.me/yC8eC2",
+                        "start": 106,
+                        "url": "http://t.co/QA6KvxVh"
+                    }
+                ]
+            },
+            "id": "161433006693818370",
+            "lang": "fi",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Don't miss the chat this afternoon at 15.00 CET with #EU Maro\u0161 \u0160ef\u010dovi\u010d on the wall of our Facebook page! http://t.co/QA6KvxVh"
+        },
+        {
+            "created_at": "2012-01-23T12:53:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 74,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/z2ni5L",
+                        "end": 98,
+                        "expanded_url": "http://bit.ly/z2ni5L",
+                        "start": 78,
+                        "url": "http://t.co/y9MoxX8M"
+                    }
+                ]
+            },
+            "id": "161431235858677760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Launching the 50th Anniversary of the Common Agricultural Policy campaign #EU http://t.co/y9MoxX8M"
+        },
+        {
+            "created_at": "2012-01-23T12:52:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 108,
+                        "normalized_text": "Guildhall London",
+                        "probability": 0.844,
+                        "start": 93,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "speech"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "17487476",
+                        "start": 8,
+                        "username": "MichelBarnier"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/w3F5hw",
+                        "end": 130,
+                        "expanded_url": "http://bit.ly/w3F5hw",
+                        "start": 110,
+                        "url": "http://t.co/fGHrvONB"
+                    }
+                ]
+            },
+            "id": "161431191910752258",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "text": "#speech @michelbarnier Financial regulation: review of 2011 and a forward look to 2012 @ the Guildhall London http://t.co/fGHrvONB"
+        },
+        {
+            "created_at": "2012-01-23T12:47:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Europe",
+                        "probability": 0.837,
+                        "start": 44,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 66,
+                        "start": 63,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 79,
+                        "start": 67,
+                        "tag": "agriculture"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/x0GOCX",
+                        "end": 100,
+                        "expanded_url": "http://bit.ly/x0GOCX",
+                        "start": 80,
+                        "url": "http://t.co/7tNKe3OY"
+                    }
+                ]
+            },
+            "id": "161429892448268288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "50 Years of the CAP - A partnership between Europe and Farmers #EU #agriculture http://t.co/7tNKe3OY"
+        },
+        {
+            "created_at": "2012-01-23T12:40:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 32,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yTdKKQ",
+                        "end": 69,
+                        "expanded_url": "http://bit.ly/yTdKKQ",
+                        "start": 49,
+                        "url": "http://t.co/yIOvCEw6"
+                    }
+                ]
+            },
+            "id": "161427972664995841",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 32
+            },
+            "text": "Commission calls for savings in #EU Institutions http://t.co/yIOvCEw6"
+        },
+        {
+            "created_at": "2012-01-23T11:52:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 86,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/xQJ6jG",
+                        "end": 110,
+                        "expanded_url": "http://bit.ly/xQJ6jG",
+                        "start": 90,
+                        "url": "http://t.co/gEyWRbeP"
+                    }
+                ]
+            },
+            "id": "161416109407477760",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 16
+            },
+            "text": "La pr\u00e9sidente du Comit\u00e9 des r\u00e9gions salue le \"oui\" de la population croate \u00e0 l'Europe #EU http://t.co/gEyWRbeP"
+        },
+        {
+            "created_at": "2012-01-23T11:22:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 35,
+                        "tag": "Barroso"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 96,
+                        "id": "17675072",
+                        "start": 83,
+                        "username": "MartinSchulz"
+                    }
+                ]
+            },
+            "id": "161408551166816256",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "13h45 today: VIP Corner: Pr\u00e9sident #Barroso re\u00e7oit Pr\u00e9sident du Parlement europ\u00e9en @MartinSchulz"
+        },
+        {
+            "created_at": "2012-01-23T08:05:26.000Z",
+            "id": "161358868285362176",
+            "lang": "fi",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "Today at 15.00CET on the European Commission page for Vice-President Maro\u0161 \u0160ef\u010dovi\u010d live chat on the European Citizens' Initiative."
+        },
+        {
+            "created_at": "2012-01-23T08:03:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.5178,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 33,
+                        "normalized_text": "Croatia",
+                        "probability": 0.9974,
+                        "start": 27,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 55,
+                        "tag": "Barroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wq4gBk",
+                        "end": 95,
+                        "expanded_url": "http://bit.ly/wq4gBk",
+                        "start": 75,
+                        "url": "http://t.co/dGo9eF5a"
+                    }
+                ]
+            },
+            "id": "161358271528173569",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "EU accession referendum in Croatia: Joint statement of #Barroso and @euHvR http://t.co/dGo9eF5a"
+        },
+        {
+            "created_at": "2012-01-23T07:38:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 113,
+                        "normalized_text": "twitter",
+                        "probability": 0.4251,
+                        "start": 107,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 131,
+                        "id": "470099591",
+                        "start": 123,
+                        "username": "eu_echo"
+                    }
+                ]
+            },
+            "id": "161352101874774016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "RT @KGeorgievaEU: ECHO, the European Commission humanitarian aid and civil protection department is now on twitter. Follow @eu_echo"
+        },
+        {
+            "created_at": "2012-01-20T14:48:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "SG Ban Ki-moon",
+                        "probability": 0.329,
+                        "start": 19,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "Christofias & Eroglu",
+                        "probability": 0.3112,
+                        "start": 58,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "New York",
+                        "probability": 0.9926,
+                        "start": 105,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 18,
+                        "start": 15,
+                        "tag": "UN"
+                    },
+                    {
+                        "end": 56,
+                        "start": 49,
+                        "tag": "Cyprus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yFxNxF",
+                        "end": 134,
+                        "expanded_url": "http://bit.ly/yFxNxF",
+                        "start": 114,
+                        "url": "http://t.co/XE7OVs6U"
+                    }
+                ]
+            },
+            "id": "160373254698172416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#Barroso meets #UN SG Ban Ki-moon & leaders from #Cyprus, Christofias & Eroglu, from 22 to 24 January in New York http://t.co/XE7OVs6U"
+        },
+        {
+            "created_at": "2012-01-20T13:18:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Berlin",
+                        "probability": 0.996,
+                        "start": 48,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 26,
+                        "start": 19,
+                        "tag": "Merkel"
+                    },
+                    {
+                        "end": 97,
+                        "start": 94,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 105,
+                        "start": 98,
+                        "tag": "Treaty"
+                    }
+                ]
+            },
+            "id": "160350465421352961",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "#Barroso will meet #Merkel on Monday evening in Berlin. Discussion on Economy and new treaty. #EU #Treaty"
+        },
+        {
+            "created_at": "2012-01-20T12:43:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Tokyo",
+                        "probability": 0.8484,
+                        "start": 66,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "17487476",
+                        "start": 0,
+                        "username": "MichelBarnier"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/w2DjG2",
+                        "end": 98,
+                        "expanded_url": "http://bit.ly/w2DjG2",
+                        "start": 78,
+                        "url": "http://t.co/f4P4FTAe"
+                    }
+                ]
+            },
+            "id": "160341686273314816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@MichelBarnier on \"Restoring Confidence in Financial Markets\"  in Tokyo today http://t.co/f4P4FTAe"
+        },
+        {
+            "created_at": "2012-01-20T12:40:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "Karel De Gucht",
+                        "probability": 0.4703,
+                        "start": 5,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 133,
+                        "tag": "speech"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/AjmmgP",
+                        "end": 131,
+                        "expanded_url": "http://bit.ly/AjmmgP",
+                        "start": 111,
+                        "url": "http://t.co/UkR0X95D"
+                    }
+                ]
+            },
+            "id": "160340983467352064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "Cssr Karel De Gucht  on Working Together for Growth - Making the most of the internal market & external trade  http://t.co/UkR0X95D  #speech"
+        },
+        {
+            "created_at": "2012-01-20T12:37:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 28,
+                        "tag": "CostaConcordia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/AtAnJE",
+                        "end": 117,
+                        "expanded_url": "http://bit.ly/AtAnJE",
+                        "start": 97,
+                        "url": "http://t.co/B60iNP5Z"
+                    }
+                ]
+            },
+            "id": "160340166169464832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Safety of passenger ships \u2013 #CostaConcordia accident and Commission review of safety legislation http://t.co/B60iNP5Z"
+        },
+        {
+            "created_at": "2012-01-20T12:35:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "UNSG Ban Ki-moon",
+                        "probability": 0.47,
+                        "start": 46,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 13,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 113,
+                        "start": 106,
+                        "tag": "Cyprus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/AnH9Sz",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/AnH9Sz",
+                        "start": 115,
+                        "url": "http://t.co/Z0tcR2gb"
+                    }
+                ]
+            },
+            "id": "160339565352198144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Statement by #Barroso ahead of the meeting of UNSG Ban Ki-moon with the leaders of the two communities in #Cyprus  http://t.co/Z0tcR2gb"
+        },
+        {
+            "created_at": "2012-01-20T12:33:38.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wefM8R",
+                        "end": 55,
+                        "expanded_url": "http://bit.ly/wefM8R",
+                        "start": 35,
+                        "url": "http://t.co/CJgC5yO3"
+                    }
+                ]
+            },
+            "id": "160339196375080960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Top News 21 January - 17 February  http://t.co/CJgC5yO3"
+        },
+        {
+            "created_at": "2012-01-20T10:19:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 21,
+                        "tag": "Morocco"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/zlB59J",
+                        "end": 88,
+                        "expanded_url": "http://bit.ly/zlB59J",
+                        "start": 68,
+                        "url": "http://t.co/CdBGFg8p"
+                    }
+                ]
+            },
+            "id": "160305496761434112",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Cssr  Stefan F\u00fcle in #Morocco: We stand behind your reform efforts  http://t.co/CdBGFg8p"
+        },
+        {
+            "created_at": "2012-01-19T16:46:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "WEEE Directive",
+                        "probability": 0.7718,
+                        "start": 27,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2560246616",
+                        "start": 0,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Af82vJ",
+                        "end": 139,
+                        "expanded_url": "http://bit.ly/Af82vJ",
+                        "start": 119,
+                        "url": "http://t.co/M964ekC0"
+                    }
+                ]
+            },
+            "id": "160040420187971584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@JanezPotocnikEU: \"The new WEEE Directive gives EU countries tools to fight illegal export of waste more effectively.\" http://t.co/M964ekC0"
+        },
+        {
+            "created_at": "2012-01-19T15:01:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Cmr Poto\u010dnik",
+                        "probability": 0.4385,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 106,
+                        "start": 101,
+                        "tag": "WEEE"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Af82vJ",
+                        "end": 127,
+                        "expanded_url": "http://bit.ly/Af82vJ",
+                        "start": 107,
+                        "url": "http://t.co/M964ekC0"
+                    }
+                ]
+            },
+            "id": "160013898358079489",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#EU Cmr Poto\u010dnik : resource efficiency brings environmental benefits and innovative growth  together #WEEE http://t.co/M964ekC0"
+        },
+        {
+            "created_at": "2012-01-19T14:47:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 81,
+                        "normalized_text": "ECB",
+                        "probability": 0.7381,
+                        "start": 79,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 15,
+                        "tag": "Ireland"
+                    },
+                    {
+                        "end": 120,
+                        "start": 113,
+                        "tag": "review"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/yJ7bSU",
+                        "end": 112,
+                        "expanded_url": "http://bit.ly/yJ7bSU",
+                        "start": 92,
+                        "url": "http://t.co/f4xpxzHn"
+                    }
+                ]
+            },
+            "id": "160010489752072193",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "\"Progress, but #Ireland continues to face considerable challenges\" say the EC, ECB, and IMF http://t.co/f4xpxzHn #review"
+        },
+        {
+            "created_at": "2012-01-19T14:43:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 26,
+                        "tag": "Kosovo"
+                    },
+                    {
+                        "end": 42,
+                        "start": 37,
+                        "tag": "visa"
+                    },
+                    {
+                        "end": 79,
+                        "start": 76,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 92,
+                        "id": "460966881",
+                        "start": 80,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/zwdmEk",
+                        "end": 75,
+                        "expanded_url": "http://bit.ly/zwdmEk",
+                        "start": 55,
+                        "url": "http://t.co/HS8VP4WR"
+                    }
+                ]
+            },
+            "id": "160009456351051780",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "EC launches dialogue with #Kosovo on #visa free travel http://t.co/HS8VP4WR #EU @MalmstromEU"
+        },
+        {
+            "created_at": "2012-01-19T13:51:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 5,
+                        "tag": "Dalli"
+                    },
+                    {
+                        "end": 31,
+                        "start": 24,
+                        "tag": "Animal"
+                    },
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "Welfare"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/x2ELwQ",
+                        "end": 88,
+                        "expanded_url": "http://bit.ly/x2ELwQ",
+                        "start": 68,
+                        "url": "http://t.co/rnwyF5hf"
+                    },
+                    {
+                        "display_url": "bit.ly/yoJaGt",
+                        "end": 116,
+                        "expanded_url": "http://bit.ly/yoJaGt",
+                        "start": 96,
+                        "url": "http://t.co/KaaJgqJr"
+                    }
+                ]
+            },
+            "id": "159996482588651520",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Cssr #Dalli presents EU #Animal #Welfare Strategy 2012-2015. Video: http://t.co/rnwyF5hf  Text: http://t.co/KaaJgqJr"
+        },
+        {
+            "created_at": "2012-01-19T13:49:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Public"
+                    },
+                    {
+                        "end": 21,
+                        "start": 8,
+                        "tag": "Consultation"
+                    },
+                    {
+                        "end": 130,
+                        "start": 122,
+                        "tag": "Climate"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/w6X5Mu",
+                        "end": 80,
+                        "expanded_url": "http://bit.ly/w6X5Mu",
+                        "start": 60,
+                        "url": "http://t.co/CJqI8ttx"
+                    },
+                    {
+                        "display_url": "bit.ly/Af035A",
+                        "end": 121,
+                        "expanded_url": "http://bit.ly/Af035A",
+                        "start": 101,
+                        "url": "http://t.co/oO2eFsxE"
+                    }
+                ]
+            },
+            "id": "159995827190898688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Public #Consultation: greenhouse gas emissions from ships: http://t.co/CJqI8ttx Have your say here: http://t.co/oO2eFsxE #Climate"
+        },
+        {
+            "created_at": "2012-01-19T13:46:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 4,
+                        "tag": "Animal"
+                    },
+                    {
+                        "end": 20,
+                        "start": 12,
+                        "tag": "Welfare"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/wqKFrf",
+                        "end": 82,
+                        "expanded_url": "http://bit.ly/wqKFrf",
+                        "start": 62,
+                        "url": "http://t.co/IoZXZUTH"
+                    },
+                    {
+                        "display_url": "bit.ly/vZF398",
+                        "end": 113,
+                        "expanded_url": "http://bit.ly/vZF398",
+                        "start": 93,
+                        "url": "http://t.co/V6ED6BPZ"
+                    }
+                ]
+            },
+            "id": "159995238411284481",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "New #Animal #Welfare Strategy Paper: EC wants quality upgrade http://t.co/IoZXZUTH  Q&A here http://t.co/V6ED6BPZ"
+        },
+        {
+            "created_at": "2012-01-19T13:10:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "EC",
+                        "probability": 0.6603,
+                        "start": 10,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 103,
+                        "start": 99,
+                        "tag": "CIN"
+                    },
+                    {
+                        "end": 117,
+                        "start": 108,
+                        "tag": "Tirrenia"
+                    }
+                ]
+            },
+            "id": "159985998724476928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Mergers: EC opens in-depth investigation into proposed merger between Italian transport companies #CIN and #Tirrenia bit.ly/wRZ2Ma"
+        },
+        {
+            "created_at": "2012-01-19T10:52:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 41,
+                        "tag": "Ireland"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/qqBvo9",
+                        "end": 93,
+                        "expanded_url": "http://bit.ly/qqBvo9",
+                        "start": 73,
+                        "url": "http://t.co/JDxct0RL"
+                    }
+                ]
+            },
+            "id": "159951429744865280",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "Fifth review of the EU/IMF Programme for #Ireland by EC/ECB/IMF  live at http://t.co/JDxct0RL  at 15:00 CET"
+        }
+    ],
+    "meta": {
+        "newest_id": "162553163046592512",
+        "next_token": "1jzu9lk96gu5npvzecax1qe64ppkzyx8sbem72zmmjy5",
+        "oldest_id": "159951429744865280",
+        "result_count": 100
+    }
+}

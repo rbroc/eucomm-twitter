@@ -1,0 +1,4783 @@
+{
+    "data": [
+        {
+            "created_at": "2019-06-05T10:57:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Spain",
+                        "probability": 0.9946,
+                        "start": 67,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 184,
+                        "start": 167,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!WV73qk",
+                        "end": 166,
+                        "expanded_url": "https://europa.eu/!WV73qk",
+                        "start": 143,
+                        "url": "https://t.co/hxSxNsEn06"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pbM2FgitK1",
+                        "end": 208,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1136225554691252225/photo/1",
+                        "start": 185,
+                        "url": "https://t.co/pbM2FgitK1"
+                    }
+                ]
+            },
+            "id": "1136225554691252225",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 118,
+                "quote_count": 16,
+                "reply_count": 13,
+                "retweet_count": 98
+            },
+            "text": "We recommend that the Excessive Deficit Procedure be abrogated for Spain. See our guidance and decisions under the Stability and Growth Pact \u2192 https://t.co/hxSxNsEn06 #EuropeanSemester https://t.co/pbM2FgitK1"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Investing",
+                        "id": "847894353708068864",
+                        "name": "Investing"
+                    }
+                }
+            ],
+            "created_at": "2019-06-05T10:42:52.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 101,
+                        "normalized_text": "EU",
+                        "probability": 0.6595,
+                        "start": 100,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 14,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 203,
+                        "start": 194,
+                        "tag": "InvestEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!nq43MM",
+                        "end": 193,
+                        "expanded_url": "https://europa.eu/!nq43MM",
+                        "start": 170,
+                        "url": "https://t.co/2WDx7K4yMG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NQPFtMXfss",
+                        "end": 227,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1136221843092848646/photo/1",
+                        "start": 204,
+                        "url": "https://t.co/NQPFtMXfss"
+                    }
+                ]
+            },
+            "id": "1136221843092848646",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 46,
+                "quote_count": 12,
+                "reply_count": 6,
+                "retweet_count": 39
+            },
+            "text": "This round of #EuropeanSemester recommendations has a special focus on investment, to ensure we use EU and national funds wisely. \n\nFind out the latest in your country \u2192 https://t.co/2WDx7K4yMG #InvestEU https://t.co/NQPFtMXfss"
+        },
+        {
+            "created_at": "2019-06-05T10:32:29.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "EU",
+                        "probability": 0.6732,
+                        "start": 79,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 174,
+                        "start": 157,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!WV73qk",
+                        "end": 200,
+                        "expanded_url": "https://europa.eu/!WV73qk",
+                        "start": 177,
+                        "url": "https://t.co/hxSxNsEn06"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KlsqnyKaGw",
+                        "end": 224,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1136219233350803456/photo/1",
+                        "start": 201,
+                        "url": "https://t.co/KlsqnyKaGw"
+                    }
+                ]
+            },
+            "id": "1136219233350803456",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 63,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 46
+            },
+            "text": "EU economies are growing for the 7th consecutive year in 2019. \ud83d\udcc8 Supported by EU initiatives, 240.7 million people are currently in employment.\n\nMore on the #EuropeanSemester \u2192 https://t.co/hxSxNsEn06 https://t.co/KlsqnyKaGw"
+        },
+        {
+            "created_at": "2019-06-05T08:31:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "Europe",
+                        "probability": 0.9927,
+                        "start": 73,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 21,
+                        "tag": "BeatAirPollution"
+                    },
+                    {
+                        "end": 183,
+                        "start": 163,
+                        "tag": "WorldEnvironmentDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Jr37cv",
+                        "end": 162,
+                        "expanded_url": "https://europa.eu/!Jr37cv",
+                        "start": 139,
+                        "url": "https://t.co/6vS6E1zmwK"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/B3FxNTEHlO",
+                        "end": 207,
+                        "expanded_url": "https://twitter.com/EU_ENV/status/1136175312100872193/video/1",
+                        "start": 184,
+                        "url": "https://t.co/B3FxNTEHlO"
+                    }
+                ]
+            },
+            "id": "1136188794867261441",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 244,
+                "quote_count": 13,
+                "reply_count": 10,
+                "retweet_count": 128
+            },
+            "text": "We are determined to #BeatAirPollution\n390,000 people die prematurely in Europe each year due to poor air quality.\nOur clean air actions \u2192 https://t.co/6vS6E1zmwK\n#WorldEnvironmentDay https://t.co/B3FxNTEHlO"
+        },
+        {
+            "created_at": "2019-06-05T06:45:07.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 215,
+                        "normalized_text": "EU",
+                        "probability": 0.5651,
+                        "start": 214,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 187,
+                        "start": 167,
+                        "tag": "WorldEnvironmentDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!PT73uF",
+                        "end": 279,
+                        "expanded_url": "https://europa.eu/!PT73uF",
+                        "start": 256,
+                        "url": "https://t.co/SVS48vNba8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/J8YmINUd05",
+                        "end": 303,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1136162013489618944/photo/1",
+                        "start": 280,
+                        "url": "https://t.co/J8YmINUd05"
+                    }
+                ]
+            },
+            "id": "1136162013489618944",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1015,
+                "quote_count": 50,
+                "reply_count": 25,
+                "retweet_count": 586
+            },
+            "text": "There is no planet B\nThat's why the 10 plastic items most often found on European beaches will be banned by 2021, and by 2030 all non-recyclable plastic packaging.\nOn #WorldEnvironmentDay learn more about what the EU does to transition to a green society\u2192 https://t.co/SVS48vNba8 https://t.co/J8YmINUd05"
+        },
+        {
+            "created_at": "2019-06-05T06:17:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Constitution Day",
+                        "probability": 0.5757,
+                        "start": 11,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "Denmark",
+                        "probability": 0.8045,
+                        "start": 34,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Denmark",
+                        "probability": 0.6195,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/upFdRQJBQw",
+                        "end": 135,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1136154936486518784/video/1",
+                        "start": 112,
+                        "url": "https://t.co/upFdRQJBQw"
+                    }
+                ]
+            },
+            "id": "1136154936486518784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 422,
+                "quote_count": 12,
+                "reply_count": 4,
+                "retweet_count": 115
+            },
+            "text": "\ud83c\uddea\ud83c\uddfa Happy Constitution Day, \ud83c\udde9\ud83c\uddf0 Denmark! God Grundlovsdag!\nDenmark has been a member of the EU family since 1973. https://t.co/upFdRQJBQw"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jean Claude Juncker",
+                        "id": "859809389066113026",
+                        "name": "Jean Claude Juncker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Jean Claude Juncker",
+                        "id": "859809389066113026",
+                        "name": "Jean Claude Juncker"
+                    }
+                }
+            ],
+            "created_at": "2019-06-04T15:02:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Prime Minister",
+                        "probability": 0.6662,
+                        "start": 56,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "North Macedonia",
+                        "probability": 0.8568,
+                        "start": 74,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 50,
+                        "id": "169426475",
+                        "start": 40,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 100,
+                        "id": "1648317175",
+                        "start": 89,
+                        "username": "Zoran_Zaev"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pscp.tv/w/1yNxavAdzAbKj",
+                        "end": 124,
+                        "expanded_url": "https://www.pscp.tv/w/1yNxavAdzAbKj",
+                        "start": 101,
+                        "url": "https://t.co/7UQMSWTT6y"
+                    }
+                ]
+            },
+            "id": "1135924704424931328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 152,
+                "quote_count": 4,
+                "reply_count": 15,
+                "retweet_count": 59
+            },
+            "text": "\ud83d\udd34 Live \u2013 Joint press point by President @JunckerEU and Prime Minister of North Macedonia @Zoran_Zaev https://t.co/7UQMSWTT6y"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596731871232",
+                        "name": "Banking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Saving and Finance",
+                        "id": "1037075567227494400",
+                        "name": "Saving and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Startups",
+                        "id": "849075881653846016",
+                        "name": "Startups"
+                    }
+                }
+            ],
+            "created_at": "2019-06-04T10:54:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "Sweden",
+                        "probability": 0.9911,
+                        "start": 38,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "EU",
+                        "probability": 0.5566,
+                        "start": 61,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "Collector Bank",
+                        "probability": 0.9024,
+                        "start": 113,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 275,
+                        "start": 266,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!JU44wM",
+                        "end": 264,
+                        "expanded_url": "https://europa.eu/!JU44wM",
+                        "start": 241,
+                        "url": "https://t.co/W2Vj46rkCU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NkXuA89M4K",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135862393131753473/photo/1",
+                        "start": 276,
+                        "url": "https://t.co/NkXuA89M4K"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NkXuA89M4K",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135862393131753473/photo/1",
+                        "start": 276,
+                        "url": "https://t.co/NkXuA89M4K"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NkXuA89M4K",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135862393131753473/photo/1",
+                        "start": 276,
+                        "url": "https://t.co/NkXuA89M4K"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NkXuA89M4K",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135862393131753473/photo/1",
+                        "start": 276,
+                        "url": "https://t.co/NkXuA89M4K"
+                    }
+                ]
+            },
+            "id": "1135862393131753473",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 42,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 17
+            },
+            "text": "SMEs and start-ups play a key role in Sweden's economy.\nWith EU support worth SEK 1 billion, around \u20ac94 million, Collector Bank can provide more finance for small businesses to get the boost they need to expand activities and create jobs \u2192  https://t.co/W2Vj46rkCU \n#investEU https://t.co/NkXuA89M4K"
+        },
+        {
+            "created_at": "2019-06-04T10:46:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Poland",
+                        "probability": 0.9979,
+                        "start": 64,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 141,
+                        "normalized_text": "Poland",
+                        "probability": 0.9777,
+                        "start": 136,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 174,
+                        "normalized_text": "Europe",
+                        "probability": 0.9796,
+                        "start": 169,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/B6BAHcIwED",
+                        "end": 214,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135860262169391104/photo/1",
+                        "start": 191,
+                        "url": "https://t.co/B6BAHcIwED"
+                    }
+                ]
+            },
+            "id": "1135860262169391104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 196,
+                "quote_count": 4,
+                "reply_count": 4,
+                "retweet_count": 52
+            },
+            "text": "Today marks the 30th anniversary of the first free elections in Poland in June 1989. \nThis marks the beginning of a free and democratic Poland, a milestone that brought Europe back together. https://t.co/B6BAHcIwED"
+        },
+        {
+            "created_at": "2019-06-04T10:32:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Europe",
+                        "probability": 0.9936,
+                        "start": 16,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!tY34bR",
+                        "end": 222,
+                        "expanded_url": "https://europa.eu/!tY34bR",
+                        "start": 199,
+                        "url": "https://t.co/6fz7ixZPrj"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/n7n1jATvpn",
+                        "end": 246,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135856951097733120/photo/1",
+                        "start": 223,
+                        "url": "https://t.co/n7n1jATvpn"
+                    }
+                ]
+            },
+            "id": "1135856951097733120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 183,
+                "quote_count": 28,
+                "reply_count": 8,
+                "retweet_count": 127
+            },
+            "text": "Unemployment in Europe keeps falling. \ud83d\udcc9\nIn April, euro area unemployment fell to 7.6% - the lowest in over 10 years.\nEU unemployment was at 6.4% - the lowest since records began.\nMore figures here \u2192 https://t.co/6fz7ixZPrj https://t.co/n7n1jATvpn"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+                        "id": "847546154439000064",
+                        "name": "Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "College Life",
+                        "id": "852219717016141824",
+                        "name": "College life"
+                    }
+                }
+            ],
+            "created_at": "2019-06-04T10:24:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 81,
+                        "normalized_text": "U-Multirank university",
+                        "probability": 0.4602,
+                        "start": 60,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!WD43Np",
+                        "end": 264,
+                        "expanded_url": "https://europa.eu/!WD43Np",
+                        "start": 241,
+                        "url": "https://t.co/LyPC5UsxCy"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/JI1EKFFt64",
+                        "end": 288,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135854726300557314/photo/1",
+                        "start": 265,
+                        "url": "https://t.co/JI1EKFFt64"
+                    }
+                ]
+            },
+            "id": "1135854726300557314",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 73,
+                "quote_count": 6,
+                "reply_count": 4,
+                "retweet_count": 34
+            },
+            "text": "European universities are performing well, according to the U-Multirank university ranking.\nResults also show that the more universities cooperate internationally, the more satisfied their students are with their learning experience.\nMore \u2192 https://t.co/LyPC5UsxCy https://t.co/JI1EKFFt64"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Federica Mogherini",
+                        "id": "827118736213569536",
+                        "name": "Federica Mogherini"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Federica Mogherini",
+                        "id": "827118736213569536",
+                        "name": "Federica Mogherini"
+                    }
+                }
+            ],
+            "created_at": "2019-06-04T09:59:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 91,
+                        "normalized_text": "Tiananmen Square",
+                        "probability": 0.7816,
+                        "start": 76,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 253,
+                        "id": "460163041",
+                        "start": 241,
+                        "username": "FedericaMog"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "eeas.europa.eu/headquarters/h\u2026",
+                        "end": 279,
+                        "expanded_url": "https://eeas.europa.eu/headquarters/headquarters-homepage/63615/statement-high-representativevice-president-mogherini-30th-anniversary-tiananmen-square-event_en",
+                        "start": 256,
+                        "url": "https://t.co/obeWtIDjxe"
+                    }
+                ]
+            },
+            "id": "1135848652415668224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 58,
+                "quote_count": 3,
+                "reply_count": 4,
+                "retweet_count": 40
+            },
+            "text": "Today marks the 30th anniversary of the violent suppression of the peaceful Tiananmen Square democracy protests of 1989.\nThe EU continues to mourn the victims and offers its condolences to their families.\nStatement by High Representative/VP @FedericaMog \u2193 https://t.co/obeWtIDjxe"
+        },
+        {
+            "created_at": "2019-06-04T09:43:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 203,
+                        "start": 183,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1135844568702701568",
+            "lang": "pl",
+            "public_metrics": {
+                "like_count": 42,
+                "quote_count": 0,
+                "reply_count": 9,
+                "retweet_count": 12
+            },
+            "text": "Europejska inicjatywa obywatelska wymaga 1 miliona podpis\u00f3w, by uruchomi\u0107 proces kszta\u0142towania polityki na szczeblu UE. \ud83d\udce3\n\nPodejmij inicjatyw\u0119 i wesprzyj ju\u017c istniej\u0105ce inicjatywy. \ud83d\udc47 #EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-06-04T08:54:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 198,
+                        "start": 178,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1135832128258658304",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 2,
+                "reply_count": 4,
+                "retweet_count": 7
+            },
+            "text": "Une initiative citoyenne europ\u00e9enne a besoin d\u20191 million de signatures pour lancer le processus l\u00e9gislatif europ\u00e9en. \ud83d\udce3\n\nPrenez l\u2019initiative et soutenez une initiative en cours! \ud83d\udc47#EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-06-04T08:50:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 104,
+                        "normalized_text": "UE",
+                        "probability": 0.6623,
+                        "start": 103,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 198,
+                        "start": 178,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1135831275606953984",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 39,
+                "quote_count": 2,
+                "reply_count": 16,
+                "retweet_count": 28
+            },
+            "text": "Una iniciativa ciudadana europea necesita un mill\u00f3n de firmas para formar parte de las pol\u00edticas de la UE. \ud83d\udce3\n\n\u00a1Toma la iniciativa y presta tu apoyo a las iniciativas abiertas! \ud83d\udc47 #EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-06-04T08:48:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 203,
+                        "start": 183,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1135830729907101701",
+            "lang": "pl",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Europejska inicjatywa obywatelska wymaga 1 miliona podpis\u00f3w, by uruchomi\u0107 proces kszta\u0142towania polityki na szczeblu UE. \ud83d\udce3\n\nPodejmij inicjatyw\u0119 i wesprzyj ju\u017c istniej\u0105ce inicjatywy. \ud83d\udc47\n#EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-06-04T08:47:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 190,
+                        "start": 170,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1135830502718418944",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 43,
+                "quote_count": 2,
+                "reply_count": 22,
+                "retweet_count": 21
+            },
+            "text": "Un\u2019iniziativa dei cittadini europei necessita di 1 milione di firme per dar vita a una procedura legislativa.\n\nPrendi l\u2019iniziativa e sostieni un\u2019iniziativa gi\u00e0 in corso!\n#EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-06-04T07:55:43.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "European Parliament",
+                        "probability": 0.4177,
+                        "start": 44,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/VPy3iQgwlP",
+                        "end": 185,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135817394352513027/video/1",
+                        "start": 162,
+                        "url": "https://t.co/VPy3iQgwlP"
+                    }
+                ]
+            },
+            "id": "1135817394352513027",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 246,
+                "quote_count": 14,
+                "reply_count": 34,
+                "retweet_count": 136
+            },
+            "text": "You recently elected the new members of the European Parliament.\nThey will shape EU policies for the next five years.\nBut, how do EU institutions take decisions? https://t.co/VPy3iQgwlP"
+        },
+        {
+            "created_at": "2019-06-03T14:04:54.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Dr Joaquim Alves Gaspar",
+                        "probability": 0.8921,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 175,
+                        "normalized_text": "Europe",
+                        "probability": 0.9905,
+                        "start": 170,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 237,
+                        "normalized_text": "International Archive Week",
+                        "probability": 0.5949,
+                        "start": 212,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 273,
+                        "start": 265,
+                        "tag": "IAW2019"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!hn86xP",
+                        "end": 264,
+                        "expanded_url": "https://europa.eu/!hn86xP",
+                        "start": 241,
+                        "url": "https://t.co/1FBlnYuEsP"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rsdVJ8Iopf",
+                        "end": 297,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135547911075520513/photo/1",
+                        "start": 274,
+                        "url": "https://t.co/rsdVJ8Iopf"
+                    }
+                ]
+            },
+            "id": "1135547911075520513",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 72,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 34
+            },
+            "text": "Dr Joaquim Alves Gaspar is a man of the sea.\nThanks to an EU grant, he and his team have been studying the origin, technical evolution and use of nautical cartography in Europe.\nLearn more about his story during International Archive Week \u2192 https://t.co/1FBlnYuEsP #IAW2019 https://t.co/rsdVJ8Iopf"
+        },
+        {
+            "created_at": "2019-06-03T13:15:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Claude",
+                        "probability": 0.9441,
+                        "start": 17,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 180,
+                        "normalized_text": "EU",
+                        "probability": 0.4965,
+                        "start": 179,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "3308093475",
+                        "start": 0,
+                        "username": "Mr_C_Wadd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=8W62wM\u2026",
+                        "end": 148,
+                        "expanded_url": "https://www.youtube.com/watch?v=8W62wMJgols&list=PLJmEREKFYU8Uj1I3HympkAGIGoKqHqTV7&index=6&t=0s",
+                        "start": 125,
+                        "url": "https://t.co/cP60NAHxRU"
+                    },
+                    {
+                        "display_url": "medium.com/@EuropeanCommi\u2026",
+                        "end": 230,
+                        "expanded_url": "https://medium.com/@EuropeanCommission/yes-you-can-shape-europe-d660bcb6c86c",
+                        "start": 207,
+                        "url": "https://t.co/Ppk6Jh4W0B"
+                    }
+                ]
+            },
+            "id": "1135535505456734210",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@Mr_C_Wadd Hello Claude, for the full story on how citizens\u2019 views shaped the EU plastics policy, take a look at this video: https://t.co/cP60NAHxRU\nMore on how you can shape the EU decision-making process: https://t.co/Ppk6Jh4W0B\nBest, the Social Media Team"
+        },
+        {
+            "created_at": "2019-06-03T13:10:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 123,
+                        "normalized_text": "European Citizens\u2019 Initiative Forum",
+                        "probability": 0.341,
+                        "start": 89,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 284,
+                        "start": 264,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "711976835031105536",
+                        "start": 0,
+                        "username": "Jacc_Opi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/collab-eci",
+                        "end": 226,
+                        "expanded_url": "https://ec.europa.eu/collab-eci",
+                        "start": 203,
+                        "url": "https://t.co/rwD1cGTZyR"
+                    }
+                ]
+            },
+            "id": "1135534326618177536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@Jacc_Opi Thank you for the positive comment. \nYou might also want to take a look at the European Citizens\u2019 Initiative Forum where you can get practical info, advice and discuss your ideas with others \u2192 https://t.co/rwD1cGTZyR \nAll the best, the Social Media Team #EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-06-03T12:53:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Europe",
+                        "probability": 0.9716,
+                        "start": 54,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "EU",
+                        "probability": 0.4164,
+                        "start": 192,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 3,
+                        "tag": "WorldBicycleDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jp78FB",
+                        "end": 250,
+                        "expanded_url": "https://europa.eu/!jp78FB",
+                        "start": 227,
+                        "url": "https://t.co/bxrKZRV6ea"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QWWJlSukER",
+                        "end": 274,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135529927137267713/photo/1",
+                        "start": 251,
+                        "url": "https://t.co/QWWJlSukER"
+                    }
+                ]
+            },
+            "id": "1135529927137267713",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 621,
+                "quote_count": 19,
+                "reply_count": 17,
+                "retweet_count": 270
+            },
+            "text": "On #WorldBicycleDay, we thank all cyclists for making Europe\u2019s streets and roads healthier and greener for everyone. And for all the rest: cycling makes you happy - try it!\n\nFind out what the EU is doing to encourage cycling \u2192 https://t.co/bxrKZRV6ea https://t.co/QWWJlSukER"
+        },
+        {
+            "created_at": "2019-06-03T11:12:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "EU",
+                        "probability": 0.4983,
+                        "start": 35,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 189,
+                        "start": 179,
+                        "tag": "EUdefence"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!fb37cC",
+                        "end": 178,
+                        "expanded_url": "https://europa.eu/!fb37cC",
+                        "start": 155,
+                        "url": "https://t.co/uylaRFYEWi"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fduVm7drlO",
+                        "end": 213,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135504573353930752/photo/1",
+                        "start": 190,
+                        "url": "https://t.co/fduVm7drlO"
+                    }
+                ]
+            },
+            "id": "1135504573353930752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 44,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 23
+            },
+            "text": "Improving military mobility in the EU contributes to the security of all Europeans.\nTake a look at the joint report on the military mobility action plan \u2192 https://t.co/uylaRFYEWi #EUdefence https://t.co/fduVm7drlO"
+        },
+        {
+            "created_at": "2019-06-03T10:59:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 52,
+                        "start": 42,
+                        "tag": "iPortunus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "i-portunus.eu",
+                        "end": 276,
+                        "expanded_url": "https://www.i-portunus.eu/",
+                        "start": 253,
+                        "url": "https://t.co/wchxuYtagG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Ihl30PiP0h",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135501372047155200/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/Ihl30PiP0h"
+                    }
+                ]
+            },
+            "id": "1135501372047155200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 58,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 37
+            },
+            "text": "We support opportunities for artists with #iPortunus.\nThe new call is open to visual and performing artists.\nFunding will help them develop international collaborations, present work in another country or develop projects with local communities.\nMore \u2192 https://t.co/wchxuYtagG https://t.co/Ihl30PiP0h"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Nature",
+                        "id": "1103294729079349250",
+                        "name": "Nature"
+                    }
+                }
+            ],
+            "created_at": "2019-06-02T19:17:00.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/arvu0K3Gyg",
+                        "end": 280,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135264066111328256/photo/1",
+                        "start": 257,
+                        "url": "https://t.co/arvu0K3Gyg"
+                    }
+                ]
+            },
+            "id": "1135264066111328256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 212,
+                "quote_count": 2,
+                "reply_count": 3,
+                "retweet_count": 87
+            },
+            "text": "Our quality of life \u2013 and our future \u2013 depends on the many services that nature provides for free. Pollination is one of these invisible, but invaluable services. \n4 out of 5 crops, our indispensable sources of nutrients, depend on animal pollination. \n\ud83d\udc1d\ud83e\udd8b\ud83d\udc1e https://t.co/arvu0K3Gyg"
+        },
+        {
+            "created_at": "2019-06-02T16:15:15.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "Albania",
+                        "probability": 0.9879,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "North Macedonia",
+                        "probability": 0.9656,
+                        "start": 88,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 206,
+                        "normalized_text": "Albania",
+                        "probability": 0.5327,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 249,
+                        "normalized_text": "North Macedonia",
+                        "probability": 0.4172,
+                        "start": 235,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 39,
+                        "id": "206717989",
+                        "start": 29,
+                        "username": "EUCouncil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!uU98fx",
+                        "end": 233,
+                        "expanded_url": "https://europa.eu/!uU98fx",
+                        "start": 210,
+                        "url": "https://t.co/maMHIv50Dt"
+                    },
+                    {
+                        "display_url": "europa.eu/!JG66nY",
+                        "end": 276,
+                        "expanded_url": "https://europa.eu/!JG66nY",
+                        "start": 253,
+                        "url": "https://t.co/xWor4xsVlJ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/1vzP2D7QLx",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135218327910002689/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/1vzP2D7QLx"
+                    }
+                ]
+            },
+            "id": "1135218327910002689",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 248,
+                "quote_count": 13,
+                "reply_count": 14,
+                "retweet_count": 115
+            },
+            "text": "This week we recommended the @EUCouncil to open accession negotiations with Albania and North Macedonia in light of the significant progress achieved and their commitment to the European perspective.\nAlbania \u2192 https://t.co/maMHIv50Dt \nNorth Macedonia \u2192 https://t.co/xWor4xsVlJ https://t.co/1vzP2D7QLx"
+        },
+        {
+            "created_at": "2019-06-02T13:05:13.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 91,
+                        "normalized_text": "EU",
+                        "probability": 0.7071,
+                        "start": 90,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 220,
+                        "start": 200,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!rd68wY",
+                        "end": 199,
+                        "expanded_url": "https://europa.eu/!rd68wY",
+                        "start": 176,
+                        "url": "https://t.co/oFSFrpgNnn"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mg6zQ1qryQ",
+                        "end": 244,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135170503075909632/photo/1",
+                        "start": 221,
+                        "url": "https://t.co/mg6zQ1qryQ"
+                    }
+                ]
+            },
+            "id": "1135170503075909632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 151,
+                "quote_count": 9,
+                "reply_count": 6,
+                "retweet_count": 56
+            },
+            "text": "A European citizens\u2019 initiative requires 1 million signatures to push the start button on EU policy-making.\nTake the initiative and lend your support to existing initiatives \u2192 https://t.co/oFSFrpgNnn #EUTakeTheInitiative https://t.co/mg6zQ1qryQ"
+        },
+        {
+            "created_at": "2019-06-02T11:15:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "EU",
+                        "probability": 0.3883,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 153,
+                        "start": 133,
+                        "tag": "DigitalSingleMarket"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!pF46XK",
+                        "end": 183,
+                        "expanded_url": "https://europa.eu/!pF46XK",
+                        "start": 160,
+                        "url": "https://t.co/Q33HyrVPWs"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mMQ0fwp5P9",
+                        "end": 207,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135142799555342336/photo/1",
+                        "start": 184,
+                        "url": "https://t.co/mMQ0fwp5P9"
+                    }
+                ]
+            },
+            "id": "1135142799555342336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 71,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 34
+            },
+            "text": "Whether in the EU for a few years \ud83c\udded\ud83c\uddf7 or decades \ud83c\uddec\ud83c\uddf7, we make sure digitalisation works for you. \nLearn more about the benefits of the #DigitalSingleMarket here: https://t.co/Q33HyrVPWs https://t.co/mMQ0fwp5P9"
+        },
+        {
+            "created_at": "2019-06-02T08:00:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Europe",
+                        "probability": 0.9678,
+                        "start": 55,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 237,
+                        "start": 226,
+                        "tag": "EUprotects"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Tf44MV",
+                        "end": 222,
+                        "expanded_url": "https://europa.eu/!Tf44MV",
+                        "start": 199,
+                        "url": "https://t.co/sYUmdKQJiY"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/tSV008UQeY",
+                        "end": 261,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135093934500253701/photo/1",
+                        "start": 238,
+                        "url": "https://t.co/tSV008UQeY"
+                    }
+                ]
+            },
+            "id": "1135093934500253701",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 78,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 32
+            },
+            "text": "Wherever you are, we protect you!\n\nLocal heroes across Europe work together to help locate and assist distressed people in remote locations, thanks to the \ud83c\uddea\ud83c\uddfa Galileo satellite system.\nFind out how \u2192 https://t.co/sYUmdKQJiY \n \n#EUprotects https://t.co/tSV008UQeY"
+        },
+        {
+            "created_at": "2019-06-02T06:30:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "Republic Day",
+                        "probability": 0.5146,
+                        "start": 6,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 24,
+                        "normalized_text": "Italy",
+                        "probability": 0.872,
+                        "start": 20,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "Italy",
+                        "probability": 0.9128,
+                        "start": 62,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/JBhh8Tvfz0",
+                        "end": 173,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1135071044576919552/video/1",
+                        "start": 150,
+                        "url": "https://t.co/JBhh8Tvfz0"
+                    }
+                ]
+            },
+            "id": "1135071044576919552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3534,
+                "quote_count": 171,
+                "reply_count": 175,
+                "retweet_count": 1343
+            },
+            "text": "Happy Republic Day, Italy! \ud83c\uddee\ud83c\uddf9 Buona festa della Repubblica!\nItaly has been part of the \ud83c\uddea\ud83c\uddfa family from the start as one of the six founding countries. https://t.co/JBhh8Tvfz0"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+                        "id": "847546154439000064",
+                        "name": "Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Language Learning",
+                        "id": "852226935044194304",
+                        "name": "Language learning"
+                    }
+                }
+            ],
+            "created_at": "2019-06-01T12:52:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Alix",
+                        "probability": 0.4347,
+                        "start": 31,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Finland",
+                        "probability": 0.9808,
+                        "start": 42,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 74,
+                        "normalized_text": "Germany",
+                        "probability": 0.9914,
+                        "start": 68,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 239,
+                        "start": 231,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Dk73ku",
+                        "end": 230,
+                        "expanded_url": "https://europa.eu/!Dk73ku",
+                        "start": 207,
+                        "url": "https://t.co/9bLY5RxHOn"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LhKU2mCxZt",
+                        "end": 263,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134804789970137090/video/1",
+                        "start": 240,
+                        "url": "https://t.co/LhKU2mCxZt"
+                    }
+                ]
+            },
+            "id": "1134804789970137090",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 150,
+                "quote_count": 7,
+                "reply_count": 5,
+                "retweet_count": 64
+            },
+            "text": "Interested in studying abroad? \nAlix from Finland had never been to Germany. Thanks to the EU, she was able to study there for a year and learn German. \nRead more about how the EU can help you do the same \u2192 https://t.co/9bLY5RxHOn #EUandME https://t.co/LhKU2mCxZt"
+        },
+        {
+            "created_at": "2019-06-01T10:02:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 136,
+                        "start": 122,
+                        "tag": "EUHaveYourSay"
+                    },
+                    {
+                        "end": 151,
+                        "start": 137,
+                        "tag": "ReadyToChange"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/IT8aqbZMqH",
+                        "end": 175,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134762008862220288/video/1",
+                        "start": 152,
+                        "url": "https://t.co/IT8aqbZMqH"
+                    }
+                ]
+            },
+            "id": "1134762008862220288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 349,
+                "quote_count": 10,
+                "reply_count": 13,
+                "retweet_count": 189
+            },
+            "text": "Single-use plastics: you asked, we delivered. Find out how your views shaped our proposal to reduce single-use plastics \u2193\n#EUHaveYourSay #ReadyToChange https://t.co/IT8aqbZMqH"
+        },
+        {
+            "created_at": "2019-06-01T07:46:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Europe",
+                        "probability": 0.9813,
+                        "start": 25,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qk93BB",
+                        "end": 159,
+                        "expanded_url": "https://europa.eu/!qk93BB",
+                        "start": 136,
+                        "url": "https://t.co/WSB0tUO9Vt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SzGXlAiXhS",
+                        "end": 183,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134727782771187713/photo/1",
+                        "start": 160,
+                        "url": "https://t.co/SzGXlAiXhS"
+                    }
+                ]
+            },
+            "id": "1134727782771187713",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 137,
+                "quote_count": 4,
+                "reply_count": 6,
+                "retweet_count": 88
+            },
+            "text": "Last week, you voted for Europe.\nBut, how will the new European Commission President and Commissioners be elected?\nFind out more here \u2192 https://t.co/WSB0tUO9Vt https://t.co/SzGXlAiXhS"
+        },
+        {
+            "created_at": "2019-05-31T15:15:23.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "EU",
+                        "probability": 0.717,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 192,
+                        "start": 179,
+                        "tag": "EUinmyRegion"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!tk64dd",
+                        "end": 178,
+                        "expanded_url": "https://europa.eu/!tk64dd",
+                        "start": 155,
+                        "url": "https://t.co/rFaH4sLQLl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mJrfl5RZNH",
+                        "end": 216,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134478485974597632/photo/1",
+                        "start": 193,
+                        "url": "https://t.co/mJrfl5RZNH"
+                    }
+                ]
+            },
+            "id": "1134478485974597632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 176,
+                "quote_count": 9,
+                "reply_count": 11,
+                "retweet_count": 96
+            },
+            "text": "The EU has 281 regions \u2013 each with its own needs.\nWe dedicated \u20ac351.8 billion for 2014-2020 to help address issues that matter to them. \nLearn more here \u2192 https://t.co/rFaH4sLQLl\n#EUinmyRegion https://t.co/mJrfl5RZNH"
+        },
+        {
+            "created_at": "2019-05-31T14:42:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 205,
+                        "start": 185,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1134470168288071680",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Un\u2019iniziativa dei cittadini europei necessita di 1 milione di firme per poter avviare il processo legislativo europeo. \ud83d\udce3\n\nPrendi l\u2019iniziativa e sostieni un\u2019 iniziativa gi\u00e0  in corso! \ud83d\udc47\n#EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-05-31T14:40:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 200,
+                        "start": 180,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1134469791178285056",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Une initiative citoyenne europ\u00e9enne a besoin de 1 million de signatures pour lancer le processus l\u00e9gislatif europ\u00e9en. \ud83d\udce3\n\nPrenez l\u2019initiative et soutenez une initiative en cours! \ud83d\udc47\n#EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-05-31T14:38:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 203,
+                        "start": 183,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1134469262658220033",
+            "lang": "pl",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Europejska inicjatywa obywatelska wymaga 1 miliona podpis\u00f3w, by uruchomi\u0107 proces kszta\u0142towania polityki na szczeblu UE. \ud83d\udce3\n\nPodejmij inicjatyw\u0119 i wesprzyj ju\u017c istniej\u0105ce inicjatywy. \ud83d\udc47\n#EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-05-31T14:36:43.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 133,
+                        "normalized_text": "UE",
+                        "probability": 0.5355,
+                        "start": 132,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 227,
+                        "start": 207,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1134468754132348929",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Una iniciativa ciudadana europea requiere un mill\u00f3n de firmas para dar el pistoletazo de salida a la elaboraci\u00f3n de pol\u00edticas de la UE. \ud83d\udce3\n\n\u00a1Tome la iniciativa y preste su apoyo a las iniciativas abiertas! \ud83d\udc47 #EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-05-31T14:33:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 219,
+                        "start": 199,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1134467960427425792",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 24,
+                "quote_count": 4,
+                "reply_count": 4,
+                "retweet_count": 14
+            },
+            "text": "Eine Europ\u00e4ische B\u00fcrgerinitiative braucht 1 Million Unterschriften, damit sich die EU-Politik mit dem Thema befassen muss. \ud83d\udce3 \n\nJetzt die Initiative ergreifen und aktuelle Initiativen unterst\u00fctzen! \ud83d\udc47 #EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-05-31T14:29:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 91,
+                        "normalized_text": "EU",
+                        "probability": 0.5999,
+                        "start": 90,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 200,
+                        "start": 180,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ]
+            },
+            "id": "1134466862769758208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 72,
+                "quote_count": 1,
+                "reply_count": 12,
+                "retweet_count": 16
+            },
+            "text": "A European citizens\u2019 initiative requires 1 million signatures to push the start button on EU policy-making. \ud83d\udce3\n\nTake the initiative and lend your support to existing initiatives! \ud83d\udc47 #EUTakeTheInitiative"
+        },
+        {
+            "created_at": "2019-05-31T08:05:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "EU",
+                        "probability": 0.5865,
+                        "start": 40,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 183,
+                        "start": 163,
+                        "tag": "EUTakeTheInitiative"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/collab-eci",
+                        "end": 162,
+                        "expanded_url": "https://ec.europa.eu/collab-eci",
+                        "start": 139,
+                        "url": "https://t.co/rwD1cGTZyR"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/2WNOwFg8rX",
+                        "end": 207,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134370176479191040/photo/1",
+                        "start": 184,
+                        "url": "https://t.co/2WNOwFg8rX"
+                    }
+                ]
+            },
+            "id": "1134370176479191040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 49,
+                "quote_count": 1,
+                "reply_count": 8,
+                "retweet_count": 30
+            },
+            "text": "What's your vision? Get involved in the EU democratic process and share your fresh ideas for European citizens' initiatives on the forum \u2192 https://t.co/rwD1cGTZyR #EUTakeTheInitiative https://t.co/2WNOwFg8rX"
+        },
+        {
+            "created_at": "2019-05-31T06:30:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 279,
+                        "start": 261,
+                        "tag": "WorldNoTobaccoDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!vm83nd",
+                        "end": 260,
+                        "expanded_url": "https://europa.eu/!vm83nd",
+                        "start": 237,
+                        "url": "https://t.co/rQC3lGew9C"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/zmakHyNRZX",
+                        "end": 303,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134346268820627456/video/1",
+                        "start": 280,
+                        "url": "https://t.co/zmakHyNRZX"
+                    }
+                ]
+            },
+            "id": "1134346268820627456",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 137,
+                "quote_count": 8,
+                "reply_count": 5,
+                "retweet_count": 89
+            },
+            "text": "There are over 7 million tobacco-associated deaths globally per year.\nIn the EU tobacco consumption is the single largest avoidable health risk and most significant cause of premature death.\nLet's work together to leave smoking behind \u2192 https://t.co/rQC3lGew9C\n#WorldNoTobaccoDay https://t.co/zmakHyNRZX"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Saving and Finance",
+                        "id": "1037075567227494400",
+                        "name": "Saving and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Startups",
+                        "id": "849075881653846016",
+                        "name": "Startups"
+                    }
+                }
+            ],
+            "created_at": "2019-05-30T15:15:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "EU",
+                        "probability": 0.7232,
+                        "start": 11,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 251,
+                        "start": 242,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qT93dg",
+                        "end": 241,
+                        "expanded_url": "https://europa.eu/!qT93dg",
+                        "start": 218,
+                        "url": "https://t.co/4o9bxfzX2U"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GzreaQceJa",
+                        "end": 275,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134116095231741952/photo/1",
+                        "start": 252,
+                        "url": "https://t.co/GzreaQceJa"
+                    }
+                ]
+            },
+            "id": "1134116095231741952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 143,
+                "quote_count": 6,
+                "reply_count": 5,
+                "retweet_count": 96
+            },
+            "text": "Across the EU almost \u20ac400 billion to be triggered in investments after new projects approved.\nSome 949,000 start-ups and small and medium-sized businesses to benefit from improved access to finance.\nMore information \u2192 https://t.co/4o9bxfzX2U #investEU https://t.co/GzreaQceJa"
+        },
+        {
+            "created_at": "2019-05-30T14:07:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 97,
+                        "normalized_text": "Netherlands",
+                        "probability": 0.9552,
+                        "start": 87,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 175,
+                        "normalized_text": "EU",
+                        "probability": 0.4704,
+                        "start": 174,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 244,
+                        "start": 236,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!PT73uF",
+                        "end": 235,
+                        "expanded_url": "https://europa.eu/!PT73uF",
+                        "start": 212,
+                        "url": "https://t.co/SVS48vNba8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/aSC675CTzP",
+                        "end": 268,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134098889731203072/video/1",
+                        "start": 245,
+                        "url": "https://t.co/aSC675CTzP"
+                    }
+                ]
+            },
+            "id": "1134098889731203072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 82,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 41
+            },
+            "text": "How can dried grain stems help reduce plastic pollution? \nWith EU support, Ev from the Netherlands set up a company to fight against plastic straws. \nFind out more about the EU's actions for a circular economy \u2192 https://t.co/SVS48vNba8 #EUandME https://t.co/aSC675CTzP"
+        },
+        {
+            "created_at": "2019-05-30T12:00:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "Ireland",
+                        "probability": 0.9934,
+                        "start": 77,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 255,
+                        "start": 244,
+                        "tag": "EUprotects"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!NX46vj",
+                        "end": 239,
+                        "expanded_url": "https://europa.eu/!NX46vj",
+                        "start": 216,
+                        "url": "https://t.co/PfiPziL8Uf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/d9xwHNoyxz",
+                        "end": 279,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1134067164632276992/photo/1",
+                        "start": 256,
+                        "url": "https://t.co/d9xwHNoyxz"
+                    }
+                ]
+            },
+            "id": "1134067164632276992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 52,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "text": "We help EU countries fight floods.\n\nEU ordinary heroes came together to help Ireland prepare for a massive flooding a few years ago, while making sure people and properties were kept out of harm\u2019s way.\nTake a look \u2192 https://t.co/PfiPziL8Uf \n  \n#EUprotects https://t.co/d9xwHNoyxz"
+        },
+        {
+            "created_at": "2019-05-30T07:05:07.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "Luc Luycx",
+                        "probability": 0.8942,
+                        "start": 3,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 22,
+                        "normalized_text": "EU",
+                        "probability": 0.4949,
+                        "start": 21,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 204,
+                        "start": 195,
+                        "tag": "EUROat20"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "medium.com/@EuropeanCommi\u2026",
+                        "end": 229,
+                        "expanded_url": "https://medium.com/@EuropeanCommission/euro-coin-design-story-30a675fae016",
+                        "start": 206,
+                        "url": "https://t.co/wH02aV9DTO"
+                    }
+                ]
+            },
+            "id": "1133992719062319104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 82,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 25
+            },
+            "text": "\ud83d\udcb6 Luc Luycx won the EU competition to design the reverse side of the series of eight euro coins back in 1996, now his designs are seen daily by 340 million people. \nLearn more about this story \u2193 #EUROat20 \nhttps://t.co/wH02aV9DTO"
+        },
+        {
+            "created_at": "2019-05-29T11:28:57.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!UM89Wk",
+                        "end": 275,
+                        "expanded_url": "https://europa.eu/!UM89Wk",
+                        "start": 252,
+                        "url": "https://t.co/PFCv5K0361"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/PkgDM1Bpss",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133696729155551232/photo/1",
+                        "start": 276,
+                        "url": "https://t.co/PkgDM1Bpss"
+                    }
+                ]
+            },
+            "id": "1133696729155551232",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 93,
+                "quote_count": 4,
+                "reply_count": 8,
+                "retweet_count": 45
+            },
+            "text": "Nous saluons l\u2019entr\u00e9e en vigueur de la Zone de libre-\u00e9change continentale africaine.\nC'est un pilier de l'Alliance Afrique-Europe, car le commerce et des march\u00e9s int\u00e9gr\u00e9s en Afrique favoriseront les investissements durables et la cr\u00e9ation d'emplois.\n\u2192 https://t.co/PFCv5K0361 https://t.co/PkgDM1Bpss"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Electronic",
+                        "id": "849684313704611840",
+                        "name": "Electronic music"
+                    }
+                }
+            ],
+            "created_at": "2019-05-29T11:22:28.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!FM44Nk",
+                        "end": 277,
+                        "expanded_url": "https://europa.eu/!FM44Nk",
+                        "start": 254,
+                        "url": "https://t.co/t4Oa5cAqp4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/JouMLJm7qP",
+                        "end": 301,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133695097508376578/photo/1",
+                        "start": 278,
+                        "url": "https://t.co/JouMLJm7qP"
+                    }
+                ]
+            },
+            "id": "1133695097508376578",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 58,
+                "quote_count": 4,
+                "reply_count": 4,
+                "retweet_count": 35
+            },
+            "text": "Our new rules will support digitalisation and transparency of companies' financial reports.\nCompanies listed in the EU capital markets will need to use up-to-date digitalised business reporting systems.\nMore about the European Single Electronic Format \u2192 https://t.co/t4Oa5cAqp4 https://t.co/JouMLJm7qP"
+        },
+        {
+            "created_at": "2019-05-29T11:18:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 146,
+                        "normalized_text": "EU",
+                        "probability": 0.3724,
+                        "start": 145,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 276,
+                        "start": 256,
+                        "tag": "DigitalSingleMarket"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Nq34RM",
+                        "end": 255,
+                        "expanded_url": "https://europa.eu/!Nq34RM",
+                        "start": 232,
+                        "url": "https://t.co/Y9mZ79e3sV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Xus9yvM2oF",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133694131652431872/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/Xus9yvM2oF"
+                    }
+                ]
+            },
+            "id": "1133694131652431872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 69,
+                "quote_count": 6,
+                "reply_count": 4,
+                "retweet_count": 60
+            },
+            "text": "The new Regulation on the free flow of non-personal data has entered into force. It will allow data to be stored and processed everywhere in the EU without unjustified restrictions.\nSee new guidance to help users, especially SMEs \u2192 https://t.co/Y9mZ79e3sV #DigitalSingleMarket https://t.co/Xus9yvM2oF"
+        },
+        {
+            "created_at": "2019-05-29T11:12:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Ditte Juul J\u00f8rgensen",
+                        "probability": 0.7404,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Sabine Weyand",
+                        "probability": 0.9176,
+                        "start": 86,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Pascal Leardini",
+                        "probability": 0.824,
+                        "start": 134,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!wv98hr",
+                        "end": 241,
+                        "expanded_url": "https://europa.eu/!wv98hr",
+                        "start": 218,
+                        "url": "https://t.co/MviyuOvmwA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/5KmdlSHhZk",
+                        "end": 265,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133692550748016640/photo/1",
+                        "start": 242,
+                        "url": "https://t.co/5KmdlSHhZk"
+                    }
+                ]
+            },
+            "id": "1133692550748016640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 101,
+                "quote_count": 17,
+                "reply_count": 5,
+                "retweet_count": 44
+            },
+            "text": "We have decided to appoint:\n- Ditte Juul J\u00f8rgensen as Director-General of DG Energy\n- Sabine Weyand as Director-General of DG Trade\n- Pascal Leardini as Deputy Secretary-General and Chief Operating Officer\nMore here \u2192 https://t.co/MviyuOvmwA https://t.co/5KmdlSHhZk"
+        },
+        {
+            "created_at": "2019-05-29T11:08:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 178,
+                        "normalized_text": "Albania",
+                        "probability": 0.9825,
+                        "start": 172,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 198,
+                        "normalized_text": "North Macedonia",
+                        "probability": 0.9539,
+                        "start": 184,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 207,
+                        "normalized_text": "Albania",
+                        "probability": 0.3813,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 249,
+                        "normalized_text": "North Macedonia",
+                        "probability": 0.3825,
+                        "start": 235,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 133,
+                        "id": "206717989",
+                        "start": 123,
+                        "username": "EUCouncil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!uU98fx",
+                        "end": 234,
+                        "expanded_url": "https://europa.eu/!uU98fx",
+                        "start": 211,
+                        "url": "https://t.co/maMHIv50Dt"
+                    },
+                    {
+                        "display_url": "europa.eu/!JG66nY",
+                        "end": 276,
+                        "expanded_url": "https://europa.eu/!JG66nY",
+                        "start": 253,
+                        "url": "https://t.co/xWor4xsVlJ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pCOUcUCjNo",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133691557243170817/video/1",
+                        "start": 277,
+                        "url": "https://t.co/pCOUcUCjNo"
+                    }
+                ]
+            },
+            "id": "1133691557243170817",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 106,
+                "quote_count": 10,
+                "reply_count": 20,
+                "retweet_count": 61
+            },
+            "text": "Some partners have made progress and demonstrated commitment to the European perspective; therefore, we recommend that the @EUCouncil now opens accession negotiations with Albania and North Macedonia.\nAlbania \u2192 https://t.co/maMHIv50Dt\nNorth Macedonia \u2192 https://t.co/xWor4xsVlJ https://t.co/pCOUcUCjNo"
+        },
+        {
+            "created_at": "2019-05-29T10:57:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 213,
+                        "normalized_text": "Western Balkan",
+                        "probability": 0.4437,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 233,
+                        "normalized_text": "Turkey",
+                        "probability": 0.8881,
+                        "start": 228,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 11,
+                        "tag": "EUenlargement"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jP88qx",
+                        "end": 272,
+                        "expanded_url": "https://europa.eu/!jP88qx",
+                        "start": 249,
+                        "url": "https://t.co/upy8h5NNeX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/H73eqJnHHc",
+                        "end": 296,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133688854408519682/photo/1",
+                        "start": 273,
+                        "url": "https://t.co/H73eqJnHHc"
+                    }
+                ]
+            },
+            "id": "1133688854408519682",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 115,
+                "quote_count": 10,
+                "reply_count": 21,
+                "retweet_count": 72
+            },
+            "text": "A credible #EUenlargement policy is a geostrategic investment in peace, stability, security and economic growth. \nToday we are publishing the annual assessment of the implementation of reforms in the Western Balkan partners and Turkey.\nLearn more \u2192 https://t.co/upy8h5NNeX https://t.co/H73eqJnHHc"
+        },
+        {
+            "created_at": "2019-05-29T07:25:29.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bJ80PbDFuM",
+                        "end": 218,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133635456615243781/photo/1",
+                        "start": 195,
+                        "url": "https://t.co/bJ80PbDFuM"
+                    }
+                ]
+            },
+            "id": "1133635456615243781",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 240,
+                "quote_count": 5,
+                "reply_count": 13,
+                "retweet_count": 92
+            },
+            "text": "The flag today represents hope and peace. A story of common values, goals, standards and policies developed together, leading to a stronger union between Europeans. \n\nUnity. Hope. Determination. https://t.co/bJ80PbDFuM"
+        },
+        {
+            "created_at": "2019-05-29T07:24:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 91,
+                        "normalized_text": "Europe",
+                        "probability": 0.9494,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 230,
+                        "normalized_text": "Europe",
+                        "probability": 0.9844,
+                        "start": 225,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/DgA0ooWqPk",
+                        "end": 256,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133635176456740865/photo/1",
+                        "start": 233,
+                        "url": "https://t.co/DgA0ooWqPk"
+                    }
+                ]
+            },
+            "id": "1133635176456740865",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 215,
+                "quote_count": 6,
+                "reply_count": 8,
+                "retweet_count": 70
+            },
+            "text": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\n\"Over the blue of the sky, the stars represent the people of Europe\u201d. \n12 golden stars in a circle on a blue background that symbolize the ideals of unity, solidarity and harmony among the peoples of Europe. https://t.co/DgA0ooWqPk"
+        },
+        {
+            "created_at": "2019-05-29T07:21:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Council of Europe",
+                        "probability": 0.6377,
+                        "start": 64,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/BBOYzfviKg",
+                        "end": 145,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133634428746567680/video/1",
+                        "start": 122,
+                        "url": "https://t.co/BBOYzfviKg"
+                    }
+                ]
+            },
+            "id": "1133634428746567680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 73,
+                "quote_count": 4,
+                "reply_count": 4,
+                "retweet_count": 33
+            },
+            "text": "But where did that flag come from? \nWell, it was adopted by the Council of Europe after looking at citizens' suggestions. https://t.co/BBOYzfviKg"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10053505069",
+                        "name": "Eurovision 2018"
+                    }
+                }
+            ],
+            "created_at": "2019-05-29T07:20:10.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "EU",
+                        "probability": 0.5684,
+                        "start": 25,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 109,
+                        "normalized_text": "Brussels",
+                        "probability": 0.9648,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Sandra Kim",
+                        "probability": 0.9921,
+                        "start": 150,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 268,
+                        "start": 257,
+                        "tag": "EUarchives"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/zZbKwBXM6S",
+                        "end": 295,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133634117864759296/video/1",
+                        "start": 272,
+                        "url": "https://t.co/zZbKwBXM6S"
+                    }
+                ]
+            },
+            "id": "1133634117864759296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 799,
+                "quote_count": 36,
+                "reply_count": 26,
+                "retweet_count": 328
+            },
+            "text": "On this day in 1986, the EU flag was first raised in front of our headquarters.\nIt was a rainy day in Brussels but the sun shone just long enough for Sandra Kim to sing ''J'aime la vie'', the winner of Eurovision that year.\nKeep scrolling for a bit more of #EUarchives \u2935\ufe0f https://t.co/zZbKwBXM6S"
+        },
+        {
+            "created_at": "2019-05-28T16:07:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Europe",
+                        "probability": 0.9813,
+                        "start": 25,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qk93BB",
+                        "end": 159,
+                        "expanded_url": "https://europa.eu/!qk93BB",
+                        "start": 136,
+                        "url": "https://t.co/WSB0tUO9Vt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LRyZ2GKDQc",
+                        "end": 183,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133404484913238016/photo/1",
+                        "start": 160,
+                        "url": "https://t.co/LRyZ2GKDQc"
+                    }
+                ]
+            },
+            "id": "1133404484913238016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 96,
+                "quote_count": 9,
+                "reply_count": 10,
+                "retweet_count": 84
+            },
+            "text": "Last week, you voted for Europe.\nBut, how will the new European Commission President and Commissioners be elected?\nFind out more here \u2192 https://t.co/WSB0tUO9Vt https://t.co/LRyZ2GKDQc"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jean Claude Juncker",
+                        "id": "859809389066113026",
+                        "name": "Jean Claude Juncker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Jean Claude Juncker",
+                        "id": "859809389066113026",
+                        "name": "Jean Claude Juncker"
+                    }
+                }
+            ],
+            "created_at": "2019-05-28T15:43:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 30,
+                        "tag": "EUCO"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "169426475",
+                        "start": 10,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!wV89GH",
+                        "end": 168,
+                        "expanded_url": "https://europa.eu/!wV89GH",
+                        "start": 145,
+                        "url": "https://t.co/WyloRHkRtg"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/8VTuarAUVK",
+                        "end": 192,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133398516825563137/photo/1",
+                        "start": 169,
+                        "url": "https://t.co/8VTuarAUVK"
+                    }
+                ]
+            },
+            "id": "1133398516825563137",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 92,
+                "quote_count": 8,
+                "reply_count": 12,
+                "retweet_count": 44
+            },
+            "text": "President @JunckerEU ahead of #EUCO: \n\n\"Last time round the Spitzenkandidat became European Commission President. Should happen this time too.\u201d\n\nhttps://t.co/WyloRHkRtg https://t.co/8VTuarAUVK"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-27T15:06:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 58,
+                        "tag": "EUelections2019"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/qxYWk8dgcd",
+                        "end": 98,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1133026587430019072/photo/1",
+                        "start": 75,
+                        "url": "https://t.co/qxYWk8dgcd"
+                    }
+                ]
+            },
+            "id": "1133026587430019072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 246,
+                "quote_count": 1,
+                "reply_count": 9,
+                "retweet_count": 83
+            },
+            "text": "Every vote counts. Thank you for making your voice heard.\n#EUelections2019 https://t.co/qxYWk8dgcd"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-27T10:38:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 250,
+                        "start": 243,
+                        "tag": "EP2019"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ziIklSpszP",
+                        "end": 274,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1132959139905384450/video/1",
+                        "start": 251,
+                        "url": "https://t.co/ziIklSpszP"
+                    }
+                ]
+            },
+            "id": "1132959139905384450",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 806,
+                "quote_count": 34,
+                "reply_count": 105,
+                "retweet_count": 377
+            },
+            "text": "The European elections were the tangible proof that European democracy is alive and well.\nThe highest turnout in 20 years is testament to the active involvement of Europeans who are engaging, participating and shaping the future of our Union.\n#EP2019 https://t.co/ziIklSpszP"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-26T06:39:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Europe",
+                        "probability": 0.9315,
+                        "start": 20,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 54,
+                        "start": 38,
+                        "tag": "EUelections2019"
+                    },
+                    {
+                        "end": 72,
+                        "start": 55,
+                        "tag": "ThisTimeImVoting"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/XiHcTHf5NX",
+                        "end": 96,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1132536662502912000/photo/1",
+                        "start": 73,
+                        "url": "https://t.co/XiHcTHf5NX"
+                    }
+                ]
+            },
+            "id": "1132536662502912000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2950,
+                "quote_count": 115,
+                "reply_count": 129,
+                "retweet_count": 1352
+            },
+            "text": "Vote. \nVote for the Europe you want.  #EUelections2019 #ThisTimeImVoting https://t.co/XiHcTHf5NX"
+        },
+        {
+            "created_at": "2019-05-24T15:04:15.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/LwFuXuG1rE",
+                        "end": 273,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131938970512830465/photo/1",
+                        "start": 250,
+                        "url": "https://t.co/LwFuXuG1rE"
+                    }
+                ]
+            },
+            "id": "1131938970512830465",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2855,
+                "quote_count": 155,
+                "reply_count": 143,
+                "retweet_count": 1577
+            },
+            "text": "\ud83d\udd4a\ufe0fVote for peace\n\u2614\ufe0fVote for climate action\n\ud83c\udff3\ufe0f\u200d\ud83c\udf08Vote for equality\n\ud83d\udc6e\u200d\u2640\ufe0fVote for shared security\n\ud83c\udf4eVote for safe food\n\ud83d\udc3f\ufe0fVote for biodiversity\n\ud83d\udcdcVote for social rights\n\ud83d\udc68\u200d\ud83c\udf93Vote for more Erasmus generations\n\ud83d\uddf3\ufe0fVote for democracy\n\n\ud83c\uddea\ud83c\uddfa Choose your why and vote! https://t.co/LwFuXuG1rE"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-24T12:48:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Europe",
+                        "probability": 0.9682,
+                        "start": 28,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 178,
+                        "start": 161,
+                        "tag": "ThisTimeImVoting"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/TvZ8DCCSlc",
+                        "end": 202,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131904922667147264/photo/1",
+                        "start": 179,
+                        "url": "https://t.co/TvZ8DCCSlc"
+                    }
+                ]
+            },
+            "id": "1131904922667147264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 332,
+                "quote_count": 14,
+                "reply_count": 19,
+                "retweet_count": 176
+            },
+            "text": "You can shape the future of Europe.\nYou can exercise your right to vote.\nYou can persuade your family and friends to vote too.\n\nThis is your chance to be heard. #ThisTimeImVoting https://t.co/TvZ8DCCSlc"
+        },
+        {
+            "created_at": "2019-05-24T11:09:47.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ROQzeRpIwB",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131879963949506560/video/1",
+                        "start": 87,
+                        "url": "https://t.co/ROQzeRpIwB"
+                    }
+                ]
+            },
+            "id": "1131879963949506560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 330,
+                "quote_count": 23,
+                "reply_count": 33,
+                "retweet_count": 176
+            },
+            "text": "Your rights as a citizen are enshrined in the Charter of Fundamental Rights of the EU. https://t.co/ROQzeRpIwB"
+        },
+        {
+            "created_at": "2019-05-24T10:26:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 19,
+                        "normalized_text": "European Council",
+                        "probability": 0.4387,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1131869152547868672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 126,
+                "quote_count": 24,
+                "reply_count": 57,
+                "retweet_count": 73
+            },
+            "text": "The European Council stated on 10 April 2019 that there can be \u201cno opening of the Withdrawal Agreement\u201d. It is the best and only deal possible."
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Theresa May",
+                        "id": "844613906882449408",
+                        "name": "Theresa May"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jean Claude Juncker",
+                        "id": "859809389066113026",
+                        "name": "Jean Claude Juncker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Theresa May",
+                        "id": "844613906882449408",
+                        "name": "Theresa May"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Jean Claude Juncker",
+                        "id": "859809389066113026",
+                        "name": "Jean Claude Juncker"
+                    }
+                }
+            ],
+            "created_at": "2019-05-24T10:26:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "PM Theresa",
+                        "probability": 0.6164,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 170,
+                        "normalized_text": "Prime Minister",
+                        "probability": 0.5186,
+                        "start": 157,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 247,
+                        "normalized_text": "Theresa May.",
+                        "probability": 0.5921,
+                        "start": 236,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "169426475",
+                        "start": 10,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/RrPTEDgKHv",
+                        "end": 272,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131869148500418560/video/1",
+                        "start": 249,
+                        "url": "https://t.co/RrPTEDgKHv"
+                    }
+                ]
+            },
+            "id": "1131869148500418560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 204,
+                "quote_count": 24,
+                "reply_count": 24,
+                "retweet_count": 115
+            },
+            "text": "President @JunckerEU followed PM Theresa May's announcement this morning \u2013without personal joy. He will respect and establish working relations with any new Prime Minister, whomever they may be \u2013 without stopping his conversations with Theresa May. https://t.co/RrPTEDgKHv"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-23T10:24:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "European Union",
+                        "probability": 0.4003,
+                        "start": 9,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 163,
+                        "start": 147,
+                        "tag": "EUelections2019"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/djs1NmJcaN",
+                        "end": 187,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131506193137061893/photo/1",
+                        "start": 164,
+                        "url": "https://t.co/djs1NmJcaN"
+                    }
+                ]
+            },
+            "id": "1131506193137061893",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 739,
+                "quote_count": 23,
+                "reply_count": 33,
+                "retweet_count": 282
+            },
+            "text": "When the European Union is united, we can do a lot together.\nBy working in unison, we are far greater than the sum of our parts. \ud83c\uddea\ud83c\uddfa\nGo vote in the #EUelections2019 https://t.co/djs1NmJcaN"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-23T09:47:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Europe",
+                        "probability": 0.8798,
+                        "start": 35,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 161,
+                        "start": 144,
+                        "tag": "ThisTimeImVoting"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/moments/1127\u2026",
+                        "end": 185,
+                        "expanded_url": "https://twitter.com/i/moments/1127923586751172618",
+                        "start": 162,
+                        "url": "https://t.co/hFQpr31JGu"
+                    }
+                ]
+            },
+            "id": "1131496975248052224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 120,
+                "quote_count": 6,
+                "reply_count": 8,
+                "retweet_count": 64
+            },
+            "text": "What has the EU done for me today?\nEurope supports you at every step you take!\n\nDiscover how in our series \u201cA Day in the Life of an EU Citizen\u201d\n#ThisTimeImVoting\nhttps://t.co/hFQpr31JGu"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Soccer action from the German Bundesliga.",
+                        "id": "10039036407",
+                        "name": "Bundesliga Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10039215494",
+                        "name": "Bundesliga Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "733774334632726529",
+                        "name": "Danny Da Costa"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "733774662593712128",
+                        "name": "Gelson Fernandes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226221481091072",
+                        "name": "Eintracht Frankfurt"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "id": "733774334632726529",
+                        "name": "Danny Da Costa"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "id": "733774662593712128",
+                        "name": "Gelson Fernandes"
+                    }
+                }
+            ],
+            "created_at": "2019-05-23T07:39:29.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Danny da Costa",
+                        "probability": 0.8499,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 42,
+                        "normalized_text": "Frederik R\u00f8nnow",
+                        "probability": 0.4834,
+                        "start": 28,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "Frankfurt",
+                        "probability": 0.8309,
+                        "start": 142,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 210,
+                        "start": 189,
+                        "tag": "EuropeanElection2019"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "3008786009",
+                        "start": 15,
+                        "username": "gpaciencia9"
+                    },
+                    {
+                        "end": 60,
+                        "id": "2978743984",
+                        "start": 44,
+                        "username": "GelsonFernandes"
+                    },
+                    {
+                        "end": 72,
+                        "id": "728188038",
+                        "start": 61,
+                        "username": "LucasTorro"
+                    },
+                    {
+                        "end": 139,
+                        "id": "120127817",
+                        "start": 129,
+                        "username": "Eintracht"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/QzQpKuvXD3",
+                        "end": 252,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131464654843199488/video/1",
+                        "start": 229,
+                        "url": "https://t.co/QzQpKuvXD3"
+                    }
+                ]
+            },
+            "id": "1131464654843199488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 219,
+                "quote_count": 20,
+                "reply_count": 3,
+                "retweet_count": 76
+            },
+            "text": "Danny da Costa\n@GPaciencia9\nFrederik R\u00f8nnow\n@GelsonFernandes\n@LucasTorro\nAdi H\u00fctter\n\nThey all have a message for you: VOTE.\n\n\u26bd\ufe0f\ud83c\uddea\ud83c\uddfa@Eintracht Frankfurt calls on citizens to go to vote in the #EuropeanElection2019 (23-26 May 2019). https://t.co/QzQpKuvXD3"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-23T06:15:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 101,
+                        "normalized_text": "European Parliament",
+                        "probability": 0.4893,
+                        "start": 83,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 135,
+                        "normalized_text": "Simone Veil",
+                        "probability": 0.9424,
+                        "start": 125,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 197,
+                        "start": 179,
+                        "tag": "ThrowbackThursday"
+                    },
+                    {
+                        "end": 214,
+                        "start": 198,
+                        "tag": "EUelections2019"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/aPkasaf4jD",
+                        "end": 238,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131443390871031809/video/1",
+                        "start": 215,
+                        "url": "https://t.co/aPkasaf4jD"
+                    }
+                ]
+            },
+            "id": "1131443390871031809",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 585,
+                "quote_count": 28,
+                "reply_count": 16,
+                "retweet_count": 267
+            },
+            "text": "In 1979, for the first time, European citizens directly elected the members of the European Parliament.\nFollowing this vote, Simone Veil was elected President of the Parliament.\n\n#ThrowbackThursday #EUelections2019 https://t.co/aPkasaf4jD"
+        },
+        {
+            "created_at": "2019-05-22T14:25:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 37,
+                        "tag": "CleanEnergyEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/IQowcB5W2z",
+                        "end": 115,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131204338460823552/video/1",
+                        "start": 92,
+                        "url": "https://t.co/IQowcB5W2z"
+                    }
+                ]
+            },
+            "id": "1131204338460823552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 83,
+                "quote_count": 2,
+                "reply_count": 4,
+                "retweet_count": 40
+            },
+            "text": "Worried about your energy bills?\nOur #CleanEnergyEU rules strengthen your consumer rights \u2193 https://t.co/IQowcB5W2z"
+        },
+        {
+            "created_at": "2019-05-22T12:00:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 0,
+                        "tag": "HappyBirthdayGDPR"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/dataprotection",
+                        "end": 271,
+                        "expanded_url": "http://europa.eu/dataprotection",
+                        "start": 248,
+                        "url": "https://t.co/aWs9Ksrsjs"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/7K9TncTvSz",
+                        "end": 295,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131167923731668999/photo/1",
+                        "start": 272,
+                        "url": "https://t.co/7K9TncTvSz"
+                    }
+                ]
+            },
+            "id": "1131167923731668999",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 138,
+                "quote_count": 6,
+                "reply_count": 10,
+                "retweet_count": 81
+            },
+            "text": "#HappyBirthdayGDPR!\nOne year of stronger and new rights for citizens. \nThe right to access your data, correct it, delete it, to know if you data is lost and to have your rights protected even if the company is based outside of the EU.\nLearn more \u2192 https://t.co/aWs9Ksrsjs https://t.co/7K9TncTvSz"
+        },
+        {
+            "created_at": "2019-05-22T10:18:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 123,
+                        "tag": "CleanEnergyEU"
+                    },
+                    {
+                        "end": 198,
+                        "start": 186,
+                        "tag": "EnergyUnion"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 75,
+                        "id": "206717989",
+                        "start": 65,
+                        "username": "EUCouncil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Yk43Fv",
+                        "end": 274,
+                        "expanded_url": "https://europa.eu/!Yk43Fv",
+                        "start": 251,
+                        "url": "https://t.co/k6cQbaj6jR"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/YIy4dwMCS0",
+                        "end": 298,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131142268017152000/photo/1",
+                        "start": 275,
+                        "url": "https://t.co/YIy4dwMCS0"
+                    }
+                ]
+            },
+            "id": "1131142268017152000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 94,
+                "quote_count": 11,
+                "reply_count": 3,
+                "retweet_count": 57
+            },
+            "text": "Our clean energy for all Europeans package is now completed!\nThe @EUCouncil formally adopted the remaining elements of the #CleanEnergyEU package we presented in 2016.\n\nWe have made the #EnergyUnion a reality, for the benefit of all Europeans.\nMore \u2192 https://t.co/k6cQbaj6jR https://t.co/YIy4dwMCS0"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T09:49:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 131,
+                        "tag": "EUandME"
+                    },
+                    {
+                        "end": 157,
+                        "start": 140,
+                        "tag": "ThisTimeImVoting"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/euandme/",
+                        "end": 63,
+                        "expanded_url": "https://europa.eu/euandme/",
+                        "start": 40,
+                        "url": "https://t.co/aD8gAuNZqx"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BY90RMHgYo",
+                        "end": 181,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131134917746876416/photo/1",
+                        "start": 158,
+                        "url": "https://t.co/BY90RMHgYo"
+                    }
+                ]
+            },
+            "id": "1131134917746876416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 96,
+                "quote_count": 4,
+                "reply_count": 6,
+                "retweet_count": 58
+            },
+            "text": "That's 20 ways you benefit from the EU:\nhttps://t.co/aD8gAuNZqx\n\nThe future of the EU \ud83c\uddea\ud83c\uddfa is decided this week. Your vote matters. \n#EUandME\n#ThisTimeImVoting https://t.co/BY90RMHgYo"
+        },
+        {
+            "created_at": "2019-05-22T09:35:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "EU",
+                        "probability": 0.6525,
+                        "start": 35,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 157,
+                        "start": 149,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/P63pG2DcvH",
+                        "end": 181,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131131548328222721/video/1",
+                        "start": 158,
+                        "url": "https://t.co/P63pG2DcvH"
+                    }
+                ]
+            },
+            "id": "1131131548328222721",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 72,
+                "quote_count": 1,
+                "reply_count": 6,
+                "retweet_count": 37
+            },
+            "text": "How can we do more with less? \nThe EU has dedicated over \u20ac77 billion to fund projects developing innovative technologies.\nSo what's your smart idea?\n#EUandME https://t.co/P63pG2DcvH"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Careers",
+                        "id": "847544972781826048",
+                        "name": "Careers"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T09:29:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 175,
+                        "start": 167,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5HhggHNO4C",
+                        "end": 199,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131130050466721793/video/1",
+                        "start": 176,
+                        "url": "https://t.co/5HhggHNO4C"
+                    }
+                ]
+            },
+            "id": "1131130050466721793",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 59,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 39
+            },
+            "text": "Wondering what to do next? \nThe EU's youth guarantee aims to allow young people under 25 to kick start their career or continue their education.  \nSo, it\u2019s your move!\n#EUandME https://t.co/5HhggHNO4C"
+        },
+        {
+            "created_at": "2019-05-22T09:24:34.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "EU",
+                        "probability": 0.4108,
+                        "start": 63,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 217,
+                        "start": 209,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bcGbBtyzVd",
+                        "end": 241,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131128710302785537/video/1",
+                        "start": 218,
+                        "url": "https://t.co/bcGbBtyzVd"
+                    }
+                ]
+            },
+            "id": "1131128710302785537",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 66,
+                "quote_count": 5,
+                "reply_count": 2,
+                "retweet_count": 47
+            },
+            "text": "Familiar with your social rights?\nAs a European working in the EU, you are entitled to a minimum of 4 weeks paid leave, social security protection and safety guarantees in your workplace.\nSo, use your rights!\n#EUandME https://t.co/bcGbBtyzVd"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Fashion",
+                        "id": "844603730221707264",
+                        "name": "Fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Behavior around Fashion",
+                        "id": "1006277139233103872",
+                        "name": "Behavior around fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Fashion",
+                        "id": "844603730221707264",
+                        "name": "Fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Fashion",
+                        "id": "844604232737087488",
+                        "name": "General Fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fashion",
+                        "id": "846810837301932032",
+                        "name": "Shoes"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T09:15:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 198,
+                        "start": 190,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/hn7AdO5ZH5",
+                        "end": 222,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131126403829764096/video/1",
+                        "start": 199,
+                        "url": "https://t.co/hn7AdO5ZH5"
+                    }
+                ]
+            },
+            "id": "1131126403829764096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 56,
+                "quote_count": 2,
+                "reply_count": 3,
+                "retweet_count": 33
+            },
+            "text": "Do you flip-flop when buying shoes online?\nIn the EU, we have among the strongest consumer protection rules in the world. \nSo you can change your mind about online purchases within 14 days.\n#EUandME https://t.co/hn7AdO5ZH5"
+        },
+        {
+            "created_at": "2019-05-22T09:08:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 146,
+                        "start": 138,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/BxQAhYBT81",
+                        "end": 170,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131124561406320640/video/1",
+                        "start": 147,
+                        "url": "https://t.co/BxQAhYBT81"
+                    }
+                ]
+            },
+            "id": "1131124561406320640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 82,
+                "quote_count": 6,
+                "reply_count": 7,
+                "retweet_count": 46
+            },
+            "text": "Who has the strongest rules in the world to protect personal data? \nThe European Union!\nSo you are the one who controls your data online.\n#EUandME https://t.co/BxQAhYBT81"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Investing",
+                        "id": "847894353708068864",
+                        "name": "Investing"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T09:02:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "EU",
+                        "probability": 0.4255,
+                        "start": 60,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 166,
+                        "start": 158,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/vtCuBJkKgo",
+                        "end": 190,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131123100907724800/video/1",
+                        "start": 167,
+                        "url": "https://t.co/vtCuBJkKgo"
+                    }
+                ]
+            },
+            "id": "1131123100907724800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 77,
+                "quote_count": 2,
+                "reply_count": 7,
+                "retweet_count": 47
+            },
+            "text": "Are you dreaming about launching a company of your own?\nThe EU is investing to support you and your business along the way. \nSo get your business plan ready!\n#EUandME https://t.co/vtCuBJkKgo"
+        },
+        {
+            "created_at": "2019-05-22T08:56:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 101,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/yMLHHgKjaw",
+                        "end": 133,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131121629461995520/video/1",
+                        "start": 110,
+                        "url": "https://t.co/yMLHHgKjaw"
+                    }
+                ]
+            },
+            "id": "1131121629461995520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 75,
+                "quote_count": 1,
+                "reply_count": 8,
+                "retweet_count": 37
+            },
+            "text": "Do you want to know what's on your plate? \nThe EU ensures the safety of your food. \nSo, bon app\u00e9tit!\n#EUandME https://t.co/yMLHHgKjaw"
+        },
+        {
+            "created_at": "2019-05-22T08:51:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 169,
+                        "start": 161,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/FtD81gqU0e",
+                        "end": 193,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131120352988413953/video/1",
+                        "start": 170,
+                        "url": "https://t.co/FtD81gqU0e"
+                    }
+                ]
+            },
+            "id": "1131120352988413953",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 78,
+                "quote_count": 5,
+                "reply_count": 9,
+                "retweet_count": 43
+            },
+            "text": "Do you think that plastic is not so fantastic? We agree! \nIn the EU, non-recyclable plastic packaging will be a thing of the past by 2030. \nSo bye bye plastics!\n#EUandME https://t.co/FtD81gqU0e"
+        },
+        {
+            "created_at": "2019-05-22T08:44:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 148,
+                        "start": 140,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/i6FMS3OFJ3",
+                        "end": 172,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131118703855120384/video/1",
+                        "start": 149,
+                        "url": "https://t.co/i6FMS3OFJ3"
+                    }
+                ]
+            },
+            "id": "1131118703855120384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 55,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 32
+            },
+            "text": "Accident-prone? It happens! \nWhatever your emergency, you can get hassle-free access to medical treatment across the EU. \nSo, safe travels!\n#EUandME https://t.co/i6FMS3OFJ3"
+        },
+        {
+            "created_at": "2019-05-22T08:39:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 226,
+                        "start": 218,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/am9Sx6hyJW",
+                        "end": 250,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131117255440392192/video/1",
+                        "start": 227,
+                        "url": "https://t.co/am9Sx6hyJW"
+                    }
+                ]
+            },
+            "id": "1131117255440392192",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 72,
+                "quote_count": 2,
+                "reply_count": 3,
+                "retweet_count": 37
+            },
+            "text": "We're all different - and that's what makes life interesting! \nAll Europeans have the right to live in peace and harmony, regardless of their age, gender, race, religion or sexual orientation. \nSo you can be yourself.\n#EUandME https://t.co/am9Sx6hyJW"
+        },
+        {
+            "created_at": "2019-05-22T08:32:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 157,
+                        "start": 149,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/dhYDZYS2hj",
+                        "end": 181,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131115562560577536/video/1",
+                        "start": 158,
+                        "url": "https://t.co/dhYDZYS2hj"
+                    }
+                ]
+            },
+            "id": "1131115562560577536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 70,
+                "quote_count": 1,
+                "reply_count": 4,
+                "retweet_count": 36
+            },
+            "text": "Do you live life on the wild side? \nThe EU has 27 000 designated wild sites protecting animal and plant species from extinction.\nSo start exploring!\n#EUandME https://t.co/dhYDZYS2hj"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Hybrid and electric vehicles",
+                        "id": "847528576551337984",
+                        "name": "Hybrid and electric vehicles"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Investing",
+                        "id": "847894353708068864",
+                        "name": "Investing"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T08:28:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 191,
+                        "start": 183,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/nJAsfzUtL4",
+                        "end": 215,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131114659199750144/video/1",
+                        "start": 192,
+                        "url": "https://t.co/nJAsfzUtL4"
+                    }
+                ]
+            },
+            "id": "1131114659199750144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 66,
+                "quote_count": 2,
+                "reply_count": 6,
+                "retweet_count": 29
+            },
+            "text": "Are you looking to go green? \nThe EU is investing in high-speed rail, charging points for electric cars, and other sustainable modes of transport. \nSo that we won't need a planet B. \n#EUandME https://t.co/nJAsfzUtL4"
+        },
+        {
+            "created_at": "2019-05-22T08:25:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 162,
+                        "start": 154,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/D6r8S7TAwU",
+                        "end": 186,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131113916170477568/video/1",
+                        "start": 163,
+                        "url": "https://t.co/D6r8S7TAwU"
+                    }
+                ]
+            },
+            "id": "1131113916170477568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 55,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 30
+            },
+            "text": "Just finished your studies, or looking for a job? \nThe EU can help you sharpen your skills and make your CV stand out.\nSo you can realise your ambitions!\n#EUandME https://t.co/D6r8S7TAwU"
+        },
+        {
+            "created_at": "2019-05-22T08:20:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 193,
+                        "start": 185,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/6ps5wD0Cq9",
+                        "end": 217,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131112580666273793/video/1",
+                        "start": 194,
+                        "url": "https://t.co/6ps5wD0Cq9"
+                    }
+                ]
+            },
+            "id": "1131112580666273793",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 52,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 34
+            },
+            "text": "Do you have big plans for the summer holiday?\nEU rules can help you get compensated if your travels hit an unexpected bump in the road.  \nSo the trip doesn't become half the journey...\n#EUandME https://t.co/6ps5wD0Cq9"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T08:15:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 124,
+                        "start": 108,
+                        "tag": "EUelections2019"
+                    },
+                    {
+                        "end": 181,
+                        "start": 173,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/2bzHu5T9XW",
+                        "end": 205,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131111304431902720/video/1",
+                        "start": 182,
+                        "url": "https://t.co/2bzHu5T9XW"
+                    }
+                ]
+            },
+            "id": "1131111304431902720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 61,
+                "quote_count": 2,
+                "reply_count": 5,
+                "retweet_count": 36
+            },
+            "text": "Are you eager to have your say?\nAs an EU citizen, you have the right to vote and to stand as a candidate in #EUelections2019 and local elections.\nSo why not use your voice?\n#EUandME https://t.co/2bzHu5T9XW"
+        },
+        {
+            "created_at": "2019-05-22T08:10:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 190,
+                        "start": 182,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/BKFcwFjAww",
+                        "end": 214,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131110010904285184/video/1",
+                        "start": 191,
+                        "url": "https://t.co/BKFcwFjAww"
+                    }
+                ]
+            },
+            "id": "1131110010904285184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 66,
+                "quote_count": 1,
+                "reply_count": 4,
+                "retweet_count": 33
+            },
+            "text": "Don't want to miss an episode while you're abroad? \nWe have made sure that when you travel in the EU, your online subscriptions travel with you. \nSo no need to worry about spoilers!\n#EUandME https://t.co/BKFcwFjAww"
+        },
+        {
+            "created_at": "2019-05-22T08:04:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 199,
+                        "start": 191,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/UJVtfMeTPl",
+                        "end": 223,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131108558219747333/video/1",
+                        "start": 200,
+                        "url": "https://t.co/UJVtfMeTPl"
+                    }
+                ]
+            },
+            "id": "1131108558219747333",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 92,
+                "quote_count": 1,
+                "reply_count": 4,
+                "retweet_count": 50
+            },
+            "text": "Want to stay in touch across borders? \nWe have abolished roaming charges and capped the price of calling to another EU country.\nSo you can travel without getting hung up on your phone bill. \n#EUandME https://t.co/UJVtfMeTPl"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Travel",
+                        "id": "839159814991167489",
+                        "name": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Travel",
+                        "id": "839160129752686593",
+                        "name": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Destinations",
+                        "id": "857603051657482241",
+                        "name": "Destinations"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversations about travel and vacation.",
+                        "id": "839161975712067584",
+                        "name": "Travel Actions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Adventure travel",
+                        "id": "849076092111536128",
+                        "name": "Adventure travel"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T07:59:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 50,
+                        "normalized_text": "Europe",
+                        "probability": 0.99,
+                        "start": 45,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 117,
+                        "start": 109,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/uGqUbQuHLy",
+                        "end": 141,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131107193938423809/video/1",
+                        "start": 118,
+                        "url": "https://t.co/uGqUbQuHLy"
+                    }
+                ]
+            },
+            "id": "1131107193938423809",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 80,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 34
+            },
+            "text": "Looking for an adventure? \nTravelling within Europe is a fundamental EU freedom. \nSo you can pack your bags!\n#EUandME https://t.co/uGqUbQuHLy"
+        },
+        {
+            "created_at": "2019-05-22T07:53:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 161,
+                        "start": 153,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/qXWqPV9jjI",
+                        "end": 185,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131105912842805248/video/1",
+                        "start": 162,
+                        "url": "https://t.co/qXWqPV9jjI"
+                    }
+                ]
+            },
+            "id": "1131105912842805248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 96,
+                "quote_count": 3,
+                "reply_count": 5,
+                "retweet_count": 45
+            },
+            "text": "Do you dream to study in another EU country? \nThe EU's Erasmus programme is there for you - and for over 5 million students so far. \nSo grab your books!\n#EUandME https://t.co/qXWqPV9jjI"
+        },
+        {
+            "created_at": "2019-05-22T07:49:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 163,
+                        "start": 155,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/1iIOv6I6gX",
+                        "end": 187,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131104827163983872/video/1",
+                        "start": 164,
+                        "url": "https://t.co/1iIOv6I6gX"
+                    }
+                ]
+            },
+            "id": "1131104827163983872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 117,
+                "quote_count": 6,
+                "reply_count": 13,
+                "retweet_count": 76
+            },
+            "text": "Ever wanted to work in another EU country?\nAs an EU citizen, you have a protected right to do so. \nSo you can seize the opportunities, wherever they are. \n#EUandME https://t.co/1iIOv6I6gX"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "description": "European elections",
+                        "id": "1093951580871614464",
+                        "name": "European elections"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T07:41:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "Europe",
+                        "probability": 0.9851,
+                        "start": 19,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 98,
+                        "tag": "ThisTimeImVoting"
+                    },
+                    {
+                        "end": 124,
+                        "start": 116,
+                        "tag": "EUandME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Qk72V8WUAH",
+                        "end": 148,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131102777046970369/photo/1",
+                        "start": 125,
+                        "url": "https://t.co/Qk72V8WUAH"
+                    }
+                ]
+            },
+            "id": "1131102777046970369",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1360,
+                "quote_count": 81,
+                "reply_count": 85,
+                "retweet_count": 693
+            },
+            "text": "Ever wondered what Europe does for you?\n20 ways the EU benefits you in your everyday life.\u00a0 \u2193 \nSo #ThisTimeImVoting\n#EUandME https://t.co/Qk72V8WUAH"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Pets",
+                        "id": "852262932607926273",
+                        "name": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Reptiles",
+                        "id": "852638925591949314",
+                        "name": "Reptiles"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Turtles",
+                        "id": "852658483748941824",
+                        "name": "Turtles"
+                    }
+                }
+            ],
+            "created_at": "2019-05-22T06:30:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 180,
+                        "normalized_text": "Adriatic",
+                        "probability": 0.7615,
+                        "start": 173,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 198,
+                        "normalized_text": "Mediterranean",
+                        "probability": 0.5612,
+                        "start": 186,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 9,
+                        "tag": "BiodiversityDay"
+                    },
+                    {
+                        "end": 56,
+                        "start": 45,
+                        "tag": "EUprotects"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!wx43hd",
+                        "end": 230,
+                        "expanded_url": "https://europa.eu/!wx43hd",
+                        "start": 207,
+                        "url": "https://t.co/RbezAboseu"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Gl7SVp4TsV",
+                        "end": 254,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131084890991190016/photo/1",
+                        "start": 231,
+                        "url": "https://t.co/Gl7SVp4TsV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Gl7SVp4TsV",
+                        "end": 254,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131084890991190016/photo/1",
+                        "start": 231,
+                        "url": "https://t.co/Gl7SVp4TsV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Gl7SVp4TsV",
+                        "end": 254,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131084890991190016/photo/1",
+                        "start": 231,
+                        "url": "https://t.co/Gl7SVp4TsV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Gl7SVp4TsV",
+                        "end": 254,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1131084890991190016/photo/1",
+                        "start": 231,
+                        "url": "https://t.co/Gl7SVp4TsV"
+                    }
+                ]
+            },
+            "id": "1131084890991190016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 139,
+                "quote_count": 9,
+                "reply_count": 3,
+                "retweet_count": 86
+            },
+            "text": "Today is #BiodiversityDay!\n\nFind out how the #EUprotects the environment and ecosystems by preserving endangered species like the Danube sturgeon and the sea turtles in the Adriatic and Mediterranean seas \u2192 https://t.co/RbezAboseu https://t.co/Gl7SVp4TsV"
+        },
+        {
+            "created_at": "2019-05-21T20:34:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 284,
+                        "start": 267,
+                        "tag": "PlasticsStrategy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!WC93DK",
+                        "end": 266,
+                        "expanded_url": "http://europa.eu/!WC93DK",
+                        "start": 243,
+                        "url": "https://t.co/SqDUJ7Mx2c"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/K6EYVxgRrD",
+                        "end": 308,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1130934971844239361/photo/1",
+                        "start": 285,
+                        "url": "https://t.co/K6EYVxgRrD"
+                    }
+                ]
+            },
+            "id": "1130934971844239361",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 201,
+                "quote_count": 13,
+                "reply_count": 7,
+                "retweet_count": 122
+            },
+            "text": "Final adoption of new rules on single-use plastics to reduce marine plastic litter. Ambitious measures to protect health of europeans&amp;safeguard natural environment. The 10 plastic items most often found on European beaches will be banned. https://t.co/SqDUJ7Mx2c #PlasticsStrategy https://t.co/K6EYVxgRrD"
+        },
+        {
+            "created_at": "2019-05-21T16:16:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 144,
+                        "start": 130,
+                        "tag": "EUHaveYourSay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Hh78Gm",
+                        "end": 129,
+                        "expanded_url": "https://europa.eu/!Hh78Gm",
+                        "start": 106,
+                        "url": "https://t.co/QNilt0nlxt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ay7jsWP9Yz",
+                        "end": 168,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1130870105410297857/video/1",
+                        "start": 145,
+                        "url": "https://t.co/ay7jsWP9Yz"
+                    }
+                ]
+            },
+            "id": "1130870105410297857",
+            "lang": "sv",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 1
+            },
+            "text": "Den Europeiska solidaritetsk\u00e5ren baserades p\u00e5 dina \u00e5sikter!\nForts\u00e4tt att utforma det EU som du vill ha \ud83c\uddea\ud83c\uddfa https://t.co/QNilt0nlxt\n#EUHaveYourSay https://t.co/ay7jsWP9Yz"
+        },
+        {
+            "created_at": "2019-05-21T16:00:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 165,
+                        "start": 151,
+                        "tag": "EUHaveYourSay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Hh78Gm",
+                        "end": 150,
+                        "expanded_url": "https://europa.eu/!Hh78Gm",
+                        "start": 127,
+                        "url": "https://t.co/QNilt0nlxt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QA8qgFD1oQ",
+                        "end": 189,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1130865929104035840/video/1",
+                        "start": 166,
+                        "url": "https://t.co/QA8qgFD1oQ"
+                    }
+                ]
+            },
+            "id": "1130865929104035840",
+            "lang": "sv",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 1
+            },
+            "text": "De nya reglerna f\u00f6r det Europeiska medborgarinitiativet baserades p\u00e5 dina \u00e5sikter.\nForts\u00e4tt att forma det EU som du vill ha \ud83c\uddea\ud83c\uddfa https://t.co/QNilt0nlxt\n#EUHaveYourSay https://t.co/QA8qgFD1oQ"
+        },
+        {
+            "created_at": "2019-05-21T13:18:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 147,
+                        "normalized_text": "Europe",
+                        "probability": 0.9887,
+                        "start": 142,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 273,
+                        "start": 262,
+                        "tag": "EUprotects"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/euprotects",
+                        "end": 261,
+                        "expanded_url": "https://europa.eu/euprotects",
+                        "start": 238,
+                        "url": "https://t.co/erLICTGVn1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/WWcaTr9lHq",
+                        "end": 297,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/1130825075286876161/photo/1",
+                        "start": 274,
+                        "url": "https://t.co/WWcaTr9lHq"
+                    }
+                ]
+            },
+            "id": "1130825075286876161",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 585,
+                "quote_count": 40,
+                "reply_count": 148,
+                "retweet_count": 166
+            },
+            "text": "We work together to protect you \ud83c\uddea\ud83c\uddfa.\nFrom health to environment and safety, we connect and support ordinary heroes and resources from across Europe to keep you and your family safe.\nFind out more about our local heroes and their stories \u2192 https://t.co/erLICTGVn1\n#EUprotects https://t.co/WWcaTr9lHq"
+        }
+    ],
+    "meta": {
+        "newest_id": "1136225554691252225",
+        "next_token": "b26v89c19zqg8o3fnltz9ldq5tgjwth51bizctjftgq65",
+        "oldest_id": "1130825075286876161",
+        "result_count": 100
+    }
+}
