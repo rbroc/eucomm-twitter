@@ -41,7 +41,7 @@ class Pretrainer:
                  n_epochs: int = 100, 
                  lr: float = 2e-5,
                  es_patience: int = 10):
-        self.name = model_checkpoint + '-finetuned'
+        self.name = f'{model_checkpoint}-finetuned-lr_{lr}-chunks_{chunk_size}'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
         self.model = TFAutoModelForMaskedLM.from_pretrained(model_checkpoint)
         self.chunk_size = chunk_size
