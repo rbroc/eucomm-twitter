@@ -9,7 +9,6 @@ import pandas as pd
 import wandb
 
 wandb.login()
-wandb.init(entity="rbroc", project="eu-twitter")
 
 class Pretrainer:
     """ Helper class for MLM pretraining
@@ -135,6 +134,7 @@ class Pretrainer:
 
 
     def fit(self):
+        wandb.init(entity="rbroc", project="eu-twitter")
         wandb_cb = wandb.keras.WandbCallback(monitor='val_loss',
                                              save_model=False,
                                              log_weights=True,
@@ -165,6 +165,8 @@ class Pretrainer:
             'post_val_perplexity': math.exp(eval_loss_post), 
             'post_test_perplexity': math.exp(test_loss_post)
             }
+
+        wandb.finish()
 
         return results
 
