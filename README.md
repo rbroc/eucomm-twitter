@@ -5,3 +5,5 @@ We use contextualized topic modeling through `OCTIS` on fine-tuned transformers 
 TODO:
 - Do MLM pretraining
 - Train and compare topic models
+- Look at engagement as a function of topics
+- Look at emotional content & engagement, as well as emotions ~ topics
