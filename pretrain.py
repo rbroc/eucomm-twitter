@@ -35,13 +35,14 @@ class Pretrainer:
     def __init__(self, 
                  model_checkpoint: str, 
                  df: pd.DataFrame, 
-                 train_prop: float =.9, 
+                 train_prop: float = .9, 
                  chunk_size: int = 50, 
                  mlm_prob: float = .15,
                  n_epochs: int = 100, 
                  lr: float = 2e-5,
                  es_patience: int = 5):
-        self.name = f'{model_checkpoint}-finetuned-lr_{lr}-chunks_{chunk_size}'
+        self.name = f'{model_checkpoint}-finetuned_lr-{lr}_chunks-{chunk_size}'
+        self.name = f'{self.name}_es_patience-{es_patience}'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
         self.model = TFAutoModelForMaskedLM.from_pretrained(model_checkpoint)
         self.chunk_size = chunk_size
@@ -134,7 +135,7 @@ class Pretrainer:
 
 
     def fit(self):
-        wandb.init(entity="rbroc", project="eu-twitter")
+        wandb.init(entity="rbroc", project="eu-twitter", name=self.name)
         wandb_cb = wandb.keras.WandbCallback(monitor='val_loss',
                                              save_model=False,
                                              log_weights=True,
