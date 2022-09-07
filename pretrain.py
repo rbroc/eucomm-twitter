@@ -1,10 +1,10 @@
+from numpy import save
 from transformers import TFAutoModelForMaskedLM, AutoTokenizer
 from datasets import Dataset
 from transformers import DataCollatorForLanguageModeling
 from transformers import create_optimizer
 import tensorflow as tf
 import math
-from tensorflow.keras.losses import SparseCategoricalCrossentropy
 import pandas as pd
 import wandb
 
@@ -29,7 +29,7 @@ class Pretrainer:
         Training epochs
     lr: float, default 2e-5,
         Initial learning rate
-    es_patience: int, default 10,
+    es_patience: int, default 5,
         Early stopping patience
     """
 
@@ -41,7 +41,7 @@ class Pretrainer:
                  mlm_prob: float = .15,
                  n_epochs: int = 100, 
                  lr: float = 2e-5,
-                 es_patience: int = 10):
+                 es_patience: int = 5):
         self.name = f'{model_checkpoint}-finetuned-lr_{lr}-chunks_{chunk_size}'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
         self.model = TFAutoModelForMaskedLM.from_pretrained(model_checkpoint)
@@ -117,7 +117,7 @@ class Pretrainer:
         num_train_steps = len([t for t in self.train_ds])
         optimizer, _ = create_optimizer(
             init_lr=self.lr,
-            num_warmup_steps=1_000,
+            num_warmup_steps=num_train_steps,
             num_train_steps=num_train_steps * self.n_epochs,
             weight_decay_rate=0.01,
         )
@@ -131,23 +131,42 @@ class Pretrainer:
 
     def compile(self):
         optimizer = self._make_optimizer()
-        self.model.compile(optimizer=optimizer, 
-                           loss=SparseCategoricalCrossentropy(from_logits=True))
+        self.model.compile(optimizer=optimizer)
 
 
     def fit(self):
-        wandb_cb = wandb.keras.WandbCallback()
+        wandb_cb = wandb.keras.WandbCallback(monitor='val_loss',
+                                             save_model=False,
+                                             log_weights=True,
+                                             log_evaluation=True,
+                                             validation_steps=5)
         es_cb = tf.keras.callbacks.EarlyStopping(patience=self.es_patience)
 
+        train_loss_pre = self.model.evaluate(self.train_ds)
         eval_loss_pre = self.model.evaluate(self.eval_ds)
+        test_loss_pre = self.model.evaluate(self.test_ds)
         print(f"Pre-training perplexity: {math.exp(eval_loss_pre):.2f}")
         
         self.model.fit(self.train_ds, validation_data=self.eval_ds,
                        epochs=self.n_epochs,
                        callbacks=[es_cb, wandb_cb]
                        )
+        train_loss_post = self.model.evaluate(self.train_ds)
         eval_loss_post = self.model.evaluate(self.eval_ds)
+        test_loss_post = self.model.evaluate(self.test_ds)
         print(f"Post-training perplexity: {math.exp(eval_loss_post):.2f}")
+
+        results = {
+            'name': self.name,
+            'pre_train_perplexity': math.exp(train_loss_pre),
+            'pre_val_perplexity': math.exp(eval_loss_pre), 
+            'pre_test_perplexity': math.exp(test_loss_pre), 
+            'post_train_perplexity': math.exp(train_loss_post),
+            'post_val_perplexity': math.exp(eval_loss_post), 
+            'post_test_perplexity': math.exp(test_loss_post)
+            }
+
+        return results
 
 
     def evaluate(self, split='test'):
