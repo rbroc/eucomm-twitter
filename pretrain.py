@@ -47,12 +47,13 @@ class Pretrainer:
                  es_patience: int = 5,
                  batch_size: int = 32, 
                  warmup: int = 150):
-        self.name = f'{model_checkpoint}-finetuned_lr-{lr}_chunks-{chunk_size}'
-        self.name = f'{self.name}_es_patience-{es_patience}_batch-{batch_size}'
-        self.name = f'{self.name}_warmup-{warmup}'
+        self.name = f'{model_checkpoint}-finetuned_lr-{"{:f}".format(lr)}_chunks-{chunk_size}'
+        self.name = f'{self.name}_patience-{es_patience}_batch-{batch_size}'
+        self.name = f'{self.name}_warmup-{int(warmup/batch_size)}'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
         self.model = TFAutoModelForMaskedLM.from_pretrained(model_checkpoint)
         self.chunk_size = chunk_size
+        self.batch_size = batch_size
         self.data_collator = DataCollatorForLanguageModeling(tokenizer=self.tokenizer, 
                                                              mlm_probability=mlm_prob)
         train_d, eval_d, test_d = self._make_dataset(df, train_prop)
@@ -62,7 +63,6 @@ class Pretrainer:
         self.n_epochs = n_epochs
         self.lr = lr
         self.es_patience = es_patience
-        self.batch_size = batch_size
         self.warmup = warmup
 
 
