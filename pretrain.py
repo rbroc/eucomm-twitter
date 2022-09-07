@@ -4,18 +4,43 @@ from transformers import DataCollatorForLanguageModeling
 from transformers import create_optimizer
 import tensorflow as tf
 import math
+import pandas as pd
 import wandb
 
 wandb.login()
 wandb.init(entity = "rbroc", project = "eu-twitter")
 
 class Pretrainer:
-    ''' Helper class for MLM pretraining'''
-    def __init__(self, model_checkpoint, df, 
-                 train_prop=.9, 
-                 chunk_size=50, 
-                 mlm_prob=.15,
-                 n_epochs=100):
+    """ Helper class for MLM pretraining
+    Parameters
+    ----------
+    model_checkpoint: str,
+        Name of huggingface model checkpoint.
+    df: pd.DataFrame,
+        Full input dataframe.
+    train_prop: float, default 0.9,
+        Proportion of the training set used for training.
+    chunk_size: int, default 50,
+        Number of tokens in training chunks.
+    mlm_prob: float, default .15,
+        Proportion of tokens masked for MLM training.
+    n_epochs: int, default 100,
+        Training epochs
+    lr: float, default 2e-5,
+        Initial learning rate
+    es_patience: int, default 10,
+        Early stopping patience
+    """
+
+    def __init__(self, 
+                 model_checkpoint: str, 
+                 df: pd.DataFrame, 
+                 train_prop: float =.9, 
+                 chunk_size: int = 50, 
+                 mlm_prob: float = .15,
+                 n_epochs: int = 100, 
+                 lr: float = 2e-5,
+                 es_patience: int = 10):
         self.name = model_checkpoint + '-finetuned'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
         self.model = TFAutoModelForMaskedLM.from_pretrained(model_checkpoint)
@@ -27,6 +52,8 @@ class Pretrainer:
         self.eval_ds = eval
         self.test_ds = test
         self.n_epochs = n_epochs
+        self.lr = lr
+        self.es_patience = es_patience
 
 
     def _make_dataset(self, df, train_prop):
@@ -86,16 +113,16 @@ class Pretrainer:
         return out
 
 
-    def _make_params(self):
+    def _make_optimizer(self):
         num_train_steps = len(self.train_ds)
         optimizer, _ = create_optimizer(
-            init_lr=2e-5,
+            init_lr=self.lr,
             num_warmup_steps=1_000,
             num_train_steps=num_train_steps * self.n_epochs,
             weight_decay_rate=0.01,
         )
         wandb.config = {
-            "learning_rate": 2e-5,
+            "learning_rate": self.lr,
             "epochs": self.n_epochs,
             "batch_size": 32
             }
@@ -109,7 +136,7 @@ class Pretrainer:
 
     def fit(self):
         wandb_cb = wandb.keras.WandbCallback()
-        es_cb = tf.keras.callbacks.EarlyStopping(patience=10)
+        es_cb = tf.keras.callbacks.EarlyStopping(patience=self.es_patience)
 
         eval_loss_pre = self.model.evaluate(self.eval_ds)
         print(f"Pre-training perplexity: {math.exp(eval_loss_pre):.2f}")
