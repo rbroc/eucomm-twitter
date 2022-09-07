@@ -4,11 +4,12 @@ from transformers import DataCollatorForLanguageModeling
 from transformers import create_optimizer
 import tensorflow as tf
 import math
+from tensorflow.keras.losses import SparseCategoricalCrossentropy
 import pandas as pd
 import wandb
 
 wandb.login()
-wandb.init(entity = "rbroc", project = "eu-twitter")
+wandb.init(entity="rbroc", project="eu-twitter")
 
 class Pretrainer:
     """ Helper class for MLM pretraining
@@ -47,10 +48,10 @@ class Pretrainer:
         self.chunk_size = chunk_size
         self.data_collator = DataCollatorForLanguageModeling(tokenizer=self.tokenizer, 
                                                              mlm_probability=mlm_prob)
-        train, eval, test = self._make_dataset(df, train_prop)
-        self.train_ds = train
-        self.eval_ds = eval
-        self.test_ds = test
+        train_d, eval_d, test_d = self._make_dataset(df, train_prop)
+        self.train_ds = train_d
+        self.eval_ds = eval_d
+        self.test_ds = test_d
         self.n_epochs = n_epochs
         self.lr = lr
         self.es_patience = es_patience
@@ -84,7 +85,7 @@ class Pretrainer:
             shuffle=False,
             batch_size=32,
             )
-        tf_test = test_lm["test"].to_tf_dataset(
+        tf_test = test_lm.to_tf_dataset(
             columns=["input_ids", "attention_mask", "labels"],
             collate_fn=self.data_collator,
             shuffle=False,
@@ -105,7 +106,6 @@ class Pretrainer:
         out["labels"] = out["input_ids"].copy()
         return out        
 
-
     def _tokenizer_function(self, examples):
         out = self.tokenizer(examples["text"])
         if self.tokenizer.is_fast:
@@ -114,7 +114,7 @@ class Pretrainer:
 
 
     def _make_optimizer(self):
-        num_train_steps = len(self.train_ds)
+        num_train_steps = len([t for t in self.train_ds])
         optimizer, _ = create_optimizer(
             init_lr=self.lr,
             num_warmup_steps=1_000,
@@ -131,7 +131,8 @@ class Pretrainer:
 
     def compile(self):
         optimizer = self._make_optimizer()
-        self.model.compile(optimizer=optimizer)
+        self.model.compile(optimizer=optimizer, 
+                           loss=SparseCategoricalCrossentropy(from_logits=True))
 
 
     def fit(self):
