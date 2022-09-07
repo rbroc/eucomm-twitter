@@ -30,6 +30,10 @@ class Pretrainer:
         Initial learning rate
     es_patience: int, default 5,
         Early stopping patience
+    batch_size: int, default 32,
+        Batch size
+    warmup: int, default 150,
+        Number of warmup steps
     """
 
     def __init__(self, 
@@ -40,9 +44,12 @@ class Pretrainer:
                  mlm_prob: float = .15,
                  n_epochs: int = 100, 
                  lr: float = 2e-5,
-                 es_patience: int = 5):
+                 es_patience: int = 5,
+                 batch_size: int = 32, 
+                 warmup: int = 150):
         self.name = f'{model_checkpoint}-finetuned_lr-{lr}_chunks-{chunk_size}'
-        self.name = f'{self.name}_es_patience-{es_patience}'
+        self.name = f'{self.name}_es_patience-{es_patience}_batch-{batch_size}'
+        self.name = f'{self.name}_warmup-{warmup}'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
         self.model = TFAutoModelForMaskedLM.from_pretrained(model_checkpoint)
         self.chunk_size = chunk_size
@@ -55,6 +62,8 @@ class Pretrainer:
         self.n_epochs = n_epochs
         self.lr = lr
         self.es_patience = es_patience
+        self.batch_size = batch_size
+        self.warmup = warmup
 
 
     def _make_dataset(self, df, train_prop):
@@ -77,19 +86,19 @@ class Pretrainer:
             columns=["input_ids", "attention_mask", "labels"],
             collate_fn=self.data_collator,
             shuffle=True,
-            batch_size=32,
+            batch_size=self.batch_size,
             )
         tf_eval = train_with_splits["test"].to_tf_dataset(
             columns=["input_ids", "attention_mask", "labels"],
             collate_fn=self.data_collator,
             shuffle=False,
-            batch_size=32,
+            batch_size=self.batch_size,
             )
         tf_test = test_lm.to_tf_dataset(
             columns=["input_ids", "attention_mask", "labels"],
             collate_fn=self.data_collator,
             shuffle=False,
-            batch_size=32,
+            batch_size=self.batch_size,
             )
         return tf_train, tf_test, tf_eval
 
@@ -117,14 +126,14 @@ class Pretrainer:
         num_train_steps = len([t for t in self.train_ds])
         optimizer, _ = create_optimizer(
             init_lr=self.lr,
-            num_warmup_steps=num_train_steps,
+            num_warmup_steps=self.warmup,
             num_train_steps=num_train_steps * self.n_epochs,
             weight_decay_rate=0.01,
         )
         wandb.config = {
             "learning_rate": self.lr,
             "epochs": self.n_epochs,
-            "batch_size": 32
+            "batch_size": self.batch_size
             }
         return optimizer
 
