@@ -47,7 +47,7 @@ class Pretrainer:
                  es_patience: int = 5,
                  batch_size: int = 32, 
                  warmup: int = 150):
-        self.name = f'{model_checkpoint}-finetuned_lr-{"{:f}".format(lr)}_chunks-{chunk_size}'
+        self.name = f'{model_checkpoint.replace("/","-")}-finetuned_lr-{"{:f}".format(lr)}_chunks-{chunk_size}'
         self.name = f'{self.name}_patience-{es_patience}_batch-{batch_size}'
         self.name = f'{self.name}_warmup-{int(warmup/batch_size)}'
         self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
