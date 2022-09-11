@@ -1,4 +1,4 @@
-from ctm import CTM
+from ctmodel import CTModel
 from contextualized_topic_models.utils.data_preparation import TopicModelDataPreparation
 from contextualized_topic_models.utils.preprocessing import WhiteSpacePreprocessingStopwords
 from contextualized_topic_models.evaluation.measures import CoherenceNPMI, InvertedRBO
@@ -6,6 +6,8 @@ import nltk
 from nltk.corpus import stopwords as stop_words
 import pandas as pd
 import numpy as np
+from pathlib import Path
+import json
 
 
 def _save_results(rlist):
@@ -20,19 +22,20 @@ def _save_results(rlist):
     rdf.to_json(fname, orient="records", lines=True)
 
     
-def _compute_metrics(split, ds, tlists, scores):
+def _compute_metrics(split, ds, tlists, scores, ctm):
     npmi = CoherenceNPMI(texts=[d.split() for d in ds], 
                          topics=tlists)
     rbo = InvertedRBO(topics=tlists)
     scores[f'name'] = ctm.model_name
-    scores[f'{split}_rbo'] = rbo.score()
-    scores[f'{split}_npmi'] = npmi.score()
+    scores[f'{split}_rbo'] = rbo.score().round(4)
+    scores[f'{split}_npmi'] = npmi.score().round(4)
     
 
 def main():
-    topic_df = pd.read_json('processed/pre_topic_tweets.json', 
+    topic_df = pd.read_json('processed/pre_topic_tweets.jsonl', 
                             orient='records', 
                             lines=True)
+    
     
     # Get training indices
     train_idx = set(np.where(topic_df['topic_split']=='train')[0].tolist())
@@ -68,89 +71,94 @@ def main():
                           if retained_idx[i] in test_idx]
 
         # Set parameters and prepare
-        models = ["all-mpnet-base-v2"]
-        n_comps = [5, 10, 20, 50, 100]
+        models = ["all-mpnet-base-v2", 
+                  "distilbert-base-uncased"]
+        n_comps = [10, 20, 30, 50, 100]
         ctx_size = 768 
-        batch_sizes = [4, 16, 64]
+        batch_sizes = [4, 64]
         lrs = [2e-2, 2e-3, 2e-5]
-        n_epochs = [10, 20, 100]
 
         for model in models:
             for n_components in n_comps:
                     for batch_size in batch_sizes:
                         for lr in lrs:
-                            for num_epochs in n_epochs:
                                 
-                                # Preparation
-                                scores = {}
-                                tp = TopicModelDataPreparation(model)
-                                train_dataset = tp.fit(unprepped_train, 
-                                                       prepped_train)
-                                val_dataset = tp.transform(unprepped_val, 
-                                                           prepped_val)
-                                test_dataset = tp.transform(unprepped_test, 
-                                                            prepped_test)
-                                
-                                # Fit and predict
-                                ctm = CombinedTM(bow_size=vs, 
-                                                 contextual_size=ctx_size, 
-                                                 n_components=n_components, 
-                                                 num_epochs=num_epochs,
-                                                 batch_size=batch_size,
-                                                 lr=lr,
-                                                 activation='softplus',
-                                                 vocabulary_size=vs)
-                                ctm.fit(training_dataset)
-                                pred_train_topics = ctm.get_thetas(training_dataset, 
-                                                                   n_samples=20)
-                                pred_val_topics = ctm.get_thetas(val_dataset, 
-                                                                 n_samples=20)
-                                pred_test_topics = ctm.get_thetas(test_dataset, 
-                                                                  n_samples=20)
+                            # Preparation
+                            scores = {}
+                            tp = TopicModelDataPreparation(model)
+                            train_dataset = tp.fit(unprepped_train, 
+                                                   prepped_train)
+                            val_dataset = tp.transform(unprepped_val, 
+                                                       prepped_val)
+                            test_dataset = tp.transform(unprepped_test, 
+                                                        prepped_test)
 
-                                # Save topics
-                                model_out = f'{logpath}/{ctm.model_name}'
-                                topic_out = f'{model_out}/topic_map.json'
-                                json.dump(open(topic_out), ctm.get_topics())
+                            # Fit and predict
+                            ctm = CTModel(model=model,
+                                          bow_size=len(tp.vocab), 
+                                          contextual_size=ctx_size, 
+                                          n_components=n_components, 
+                                          num_epochs=100,
+                                          batch_size=batch_size,
+                                          lr=lr,
+                                          activation='softplus',
+                                          vocabulary_size=vs)
+                            ctm.fit(train_dataset)
+                            pred_train_topics = ctm.get_thetas(train_dataset, 
+                                                               n_samples=20)
+                            pred_val_topics = ctm.get_thetas(val_dataset, 
+                                                             n_samples=20)
+                            pred_test_topics = ctm.get_thetas(test_dataset, 
+                                                              n_samples=20)
 
-                                # Merge predicted topics with tweets table
-                                texts = pd.DataFrame(unprepped_train + \
-                                                     unprepped_val + \
-                                                     unprepped_test, 
-                                                     columns=['text'])
-                                pred_mat = np.vstack([pred_train_topics,
-                                                      pred_val_topics,
-                                                      pred_test_topics]).round(4)
-                                col_names = [f'topic_{i}' 
-                                             for i in range(n_components)]
-                                preds = pd.DataFrame(pred_mat,
-                                                     columns=col_names)
-                                merged = topic_df.merge(pd.concat([texts, 
-                                                                   preds], 
-                                                                   axis=1))
-                                merged.to_json(f'{model_out}/topic_preds.json',
-                                               orient='records', 
-                                               lines=True)
+                            # Save topics
+                            model_out = f'{logpath}/{ctm.model_name}'
+                            Path(model_out).mkdir(parents=True, exist_ok=True)
+                            topic_out = f'{model_out}/topic_map.json'
+                            with open(topic_out, "w") as fh:
+                                json.dump(ctm.get_topics(), fh)
 
-                                # Evaluate model
-                                tlists = ctm.get_topic_lists(10)
-                                _compute_metrics('train', 
-                                                 prepped_train, 
-                                                 tlists, 
-                                                 scores)
-                                _compute_metrics('val', 
-                                                 prepped_train, 
-                                                 tlists, 
-                                                 scores)
-                                _compute_metrics('test', 
-                                                 prepped_train, 
-                                                 tlists, 
-                                                 scores) 
-                                score_list.append(scores)
+                            # Merge predicted topics with tweets table
+                            texts = pd.DataFrame(unprepped_train + \
+                                                 unprepped_val + \
+                                                 unprepped_test, 
+                                                 columns=['text'])
+                            pred_mat = np.vstack([pred_train_topics,
+                                                  pred_val_topics,
+                                                  pred_test_topics]).round(4)
+                            col_names = [f'topic_{i}' 
+                                         for i in range(n_components)]
+                            preds = pd.DataFrame(pred_mat,
+                                                 columns=col_names)
+                            merged = topic_df.merge(pd.concat([texts, 
+                                                               preds], 
+                                                               axis=1))
+                            merged.to_json(f'{model_out}/topic_preds.jsonl',
+                                           orient='records', 
+                                           lines=True)
 
-                                # Save model
-                                ctm.save(models_dir='models/topic')
-                                _save_results(scores)
+                            # Evaluate model
+                            tlists = ctm.get_topic_lists(10)
+                            _compute_metrics('train', 
+                                             prepped_train, 
+                                             tlists, 
+                                             scores,
+                                             ctm)
+                            _compute_metrics('val', 
+                                             prepped_train, 
+                                             tlists, 
+                                             scores,
+                                             ctm)
+                            _compute_metrics('test', 
+                                             prepped_train, 
+                                             tlists, 
+                                             scores,
+                                             ctm) 
+                            score_list.append(scores)
+
+                            # Save model
+                            ctm.save(models_dir='models/topic')
+                            _save_results(score_list)
 
     
 if __name__=="__main__":
