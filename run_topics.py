@@ -8,7 +8,10 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import json
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+sentence_models = glob.glob('models/sent_transformers/*')
 
 def _save_results(rlist):
     fname = 'logs/topic/performances.jsonl'
@@ -72,11 +75,11 @@ def main():
 
         # Set parameters and prepare
         models = ["all-mpnet-base-v2", 
-                  "distilbert-base-uncased"]
+                  "distilbert-base-uncased"] + sent_transformers
         n_comps = [10, 20, 30, 50, 100]
         ctx_size = 768 
         batch_sizes = [4, 64]
-        lrs = [2e-2, 2e-3, 2e-5]
+        lrs = [2e-2, 2e-5] # missing 2e-3
 
         for model in models:
             for n_components in n_comps:
@@ -102,8 +105,10 @@ def main():
                                           batch_size=batch_size,
                                           lr=lr,
                                           activation='softplus',
-                                          vocabulary_size=vs)
-                            ctm.fit(train_dataset)
+                                          vocabulary_size=vs,
+                                          num_data_loader_workers=5)
+                            ctm.fit(train_dataset, 
+                                    validation_dataset=val_dataset)
                             pred_train_topics = ctm.get_thetas(train_dataset, 
                                                                n_samples=20)
                             pred_val_topics = ctm.get_thetas(val_dataset, 
@@ -145,12 +150,12 @@ def main():
                                              scores,
                                              ctm)
                             _compute_metrics('val', 
-                                             prepped_train, 
+                                             prepped_val, 
                                              tlists, 
                                              scores,
                                              ctm)
                             _compute_metrics('test', 
-                                             prepped_train, 
+                                             prepped_test, 
                                              tlists, 
                                              scores,
                                              ctm) 
