@@ -8,10 +8,11 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import json
+import glob
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-sentence_models = glob.glob('models/sent_transformers/*')
+sent_transformers = glob.glob('models/sent_transformers/*')
 
 def _save_results(rlist):
     fname = 'logs/topic/performances.jsonl'
@@ -74,12 +75,12 @@ def main():
                           if retained_idx[i] in test_idx]
 
         # Set parameters and prepare
-        models = ["all-mpnet-base-v2", 
-                  "distilbert-base-uncased"] + sent_transformers
-        n_comps = [10, 20, 30, 50, 100]
+        # TODO: try 2e-3, and smaller batch size
+        models = sent_transformers[3:] # ["all-mpnet-base-v2"]  
+        n_comps = [20, 30, 50, 100]
         ctx_size = 768 
-        batch_sizes = [4, 64]
-        lrs = [2e-2, 2e-5] # missing 2e-3
+        batch_sizes = [64] # 4
+        lrs = [2e-2] # missing 2e-3, 2e-5 is bad
 
         for model in models:
             for n_components in n_comps:
@@ -162,7 +163,7 @@ def main():
                             score_list.append(scores)
 
                             # Save model
-                            ctm.save(models_dir='models/topic')
+                            #ctm.save(models_dir='models/topic')
                             _save_results(score_list)
 
     
