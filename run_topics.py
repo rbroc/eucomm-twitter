@@ -2,6 +2,7 @@ from ctmodel import CTModel
 from contextualized_topic_models.utils.data_preparation import TopicModelDataPreparation
 from contextualized_topic_models.utils.preprocessing import WhiteSpacePreprocessingStopwords
 from contextualized_topic_models.evaluation.measures import CoherenceNPMI, InvertedRBO
+from evaluation import CoherenceWordEmbeddings
 import nltk
 from nltk.corpus import stopwords as stop_words
 import pandas as pd
@@ -26,13 +27,17 @@ def _save_results(rlist):
     rdf.to_json(fname, orient="records", lines=True)
 
     
-def _compute_metrics(split, ds, tlists, scores, ctm):
-    npmi = CoherenceNPMI(texts=[d.split() for d in ds], 
-                         topics=tlists)
-    rbo = InvertedRBO(topics=tlists)
+def _compute_metrics(split, ds, tlists, tlists_20, scores, ctm):
     scores[f'name'] = ctm.model_name
-    scores[f'{split}_rbo'] = rbo.score().round(4)
-    scores[f'{split}_npmi'] = npmi.score().round(4)
+    for n, tl in zip([10, 20], [tlists, tlists_20]):
+        npmi = CoherenceNPMI(texts=[d.split() for d in ds], 
+                             topics=tl)
+        rbo = InvertedRBO(topics=tl)
+        cwe = CoherenceWordEmbeddings(topics=tl) 
+        scores[f'{split}_npmi_{n}'] = npmi.score(topk=n).round(4)
+        if split == 'train':
+            scores[f'cwe_{n}'] = cwe.score(topk=n).round(4)
+            scores[f'rbo_{n}'] = rbo.score(topk=n).round(4)
     
 
 def main():
@@ -51,7 +56,7 @@ def main():
     stopwords = list(stop_words.words("english"))
     documents = topic_df.text.tolist()
     logpath = 'logs/topic'
-    vocabulary_sizes = [500, 1000, 2000]
+    vocabulary_sizes = [250, 500] # try 1000 later, we tried 2000
     score_list = []
     
     # Parameters
@@ -75,12 +80,11 @@ def main():
                           if retained_idx[i] in test_idx]
 
         # Set parameters and prepare
-        # TODO: try 2e-3, and smaller batch size
-        models = sent_transformers[3:] # ["all-mpnet-base-v2"]  
-        n_comps = [20, 30, 50, 100]
+        models = ["all-mpnet-base-v2"] + sent_transformers # fine-tune emotions
+        n_comps = [10, 20, 30] # done 50 and 100 too
         ctx_size = 768 
-        batch_sizes = [64] # 4
-        lrs = [2e-2] # missing 2e-3, 2e-5 is bad
+        batch_sizes = [64] # done 4 
+        lrs = [2e-3] # done 2e-2, 2e-5
 
         for model in models:
             for n_components in n_comps:
@@ -122,7 +126,7 @@ def main():
                             Path(model_out).mkdir(parents=True, exist_ok=True)
                             topic_out = f'{model_out}/topic_map.json'
                             with open(topic_out, "w") as fh:
-                                json.dump(ctm.get_topics(), fh)
+                                json.dump(ctm.get_topics(k=20), fh)
 
                             # Merge predicted topics with tweets table
                             texts = pd.DataFrame(unprepped_train + \
@@ -145,19 +149,23 @@ def main():
 
                             # Evaluate model
                             tlists = ctm.get_topic_lists(10)
+                            tlists_20 = ctm.get_topic_lists(20)
                             _compute_metrics('train', 
                                              prepped_train, 
                                              tlists, 
+                                             tlists_20,
                                              scores,
                                              ctm)
                             _compute_metrics('val', 
                                              prepped_val, 
                                              tlists, 
+                                             tlists_20,
                                              scores,
                                              ctm)
                             _compute_metrics('test', 
                                              prepped_test, 
                                              tlists, 
+                                             tlists_20,
                                              scores,
                                              ctm) 
                             score_list.append(scores)

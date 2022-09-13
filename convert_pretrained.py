@@ -10,9 +10,11 @@ model_paths = list(set(model_paths) - set(['models/pretrained/legacy']))
 base_models = ['distilbert-base-uncased',
                'distilbert-base-uncased-finetuned-sst-2-english',
                'cardiffnlp/tweet-topic-21-multi']
+emo_models = ['cardiffnlp/twitter-roberta-base-sentiment',
+              'bhadresh-savani/distilbert-base-uncased-emotion'] # fine-tune if promising
 
 def main():
-    for model_name in model_paths + base_models:
+    for model_name in emo_models: # model_paths + base_models
         if 'cardiffnlp/' in model_name:
             model_id = '/'.join(model_name.split('/')[-2:])
         else:
