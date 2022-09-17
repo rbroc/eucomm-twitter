@@ -57,20 +57,27 @@ def main():
     # Preprocess
     nltk.download('stopwords')
     stopwords = list(stop_words.words("english"))
+    indices = topic_df['index'].tolist()
     documents = topic_df.text.tolist()
     logpath = 'logs/topic'
     score_list = []
     
     # Parameters
     for p in best_models:
-        for run in range(1,5):
+        for run in range(0,5):
             vs = p['vocab']
             sp = WhiteSpacePreprocessingStopwords(documents, 
                                                   stopwords_list=stopwords, 
                                                   vocabulary_size=vs)
             prepped, unprepped, vocab, retained_idx = sp.preprocess()
+                 
+            train_indices = [indices[r_idx] for r_idx in retained_idx
+                             if r_idx in train_idx]
+            val_indices = [indices[r_idx] for r_idx in retained_idx
+                           if r_idx in val_idx]
+            test_indices = [indices[r_idx] for r_idx in retained_idx
+                             if r_idx in test_idx]
             
-
             prepped_train = [prepped[i] for i in range(len(prepped)) 
                              if retained_idx[i] in train_idx]
             prepped_val = [prepped[i] for i in range(len(prepped)) 
@@ -132,13 +139,13 @@ def main():
                 json.dump(ctm.get_topics(k=20), fh)
 
             # Merge predicted topics with tweets table
-            texts = pd.DataFrame(unprepped_train + \
-                                 unprepped_val + \
-                                 unprepped_test, 
-                                 columns=['text'])
+            data = zip(unprepped_train + unprepped_val + unprepped_test,
+                       train_indices + val_indices + test_indices)
+            texts = pd.DataFrame(data, columns=['text', 'index'])
             pred_mat = np.vstack([pred_train_topics,
                                   pred_val_topics,
                                   pred_test_topics]).round(4)
+            
             col_names = [f'topic_{i}' 
                          for i in range(n_components)]
             preds = pd.DataFrame(pred_mat,
