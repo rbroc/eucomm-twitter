@@ -64,7 +64,7 @@ def main():
     
     # Parameters
     for p in best_models:
-        for run in range(0,5):
+        for run in range(5,10):
             vs = p['vocab']
             sp = WhiteSpacePreprocessingStopwords(documents, 
                                                   stopwords_list=stopwords, 
