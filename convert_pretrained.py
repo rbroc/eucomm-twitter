@@ -7,15 +7,17 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 model_paths = glob.glob('models/pretrained/*')
 model_paths = list(set(model_paths) - set(['models/pretrained/legacy']))
-base_models = ['distilbert-base-uncased',
-               'distilbert-base-uncased-finetuned-sst-2-english',
-               'cardiffnlp/tweet-topic-21-multi']
-emo_models = ['cardiffnlp/twitter-roberta-base-sentiment',
-              'bhadresh-savani/distilbert-base-uncased-emotion'] # fine-tune if promising
+base_models = ['sentence-transformers/distiluse-base-multilingual-cased-v1']
+#base_models = ['distilbert-base-uncased',
+#               'distilbert-base-uncased-finetuned-sst-2-english',
+#               'cardiffnlp/tweet-topic-21-multi']
+#emo_models = ['cardiffnlp/twitter-roberta-base-sentiment',
+#              'bhadresh-savani/distilbert-base-uncased-emotion'] # fine-tune if promising
+emo_models = []
 
 def main():
-    for model_name in emo_models: # model_paths + base_models
-        if 'cardiffnlp/' in model_name:
+    for model_name in base_models: # model_paths + base_models or emo_models
+        if 'cardiffnlp/' in model_name or 'distiluse' in model_name:
             model_id = '/'.join(model_name.split('/')[-2:])
         else:
             model_id = model_name.split('/')[-1]
