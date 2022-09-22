@@ -13,10 +13,11 @@ import glob
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-sent_transformers = glob.glob('models/sent_transformers/*')
-
-def _save_results(rlist):
-    fname = 'logs/topic/performances.jsonl'
+def _save_results(rlist, responses):
+    if responses is False:
+        fname = 'logs/topic/performances.jsonl'
+    else:
+        fname = 'logs/responses/performances.jsonl'
     try:
         rdf = pd.read_json(fname, 
                            orient="records",
@@ -42,10 +43,25 @@ def _compute_metrics(split, ds, tlists, tlists_20, scores, ctm):
             scores[f'rbo_{n}'] = rbo.score(topk=n).round(4)
     
 
-def main():
-    topic_df = pd.read_json('processed/pre_topic_tweets.jsonl', 
-                            orient='records', 
-                            lines=True)
+def main(responses=False):
+    if responses is False:
+        sent_transformers = glob.glob('models/sent_transformers/distilbert*')
+        sent_transformers += glob.glob('models/sent_transformers/cardiffnlp*')
+    else:
+        sent_transformers = glob.glob('models/sent_transformers/*distiluse*')
+    if responses is False:
+        topic_df = pd.read_json('processed/pre_topic_tweets.jsonl', 
+                                orient='records', 
+                                lines=True)
+    else:
+        topic_df = pd.read_json('processed/all_responses.jsonl', 
+                                orient='records', 
+                                lines=True)
+        topic_df = topic_df[topic_df['response_lang_detected'].isin(['en',
+                                                                     'es',
+                                                                     'it',
+                                                                     'fr',
+                                                                     'de'])]
     
     
     # Get training indices
@@ -55,9 +71,17 @@ def main():
 
     # Preprocess
     nltk.download('stopwords')
-    stopwords = list(stop_words.words("english"))
-    documents = topic_df.text.tolist()
-    logpath = 'logs/topic'
+    if responses is False:
+        stopwords = list(stop_words.words("english"))
+    else:
+        stopwords = list(stop_words.words(['english', 'french',
+                                           'spanish', 'german', 
+                                           'italian']))
+    if responses is False:
+        documents = topic_df.text.tolist() 
+    else:
+        documents = topic_df.response_text.tolist()
+    logpath = 'logs/topic' if responses is False else 'logs/responses'
     vocabulary_sizes = [250, 500]
     score_list = []
     
@@ -82,14 +106,18 @@ def main():
                           if retained_idx[i] in test_idx]
 
         # Set parameters and prepare
-        models = ["all-mpnet-base-v2"] + sent_transformers # fine-tune emotions
-        n_comps = [10, 20, 30] # done 50 and 100 too
+        if responses is False:
+            models = ["all-mpnet-base-v2"] + sent_transformers
+        else:
+            models = sent_transformers
+        n_comps = [20, 50]
         ctx_size = 768 
-        batch_sizes = [64] # done 4 
-        lrs = [2e-3] # done 2e-2, 2e-5
+        batch_sizes = [64]
+        lrs = [2e-3]
         
         for run in range(5):
             for model in models:
+                print(model)
                 for n_components in n_comps:
                         for batch_size in batch_sizes:
                             for lr in lrs:
@@ -128,27 +156,31 @@ def main():
                                 model_out = f'{logpath}/{ctm.model_name}'
                                 Path(model_out).mkdir(parents=True, exist_ok=True)
                                 topic_out = f'{model_out}/topic_map_{run}.json'
-                                #with open(topic_out, "w") as fh:
-                                #    json.dump(ctm.get_topics(k=20), fh)
+                                with open(topic_out, "w") as fh:
+                                    json.dump(ctm.get_topics(k=20), fh)
 
                                 # Merge predicted topics with tweets table
-                                texts = pd.DataFrame(unprepped_train + \
-                                                     unprepped_val + \
-                                                     unprepped_test, 
-                                                     columns=['text'])
+                                data = zip(unprepped_train + unprepped_val + unprepped_test,
+                                           train_indices + val_indices + test_indices)
+                                if responses is True:
+                                    cs = ['responses_text', 'index']
+                                else:
+                                    cs = ['text', 'index']
+                                texts = pd.DataFrame(data, columns=cs)
                                 pred_mat = np.vstack([pred_train_topics,
                                                       pred_val_topics,
                                                       pred_test_topics]).round(4)
+
                                 col_names = [f'topic_{i}' 
                                              for i in range(n_components)]
                                 preds = pd.DataFrame(pred_mat,
                                                      columns=col_names)
-                                merged = topic_df.merge(pd.concat([texts, 
-                                                                   preds], 
-                                                                   axis=1))
-                                #merged.to_json(f'{model_out}/topic_preds_{run}.jsonl',
-                                #               orient='records', 
-                                #               lines=True)
+                                preds = pd.concat([texts, preds], axis=1)
+                                to_be_merged = topic_df.iloc[retained_idx, :]
+                                assert preds.shape[0] == to_be_merged.shape[0]
+                                merged = to_be_merged.merge(preds)
+                                merged.to_json(f'{model_out}/topic_preds_{run}.jsonl',
+                                               orient='records', lines=True)
 
                                 # Evaluate model
                                 tlists = ctm.get_topic_lists(10)
@@ -175,9 +207,12 @@ def main():
                                 score_list.append(scores)
 
                                 # Save model
-                                #ctm.save(models_dir='models/topic')
-                                _save_results(score_list)
+                                if responses is False:
+                                    ctm.save(models_dir='models/topic')
+                                else:
+                                    ctm.save(models_dir='models/responses')
+                                _save_results(score_list, responses)
 
     
 if __name__=="__main__":
-    main()
+    main(responses=True)
