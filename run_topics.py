@@ -54,15 +54,9 @@ def main(responses=False):
                                 orient='records', 
                                 lines=True)
     else:
-        topic_df = pd.read_json('processed/all_responses.jsonl', 
+        topic_df = pd.read_json('processed/pre_topic_responses.jsonl', 
                                 orient='records', 
                                 lines=True)
-        topic_df = topic_df[topic_df['response_lang_detected'].isin(['en',
-                                                                     'es',
-                                                                     'it',
-                                                                     'fr',
-                                                                     'de'])]
-    
     
     # Get training indices
     train_idx = set(np.where(topic_df['topic_split']=='train')[0].tolist())
@@ -73,14 +67,14 @@ def main(responses=False):
     nltk.download('stopwords')
     if responses is False:
         stopwords = list(stop_words.words("english"))
+        documents = topic_df.text.tolist() 
     else:
         stopwords = list(stop_words.words(['english', 'french',
                                            'spanish', 'german', 
                                            'italian']))
-    if responses is False:
-        documents = topic_df.text.tolist() 
-    else:
         documents = topic_df.response_text.tolist()
+        topic_df['index'] = topic_df.index.tolist()
+    indices = topic_df['index'].tolist()     
     logpath = 'logs/topic' if responses is False else 'logs/responses'
     vocabulary_sizes = [250, 500]
     score_list = []
@@ -92,6 +86,13 @@ def main(responses=False):
                                               vocabulary_size=vs)
         prepped, unprepped, vocab, retained_idx = sp.preprocess()
 
+        train_indices = [indices[r_idx] for r_idx in retained_idx
+                         if r_idx in train_idx]
+        val_indices = [indices[r_idx] for r_idx in retained_idx
+                       if r_idx in val_idx]
+        test_indices = [indices[r_idx] for r_idx in retained_idx
+                        if r_idx in test_idx]
+        
         prepped_train = [prepped[i] for i in range(len(prepped)) 
                          if retained_idx[i] in train_idx]
         prepped_val = [prepped[i] for i in range(len(prepped)) 
@@ -110,13 +111,13 @@ def main(responses=False):
             models = ["all-mpnet-base-v2"] + sent_transformers
         else:
             models = sent_transformers
-        n_comps = [20, 50]
+        n_comps = [10] #[20, 50]
         ctx_size = 768 
         batch_sizes = [64]
         lrs = [2e-3]
         
-        for run in range(5):
-            for model in models:
+        for model in models:
+            for run in range(5):
                 print(model)
                 for n_components in n_comps:
                         for batch_size in batch_sizes:
@@ -170,9 +171,12 @@ def main(responses=False):
                                 pred_mat = np.vstack([pred_train_topics,
                                                       pred_val_topics,
                                                       pred_test_topics]).round(4)
-
-                                col_names = [f'topic_{i}' 
-                                             for i in range(n_components)]
+                                if responses is True:
+                                    col_names = [f'response_topic_{i}' 
+                                                 for i in range(n_components)]
+                                else:
+                                    col_names = [f'topic_{i}' 
+                                                 for i in range(n_components)]
                                 preds = pd.DataFrame(pred_mat,
                                                      columns=col_names)
                                 preds = pd.concat([texts, preds], axis=1)
@@ -208,9 +212,9 @@ def main(responses=False):
 
                                 # Save model
                                 if responses is False:
-                                    ctm.save(models_dir='models/topic')
+                                    ctm.save(models_dir='models/topic', final=True, run=run)
                                 else:
-                                    ctm.save(models_dir='models/responses')
+                                    ctm.save(models_dir='models/responses', final=True, run=run)
                                 _save_results(score_list, responses)
 
     
