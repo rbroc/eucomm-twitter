@@ -45,6 +45,9 @@ def main():
     topic_df = pd.read_json('processed/pre_topic_tweets.jsonl', 
                             orient='records', 
                             lines=True)
+    topic_df['text'] = topic_df['text'].str.replace(r'&amp', 
+                                                    'and', 
+                                                    regex=True)
     best_models = pd.read_json('logs/topic/best_models.jsonl', 
                                orient='records', 
                                lines=True).to_dict('records')
@@ -64,7 +67,7 @@ def main():
     
     # Parameters
     for p in best_models:
-        for run in range(5,10):
+        for run in range(5,10): # redo from 10
             vs = p['vocab']
             sp = WhiteSpacePreprocessingStopwords(documents, 
                                                   stopwords_list=stopwords, 
