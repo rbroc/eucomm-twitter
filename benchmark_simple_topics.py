@@ -5,18 +5,29 @@ from contextualized_topic_models.evaluation.measures import CoherenceNPMI
 import json
 
 def main(responses=False):
-    if responses is not False:
+    if responses is False:
         topic_df = pd.read_json('processed/pre_topic_tweets.jsonl', 
                                 orient='records', 
                                 lines=True)
+        topic_df['text'] = topic_df['text'].str.replace(r'&amp', 
+                                                        'and', 
+                                                        regex=True)
     else:
-        topic_df = pd.read_json('processed/pre_topic_responses.jsonl', 
+        topic_df = pd.read_json('processed/pre_topic_responses_sentiment.jsonl', 
                                 orient='records', 
-                                lines=True)
+                                lines=True).drop_duplicates('response_text')
         topic_df = topic_df[topic_df['response_lang']=='en']
-    train_texts = topic_df[topic_df['topic_split']=='train'].text.tolist()
-    val_texts = topic_df[topic_df['topic_split']=='val'].text.tolist()
-    test_texts = topic_df[topic_df['topic_split']=='test'].text.tolist()
+        #topic_df['response_text'] = topic_df['response_text'].str.replace(r'&amp', 
+        #                                                                  'and', 
+        #                                                                  regex=True)
+    if responses is False:
+        train_texts = topic_df[topic_df['topic_split']=='train'].text.tolist()
+        val_texts = topic_df[topic_df['topic_split']=='val'].text.tolist()
+        test_texts = topic_df[topic_df['topic_split']=='test'].text.tolist()
+    else:
+        train_texts = topic_df[topic_df['topic_split']=='train'].response_text.tolist()
+        val_texts = topic_df[topic_df['topic_split']=='val'].response_text.tolist()
+        test_texts = topic_df[topic_df['topic_split']=='test'].response_text.tolist()        
     scores = []
     for min_df in [10, 100]:
         for max_df in [0.01, 0.1, 0.2]:
@@ -24,8 +35,12 @@ def main(responses=False):
                 for max_features in [250, 500]:
 
                     # Fit
-                    vectorizer = CountVectorizer(min_df=min_df, max_df=max_df, max_features=max_features)
-                    dmm = DMM(n_components=n_clusters, n_iterations=100, alpha=0.1, beta=0.1)
+                    vectorizer = CountVectorizer(min_df=min_df, 
+                                                 max_df=max_df, 
+                                                 max_features=max_features)
+                    dmm = DMM(n_components=n_clusters, 
+                              n_iterations=100, 
+                              alpha=0.1, beta=0.1)
                     pipeline = TopicPipeline(vectorizer, dmm)
                     pipeline.fit(train_texts)
 
@@ -54,10 +69,15 @@ def main(responses=False):
                                       'split': split,
                                       'score': cscore}
                         scores.append(score_dict)
-                    pred_mat = pipeline.transform(topic_df['text'].tolist())
+                    if responses is False:
+                        pred_mat = pipeline.transform(topic_df['text'].tolist())
+                    else:
+                        pred_mat = pipeline.transform(topic_df['response_text'].tolist())
                     pred_mat = pd.DataFrame(pred_mat, columns=[f'topic_{i}' 
                                                                for i in range(n_clusters)])
-                    pred_mat = pd.concat([topic_df, pred_mat], axis=1)
+                    pred_mat = pd.concat([topic_df, pred_mat], 
+                                          axis=1)
+                    print(pred_mat.columns)
                     pred_mat.to_json(f'logs/baselines/predictions_{id_model}.jsonl',
                                      orient='records', lines=True)
 
@@ -72,6 +92,6 @@ def main(responses=False):
                                                  lines=True)
 
 if __name__=='__main__':
-    main(responses=False)
+    #main(responses=False)
     main(responses=True)
     
