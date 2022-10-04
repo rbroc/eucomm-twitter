@@ -52,11 +52,17 @@ def main(responses=False):
     if responses is False:
         topic_df = pd.read_json('processed/pre_topic_tweets.jsonl', 
                                 orient='records', 
-                                lines=True)
+                                lines=True)        
+        topic_df['text'] = topic_df['text'].str.replace(r'&amp', 
+                                                        'and', 
+                                                        regex=True)
     else:
-        topic_df = pd.read_json('processed/pre_topic_responses.jsonl', 
+        topic_df = pd.read_json('processed/pre_topic_responses_sentiment.jsonl', 
                                 orient='records', 
-                                lines=True)
+                                lines=True).drop_duplicates('response_text')
+        topic_df['response_text'] = topic_df['response_text'].str.replace(r'&amp', 
+                                                                          'and', 
+                                                                          regex=True)
     
     # Get training indices
     train_idx = set(np.where(topic_df['topic_split']=='train')[0].tolist())
@@ -111,7 +117,7 @@ def main(responses=False):
             models = ["all-mpnet-base-v2"] + sent_transformers
         else:
             models = sent_transformers
-        n_comps = [10] #[20, 50]
+        n_comps = [10, 20, 30, 50]
         ctx_size = 768 
         batch_sizes = [64]
         lrs = [2e-3]
