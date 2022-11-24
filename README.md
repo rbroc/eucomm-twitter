@@ -13,7 +13,7 @@ Outline:
 - Describing sentiment of responses as a function of topics
 
 To do:
-- Implement predictive model based on BERT
-- Implement style predictor
-- Redo emotion model
-- Paraphrase model
+- Fix loss + class layer, set up and run transformers (remove iloc!)
+- Tidy up plots
+- Lit review and intro
+- Paraphrase example

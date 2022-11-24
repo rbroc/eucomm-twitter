@@ -2,10 +2,12 @@ from pathlib import Path
 from transformers import (TrainingArguments,
                           AutoModelForSequenceClassification,
                           EarlyStoppingCallback)
-from utils import make_dataset
+from utils import make_dataset, make_trainer
 import numpy as np
 import pandas as pd
 import json
+
+import wandb
 import argparse
 from sklearn.metrics import (r2_score, 
                              mean_absolute_error,
@@ -26,7 +28,7 @@ parser.add_argument('--warmup-steps', type=int, default=500)
 parser.add_argument('--weight-decay', type=float, default=0.001)
 parser.add_argument('--logging-steps', type=int, default=100)
 parser.add_argument('--gradient-accumulation-steps', type=int, default=1)
-parser.add_argument('--early-stopping-patience', type=int, default=10)
+parser.add_argument('--early-stopping-patience', type=int, default=3)
 parser.add_argument('--freeze-layers', type=int, default=1)
 parser.add_argument('--tweedie-p', type=float, default=1.5)
 
@@ -34,6 +36,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 PRED_COLUMNS = ['trial_id', 'label', 'prediction', 'model_name', 'split']
 OUTPUT_PATH = Path('logs') / 'transformers'
 
+wandb.init(project="engagement", entity="rbroc")
 
 def compute_metrics(pred):
     preds, labels = pred
@@ -80,6 +83,7 @@ def _make_trainer(model_id,
     bstr = f'batch-{train_examples_per_device}'
     mid = f'{model_id}_lr-{learning_rate}_wdecay-{weight_decay}_wsteps-{warmup_steps}_{fstr}'
     mid += f'_{bstr}_tweediep-{tweedie_p}'
+    wandb.run.name = mid
     logpath = Path('logs') / 'transformers' / metric / mid 
     respath = Path('models') / 'transformers' / metric / mid
     logpath.mkdir(exist_ok=True, parents=True)
@@ -107,9 +111,8 @@ def _make_trainer(model_id,
         #fp16=True,
         save_total_limit=1
     )
-
     model = AutoModelForSequenceClassification.from_pretrained(checkpoint,
-                                                               num_labels=1
+                                                               num_labels=1,
                                                                problem_type='regression').to(device)
     if freeze_layers==1:
         modules = [model.base_model.embeddings]
@@ -143,7 +146,6 @@ def evaluate(trainer, dataset, split, model_id, metric, odict, txt):
     splits = [split] * len(predictions)
     scores = outs.predictions
     # Make dataframe
-    ### TODO: Add text (trial id)
     pdf = pd.DataFrame(zip(txt,
                            labels, 
                            predictions, 
@@ -165,7 +167,7 @@ def evaluate(trainer, dataset, split, model_id, metric, odict, txt):
 if __name__=='__main__':
     args = parser.parse_args()
     train, val, test = (make_dataset(args.checkpoint, args.metric, s) 
-                                 for s in ['train', 'validation', 'test'])
+                                 for s in ['train', 'val', 'test'])
     train_ds, train_txt = train
     val_ds, val_txt = val
     test_ds, test_txt = test

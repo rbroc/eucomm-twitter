@@ -1,8 +1,14 @@
 from pathlib import Path
 import pandas as pd
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, Trainer
+from transformers.trainer_utils import speed_metrics 
 import torch
-from tensorflow import keras as K
+import tensorflow.keras.backend as K
+from torch.utils.data import Dataset
+import time
+from torchmetrics import TweedieDevianceScore
+from typing import Dict, List, Optional
+import math
 
 
 class TextDataset(torch.utils.data.Dataset):
@@ -25,16 +31,15 @@ def make_dataset(tknzr, metric, split='train'):
     Args:
         tknzr: pretrained tokenizer name
     '''
-    DPATH = Path('processed') / 'post_topic_tweets_style_and_emo_pca.jsonl'
-    data = pd.read_csv(DPATH/f'{split}.csv')
-    data = data[data['topic_split']==split]
+    DPATH = Path('processed') / 'post_topic_tweets_style_and_sent_pca.jsonl'
+    data = pd.read_json(DPATH, orient='records', lines=True)
+    data = data[data['topic_split']==split].iloc[:164,:]
     txt, lab = zip(*data[['text', metric]].to_records(index=False))
     tokenizer = AutoTokenizer.from_pretrained(tknzr)
     enc = tokenizer(list(txt), truncation=True, padding=True)
     dataset = TextDataset(enc, lab)
     return dataset, txt
-
-
+    
 def make_trainer(tweedie_p, **kwargs):
     ''' Create trainer with custom loss and metrics loop '''
     
@@ -78,17 +83,12 @@ def make_trainer(tweedie_p, **kwargs):
             self._memory_tracker.stop_and_update_metrics(output.metrics)
             return output.metrics
         
-        def tweedieloss(y_true, y_pred, tweedie_p):
-            dev = 2 * (K.pow(y_true, 2-tweedie_p)/((1-tweedie_p) * (2-tweedie_p)) -
-                           y_true * K.pow(y_pred, 1-tweedie_p)/(1-tweedie_p) +
-                           K.pow(y_pred, 2-tweedie_p)/(2-tweedie_p))
-            return K.mean(dev)
-        
         def compute_loss(self, model, inputs, return_outputs=False):
-            labels = inputs.get("labels")
+            labels = inputs.get("labels") #.squeeze()
             outputs = model(**inputs)
-            logits = outputs.get('logits')
-            loss = tweedieloss(labels, outputs, tweedie_p)
+            logits = outputs.get('logits') #.squeeze()
+            tweedieloss = TweedieDevianceScore(power=tweedie_p)
+            loss = tweedieloss(logits, labels)
             return (loss, outputs) if return_outputs else loss
 
     return TextTrainer(**kwargs)
