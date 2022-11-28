@@ -29,16 +29,16 @@ parser.add_argument('--out-metric', type=str, default=None)
 # Parameters for grid search
 def _make_estimator_params():
     params = {
-              'eta': [.0001, .001, .01, .1],
-              'min_child_weight': [5, 10, 50],
-              'gamma': [.5, 1., 2.],
-              'subsample': [.6, .8],
-              'colsample_bytree': [.3, .5, .7],
-              'max_depth': [3, 5],
+              'learning_rate': [.000001, .0001, .001, .01, .1],
+              'min_child_weight': [1, 5, 10, 50],
+              'gamma': [0, .5, 1., 2.],
+              'subsample': [.6, .8, 1],
+              'colsample_bytree': [.3, .5, .7, 1],
+              'max_depth': [2, 3, 5, 10],
               'reg_alpha' :[0, .1, 5.],
-              'reg_lambda': [.1, 1.],
-              'n_estimators': [5, 10, 20],
-              'tweedie_variance_power': np.arange(1.1,2.1,0.1)
+              'reg_lambda': [0, .1, 1.],
+              'n_estimators': [1, 5, 10, 30, 50],
+              # 'tweedie_variance_power': np.arange(1.1,2.1,0.1)
               }
     return params
 
@@ -132,14 +132,12 @@ def fit_predict(logpath,
     ps = PredefinedSplit(fold_idx)
 
     # Set up XGBoost
-    objective = 'reg:tweedie'
-    eval_metric = f'rmse' # 'rmse'
+    objective = 'count:poisson' # tweedie
+    eval_metric = f'poisson-nloglik' # 'rmse'
     est_class = XGBRegressor(objective=objective,
                              eval_metric=eval_metric,
                              n_jobs=20, 
-                             #tree_method='gpu_hist', 
-                             #gpu_id=1
-                            )
+                             )
     grid = RandomizedSearchCV(estimator=est_class,
                               param_distributions=_make_estimator_params(),
                               cv=ps,
@@ -154,7 +152,7 @@ def fit_predict(logpath,
     # Get best model and fit on training data only
     model = XGBRegressor(**grid.best_params_, 
                          objective=objective, 
-                         eval_metric=eval_metric,
+                         #eval_metric=eval_metric,
                          n_jobs=20)
     model.fit(train_X, train_y, 
               eval_set=[(val_X, val_y)],
@@ -195,7 +193,7 @@ def fit_predict(logpath,
         
     # Also store shap values
     explainer = shap.TreeExplainer(model)
-    shap_values = explainer(test_X) #.shap_values
+    shap_values = explainer(test_X)
     pkl.dump(shap_values, open(str(shap_path), "wb"))
     
     # Print results
@@ -211,7 +209,8 @@ if __name__=='__main__':
     logpath.mkdir(parents=True, exist_ok=True)
     pm = list(zip([logpath] * 7,
                   [args.out_metric] * 7,
-                  ['combined','topic', 'emotions', 'style',
+                  ['combined', 
+                   'topic', 'emotions', 'style',
                    'bow', 'bow', 'bow',],
                   [None, None, None, None, 
                    100, 250, 500],

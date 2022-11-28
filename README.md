@@ -13,7 +13,40 @@ Outline:
 - Describing sentiment of responses as a function of topics
 
 To do:
-- Fix loss + class layer, set up and run transformers (remove iloc!)
+- Run transformer-based engagement [in progress]
+- Run XGBoost with negative binomials
+    - Raw style indicators, PCA, informed from Rauh et al. & Benoit
+    - Extract aggregate measure
+    - Extract number of positive comments as a metric!
+- Disentangle engagement from positive responses ("public favorability")
 - Tidy up plots
 - Lit review and intro
 - Paraphrase example
+
+
+
+### Metrics
+Long words
+- Mean characters per word [token_length_mean, excludes alphanumeric, or 'mean_word_length', treats alphanumeric as independent]
+- Mean syllables per word - [syllables_per_token_mean, excludes alphanumeric]
+
+Rarity
+- Google Books baseline usage (min, mean) + Brown - [SubtlexUS available, to be extracted]
+
+Long Sentence
+- Mean characters per sentence [can be computed as n_characters / n_sentences]
+- Mean sentence length in words [sentence_length_mean]
+- Number of sentences per character [can be computed as n_sentences / n_character]
+- Mean sentence length in syllables - [can be computed as syllables_per_token * sentence_length_mean]
+
+Complex content
+- Proportion of nouns
+- Proportion of verbs
+- Proportion of adjectives
+- Proportion of adverbs
+- Average subordinate clauses (exclude) 
+
+Twitter-specific:
+- symbol_\#_2_word_ratio [exists]
+- Verbs / Nouns [to be computed]
+- Readability indices [exist]
