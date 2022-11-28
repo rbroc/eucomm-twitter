@@ -6,7 +6,7 @@ from utils import make_dataset, make_trainer
 import numpy as np
 import pandas as pd
 import json
-
+from torch import nn
 import wandb
 import argparse
 from sklearn.metrics import (r2_score, 
@@ -28,9 +28,9 @@ parser.add_argument('--warmup-steps', type=int, default=500)
 parser.add_argument('--weight-decay', type=float, default=0.001)
 parser.add_argument('--logging-steps', type=int, default=100)
 parser.add_argument('--gradient-accumulation-steps', type=int, default=1)
-parser.add_argument('--early-stopping-patience', type=int, default=3)
+parser.add_argument('--early-stopping-patience', type=int, default=5)
 parser.add_argument('--freeze-layers', type=int, default=1)
-parser.add_argument('--tweedie-p', type=float, default=1.5)
+parser.add_argument('--tweedie-p', type=str, default='poisson')
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 PRED_COLUMNS = ['trial_id', 'label', 'prediction', 'model_name', 'split']
@@ -82,7 +82,7 @@ def _make_trainer(model_id,
     fstr = 'freeze' if freeze_layers == 1 else 'nofreeze'
     bstr = f'batch-{train_examples_per_device}'
     mid = f'{model_id}_lr-{learning_rate}_wdecay-{weight_decay}_wsteps-{warmup_steps}_{fstr}'
-    mid += f'_{bstr}_tweediep-{tweedie_p}'
+    mid += f'_{bstr}_{tweedie_p}'
     wandb.run.name = mid
     logpath = Path('logs') / 'transformers' / metric / mid 
     respath = Path('models') / 'transformers' / metric / mid
@@ -113,7 +113,8 @@ def _make_trainer(model_id,
     )
     model = AutoModelForSequenceClassification.from_pretrained(checkpoint,
                                                                num_labels=1,
-                                                               problem_type='regression').to(device)
+                                                               problem_type='regression',
+                                                               seq_classif_dropout=0).to(device)
     if freeze_layers==1:
         modules = [model.base_model.embeddings]
         try:
@@ -123,7 +124,8 @@ def _make_trainer(model_id,
         for module in modules:
             for p in module.parameters():
                 p.requires_grad = False
-    
+    model.add_module(name='relu_head', module=nn.ReLU())  
+
     trainer = make_trainer(tweedie_p, 
                            model=model,
                            args=training_args,
@@ -137,7 +139,7 @@ def _make_trainer(model_id,
 def evaluate(trainer, dataset, split, model_id, metric, odict, txt):
     # Get predictions
     outs = trainer.predict(test_dataset=dataset)
-    predictions = torch.max(torch.tensor(outs.predictions), axis=1)
+    predictions = torch.max(torch.tensor(outs.predictions), axis=1).values.numpy().tolist()
     # Extract metrics
     labels = [l for l in outs.label_ids]
     mid = f'{metric}_{model_id}'
