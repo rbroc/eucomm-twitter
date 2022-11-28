@@ -3,6 +3,7 @@ import pandas as pd
 from transformers import AutoTokenizer, Trainer
 from transformers.trainer_utils import speed_metrics 
 import torch
+from torch import nn
 import tensorflow.keras.backend as K
 from torch.utils.data import Dataset
 import time
@@ -33,7 +34,7 @@ def make_dataset(tknzr, metric, split='train'):
     '''
     DPATH = Path('processed') / 'post_topic_tweets_style_and_sent_pca.jsonl'
     data = pd.read_json(DPATH, orient='records', lines=True)
-    data = data[data['topic_split']==split].iloc[:164,:]
+    data = data[data['topic_split']==split]
     txt, lab = zip(*data[['text', metric]].to_records(index=False))
     tokenizer = AutoTokenizer.from_pretrained(tknzr)
     enc = tokenizer(list(txt), truncation=True, padding=True)
@@ -87,8 +88,12 @@ def make_trainer(tweedie_p, **kwargs):
             labels = inputs.get("labels") #.squeeze()
             outputs = model(**inputs)
             logits = outputs.get('logits') #.squeeze()
-            tweedieloss = TweedieDevianceScore(power=tweedie_p)
-            loss = tweedieloss(logits, labels)
+            if tweedie_p == 'poisson':
+            # loss_fn = TweedieDevianceScore(power=tweedie_p)
+                loss_fn = nn.PoissonNLLLoss()
+            else:
+                loss_fn = nn.NLLLoss()
+            loss = loss_fn(logits, labels)
             return (loss, outputs) if return_outputs else loss
 
     return TextTrainer(**kwargs)
