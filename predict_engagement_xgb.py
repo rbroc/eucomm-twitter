@@ -17,19 +17,21 @@ from sklearn.metrics import (r2_score,
 
 from nltk.corpus import stopwords
 import argparse
-from logs.best_topic_names import topic_col, emotion_col, style_col
+from logs.best_topic_names import (topic_col, emotion_col, 
+                                   style_col, exclude_col)
 
 
 # Initialize parser
 parser = argparse.ArgumentParser()
 parser.add_argument('--early-stopping', type=int, default=5)
+parser.add_argument('--cv', type=int, default=0)
 parser.add_argument('--out-metric', type=str, default=None)
 
 
 # Parameters for grid search
 def _make_estimator_params():
     params = {
-              'learning_rate': [.000001, .0001, .001, .01, .1],
+              'learning_rate': [2e-5, 2e-3, 2e-2, 2e-1],
               'min_child_weight': [1, 5, 10, 50],
               'gamma': [0, .5, 1., 2.],
               'subsample': [.6, .8, 1],
@@ -38,7 +40,7 @@ def _make_estimator_params():
               'reg_alpha' :[0, .1, 5.],
               'reg_lambda': [0, .1, 1.],
               'n_estimators': [1, 5, 10, 30, 50],
-              # 'tweedie_variance_power': np.arange(1.1,2.1,0.1)
+              'tweedie_variance_power': [1.01, 1.99, 1.2, 1.4, 1.6, 1.8]
               }
     return params
 
@@ -78,12 +80,13 @@ def fit_predict(logpath,
                 model_type,
                 n_words=None,
                 eval_on_test=True,
-                es=10):
+                es=10,
+                cv=True):
     
     # Get the data
     model_base = 'distilbert-base-uncased-finetuned-sst-2-english'
     best_model = model_base + '_vocab-500_bow-499_comp-20_esize-768_batch-64_lr-0.002_epochs-100_act-softplus'
-    data = pd.read_json(f'processed/post_topic_tweets_style_and_sent_pca.jsonl',
+    data = pd.read_json(f'processed/post_topic_tweets_style_and_sent.jsonl',
                         orient='records', lines=True)
     
     # Set up data
@@ -91,22 +94,22 @@ def fit_predict(logpath,
     val_data = data[data['topic_split']=='val']
     test_data = data[data['topic_split']=='test']
     if model_type == 'topic':
-        train_X = train_data[topic_col].values
-        val_X = val_data[topic_col].values
-        test_X = test_data[topic_col].values
-    elif model_type == 'emotions':
+        train_X = train_data[list(set(topic_col) - set(exclude_col))].values
+        val_X = val_data[list(set(topic_col) - set(exclude_col))].values
+        test_X = test_data[list(set(topic_col) - set(exclude_col))].values
+    elif model_type == 'sentiment':
         train_X = train_data[emotion_col].values
         val_X = val_data[emotion_col].values
         test_X = test_data[emotion_col].values
     elif model_type == 'style':
-        train_X = train_data[style_col].values
-        val_X = val_data[style_col].values
-        test_X = test_data[style_col].values
+        train_X = train_data[style_col].fillna(0).values
+        val_X = val_data[style_col].fillna(0).values
+        test_X = test_data[style_col].fillna(0).values
     elif model_type == 'combined':
-        cols = topic_col+emotion_col+style_col
-        train_X = train_data[cols].values
-        val_X = val_data[cols].values
-        test_X = test_data[cols].values
+        cols = list(set(topic_col) - set(exclude_col))+emotion_col+style_col
+        train_X = train_data[cols].fillna(0).values
+        val_X = val_data[cols].fillna(0).values
+        test_X = test_data[cols].fillna(0).values
     elif model_type == 'bow':
         stop_words = stopwords.words('english')
         tkpath = str(logpath / f'tokenizer_bow-{n_words}.pkl')
@@ -132,27 +135,33 @@ def fit_predict(logpath,
     ps = PredefinedSplit(fold_idx)
 
     # Set up XGBoost
-    objective = 'count:poisson' # tweedie
-    eval_metric = f'poisson-nloglik' # 'rmse'
+    objective = 'reg:tweedie'
     est_class = XGBRegressor(objective=objective,
-                             eval_metric=eval_metric,
-                             n_jobs=20, 
-                             )
+                             n_jobs=20)
+    if cv is True:
+        ps = None
+        
     grid = RandomizedSearchCV(estimator=est_class,
                               param_distributions=_make_estimator_params(),
                               cv=ps,
                               verbose=2,
                               return_train_score=True,
                               refit=False,
-                              n_iter=1000)
-    grid.fit(np.concatenate([train_X,val_X], axis=0),
-             np.concatenate([train_y,val_y], axis=0),
-             verbose=False)
+                              n_iter=2000)
+    
+    # Refit
+    if cv is False:
+        grid.fit(np.concatenate([train_X,val_X], axis=0),
+                 np.concatenate([train_y,val_y], axis=0),
+                 verbose=False)
+    else:
+        grid.fit(train_X,
+                 train_y,
+                 verbose=False)
     
     # Get best model and fit on training data only
     model = XGBRegressor(**grid.best_params_, 
                          objective=objective, 
-                         #eval_metric=eval_metric,
                          n_jobs=20)
     model.fit(train_X, train_y, 
               eval_set=[(val_X, val_y)],
@@ -205,17 +214,22 @@ def fit_predict(logpath,
 if __name__=='__main__':
     args = parser.parse_args()
     logpath = Path('logs') / 'metrics' 
+    if args.cv == 0:
+        logpath = logpath / 'no_cv'
+    else:
+        logpath = logpath / 'with_cv'
     logpath = logpath / args.out_metric
     logpath.mkdir(parents=True, exist_ok=True)
     pm = list(zip([logpath] * 7,
                   [args.out_metric] * 7,
                   ['combined', 
-                   'topic', 'emotions', 'style',
-                   'bow', 'bow', 'bow',],
+                   'topic', 'sentiment', 'style',
+                   'bow', 'bow', 'bow'],
                   [None, None, None, None, 
                    100, 250, 500],
                   [True] * 7,
-                  [args.early_stopping] * 7))
+                  [args.early_stopping] * 7,
+                  [bool(args.cv)] * 7))
     results = [fit_predict(*p) for p in pm]
     with open(str(logpath)+'.json', 'w') as of:
         of.write(json.dumps(results))
