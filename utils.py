@@ -32,7 +32,7 @@ def make_dataset(tknzr, metric, split='train'):
     Args:
         tknzr: pretrained tokenizer name
     '''
-    DPATH = Path('processed') / 'post_topic_tweets_style_and_sent_pca.jsonl'
+    DPATH = Path('processed') / 'post_topic_tweets_style_and_sent.jsonl'
     data = pd.read_json(DPATH, orient='records', lines=True)
     data = data[data['topic_split']==split]
     txt, lab = zip(*data[['text', metric]].to_records(index=False))
@@ -85,15 +85,45 @@ def make_trainer(tweedie_p, **kwargs):
             return output.metrics
         
         def compute_loss(self, model, inputs, return_outputs=False):
-            labels = inputs.get("labels") #.squeeze()
+            relu = nn.ReLU()
+            loss_fn = TweedieDevianceScore(power=tweedie_p)
+            labels = inputs.get("labels").squeeze()
             outputs = model(**inputs)
-            logits = outputs.get('logits') #.squeeze()
-            if tweedie_p == 'poisson':
-            # loss_fn = TweedieDevianceScore(power=tweedie_p)
-                loss_fn = nn.PoissonNLLLoss()
-            else:
-                loss_fn = nn.NLLLoss()
-            loss = loss_fn(logits, labels)
+            logits = outputs.get('logits').squeeze()
+            logits = relu(logits)
+            loss = loss_fn(logits, labels) # or MSE loss
             return (loss, outputs) if return_outputs else loss
 
     return TextTrainer(**kwargs)
+
+
+def _read_tweets(fs, metrics, fields):
+    processed_tws = []
+    for f in fs:
+        tws = json.load(open(f))['data']
+        for i in range(len(tws)):
+            item = {k: tws[i][k] for k in fields}
+            item.update({k: tws[i]['public_metrics'][k] for k in metrics})
+            item.update({'created_at': tws[i]['created_at'][:10]})
+            tws[i] = item
+        processed_tws += tws
+        df = pd.DataFrame(processed_tws)
+        df['created_at'] = pd.to_datetime(df['created_at'], 
+                                          infer_datetime_format=True)
+    return df
+
+
+def language_detection(s):
+    try:
+        return detect(s)
+    except:
+        return 'unk'
+    
+    
+def _preprocessing(df):
+    df['is_retweet'] = np.where(df['text'].str.startswith('RT'), 1, 0)
+    df['is_mention'] = np.where(df['text'].str.startswith('@'), 1, 0)
+    df['text'] = df['text'].str.replace(r'http.*', '', regex=True)
+    df = df[df['text'].str.len() > 0]
+    df['lang_detected'] = df['text'].apply(language_detection)
+    return df
