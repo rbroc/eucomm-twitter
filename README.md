@@ -15,9 +15,8 @@ Motivation:
 - What is the best predictor of engagement? What are the most important features? How do they contribute to the model?
 
 To do:
-- Run XGB on sum (removing noisy topics, also try CV) [in progress]
+- Check XGB results and run transformers [in progress]
 - Compare metrics with other data  [TBD]
-- Run transformers with RMSE, for comparison [TBD]
 - Public favorability analysis per topic [TBD]
 - Tidy up plots, lit review, and intro [TBD]
 - Paraphrase example [TBD]
