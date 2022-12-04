@@ -3,29 +3,34 @@ We use topic modeling to analyse discourse from EU institutions on Twitter, focu
 We use contextualized topic modeling and compare it with simple models (tweetopic) and qualitative inspection.
 
 Motivation:
-- Describing dimensions of EU top-down identity as conveyed through online platforms
-- Topics as a proxy for focus areas
-- Reception in the public: how much and which kind of reactions do different topics convey?
+- Describing EC identity and communication strategy
+- Topic as proxy for identity
+- Investigate engagement
+- Analyze other aspects of EC commmunication (e.g., emotions and style)
 
-Outline:
-- Tuning and description of topic structure for EU commission data
-- Describing and predicting engagement as a function of topics
-- Describing sentiment of responses as a function of topics
+** TL;DR **
+- What topics does the European Commission communicate about? How does this change over time? How do they relate with engagement?
+- How does the style of the EC compare with other institutions? How does it change over time? How does style relate with engagement?
+- How does the sentiment of the EC communication compare with other institutions? How does the sentiment change over time? How does it relate with engagement?
+- What is the best predictor of engagement? What are the most important features? How do they contribute to the model?
 
 To do:
-- Run transformer-based engagement [in progress]
-- Run XGBoost with negative binomials
-    - Raw style indicators, PCA, informed from Rauh et al. & Benoit
-    - Extract aggregate measure
-    - Extract number of positive comments as a metric!
-- Disentangle engagement from positive responses ("public favorability")
-- Tidy up plots
-- Lit review and intro
-- Paraphrase example
-
+- Run XGB on sum (removing noisy topics, also try CV) [in progress]
+- Compare metrics with other data  [TBD]
+- Run transformers with RMSE, for comparison [TBD]
+- Public favorability analysis per topic [TBD]
+- Tidy up plots, lit review, and intro [TBD]
+- Paraphrase example [TBD]
 
 
 ### Metrics
+#### From Benoit et al. (2019)
+Best metrics
+- Flesch Reading Ease only
+- Mean sentence length + Mean word syllables
+- Frequency, mean sentence characters, proportion of nouns, mean word characters
+
+**ALL METRICS**
 Long words
 - Mean characters per word [token_length_mean, excludes alphanumeric, or 'mean_word_length', treats alphanumeric as independent]
 - Mean syllables per word - [syllables_per_token_mean, excludes alphanumeric]
@@ -47,6 +52,9 @@ Complex content
 - Average subordinate clauses (exclude) 
 
 Twitter-specific:
-- symbol_\#_2_word_ratio [exists]
-- Verbs / Nouns [to be computed]
-- Readability indices [exist]
+- symbol_\#_2_word_ratio
+
+#### From Rauh, 2022
+- Verb-to-noun ratio
+- Google book n-gram frequency
+- Flesch-Kincaid reading score
