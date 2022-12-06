@@ -1,4 +1,17 @@
 # Dynamic topic modeling of EU-related communication
+
+
+#### TODO
+- Check POTUS and compare engagement?
+- Rerun topic models (both EU only and all)
+- Re-fit XGB
+- Finalize transformers
+- Make package structure and clean up archive files
+- Tidy up plots
+- Write up and add paraphrase example
+
+
+### Description
 We use topic modeling to analyse discourse from EU institutions on Twitter, focusing particularly on the European Commission.
 We use contextualized topic modeling and compare it with simple models (tweetopic) and qualitative inspection.
 
@@ -9,25 +22,18 @@ Motivation:
 - Analyze other aspects of EC commmunication (e.g., emotions and style)
 
 ** TL;DR **
-- What topics does the European Commission communicate about? How does this change over time? How do they relate with engagement?
-- How does the style of the EC compare with other institutions? How does it change over time? How does style relate with engagement?
+- What topics does the European Commission communicate about? How has this changed over time? How do they relate with engagement?
+- How does the style of the EC compare with other institutions? How has this change over time? How does style relate with engagement?
 - How does the sentiment of the EC communication compare with other institutions? How does the sentiment change over time? How does it relate with engagement?
 - What is the best predictor of engagement? What are the most important features? How do they contribute to the model?
 
-To do:
-- Check XGB results and run transformers [in progress]
-- Compare metrics with other data  [TBD]
-- Public favorability analysis per topic [TBD]
-- Tidy up plots, lit review, and intro [TBD]
-- Paraphrase example [TBD]
 
-
-### Metrics
+### Style metrics
 #### From Benoit et al. (2019)
 Best metrics
-- Flesch Reading Ease only
-- Mean sentence length + Mean word syllables
-- Frequency, mean sentence characters, proportion of nouns, mean word characters
+- Flesch Reading Ease only - OK
+- Mean sentence length - OK + Mean word syllables - OK
+- Frequency - OK, mean sentence characters - OK, proportion of nouns - OK, mean word characters
 
 **ALL METRICS**
 Long words
