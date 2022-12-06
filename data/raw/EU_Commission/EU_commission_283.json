@@ -1,0 +1,3567 @@
+{
+    "data": [
+        {
+            "created_at": "2012-08-16T13:20:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 13,
+                        "tag": "Sudan"
+                    },
+                    {
+                        "end": 27,
+                        "start": 23,
+                        "tag": "aid"
+                    },
+                    {
+                        "end": 127,
+                        "start": 119,
+                        "tag": "WHD2012"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "470099591",
+                        "start": 3,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/O38TFy",
+                        "end": 118,
+                        "expanded_url": "http://bit.ly/O38TFy",
+                        "start": 98,
+                        "url": "http://t.co/0XGCMhBT"
+                    }
+                ]
+            },
+            "id": "236090029817085952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "RT @eu_echo: #Sudan 19 #aid workers killed in 2009, some 260 killed, kidnapped or injured in\n2008 http://t.co/0XGCMhBT #WHD2012"
+        },
+        {
+            "created_at": "2012-08-16T12:20:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 13,
+                        "tag": "RDC"
+                    },
+                    {
+                        "end": 75,
+                        "start": 63,
+                        "tag": "humanitaire"
+                    },
+                    {
+                        "end": 105,
+                        "start": 97,
+                        "tag": "WHD2012"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "470099591",
+                        "start": 3,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/O38TFy",
+                        "end": 96,
+                        "expanded_url": "http://bit.ly/O38TFy",
+                        "start": 76,
+                        "url": "http://t.co/0XGCMhBT"
+                    }
+                ]
+            },
+            "id": "236074934433107968",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @eu_echo: #RDC installations ONG r\u00e9guli\u00e8rement vandalis\u00e9es, #humanitaire http://t.co/0XGCMhBT #WHD2012"
+        },
+        {
+            "created_at": "2012-08-16T11:00:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 114,
+                        "normalized_text": "Finland",
+                        "probability": 0.8877,
+                        "start": 108,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2562735307",
+                        "start": 3,
+                        "username": "EU_enterprise"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/d0qXV",
+                        "end": 137,
+                        "expanded_url": "http://ow.ly/d0qXV",
+                        "start": 117,
+                        "url": "http://t.co/MKXzhPQR"
+                    }
+                ]
+            },
+            "id": "236054928110546946",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "RT @EU_enterprise: Want to know more about our European SME as International Champion (Minna PARIKKA), from Finland? http://t.co/MKXzhPQR"
+        },
+        {
+            "created_at": "2012-08-16T10:19:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 95,
+                        "normalized_text": "EU",
+                        "probability": 0.4572,
+                        "start": 94,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P05Zxi",
+                        "end": 123,
+                        "expanded_url": "http://bit.ly/P05Zxi",
+                        "start": 103,
+                        "url": "http://t.co/wfeeGx0l"
+                    }
+                ]
+            },
+            "id": "236044463628234752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "Working Time: Commission agrees to extend time for social partners' negotiations on reviewing EU rules http://t.co/wfeeGx0l"
+        },
+        {
+            "created_at": "2012-08-16T09:00:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 118,
+                        "start": 111,
+                        "tag": "WCIT12"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2894539229",
+                        "start": 3,
+                        "username": "DigitalAgendaEU"
+                    },
+                    {
+                        "end": 81,
+                        "id": "40425262",
+                        "start": 77,
+                        "username": "ITU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NCNLEw",
+                        "end": 139,
+                        "expanded_url": "http://bit.ly/NCNLEw",
+                        "start": 119,
+                        "url": "http://t.co/zyqQJqDZ"
+                    }
+                ]
+            },
+            "id": "236024519872110592",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "RT @DigitalAgendaEU: To all our friends worldwide. Make your voice heard! RT @ITU Public consultation open for #WCIT12 http://t.co/zyqQJqDZ"
+        },
+        {
+            "created_at": "2012-08-16T08:45:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "South",
+                        "probability": 0.7816,
+                        "start": 42,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 24,
+                        "tag": "air"
+                    },
+                    {
+                        "end": 38,
+                        "start": 29,
+                        "tag": "security"
+                    },
+                    {
+                        "end": 54,
+                        "start": 48,
+                        "tag": "Sudan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OZVtGo",
+                        "end": 81,
+                        "expanded_url": "http://bit.ly/OZVtGo",
+                        "start": 61,
+                        "url": "http://t.co/bb1FrQzs"
+                    }
+                ]
+            },
+            "id": "236020937152159744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "What does strengthening #air #security in South #Sudan mean? http://t.co/bb1FrQzs"
+        },
+        {
+            "created_at": "2012-08-16T08:19:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "South",
+                        "probability": 0.8756,
+                        "start": 53,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 65,
+                        "start": 59,
+                        "tag": "Sudan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OZVrOK",
+                        "end": 96,
+                        "expanded_url": "http://bit.ly/OZVrOK",
+                        "start": 76,
+                        "url": "http://t.co/SJq1NQ2K"
+                    }
+                ]
+            },
+            "id": "236014249263116288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#EU Head of Mission for aviation security mission in South #Sudan appointed http://t.co/SJq1NQ2K"
+        },
+        {
+            "created_at": "2012-08-14T10:31:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "World Bank",
+                        "probability": 0.7071,
+                        "start": 31,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 17,
+                        "tag": "IMF"
+                    },
+                    {
+                        "end": 26,
+                        "start": 23,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 67,
+                        "start": 59,
+                        "tag": "Romania"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RcuSM7",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/RcuSM7",
+                        "start": 87,
+                        "url": "http://t.co/7D6rruu5"
+                    }
+                ]
+            },
+            "id": "235322651323813888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Statement by the #IMF, #EC and World Bank on the Review of #Romania\u2019s Economic Program http://t.co/7D6rruu5"
+        },
+        {
+            "created_at": "2012-08-13T11:45:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 75,
+                        "start": 68,
+                        "tag": "safety"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "39516018",
+                        "start": 3,
+                        "username": "EU_Consumer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OmbEC6",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/OmbEC6",
+                        "start": 120,
+                        "url": "http://t.co/rYBjGjyv"
+                    }
+                ]
+            },
+            "id": "234979101469978625",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "RT @EU_Consumer: Call for expression of interest for experts on the #safety of medical devices containing nanomaterials http://t.co/rYBjGjyv"
+        },
+        {
+            "created_at": "2012-08-13T10:45:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "Environment"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P6Whfz",
+                        "end": 93,
+                        "expanded_url": "http://bit.ly/P6Whfz",
+                        "start": 73,
+                        "url": "http://t.co/Nt6Svp9l"
+                    }
+                ]
+            },
+            "id": "234964001694576640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#Environment: Better information for citizens about major accident risks http://t.co/Nt6Svp9l"
+        },
+        {
+            "created_at": "2012-08-13T10:04:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 18,
+                        "tag": "Environment"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2560246616",
+                        "start": 1,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P6WcZ9",
+                        "end": 102,
+                        "expanded_url": "http://bit.ly/P6WcZ9",
+                        "start": 82,
+                        "url": "http://t.co/nZRQMG5o"
+                    }
+                ]
+            },
+            "id": "234953536482463744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": ".@JanezPotocnikEU #Environment: New rules on e-waste to boost resource efficiency http://t.co/nZRQMG5o"
+        },
+        {
+            "created_at": "2012-08-10T12:12:46.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 111,
+                        "normalized_text": "Commissioner Vassiliou",
+                        "probability": 0.658,
+                        "start": 90,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Culture"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 125,
+                        "id": "481964948",
+                        "start": 113,
+                        "username": "VassiliouEU"
+                    }
+                ]
+            },
+            "id": "233898684432142336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "#Culture Summit: Case for investment in culture as strong today as it has ever been, says Commissioner Vassiliou @VassiliouEU"
+        },
+        {
+            "created_at": "2012-08-10T12:09:30.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Rio Tinto Alcan",
+                        "probability": 0.521,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Antitrust"
+                    },
+                    {
+                        "end": 15,
+                        "start": 12,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Ql6Is3",
+                        "end": 123,
+                        "expanded_url": "http://bit.ly/Ql6Is3",
+                        "start": 103,
+                        "url": "http://t.co/zWuVTzPZ"
+                    }
+                ]
+            },
+            "id": "233897862986092544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "#Antitrust: #EC market tests commitments proposed by Rio Tinto Alcan in markets for aluminium smelting http://t.co/zWuVTzPZ"
+        },
+        {
+            "created_at": "2012-08-10T07:39:37.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/justice/opinio\u2026",
+                        "end": 100,
+                        "expanded_url": "http://ec.europa.eu/justice/opinion/your-rights-your-future/index_en.htm",
+                        "start": 80,
+                        "url": "http://t.co/0DxdlnWx"
+                    }
+                ]
+            },
+            "id": "233829942603948032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "Don't forget to fill out the public consultation on your rights and your future http://t.co/0DxdlnWx"
+        },
+        {
+            "created_at": "2012-08-09T15:45:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1019536601490313221",
+                        "start": 3,
+                        "username": "EU_Regional"
+                    },
+                    {
+                        "end": 34,
+                        "id": "1292851402956574720",
+                        "start": 20,
+                        "username": "europe_france"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europe-en-france.gouv.fr/Centre-de-ress\u2026",
+                        "end": 135,
+                        "expanded_url": "http://www.europe-en-france.gouv.fr/Centre-de-ressources/Actualites/Concours-photos-L-Europe-dans-ma-region-deja-plus-de-100-cliches-en-lice",
+                        "start": 115,
+                        "url": "http://t.co/Uo4aJXLH"
+                    }
+                ]
+            },
+            "id": "233589868121444352",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "RT @EU_Regional: RT @europe_france: Concours photos \"L\u2019Europe dans ma r\u00e9gion\" : d\u00e9j\u00e0 plus de 100 clich\u00e9s en lice ! http://t.co/Uo4aJXLH"
+        },
+        {
+            "created_at": "2012-08-09T13:27:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Glasgow",
+                        "probability": 0.8889,
+                        "start": 74,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 37,
+                        "tag": "Active"
+                    },
+                    {
+                        "end": 52,
+                        "start": 45,
+                        "tag": "Ageing"
+                    },
+                    {
+                        "end": 99,
+                        "start": 90,
+                        "tag": "WCAA2012"
+                    },
+                    {
+                        "end": 113,
+                        "start": 100,
+                        "tag": "activeageing"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "606325697",
+                        "start": 3,
+                        "username": "EU_Health"
+                    },
+                    {
+                        "end": 89,
+                        "id": "57333022",
+                        "start": 82,
+                        "username": "age_uk"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Nl1az9",
+                        "end": 134,
+                        "expanded_url": "http://bit.ly/Nl1az9",
+                        "start": 114,
+                        "url": "http://t.co/PBpGv6QI"
+                    }
+                ]
+            },
+            "id": "233555140542603264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "RT @EU_Health: 8th World Congress on #Active #Ageing - 13-17 August 2012, Glasgow @age_uk #WCAA2012 #activeageing http://t.co/PBpGv6QI"
+        },
+        {
+            "created_at": "2012-08-09T12:27:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "digitalagenda"
+                    },
+                    {
+                        "end": 28,
+                        "start": 15,
+                        "tag": "Microcopters"
+                    },
+                    {
+                        "end": 47,
+                        "start": 40,
+                        "tag": "robots"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MAp73g",
+                        "end": 113,
+                        "expanded_url": "http://bit.ly/MAp73g",
+                        "start": 93,
+                        "url": "http://t.co/c0ddeNXV"
+                    }
+                ]
+            },
+            "id": "233540042491043840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#digitalagenda #Microcopters and ground #robots used to save earthquake-hit Italian churches http://t.co/c0ddeNXV"
+        },
+        {
+            "created_at": "2012-08-09T11:26:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Globalisation Fund",
+                        "probability": 0.5248,
+                        "start": 50,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Nfa96N",
+                        "end": 133,
+                        "expanded_url": "http://bit.ly/Nfa96N",
+                        "start": 113,
+                        "url": "http://t.co/AMrs8egI"
+                    }
+                ]
+            },
+            "id": "233524692651220995",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 12
+            },
+            "text": "Employment: Commission proposes \u20ac1.5 million from Globalisation Fund to help Dutch workers in aluminium industry http://t.co/AMrs8egI"
+        },
+        {
+            "created_at": "2012-08-09T10:50:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 109,
+                        "normalized_text": "Galicia",
+                        "probability": 0.9265,
+                        "start": 103,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P1Cq0I",
+                        "end": 131,
+                        "expanded_url": "http://bit.ly/P1Cq0I",
+                        "start": 111,
+                        "url": "http://t.co/dHUxr9Ms"
+                    }
+                ]
+            },
+            "id": "233515633025892352",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "text": "Employment: Commission proposes \u20ac2 million from Globalisation Fund for Spanish shipbuilding workers in Galicia http://t.co/dHUxr9Ms"
+        },
+        {
+            "created_at": "2012-08-09T10:24:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Antitrust"
+                    },
+                    {
+                        "end": 98,
+                        "start": 87,
+                        "tag": "automotive"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RCEiiT",
+                        "end": 134,
+                        "expanded_url": "http://bit.ly/RCEiiT",
+                        "start": 114,
+                        "url": "http://t.co/uqXdlYdZ"
+                    }
+                ]
+            },
+            "id": "233509170287087616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 14
+            },
+            "text": "#Antitrust: Commission opens proceedings against suspects in cartels for the supply of #automotive wire harnesses http://t.co/uqXdlYdZ"
+        },
+        {
+            "created_at": "2012-08-09T08:24:59.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NJitrh",
+                        "end": 83,
+                        "expanded_url": "http://bit.ly/NJitrh",
+                        "start": 63,
+                        "url": "http://t.co/meFhGpZX"
+                    }
+                ]
+            },
+            "id": "233478971268931584",
+            "lang": "tl",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": ".@KGeorgievaEU on humanitarian access to Rohingya  and Myanmar http://t.co/meFhGpZX"
+        },
+        {
+            "created_at": "2012-08-08T11:38:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 10,
+                        "tag": "passenger"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/QEY4ZC",
+                        "end": 108,
+                        "expanded_url": "http://bit.ly/QEY4ZC",
+                        "start": 88,
+                        "url": "http://t.co/yIIAVcpX"
+                    }
+                ]
+            },
+            "id": "233165405278044161",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 29
+            },
+            "text": "Keep your #passenger rights at hand everywhere with this App. You can download it here  http://t.co/yIIAVcpX"
+        },
+        {
+            "created_at": "2012-08-08T11:11:22.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/O4r7n9",
+                        "end": 139,
+                        "expanded_url": "http://bit.ly/O4r7n9",
+                        "start": 119,
+                        "url": "http://t.co/5uMFMmeD"
+                    }
+                ]
+            },
+            "id": "233158455748333568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "text": "Did you know that if your baggage is lost you may be entitled to compensation limited to about \u20ac1,220? More info here  http://t.co/5uMFMmeD"
+        },
+        {
+            "created_at": "2012-08-08T10:45:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Madagascar"
+                    },
+                    {
+                        "end": 17,
+                        "start": 14,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 44,
+                        "start": 32,
+                        "tag": "development"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OQCFcR",
+                        "end": 132,
+                        "expanded_url": "http://bit.ly/OQCFcR",
+                        "start": 112,
+                        "url": "http://t.co/d5MOLewn"
+                    }
+                ]
+            },
+            "id": "233151859492286464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "#Madagascar : #EU to resume its #development aid and target health and education of the most vulnerable people  http://t.co/d5MOLewn"
+        },
+        {
+            "created_at": "2012-08-08T10:00:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 67,
+                        "start": 55,
+                        "tag": "N\u00fcrburgring"
+                    },
+                    {
+                        "end": 89,
+                        "start": 81,
+                        "tag": "Germany"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ONnROI",
+                        "end": 110,
+                        "expanded_url": "http://bit.ly/ONnROI",
+                        "start": 90,
+                        "url": "http://t.co/ZfFhzXCH"
+                    }
+                ]
+            },
+            "id": "233140682158649345",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 6
+            },
+            "text": "#EC extends in-depth investigation into aid granted to #N\u00fcrburgring racetrack in #Germany http://t.co/ZfFhzXCH"
+        },
+        {
+            "created_at": "2012-08-08T07:55:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 84,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EUcitizen",
+                        "end": 108,
+                        "expanded_url": "http://bit.ly/EUcitizen",
+                        "start": 88,
+                        "url": "http://t.co/4xQFP2s7"
+                    },
+                    {
+                        "display_url": "youtu.be/jCjxx4_Vy9A",
+                        "end": 130,
+                        "expanded_url": "http://youtu.be/jCjxx4_Vy9A",
+                        "start": 110,
+                        "url": "http://t.co/N43FejJM"
+                    }
+                ]
+            },
+            "id": "233109229945376768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 26
+            },
+            "text": "Your views matter.Take 10 minutes to tell us what do you think about your rights in #EU http://t.co/4xQFP2s7  http://t.co/N43FejJM"
+        },
+        {
+            "created_at": "2012-08-08T07:46:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Guernsey",
+                        "probability": 0.5228,
+                        "start": 66,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 112,
+                        "start": 104,
+                        "tag": "mergers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P524TU",
+                        "end": 133,
+                        "expanded_url": "http://bit.ly/P524TU",
+                        "start": 113,
+                        "url": "http://t.co/PhnJbSjp"
+                    }
+                ]
+            },
+            "id": "233106980250722304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "#EC approves acquisition of medical device company BSN Medical by Guernsey based investment fund EQT VI #mergers http://t.co/PhnJbSjp"
+        },
+        {
+            "created_at": "2012-08-07T12:41:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 65,
+                        "start": 59,
+                        "tag": "Yemen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 86,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/889&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 66,
+                        "url": "http://t.co/bViWnq3K"
+                    }
+                ]
+            },
+            "id": "232818780609331201",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "#EU announces further support for democratic transition in #Yemen http://t.co/bViWnq3K"
+        },
+        {
+            "created_at": "2012-08-07T12:39:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "Environment"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 74,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/888&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 54,
+                        "url": "http://t.co/16TnKdsg"
+                    }
+                ]
+            },
+            "id": "232818273643802624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "#Environment: a new medals table for waste management http://t.co/16TnKdsg"
+        },
+        {
+            "created_at": "2012-08-06T17:17:04.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1181557536929062913",
+                        "start": 3,
+                        "username": "saferinternetEU"
+                    },
+                    {
+                        "end": 124,
+                        "id": "831942659547672581",
+                        "start": 112,
+                        "username": "FastCoExist"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "fastcoexist.com/node/1680247",
+                        "end": 107,
+                        "expanded_url": "http://www.fastcoexist.com/node/1680247",
+                        "start": 87,
+                        "url": "http://t.co/4cWhwicD"
+                    }
+                ]
+            },
+            "id": "232525711448100864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "RT @SaferInternetEU: An Interactive Infographic Maps The Future Of Emerging Technology http://t.co/4cWhwicD via @FastCoExist"
+        },
+        {
+            "created_at": "2012-08-06T17:01:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 48,
+                        "tag": "growth"
+                    },
+                    {
+                        "end": 70,
+                        "start": 67,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/O7Jisq",
+                        "end": 143,
+                        "expanded_url": "http://bit.ly/O7Jisq",
+                        "start": 123,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/info/departments/economic-and-financial-affairs/website-notice-users_en",
+                        "url": "http://t.co/Wjpo6xr3"
+                    }
+                ]
+            },
+            "id": "232521684555534337",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 12
+            },
+            "text": "Interested in economic convergence &amp;funding #growth in the CEE #EU Member States? Contribute your ideas by October 15  http://t.co/Wjpo6xr3"
+        },
+        {
+            "created_at": "2012-08-06T14:08:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "travel"
+                    },
+                    {
+                        "end": 11,
+                        "start": 8,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 39,
+                        "start": 30,
+                        "tag": "European"
+                    },
+                    {
+                        "end": 46,
+                        "start": 40,
+                        "tag": "beach"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OFRRvX",
+                        "end": 82,
+                        "expanded_url": "http://bit.ly/OFRRvX",
+                        "start": 62,
+                        "url": "http://t.co/YwymB6w2"
+                    }
+                ]
+            },
+            "id": "232478147805843457",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 15
+            },
+            "text": "#travel #EU How clean is your #European #beach and its water? http://t.co/YwymB6w2"
+        },
+        {
+            "created_at": "2012-08-06T13:50:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 114,
+                        "normalized_text": "Erasmus Mundus Programme",
+                        "probability": 0.3689,
+                        "start": 91,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/N8RQ3b",
+                        "end": 136,
+                        "expanded_url": "http://bit.ly/N8RQ3b",
+                        "start": 116,
+                        "url": "http://t.co/NF0h5R7F"
+                    }
+                ]
+            },
+            "id": "232473618016256000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 44
+            },
+            "text": "Do you want to study or research abroad? Do you want an extraordinary learning experience? Erasmus Mundus Programme http://t.co/NF0h5R7F"
+        },
+        {
+            "created_at": "2012-08-06T13:29:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Regional Policy",
+                        "probability": 0.3596,
+                        "start": 46,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1397485752385105921",
+                        "start": 3,
+                        "username": "AALForum"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "aalforum.eu/page/session-a\u2026",
+                        "end": 111,
+                        "expanded_url": "http://www.aalforum.eu/page/session-a2-2012",
+                        "start": 91,
+                        "url": "http://t.co/m6WvV5Lh"
+                    }
+                ]
+            },
+            "id": "232468334581522432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "RT @AALFORUM: With special attention for the 'Regional Policy' session at Wednesday 26th: \nhttp://t.co/m6WvV5Lh"
+        },
+        {
+            "created_at": "2012-08-06T12:28:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Assam",
+                        "probability": 0.9799,
+                        "start": 41,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 118,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/887&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 98,
+                        "url": "http://t.co/07r4OsXG"
+                    }
+                ]
+            },
+            "id": "232453181525864449",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU responds to Indian monsoon floods in Assam by providing \u20ac2 million to assist disaster victims http://t.co/07r4OsXG"
+        },
+        {
+            "created_at": "2012-08-06T09:25:48.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/showInfo\u2026",
+                        "end": 107,
+                        "expanded_url": "http://europa.eu/rapid/showInformation.do?pageName=recentPressReleases&guiLanguage=fr",
+                        "start": 87,
+                        "url": "http://t.co/E2Rsf4B7"
+                    }
+                ]
+            },
+            "id": "232407114780393474",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "L'Union europ\u00e9enne soutient l'acc\u00e8s \u00e0 la sant\u00e9 pour 4 millions de personnes en Tunisie http://t.co/E2Rsf4B7"
+        },
+        {
+            "created_at": "2012-08-06T08:35:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 11,
+                        "start": 4,
+                        "tag": "travel"
+                    },
+                    {
+                        "end": 20,
+                        "start": 12,
+                        "tag": "airline"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/transport/pass\u2026",
+                        "end": 137,
+                        "expanded_url": "http://ec.europa.eu/transport/passenger-rights/en/06-air-denied-boarding.html",
+                        "start": 117,
+                        "url": "http://t.co/MxUqJ5Wt"
+                    }
+                ]
+            },
+            "id": "232394526235455488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 37
+            },
+            "text": "#EU #travel #airline You may be entitled to compensation of between \u20ac125 and \u20ac600 if denied boarding. Find out more: http://t.co/MxUqJ5Wt"
+        },
+        {
+            "created_at": "2012-08-06T08:32:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "travel"
+                    },
+                    {
+                        "end": 11,
+                        "start": 8,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 57,
+                        "start": 47,
+                        "tag": "transport"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/transport/pass\u2026",
+                        "end": 87,
+                        "expanded_url": "http://ec.europa.eu/transport/passenger-rights/en/14-rail_02.html",
+                        "start": 67,
+                        "url": "http://t.co/K2rTEX71"
+                    }
+                ]
+            },
+            "id": "232393823232335872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 13
+            },
+            "text": "#travel #EU Six basic rights apply to all rail #transport services http://t.co/K2rTEX71"
+        },
+        {
+            "created_at": "2012-08-06T08:23:25.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=uJXat_\u2026",
+                        "end": 94,
+                        "expanded_url": "http://www.youtube.com/watch?v=uJXat_Bs7iE&feature=plcp",
+                        "start": 74,
+                        "url": "http://t.co/weuNGyja"
+                    }
+                ]
+            },
+            "id": "232391414238044160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "text": "Are you taking your car to another EU country? Find out about your rights http://t.co/weuNGyja"
+        },
+        {
+            "created_at": "2012-08-03T13:22:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 12,
+                        "start": 9,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 114,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/877&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 94,
+                        "url": "http://t.co/fvv5UE1D"
+                    }
+                ]
+            },
+            "id": "231379546987978754",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#Mergers:#EC approves acquisition of Dutch public sector consultancy firm BMC by Dutch banks. http://t.co/fvv5UE1D"
+        },
+        {
+            "created_at": "2012-08-03T11:59:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 67,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 80,
+                        "start": 71,
+                        "tag": "citizens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 101,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/879&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 81,
+                        "url": "http://t.co/yPCk27sb"
+                    }
+                ]
+            },
+            "id": "231358625514418176",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Requests for Commission documents increase for tenth year in a row #EC #citizens http://t.co/yPCk27sb"
+        },
+        {
+            "created_at": "2012-08-03T11:57:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 116,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/880&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 96,
+                        "url": "http://t.co/5uekllVd"
+                    }
+                ]
+            },
+            "id": "231358248584871936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EC welcome plans to improve situation for citizens who purchased property on the Spanish coast http://t.co/5uekllVd"
+        },
+        {
+            "created_at": "2012-08-03T11:57:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Taxation"
+                    },
+                    {
+                        "end": 14,
+                        "start": 11,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 104,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/881&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 84,
+                        "url": "http://t.co/iK6ZsQ0G"
+                    }
+                ]
+            },
+            "id": "231358010763661312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#Taxation: #EC consults on tax obstacles to cross-border venture capital investment http://t.co/iK6ZsQ0G"
+        },
+        {
+            "created_at": "2012-08-03T11:56:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 37,
+                        "start": 27,
+                        "tag": "transport"
+                    },
+                    {
+                        "end": 85,
+                        "start": 79,
+                        "tag": "Kenya"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 107,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/882&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 87,
+                        "url": "http://t.co/OEHmBhdl"
+                    }
+                ]
+            },
+            "id": "231357817267838976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "New #EU funding to improve #transport infrastructure and cross-border trade in #Kenya  http://t.co/OEHmBhdl"
+        },
+        {
+            "created_at": "2012-08-03T09:05:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Mr Annan",
+                        "probability": 0.9605,
+                        "start": 46,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 16,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 98,
+                        "start": 92,
+                        "tag": "Syria"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 120,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/616&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 100,
+                        "url": "http://t.co/qclFiIqD"
+                    }
+                ]
+            },
+            "id": "231314767871098881",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "Statement by HR #Ashton on the resignation of Mr Annan as the UN-LAS Joint Special Envoy to #Syria: http://t.co/qclFiIqD"
+        },
+        {
+            "created_at": "2012-08-02T09:57:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "European Commission",
+                        "probability": 0.5062,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 99,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/615",
+                        "start": 79,
+                        "url": "http://t.co/Bsi2NW6G"
+                    }
+                ]
+            },
+            "id": "230965543849566209",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 26
+            },
+            "text": "The European Commission welcomes Greek Government structural reform commitment http://t.co/Bsi2NW6G"
+        },
+        {
+            "created_at": "2012-08-02T09:18:02.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 136,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=STAT/12/116&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 116,
+                        "url": "http://t.co/zRe6QJct"
+                    }
+                ]
+            },
+            "id": "230955609858641920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "In June 2012 compared with June 2011, industrial producer prices gained 1.8% in the euro area and 1.6% in the EU27. http://t.co/zRe6QJct"
+        },
+        {
+            "created_at": "2012-08-01T10:35:00.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/9BMKGDnNXXw",
+                        "end": 88,
+                        "expanded_url": "http://youtu.be/9BMKGDnNXXw",
+                        "start": 68,
+                        "url": "http://t.co/JguCCZwC"
+                    },
+                    {
+                        "display_url": "bit.ly/T2VnAG",
+                        "end": 109,
+                        "expanded_url": "http://bit.ly/T2VnAG",
+                        "start": 89,
+                        "url": "http://t.co/CaE51tUX"
+                    }
+                ]
+            },
+            "id": "230612588638113793",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "European Toy Safety Campaign: don't let accidents ruin your summer! http://t.co/JguCCZwC http://t.co/CaE51tUX"
+        },
+        {
+            "created_at": "2012-08-01T10:26:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "Eastern",
+                        "probability": 0.6717,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MYGONR",
+                        "end": 112,
+                        "expanded_url": "http://bit.ly/MYGONR",
+                        "start": 92,
+                        "url": "http://t.co/8a43jpw8"
+                    }
+                ]
+            },
+            "id": "230610322464075776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#EU allocates new funding to improve transport and the environment in Eastern neighbourhood http://t.co/8a43jpw8"
+        },
+        {
+            "created_at": "2012-08-01T10:20:00.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MYGCy0",
+                        "end": 80,
+                        "expanded_url": "http://bit.ly/MYGCy0",
+                        "start": 60,
+                        "url": "http://t.co/AsTHGPCh"
+                    }
+                ]
+            },
+            "id": "230608814876024832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Commission decides on deductions of fishing quotas for 2012 http://t.co/AsTHGPCh"
+        },
+        {
+            "created_at": "2012-08-01T10:15:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "European Migration Network",
+                        "probability": 0.4152,
+                        "start": 19,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/T2Vso7",
+                        "end": 66,
+                        "expanded_url": "http://bit.ly/T2Vso7",
+                        "start": 46,
+                        "url": "http://t.co/vfi1iLnX"
+                    }
+                ]
+            },
+            "id": "230607558535176193",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Next steps for the European Migration Network http://t.co/vfi1iLnX"
+        },
+        {
+            "created_at": "2012-08-01T10:08:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "President Tajani",
+                        "probability": 0.5207,
+                        "start": 5,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "European Toy Safety Campaign",
+                        "probability": 0.3876,
+                        "start": 31,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/syvGBY",
+                        "end": 90,
+                        "expanded_url": "http://bit.ly/syvGBY",
+                        "start": 70,
+                        "url": "http://t.co/L9DJLT6V"
+                    }
+                ]
+            },
+            "id": "230606030214680576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Vice-President Tajani presents European Toy Safety Campaign. Live now http://t.co/L9DJLT6V"
+        },
+        {
+            "created_at": "2012-08-01T10:07:00.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MYGAX5",
+                        "end": 74,
+                        "expanded_url": "http://bit.ly/MYGAX5",
+                        "start": 54,
+                        "url": "http://t.co/uIip0uM1"
+                    }
+                ]
+            },
+            "id": "230605540991049728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Commission closes investigation in P&amp;I Clubs case http://t.co/uIip0uM1"
+        },
+        {
+            "created_at": "2012-08-01T10:02:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "President Tajani",
+                        "probability": 0.5441,
+                        "start": 5,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/syvGBY",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/syvGBY",
+                        "start": 95,
+                        "url": "http://t.co/L9DJLT6V"
+                    }
+                ]
+            },
+            "id": "230604402208165888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Vice-President Tajani presents European Toy Safety Campaign. Press Conference in a few minutes http://t.co/L9DJLT6V"
+        },
+        {
+            "created_at": "2012-08-01T09:53:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "President Tajani",
+                        "probability": 0.5215,
+                        "start": 5,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/syvGBY",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/syvGBY",
+                        "start": 87,
+                        "url": "http://t.co/L9DJLT6V"
+                    }
+                ]
+            },
+            "id": "230602017905733633",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Vice-President Tajani presents European Toy Safety Campaign. Press Conference at 12.00 http://t.co/L9DJLT6V"
+        },
+        {
+            "created_at": "2012-08-01T09:50:00.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/T2Ujgb",
+                        "end": 104,
+                        "expanded_url": "http://bit.ly/T2Ujgb",
+                        "start": 84,
+                        "url": "http://t.co/cA6OnBXj"
+                    }
+                ]
+            },
+            "id": "230601266546475008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Household saving rate nearly stable at 13.3% in the euro area and 11.6% in the EU27 http://t.co/cA6OnBXj"
+        },
+        {
+            "created_at": "2012-08-01T09:40:54.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MYF47j",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/MYF47j",
+                        "start": 95,
+                        "url": "http://t.co/zwGf7H89"
+                    }
+                ]
+            },
+            "id": "230598973700857856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "Business investment rate nearly stable at 20.6% in the euro area and down to 19.9% in the EU27 http://t.co/zwGf7H89"
+        },
+        {
+            "created_at": "2012-08-01T09:13:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "The CE-e Robot",
+                        "probability": 0.6932,
+                        "start": 57,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/9BMKGDnNXXw",
+                        "end": 124,
+                        "expanded_url": "http://youtu.be/9BMKGDnNXXw",
+                        "start": 104,
+                        "url": "http://t.co/JguCCZwC"
+                    }
+                ]
+            },
+            "id": "230592200466104320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Ensuring toy safety for our children!. Watch the video - The CE-e Robot Song: our toys are good to go!  http://t.co/JguCCZwC"
+        },
+        {
+            "created_at": "2012-08-01T08:01:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 96,
+                        "start": 93,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 125,
+                        "start": 120,
+                        "tag": "jobs"
+                    },
+                    {
+                        "end": 136,
+                        "start": 126,
+                        "tag": "intership"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/8K4ZU0",
+                        "end": 119,
+                        "expanded_url": "http://bit.ly/8K4ZU0",
+                        "start": 99,
+                        "url": "http://t.co/r7ldipdC"
+                    }
+                ]
+            },
+            "id": "230574039226273792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 18,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 56
+            },
+            "text": "Do you have a University Degree? You can apply until 31st of August for a Traineeship at the #EC ! http://t.co/r7ldipdC #jobs #intership"
+        },
+        {
+            "created_at": "2012-07-31T15:31:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Europe",
+                        "probability": 0.977,
+                        "start": 64,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EUcitizen",
+                        "end": 139,
+                        "expanded_url": "http://bit.ly/EUcitizen",
+                        "start": 119,
+                        "url": "http://t.co/4xQFP2s7"
+                    }
+                ]
+            },
+            "id": "230324782296621056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 38
+            },
+            "text": "What is your experience of living in the EU? How would you like Europe to be in 2020?Take 10 mins to share your views: http://t.co/4xQFP2s7"
+        },
+        {
+            "created_at": "2012-07-31T12:45:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 71,
+                        "start": 65,
+                        "tag": "Syria"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 92,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/613&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 72,
+                        "url": "http://t.co/omTncq8I"
+                    }
+                ]
+            },
+            "id": "230283016130420736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "STATEMENT from @KGeorgievaEU on worsening humanitarian crisis in #Syria http://t.co/omTncq8I"
+        },
+        {
+            "created_at": "2012-07-31T12:43:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "VAT"
+                    },
+                    {
+                        "end": 63,
+                        "start": 57,
+                        "tag": "fraud"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 84,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/868&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 64,
+                        "url": "http://t.co/edvpYpx7"
+                    }
+                ]
+            },
+            "id": "230282541368745984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "#VAT: Proposal for new instrument for speedy response to #fraud http://t.co/edvpYpx7"
+        },
+        {
+            "created_at": "2012-07-31T12:42:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 11,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 104,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/872&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 84,
+                        "url": "http://t.co/Zze2wm26"
+                    }
+                ]
+            },
+            "id": "230282213239975936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "State aid: #EC invites comments on rules for state aid for environmental protection http://t.co/Zze2wm26"
+        },
+        {
+            "created_at": "2012-07-31T12:41:17.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 52,
+                        "start": 45,
+                        "tag": "energy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 101,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/869&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 81,
+                        "url": "http://t.co/qPSf3MTt"
+                    }
+                ]
+            },
+            "id": "230281982519693312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Construction:unleashing the potential of low #energy buildings to restore growth http://t.co/qPSf3MTt"
+        },
+        {
+            "created_at": "2012-07-31T12:39:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 8,
+                        "tag": "Africa"
+                    },
+                    {
+                        "end": 77,
+                        "start": 74,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 98,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/864&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 78,
+                        "url": "http://t.co/sDZKCavb"
+                    }
+                ]
+            },
+            "id": "230281554323206145",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Horn of #Africa to receive aid injection for stronger disaster resilience #EC http://t.co/sDZKCavb"
+        },
+        {
+            "created_at": "2012-07-31T09:54:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Visa",
+                        "probability": 0.7279,
+                        "start": 63,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Antitrust"
+                    },
+                    {
+                        "end": 15,
+                        "start": 12,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 88,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/871&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 68,
+                        "url": "http://t.co/STQGIBAE"
+                    }
+                ]
+            },
+            "id": "230239885280288768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#Antitrust: #EC sends supplementary statement of objections to Visa http://t.co/STQGIBAE"
+        },
+        {
+            "created_at": "2012-07-30T19:34:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 99,
+                        "normalized_text": "Romania",
+                        "probability": 0.9939,
+                        "start": 93,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 1,
+                        "tag": "Romania"
+                    },
+                    {
+                        "end": 23,
+                        "start": 15,
+                        "tag": "Basescu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/cvm/docs/com_2\u2026",
+                        "end": 130,
+                        "expanded_url": "http://ec.europa.eu/cvm/docs/com_2012_410_en.pdf",
+                        "start": 110,
+                        "url": "http://t.co/78HfqG9O"
+                    }
+                ]
+            },
+            "id": "230023532304793600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 32
+            },
+            "text": "\u00a0#Romania and \u00a0#Basescu The 22 -page draft European Commission report about the situation in Romania is here: http://t.co/78HfqG9O."
+        },
+        {
+            "created_at": "2012-07-30T19:33:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "President Barrosso",
+                        "probability": 0.7983,
+                        "start": 39,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 1,
+                        "tag": "Romania"
+                    },
+                    {
+                        "end": 23,
+                        "start": 15,
+                        "tag": "Basescu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 79,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/575&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 59,
+                        "url": "http://t.co/9dr77Kub"
+                    }
+                ]
+            },
+            "id": "230023299445424129",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "\u00a0#Romania and \u00a0#Basescu A statement by President Barrosso: http://t.co/9dr77Kub."
+        },
+        {
+            "created_at": "2012-07-30T16:07:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Europe",
+                        "probability": 0.7594,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 33,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1019536601490313221",
+                        "start": 3,
+                        "username": "EU_Regional"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/cB3Zn",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/cB3Zn",
+                        "start": 110,
+                        "url": "http://t.co/1S1I9wQG"
+                    }
+                ]
+            },
+            "id": "229971438617128960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 16
+            },
+            "text": "RT @EU_Regional: Enter photos of #EU funded projects in our 'Europe in My Region' competition - deadline 31/8 http://t.co/1S1I9wQG"
+        },
+        {
+            "created_at": "2012-07-30T15:08:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "3029538799",
+                        "start": 1,
+                        "username": "antoniotajanieu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 114,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=SPEECH/12/572&format=HTML&aged=0&language=IT&guiLanguage=fr",
+                        "start": 94,
+                        "url": "http://t.co/006tA4ge"
+                    }
+                ]
+            },
+            "id": "229956740387598336",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@AntonioTajaniEU \"Piano d'azione per un'industria della sicurezza innovativa e competitiva\". http://t.co/006tA4ge"
+        },
+        {
+            "created_at": "2012-07-30T12:24:58.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 109,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/835&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 89,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_12_835",
+                        "url": "http://t.co/cHN6Dgtg"
+                    }
+                ]
+            },
+            "id": "229915486140391424",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Antitrust: Commission sends Statement of Objections on perindopril to Servier and others http://t.co/cHN6Dgtg"
+        },
+        {
+            "created_at": "2012-07-30T11:45:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "EU",
+                        "probability": 0.719,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 144,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/863&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 124,
+                        "url": "http://t.co/vMsf1y2Q"
+                    }
+                ]
+            },
+            "id": "229905672131715072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "The EU security market has estimated market value of between \u20ac26 billion &amp; \u20ac36.5 billion with around 180,000 employees. http://t.co/vMsf1y2Q"
+        },
+        {
+            "created_at": "2012-07-30T11:00:59.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 109,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/865&format=HTML&aged=0&language=FR&guiLanguage=fr",
+                        "start": 89,
+                        "url": "http://t.co/nSsQ7avZ"
+                    }
+                ]
+            },
+            "id": "229894350711173121",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "L'Union Europ\u00e9enne renforce son appui aux r\u00e9formes sectorielles du gouvernement marocain http://t.co/nSsQ7avZ"
+        },
+        {
+            "created_at": "2012-07-30T10:45:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 67,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 136,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/866&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 116,
+                        "url": "http://t.co/X4WSJFup"
+                    }
+                ]
+            },
+            "id": "229890574537355264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "July Economic Sentiment Indicator (ESI) decreased by 1.4 points in #EU and by 2.0 points in the euro area, to 87.9. http://t.co/X4WSJFup"
+        },
+        {
+            "created_at": "2012-07-30T10:21:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 56,
+                        "tag": "euro"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 122,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/867&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 102,
+                        "url": "http://t.co/BSbpEwZ0"
+                    }
+                ]
+            },
+            "id": "229884292413657088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "July 2012, the Business Climate Indicator (BCI) for the #euro area decreased by 0.32 points to \u20111.27. http://t.co/BSbpEwZ0"
+        },
+        {
+            "created_at": "2012-07-30T09:26:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 45,
+                        "id": "3029538799",
+                        "start": 29,
+                        "username": "antoniotajanieu"
+                    }
+                ]
+            },
+            "id": "229870589026902016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "12h30 Press Conference with .@AntonioTajaniEU: Security industrial policy: Action plan for an innovative and competitive Security Industry"
+        },
+        {
+            "created_at": "2012-07-28T14:00:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 113,
+                        "normalized_text": "Europe",
+                        "probability": 0.9926,
+                        "start": 108,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 72,
+                        "tag": "jobs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Pe2to",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/Pe2to",
+                        "start": 115,
+                        "url": "http://t.co/HyLY0V9j"
+                    }
+                ]
+            },
+            "id": "229214645511151616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 96
+            },
+            "text": "Are you looking for a job? EURES is the easy way to find information on #jobs and learning opportunities in Europe http://t.co/HyLY0V9j"
+        },
+        {
+            "created_at": "2012-07-28T13:22:01.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/rx6ard",
+                        "end": 64,
+                        "expanded_url": "http://bit.ly/rx6ard",
+                        "start": 44,
+                        "url": "http://t.co/2QNeVMyU"
+                    }
+                ]
+            },
+            "id": "229205067289481217",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "EU games and quizes! visit our Kid's corner http://t.co/2QNeVMyU"
+        },
+        {
+            "created_at": "2012-07-28T11:02:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 16,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/i53oi0",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/i53oi0",
+                        "start": 77,
+                        "url": "http://t.co/gt4iTXWF"
+                    }
+                ]
+            },
+            "id": "229169830807363584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 15
+            },
+            "text": "Introduction to #EU funding. Questions and answers on how to request a grant http://t.co/gt4iTXWF"
+        },
+        {
+            "created_at": "2012-07-28T10:26:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 16,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 85,
+                        "start": 74,
+                        "tag": "EUCitizens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/IILR1O",
+                        "end": 72,
+                        "expanded_url": "http://bit.ly/IILR1O",
+                        "start": 52,
+                        "url": "http://t.co/mzqkrJYk"
+                    }
+                ]
+            },
+            "id": "229160771278475264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "In what kind of #EU would you like to live in 2020? http://t.co/mzqkrJYk  #EUCitizens"
+        },
+        {
+            "created_at": "2012-07-28T10:21:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 66,
+                        "tag": "emergency"
+                    },
+                    {
+                        "end": 91,
+                        "start": 84,
+                        "tag": "summer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NlhQ6W",
+                        "end": 112,
+                        "expanded_url": "http://bit.ly/NlhQ6W",
+                        "start": 92,
+                        "url": "http://t.co/uSR8evWh"
+                    }
+                ]
+            },
+            "id": "229159512836284416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "Useful tips for a worry-free summer. Who should I call in case of #emergency?  #112 #summer http://t.co/uSR8evWh"
+        },
+        {
+            "created_at": "2012-07-28T10:00:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 8,
+                        "tag": "roaming"
+                    },
+                    {
+                        "end": 50,
+                        "start": 47,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 74,
+                        "start": 65,
+                        "tag": "Olympics"
+                    },
+                    {
+                        "end": 86,
+                        "start": 75,
+                        "tag": "London2012"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/IdRFoYL7wMw",
+                        "end": 107,
+                        "expanded_url": "http://youtu.be/IdRFoYL7wMw",
+                        "start": 87,
+                        "url": "http://t.co/L2yatlat"
+                    }
+                ]
+            },
+            "id": "229154229670014976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Cheaper #roaming services for consumers in the #EU . Also during #Olympics #London2012 http://t.co/L2yatlat"
+        },
+        {
+            "created_at": "2012-07-28T09:37:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 44,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/mSgHbf",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/mSgHbf",
+                        "start": 115,
+                        "url": "http://t.co/TEuHq2HK"
+                    }
+                ]
+            },
+            "id": "229148444005126145",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "text": "Did you know that you can order or download #EU publications for different audiences, for free? Visit our bookshop http://t.co/TEuHq2HK"
+        },
+        {
+            "created_at": "2012-07-28T09:12:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 101,
+                        "start": 98,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/QjwQbN",
+                        "end": 131,
+                        "expanded_url": "http://bit.ly/QjwQbN",
+                        "start": 111,
+                        "url": "http://t.co/rPY8poFa"
+                    }
+                ]
+            },
+            "id": "229142152641388544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 42
+            },
+            "text": "Do you want to play an active role in the European policy-making process? Give us your opinion on #EU policies http://t.co/rPY8poFa"
+        },
+        {
+            "created_at": "2012-07-28T08:52:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 67,
+                        "tag": "generation92"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/IoKwxw",
+                        "end": 101,
+                        "expanded_url": "http://bit.ly/IoKwxw",
+                        "start": 81,
+                        "url": "http://t.co/1OtWH2Wn"
+                    }
+                ]
+            },
+            "id": "229137115689127937",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 16
+            },
+            "text": "Born in 1992? Express what the European single market means to you #generation92 http://t.co/1OtWH2Wn"
+        },
+        {
+            "created_at": "2012-07-28T08:30:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "European Green Capital",
+                        "probability": 0.3835,
+                        "start": 34,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 110,
+                        "start": 102,
+                        "tag": "Vitoria"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Qjvn5m",
+                        "end": 133,
+                        "expanded_url": "http://bit.ly/Qjvn5m",
+                        "start": 113,
+                        "url": "http://t.co/dgwf3C9R"
+                    }
+                ]
+            },
+            "id": "229131583796420609",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Do you know what it takes to be a European Green Capital? Are you a budding film maker? Win a trip to #Vitoria ! http://t.co/dgwf3C9R"
+        },
+        {
+            "created_at": "2012-07-28T08:27:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 11,
+                        "tag": "London2012"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NCBj4z",
+                        "end": 106,
+                        "expanded_url": "http://bit.ly/NCBj4z",
+                        "start": 86,
+                        "url": "http://t.co/mXosdQ1f"
+                    },
+                    {
+                        "display_url": "on.fb.me/cAuQZi",
+                        "end": 128,
+                        "expanded_url": "http://on.fb.me/cAuQZi",
+                        "start": 108,
+                        "url": "http://t.co/GcDxD4GZ"
+                    }
+                ]
+            },
+            "id": "229130881195978752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Are you at #London2012 ? Enjoy the biggest sporting event without any consumer hitch! http://t.co/mXosdQ1f  http://t.co/GcDxD4GZ"
+        },
+        {
+            "created_at": "2012-07-28T08:12:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 36,
+                        "tag": "London2012"
+                    },
+                    {
+                        "end": 57,
+                        "start": 48,
+                        "tag": "Olympics"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Orcxaa",
+                        "end": 78,
+                        "expanded_url": "http://bit.ly/Orcxaa",
+                        "start": 58,
+                        "url": "http://t.co/y5uRFvMf"
+                    }
+                ]
+            },
+            "id": "229127169811570689",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "text": "Good luck to the 27 European Teams! #London2012 #Olympics http://t.co/y5uRFvMf"
+        },
+        {
+            "created_at": "2012-07-27T10:30:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 66,
+                        "start": 55,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LRCEYp",
+                        "end": 111,
+                        "expanded_url": "http://bit.ly/LRCEYp",
+                        "start": 91,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_12_857",
+                        "url": "http://t.co/ir2gNMMg"
+                    }
+                ]
+            },
+            "id": "228799396647677952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Spring 2012 Standard Eurobarometer: Public support for #Europe2020 Strategy remains strong http://t.co/ir2gNMMg"
+        },
+        {
+            "created_at": "2012-07-27T10:16:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Globalisation Fund",
+                        "probability": 0.773,
+                        "start": 31,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 94,
+                        "start": 86,
+                        "tag": "Ireland"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/QmrHBd",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/QmrHBd",
+                        "start": 95,
+                        "url": "http://t.co/39P9swPt"
+                    }
+                ]
+            },
+            "id": "228795914322599936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EC proposes \u20ac2.7 million from Globalisation Fund to help former Talk Talk workers in #Ireland http://t.co/39P9swPt"
+        },
+        {
+            "created_at": "2012-07-27T10:14:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Alpha Bank",
+                        "probability": 0.9303,
+                        "start": 20,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 43,
+                        "normalized_text": "Eurobank",
+                        "probability": 0.7225,
+                        "start": 36,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Piraeus Bank",
+                        "probability": 0.9116,
+                        "start": 46,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "National Bank of Greece",
+                        "probability": 0.4626,
+                        "start": 63,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MJOXHL",
+                        "end": 138,
+                        "expanded_url": "http://bit.ly/MJOXHL",
+                        "start": 118,
+                        "url": "http://t.co/sXej9bIN"
+                    }
+                ]
+            },
+            "id": "228795437790941184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "#EC approves aid to Alpha Bank, EFG Eurobank, Piraeus Bank and National Bank of Greece; opens in-depth investigations http://t.co/sXej9bIN"
+        },
+        {
+            "created_at": "2012-07-27T10:13:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Greek Nea Proton Bank",
+                        "probability": 0.9064,
+                        "start": 33,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/O4kWhB",
+                        "end": 108,
+                        "expanded_url": "http://bit.ly/O4kWhB",
+                        "start": 88,
+                        "url": "http://t.co/dFySqQrG"
+                    }
+                ]
+            },
+            "id": "228795217866784768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#EC temporarily approves aid for Greek Nea Proton Bank and opens in-depth investigation http://t.co/dFySqQrG"
+        },
+        {
+            "created_at": "2012-07-27T08:10:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 16,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 84,
+                        "start": 73,
+                        "tag": "EUCitizens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/IILR1O",
+                        "end": 72,
+                        "expanded_url": "http://bit.ly/IILR1O",
+                        "start": 52,
+                        "url": "http://t.co/mzqkrJYk"
+                    }
+                ]
+            },
+            "id": "228764346258452480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 32
+            },
+            "text": "In what kind of #EU would you like to live in 2020? http://t.co/mzqkrJYk #EUCitizens"
+        },
+        {
+            "created_at": "2012-07-27T07:32:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 17,
+                        "tag": "London2012"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NCBj4z",
+                        "end": 113,
+                        "expanded_url": "http://bit.ly/NCBj4z",
+                        "start": 93,
+                        "url": "http://t.co/mXosdQ1f"
+                    },
+                    {
+                        "display_url": "on.fb.me/cAuQZi",
+                        "end": 134,
+                        "expanded_url": "http://on.fb.me/cAuQZi",
+                        "start": 114,
+                        "url": "http://t.co/GcDxD4GZ"
+                    }
+                ]
+            },
+            "id": "228754842548572161",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Are you going to #London2012 ? Enjoy the biggest sporting event without any consumer hitch!  http://t.co/mXosdQ1f http://t.co/GcDxD4GZ"
+        },
+        {
+            "created_at": "2012-07-27T06:58:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 92,
+                        "normalized_text": "United Technologies",
+                        "probability": 0.4141,
+                        "start": 74,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 64,
+                        "start": 55,
+                        "tag": "Goodrich"
+                    },
+                    {
+                        "end": 119,
+                        "start": 116,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P2U6F7",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/P2U6F7",
+                        "start": 120,
+                        "url": "http://t.co/9SdKr9H0"
+                    }
+                ]
+            },
+            "id": "228746040663232514",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#EC approves acquisition of aviation equipment company #Goodrich by rival United Technologies subject to conditions #EU http://t.co/9SdKr9H0"
+        },
+        {
+            "created_at": "2012-07-26T15:58:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 66,
+                        "start": 60,
+                        "tag": "Yemen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OJDzWA",
+                        "end": 87,
+                        "expanded_url": "http://bit.ly/OJDzWA",
+                        "start": 67,
+                        "url": "http://t.co/3KJ0rlLK"
+                    }
+                ]
+            },
+            "id": "228519550344372225",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "#EU doubles humanitarian funding to fight against hunger in #Yemen http://t.co/3KJ0rlLK"
+        },
+        {
+            "created_at": "2012-07-26T15:58:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 47,
+                        "start": 41,
+                        "tag": "Sudan"
+                    },
+                    {
+                        "end": 63,
+                        "start": 52,
+                        "tag": "SouthSudan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OcwcMq",
+                        "end": 99,
+                        "expanded_url": "http://bit.ly/OcwcMq",
+                        "start": 79,
+                        "url": "http://t.co/shvjckcl"
+                    }
+                ]
+            },
+            "id": "228519550109499392",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU boosts humanitarian aid for needs in #Sudan and #SouthSudan by \u20ac40 million http://t.co/shvjckcl"
+        },
+        {
+            "created_at": "2012-07-26T15:51:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 72,
+                        "start": 69,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P2xODn",
+                        "end": 93,
+                        "expanded_url": "http://bit.ly/P2xODn",
+                        "start": 73,
+                        "url": "http://t.co/P9J7eWEW"
+                    }
+                ]
+            },
+            "id": "228517933628915712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#EC launches consultation on a future framework for investment funds #EU http://t.co/P9J7eWEW"
+        },
+        {
+            "created_at": "2012-07-26T15:49:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 72,
+                        "start": 69,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P2xODn",
+                        "end": 93,
+                        "expanded_url": "http://bit.ly/P2xODn",
+                        "start": 73,
+                        "url": "http://t.co/P9J7eWEW"
+                    }
+                ]
+            },
+            "id": "228517517105172480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EC launches consultation on a future framework for investment funds #EU http://t.co/P9J7eWEW"
+        },
+        {
+            "created_at": "2012-07-26T15:38:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 38,
+                        "tag": "GPS"
+                    },
+                    {
+                        "end": 58,
+                        "start": 55,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OcuIlm",
+                        "end": 79,
+                        "expanded_url": "http://bit.ly/OcuIlm",
+                        "start": 59,
+                        "url": "http://t.co/3TrrFf8F"
+                    }
+                ]
+            },
+            "id": "228514591074824192",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "New internet service improves greatly #GPS reliability #EU http://t.co/3TrrFf8F"
+        }
+    ],
+    "meta": {
+        "newest_id": "236090029817085952",
+        "next_token": "1jzu9lk96gu5npvzzdphryz7new3zlfahnpklvhx0igt",
+        "oldest_id": "228514591074824192",
+        "result_count": 100
+    }
+}

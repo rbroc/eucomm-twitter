@@ -1,0 +1,4203 @@
+{
+    "data": [
+        {
+            "created_at": "2013-09-23T14:30:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 5,
+                        "tag": "Europe"
+                    },
+                    {
+                        "end": 49,
+                        "start": 44,
+                        "tag": "TTIP"
+                    },
+                    {
+                        "end": 79,
+                        "start": 73,
+                        "tag": "trade"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 89,
+                        "id": "1109452214",
+                        "start": 80,
+                        "username": "Trade_EU"
+                    },
+                    {
+                        "end": 103,
+                        "id": "106426994",
+                        "start": 90,
+                        "username": "EUJohnClancy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p7IKw",
+                        "end": 72,
+                        "expanded_url": "http://ow.ly/p7IKw",
+                        "start": 50,
+                        "url": "http://t.co/cF8v8Rczni"
+                    }
+                ]
+            },
+            "id": "382150013956415488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 5
+            },
+            "text": "Team #Europe: What we need for a successful #TTIP http://t.co/cF8v8Rczni #trade @Trade_EU @EUJohnClancy"
+        },
+        {
+            "created_at": "2013-09-23T11:10:10.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 109,
+                        "normalized_text": "New York",
+                        "probability": 0.9869,
+                        "start": 102,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ICT"
+                    },
+                    {
+                        "end": 62,
+                        "start": 52,
+                        "tag": "Broadband"
+                    },
+                    {
+                        "end": 86,
+                        "start": 78,
+                        "tag": "Digital"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "159950527",
+                        "start": 26,
+                        "username": "NeelieKroesEU"
+                    },
+                    {
+                        "end": 51,
+                        "id": "14159148",
+                        "start": 48,
+                        "username": "UN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p7fK9",
+                        "end": 134,
+                        "expanded_url": "http://ow.ly/p7fK9",
+                        "start": 112,
+                        "url": "http://t.co/bxy5xOlg3L"
+                    }
+                ]
+            },
+            "id": "382099564989513728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 29
+            },
+            "text": "#ICT is a woman's world - @NeelieKroesEU at the @UN #Broadband Commission for #Digital Development in New York: http://t.co/bxy5xOlg3L"
+        },
+        {
+            "created_at": "2013-09-23T10:30:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 21,
+                        "tag": "singlemarket"
+                    },
+                    {
+                        "end": 48,
+                        "start": 39,
+                        "tag": "research"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p7aOo",
+                        "end": 98,
+                        "expanded_url": "http://ow.ly/p7aOo",
+                        "start": 76,
+                        "url": "http://t.co/GIfu3bedht"
+                    }
+                ]
+            },
+            "id": "382089669871403008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "ERA progress report: #singlemarket for #research closer, not yet a reality: http://t.co/GIfu3bedht"
+        },
+        {
+            "created_at": "2013-09-23T10:18:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 46,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 106,
+                        "start": 101,
+                        "tag": "MDGs"
+                    },
+                    {
+                        "end": 112,
+                        "start": 107,
+                        "tag": "UNGA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p7avA",
+                        "end": 100,
+                        "expanded_url": "http://ow.ly/p7avA",
+                        "start": 78,
+                        "url": "http://t.co/jxb3CalR5Z"
+                    }
+                ]
+            },
+            "id": "382086514190352384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 26
+            },
+            "text": "The Millennium Development Goals and a global #development agenda after 2015: http://t.co/jxb3CalR5Z #MDGs #UNGA"
+        },
+        {
+            "created_at": "2013-09-23T10:11:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 65,
+                        "start": 57,
+                        "tag": "poverty"
+                    },
+                    {
+                        "end": 106,
+                        "start": 101,
+                        "tag": "UNGA"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 110,
+                        "id": "14159148",
+                        "start": 107,
+                        "username": "UN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p79NK",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/p79NK",
+                        "start": 67,
+                        "url": "http://t.co/SbEXvMfGPy"
+                    },
+                    {
+                        "display_url": "ow.ly/p79Ur",
+                        "end": 133,
+                        "expanded_url": "http://ow.ly/p79Ur",
+                        "start": 111,
+                        "url": "http://t.co/wtDGvGkEaG"
+                    }
+                ]
+            },
+            "id": "382084845503262720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 11
+            },
+            "text": "#EU is making major contribution to global fight against #poverty: http://t.co/SbEXvMfGPy @BarrosoEU #UNGA @UN http://t.co/wtDGvGkEaG"
+        },
+        {
+            "created_at": "2013-09-23T10:08:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Europe",
+                        "probability": 0.7914,
+                        "start": 10,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 67,
+                        "tag": "Helsinki"
+                    },
+                    {
+                        "end": 94,
+                        "start": 87,
+                        "tag": "EUdeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "177179008",
+                        "start": 25,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p79zQ",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/p79zQ",
+                        "start": 95,
+                        "url": "http://t.co/iMDEPiqNqE"
+                    }
+                ]
+            },
+            "id": "382084112175357952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 10
+            },
+            "text": "Future of Europe Debate: @VivianeRedingEU debates with citizens in #Helsinki tomorrow! #EUdeb8 http://t.co/iMDEPiqNqE"
+        },
+        {
+            "created_at": "2013-09-22T11:50:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 33,
+                        "tag": "SingleMarket"
+                    },
+                    {
+                        "end": 130,
+                        "start": 117,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 139,
+                        "start": 131,
+                        "tag": "EU4jobs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/18Fd58o",
+                        "end": 116,
+                        "expanded_url": "http://bit.ly/18Fd58o",
+                        "start": 94,
+                        "url": "http://t.co/Dra7cznWvT"
+                    }
+                ]
+            },
+            "id": "381747314484064257",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Submit questions before Monday\u2019s #SingleMarket live chats with @MBarnierEU &amp; others here: http://t.co/Dra7cznWvT #Ideas4Europe #EU4jobs"
+        },
+        {
+            "created_at": "2013-09-22T07:31:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 78,
+                        "tag": "RapidCool"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 128,
+                        "id": "786508396245639172",
+                        "start": 112,
+                        "username": "innovationunion"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RapidCool",
+                        "end": 111,
+                        "expanded_url": "http://bit.ly/RapidCool",
+                        "start": 89,
+                        "url": "http://t.co/I6VNNPk3qz"
+                    }
+                ]
+            },
+            "id": "381682023058116608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 19
+            },
+            "text": "Chill your drink on demand in 45 seconds and using 80% less energy, thanks to #RapidCool http://t.co/I6VNNPk3qz @innovationunion"
+        },
+        {
+            "created_at": "2013-09-21T11:40:47.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "EU",
+                        "probability": 0.7614,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 44,
+                        "normalized_text": "EU",
+                        "probability": 0.5148,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 95,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 117,
+                        "start": 109,
+                        "tag": "EU4Jobs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/i/3d6x4",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/i/3d6x4",
+                        "start": 118,
+                        "url": "http://t.co/JQYiMzHKpG"
+                    }
+                ]
+            },
+            "id": "381382495247548416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 53
+            },
+            "text": "Over 10% unemployment in EU yet just 3% of EU working population work in another Member State: #Ideas4Europe #EU4Jobs http://t.co/JQYiMzHKpG"
+        },
+        {
+            "created_at": "2013-09-21T09:01:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 36,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 130,
+                        "start": 119,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 117,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 95,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "381342404579962880",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Aggiunti i sottotitoli italiani all'#hangout con @BarrosoEU! Cliccare sul pulsante Sottotitoli http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-21T08:31:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 47,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 134,
+                        "start": 123,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 122,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 100,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "381334846041513984",
+            "lang": "pl",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Dodano napisy w j. polskim do rozmowy na \u017cywo (#hangout) z @BarrosoEU! Kliknij na przycisk \u201eNapisy\u201d http://t.co/eaV2JdbkvX #askBarroso"
+        },
+        {
+            "created_at": "2013-09-21T08:10:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "126596936",
+                        "start": 9,
+                        "username": "mobilityweek"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p3zgi",
+                        "end": 124,
+                        "expanded_url": "http://ow.ly/p3zgi",
+                        "start": 102,
+                        "url": "http://t.co/IqSpXaLNYk"
+                    }
+                ]
+            },
+            "id": "381329584178094081",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "European @MobilityWeek is coming to an end this weekend! Check out the last events in your city here: http://t.co/IqSpXaLNYk"
+        },
+        {
+            "created_at": "2013-09-20T15:54:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 9,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 61,
+                        "start": 58,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 128,
+                        "start": 117,
+                        "tag": "askBarroso"
+                    },
+                    {
+                        "end": 135,
+                        "start": 129,
+                        "tag": "SOTEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 116,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 94,
+                        "url": "http://t.co/Khbrt2EDNd"
+                    }
+                ]
+            },
+            "id": "381083933061824512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "Recorded #hangout with @BarrosoEU: subtitles added in ALL #EU languages! Click on 'Captions': http://t.co/Khbrt2EDNd #askBarroso #SOTEU"
+        },
+        {
+            "created_at": "2013-09-20T15:28:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "Europe",
+                        "probability": 0.9942,
+                        "start": 60,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "SingleMarket"
+                    },
+                    {
+                        "end": 38,
+                        "start": 30,
+                        "tag": "working"
+                    },
+                    {
+                        "end": 60,
+                        "start": 51,
+                        "tag": "business"
+                    },
+                    {
+                        "end": 125,
+                        "start": 112,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 134,
+                        "start": 126,
+                        "tag": "EU4jobs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1fhJFhS",
+                        "end": 111,
+                        "expanded_url": "http://bit.ly/1fhJFhS",
+                        "start": 89,
+                        "url": "http://t.co/JwE4b2jkwY"
+                    }
+                ]
+            },
+            "id": "381077303653957632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "#SingleMarket Month debate on #working &amp; doing #business in Europe begins on Monday: http://t.co/JwE4b2jkwY #Ideas4Europe #EU4jobs"
+        },
+        {
+            "created_at": "2013-09-20T11:05:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 98,
+                        "id": "2560753555",
+                        "start": 84,
+                        "username": "EUspokesIsaac"
+                    },
+                    {
+                        "end": 112,
+                        "id": "2558819556",
+                        "start": 99,
+                        "username": "CHedegaardEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p32Wu",
+                        "end": 80,
+                        "expanded_url": "http://ow.ly/p32Wu",
+                        "start": 58,
+                        "url": "http://t.co/fzsWVYwNyP"
+                    }
+                ]
+            },
+            "id": "381011267919822848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 9
+            },
+            "text": "A city we like: sustainable solutions for European cities http://t.co/fzsWVYwNyP cc @EUspokesIsaac @CHedegaardEU"
+        },
+        {
+            "created_at": "2013-09-20T11:01:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 20,
+                        "start": 10,
+                        "tag": "Singapore"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 112,
+                        "id": "106426994",
+                        "start": 99,
+                        "username": "EUJohnClancy"
+                    },
+                    {
+                        "end": 122,
+                        "id": "1109452214",
+                        "start": 113,
+                        "username": "Trade_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p32OY",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/p32OY",
+                        "start": 72,
+                        "url": "http://t.co/QZ08IVxLel"
+                    }
+                ]
+            },
+            "id": "381010319046635520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU &amp; #Singapore present text of comprehensive free trade agreement http://t.co/QZ08IVxLel  cc @EUJohnClancy @Trade_EU"
+        },
+        {
+            "created_at": "2013-09-20T10:55:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 20,
+                        "start": 10,
+                        "tag": "Singapore"
+                    },
+                    {
+                        "end": 69,
+                        "start": 65,
+                        "tag": "FTA"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 86,
+                        "id": "106426994",
+                        "start": 73,
+                        "username": "EUJohnClancy"
+                    },
+                    {
+                        "end": 96,
+                        "id": "1109452214",
+                        "start": 87,
+                        "username": "Trade_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p32yM",
+                        "end": 64,
+                        "expanded_url": "http://ow.ly/p32yM",
+                        "start": 42,
+                        "url": "http://t.co/PEop5pVpeG"
+                    }
+                ]
+            },
+            "id": "381008705590140928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "The #EU - #Singapore Free Trade Agreement http://t.co/PEop5pVpeG #FTA cc @EUJohnClancy @Trade_EU"
+        },
+        {
+            "created_at": "2013-09-20T10:50:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 0,
+                        "tag": "SingleMarketMonth"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 76,
+                        "id": "2815632681",
+                        "start": 67,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p32ns",
+                        "end": 63,
+                        "expanded_url": "http://ow.ly/p32ns",
+                        "start": 41,
+                        "url": "http://t.co/kCIR9uYUwT"
+                    }
+                ]
+            },
+            "id": "381007455473664000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "#SingleMarketMonth online debates \u2013 FAQs http://t.co/kCIR9uYUwT cc @EU_Markt"
+        },
+        {
+            "created_at": "2013-09-20T10:45:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 0,
+                        "tag": "SingleMarketMonth"
+                    },
+                    {
+                        "end": 50,
+                        "start": 45,
+                        "tag": "jobs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 86,
+                        "id": "2815632681",
+                        "start": 77,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p328E",
+                        "end": 73,
+                        "expanded_url": "http://ow.ly/p328E",
+                        "start": 51,
+                        "url": "http://t.co/iPI0js13AO"
+                    }
+                ]
+            },
+            "id": "381006239851114496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#SingleMarketMonth to kick off w/ debates on #jobs http://t.co/iPI0js13AO cc @EU_Markt"
+        },
+        {
+            "created_at": "2013-09-20T10:40:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Forest"
+                    },
+                    {
+                        "end": 28,
+                        "start": 25,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p323c",
+                        "end": 121,
+                        "expanded_url": "http://ow.ly/p323c",
+                        "start": 99,
+                        "url": "http://t.co/aPOw2kqWCQ"
+                    }
+                ]
+            },
+            "id": "381004975272624128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 9
+            },
+            "text": "#Forest resources in the #EU - \"42 % of EU land area is covered with forest and other wooded land\" http://t.co/aPOw2kqWCQ"
+        },
+        {
+            "created_at": "2013-09-20T10:35:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p31Wo",
+                        "end": 112,
+                        "expanded_url": "http://ow.ly/p31Wo",
+                        "start": 90,
+                        "url": "http://t.co/HGFxyjeA8U"
+                    }
+                ]
+            },
+            "id": "381003643551756288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#EU Forest-based Industries: a Blueprint to unleash their economic and societal potential http://t.co/HGFxyjeA8U"
+        },
+        {
+            "created_at": "2013-09-20T10:31:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 29,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 40,
+                        "start": 33,
+                        "tag": "forest"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 132,
+                        "id": "2982188999",
+                        "start": 118,
+                        "username": "ECspokesRoger"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p32si",
+                        "end": 114,
+                        "expanded_url": "http://ow.ly/p32si",
+                        "start": 92,
+                        "url": "http://t.co/RiPsQVrBtT"
+                    }
+                ]
+            },
+            "id": "381002772180897792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 6
+            },
+            "text": ".@EU_Commission presents new #EU #forest strategy based on new, broader, approach to forest http://t.co/RiPsQVrBtT cc @ECSpokesRoger"
+        },
+        {
+            "created_at": "2013-09-20T10:31:06.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p31Fo",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/p31Fo",
+                        "start": 117,
+                        "url": "http://t.co/NOBaBs5mLT"
+                    }
+                ]
+            },
+            "id": "381002572284579841",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@MBarnierEU Stabilit\u00e9, dynamisme \u00e9conomique, audace politique : trois cl\u00e9s pour retrouver la croissance et l\u2019emploi http://t.co/NOBaBs5mLT"
+        },
+        {
+            "created_at": "2013-09-20T10:21:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "EUUkraine"
+                    },
+                    {
+                        "end": 21,
+                        "start": 15,
+                        "tag": "Yalta"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 118,
+                        "id": "505748969",
+                        "start": 105,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p31B1",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/p31B1",
+                        "start": 79,
+                        "url": "http://t.co/5fmgWWayV1"
+                    }
+                ]
+            },
+            "id": "381000220483801088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "text": "#EUUkraine: In #Yalta about progress towards signing the Association Agreement http://t.co/5fmgWWayV1 cc @StefanFuleEU"
+        },
+        {
+            "created_at": "2013-09-19T16:40:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 30,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 127,
+                        "start": 116,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 115,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 93,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380733181852647424",
+            "lang": "sl",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Slovenski podnapisi za klepet #hangout z @BarrosoEU 12.9! Kliknite gumb za prikaz podnapisov http://t.co/eaV2JdbkvX #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T16:30:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 124,
+                        "start": 113,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 111,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 89,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380730624937848832",
+            "lang": "fi",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#hangout \u2013 @BarrosoEU \u2013 suomenkielinen tekstitys! Sen saa n\u00e4kyviin tekstityspainikkeesta http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T16:11:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 22,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 127,
+                        "start": 116,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 114,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 92,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380725751324344320",
+            "lang": "sv",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Svensk undertext till #hangout med @BarrosoEU den 12 september! Klicka p\u00e5 undertextknappen: http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T16:02:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 29,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 139,
+                        "start": 128,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 126,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 104,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380723564468797441",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Pridan\u00e9 slovensk\u00e9 titulky k: #hangout s @BarrosoEU! Pre aktiv\u00e1ciu kliknite na ikonku Titulky (Captions) http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T15:50:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 140,
+                        "start": 129,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 127,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 105,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380720612446314496",
+            "lang": "nl",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Nu ook Nederlandse ondertiteling bij de #hangout met @BarrosoEU van 12/9 2013 Klik de knop Ondertiteling http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T15:40:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 33,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 136,
+                        "start": 125,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 123,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 101,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380718019359809536",
+            "lang": "et",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Mi\u017cjuda s-sottotitoli Maltin mal-#hangout ma' @BarrosoEU Ikklikkja l-buttuna \"captions\" biex tarahom http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T15:26:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 23,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 114,
+                        "start": 103,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 137,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 115,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380714577480400896",
+            "lang": "lv",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pievienoti LV subtitri #hangout ar @BarrosoEU! Noklik\u0161\u0137iniet uz valodu izv\u0113lnes pogas, lai aktiviz\u0113tu  #askBarroso http://t.co/eaV2JdbkvX"
+        },
+        {
+            "created_at": "2013-09-19T12:32:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 138,
+                        "start": 131,
+                        "tag": "EUchat"
+                    }
+                ]
+            },
+            "id": "380670646490906625",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 4
+            },
+            "text": "Facebook Q: How can we make new european policies, that combine the expertise of our german 'verkammerte Freie Berufe' europewide? #EUchat"
+        },
+        {
+            "created_at": "2013-09-19T12:14:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 68,
+                        "start": 61,
+                        "tag": "euchat"
+                    },
+                    {
+                        "end": 75,
+                        "start": 69,
+                        "tag": "ecday"
+                    },
+                    {
+                        "end": 106,
+                        "start": 99,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 113,
+                        "start": 107,
+                        "tag": "ecday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1019536601490313221",
+                        "start": 3,
+                        "username": "EU_Regional"
+                    },
+                    {
+                        "end": 25,
+                        "id": "1011129121",
+                        "start": 17,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/gNFxkTE8Yq",
+                        "end": 98,
+                        "expanded_url": "https://twitter.com/EU_Regional/status/380665772793540608/photo/1",
+                        "start": 76,
+                        "url": "http://t.co/gNFxkTE8Yq"
+                    }
+                ]
+            },
+            "id": "380666111831711744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "RT @EU_Regional: @jhahneu answering your questions. Join in! #euchat #ecday http://t.co/gNFxkTE8Yq #EUchat #ecday"
+        },
+        {
+            "created_at": "2013-09-19T12:12:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Facebook",
+                        "probability": 0.6751,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 30,
+                        "normalized_text": "Italy",
+                        "probability": 0.9753,
+                        "start": 26,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 38,
+                        "normalized_text": "Croatia",
+                        "probability": 0.9771,
+                        "start": 32,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 96,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 144,
+                        "start": 137,
+                        "tag": "EUchat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cameradispecchi.com",
+                        "end": 136,
+                        "expanded_url": "http://www.cameradispecchi.com",
+                        "start": 114,
+                        "url": "http://t.co/iUxSn69TNA"
+                    }
+                ]
+            },
+            "id": "380665818624696320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "Facebook Q: workshop betw Italy&amp;Croatia dedicated to young videomakers from minorities. Can #EU help finance? http://t.co/iUxSn69TNA #EUchat"
+        },
+        {
+            "created_at": "2013-09-19T12:02:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 4,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 96,
+                        "start": 90,
+                        "tag": "ecday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 38,
+                        "id": "1011129121",
+                        "start": 30,
+                        "username": "JHahnEU"
+                    }
+                ]
+            },
+            "id": "380663061679321088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "The #EUchat with Commissioner @JHahnEU is starting now! Join and ask with #EUchat hahtag. #ecday"
+        },
+        {
+            "created_at": "2013-09-19T11:11:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 105,
+                        "id": "1011129121",
+                        "start": 97,
+                        "username": "JHahnEU"
+                    }
+                ]
+            },
+            "id": "380650347305259008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 6
+            },
+            "text": "#EUchat hashtag might be of interest this afternoon! 19/9 14-15 CET Regional Policy Commissioner @JHahnEU will answer your questions(EN, DE)"
+        },
+        {
+            "created_at": "2013-09-19T10:21:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "EULEX"
+                    },
+                    {
+                        "end": 103,
+                        "start": 96,
+                        "tag": "Kosovo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0Ntp",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/p0Ntp",
+                        "start": 118,
+                        "url": "http://t.co/MJVFwfg8MP"
+                    }
+                ]
+            },
+            "id": "380637728896860160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#Ashton: \u201cI was deeply saddened by the death of a Lithuanian member of #EULEX staff in northern #Kosovo this morning\u201d http://t.co/MJVFwfg8MP"
+        },
+        {
+            "created_at": "2013-09-19T10:15:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 35,
+                        "tag": "redtape"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0MuI",
+                        "end": 107,
+                        "expanded_url": "http://ow.ly/p0MuI",
+                        "start": 85,
+                        "url": "http://t.co/9mTFZc7tmm"
+                    }
+                ]
+            },
+            "id": "380636242872119296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": ".@EU_Commission initiatives to cut #redtape and reduce regulatory burdens \u2013 Q&amp;As http://t.co/9mTFZc7tmm"
+        },
+        {
+            "created_at": "2013-09-19T10:10:26.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0MnG",
+                        "end": 80,
+                        "expanded_url": "http://ow.ly/p0MnG",
+                        "start": 58,
+                        "url": "http://t.co/dhbFfMzynE"
+                    }
+                ]
+            },
+            "id": "380634984685776896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "The High Level Group on Administrative Burdens \u2013 Q&amp;As http://t.co/dhbFfMzynE"
+        },
+        {
+            "created_at": "2013-09-19T10:04:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Edmund Stoiber",
+                        "probability": 0.9536,
+                        "start": 18,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 74,
+                        "tag": "redtape"
+                    },
+                    {
+                        "end": 92,
+                        "start": 87,
+                        "tag": "SMEs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0Mj2",
+                        "end": 143,
+                        "expanded_url": "http://ow.ly/p0Mj2",
+                        "start": 121,
+                        "url": "http://t.co/feAUUD4ZUt"
+                    }
+                ]
+            },
+            "id": "380633364031877120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Pres @BarrosoEU &amp; Edmund Stoiber call on MS to step up efforts to cut #redtape for #SMEs &amp; improve public admins http://t.co/feAUUD4ZUt"
+        },
+        {
+            "created_at": "2013-09-19T10:01:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "2013 Champions of the Earth Award",
+                        "probability": 0.4014,
+                        "start": 66,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 42,
+                        "id": "2560246616",
+                        "start": 26,
+                        "username": "JanezPotocnikEU"
+                    },
+                    {
+                        "end": 63,
+                        "id": "14159148",
+                        "start": 60,
+                        "username": "UN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0M9C",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/p0M9C",
+                        "start": 100,
+                        "url": "http://t.co/8OyX3eJzon"
+                    }
+                ]
+            },
+            "id": "380632797834403840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Statement by Commissioner @JanezPotocnikEU on receiving the @UN's 2013 Champions of the Earth Award http://t.co/8OyX3eJzon"
+        },
+        {
+            "created_at": "2013-09-19T10:01:44.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 71,
+                        "id": "972052686",
+                        "start": 62,
+                        "username": "EU_Taxud"
+                    },
+                    {
+                        "end": 82,
+                        "id": "381021987",
+                        "start": 72,
+                        "username": "ASemetaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0Kat",
+                        "end": 58,
+                        "expanded_url": "http://ow.ly/p0Kat",
+                        "start": 36,
+                        "url": "http://t.co/e45vbQK6xz"
+                    }
+                ]
+            },
+            "id": "380632792625070080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "VAT Gap: Frequently asked questions http://t.co/e45vbQK6xz cc @EU_Taxud @ASemetaEU"
+        },
+        {
+            "created_at": "2013-09-19T09:58:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 21,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 49,
+                        "start": 43,
+                        "tag": "ecday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "1011129121",
+                        "start": 33,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/dsxiLuyYLC",
+                        "end": 72,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/380632082583547905/photo/1",
+                        "start": 50,
+                        "url": "http://t.co/dsxiLuyYLC"
+                    }
+                ]
+            },
+            "id": "380632082583547905",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Heute 19/9 14-15 CET #EUchat mit @JhahnEU! #ecday http://t.co/dsxiLuyYLC"
+        },
+        {
+            "created_at": "2013-09-19T09:55:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 14,
+                        "tag": "fraud"
+                    },
+                    {
+                        "end": 62,
+                        "start": 58,
+                        "tag": "VAT"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 103,
+                        "id": "381021987",
+                        "start": 93,
+                        "username": "ASemetaEU"
+                    },
+                    {
+                        "end": 113,
+                        "id": "972052686",
+                        "start": 104,
+                        "username": "EU_Taxud"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0JLl",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/p0JLl",
+                        "start": 67,
+                        "url": "http://t.co/7QQANBL9Sn"
+                    }
+                ]
+            },
+            "id": "380631190023454720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 13
+            },
+            "text": "Fight against #fraud: new study confirms billions lost in #VAT Gap http://t.co/7QQANBL9Sn cc @ASemetaEU @EU_Taxud"
+        },
+        {
+            "created_at": "2013-09-19T09:31:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 11,
+                        "tag": "connectedcontinent"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 74,
+                        "id": "159950527",
+                        "start": 60,
+                        "username": "NeelieKroesEU"
+                    },
+                    {
+                        "end": 113,
+                        "id": "2814667808",
+                        "start": 101,
+                        "username": "RyanHeathEU"
+                    },
+                    {
+                        "end": 130,
+                        "id": "2894539229",
+                        "start": 114,
+                        "username": "DigitalAgendaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/p0JqD",
+                        "end": 97,
+                        "expanded_url": "http://ow.ly/p0JqD",
+                        "start": 75,
+                        "url": "http://t.co/ft6pYqJ52b"
+                    }
+                ]
+            },
+            "id": "380625243372785664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "Building a #connectedcontinent for the next generation - by @NeelieKroesEU http://t.co/ft6pYqJ52b cc @RyanHeathEU @DigitalAgendaEU"
+        },
+        {
+            "created_at": "2013-09-19T08:52:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 5,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 47,
+                        "id": "1011129121",
+                        "start": 39,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/sd3BZGBYMS",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/380615413769326593/photo/1",
+                        "start": 112,
+                        "url": "http://t.co/sd3BZGBYMS"
+                    }
+                ]
+            },
+            "id": "380615413769326593",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Join #EUChat TODAY 19/9 14-15CET  with @JhahnEU on benefits and future of cooperation between European regions! http://t.co/sd3BZGBYMS"
+        },
+        {
+            "created_at": "2013-09-19T07:49:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 89,
+                        "tag": "Mali"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/rapid/press-release_MEMO-13-801_en.htm",
+                        "start": 118,
+                        "url": "http://t.co/wj8BwwVUSA"
+                    }
+                ]
+            },
+            "id": "380599390945435648",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "D\u00e9claration @euhvr et @BarrosoEU \u00e0 l'occasion de l'investiture du Pr\u00e9sident de la R\u00e9p du #Mali Ibrahim Boubakar Ke\u00efta http://t.co/wj8BwwVUSA"
+        },
+        {
+            "created_at": "2013-09-19T07:31:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 23,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 114,
+                        "start": 103,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 137,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 115,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380594959407390720",
+            "lang": "lv",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Pievienoti LV subtitri #hangout ar @BarrosoEU! Noklik\u0161\u0137iniet uz valodu izv\u0113lnes pogas, lai aktiviz\u0113tu  #askBarroso http://t.co/eaV2JdbkvX"
+        },
+        {
+            "created_at": "2013-09-19T07:28:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 131,
+                        "start": 126,
+                        "tag": "Mali"
+                    }
+                ]
+            },
+            "id": "380594267829579776",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "L'Union europ\u00e9enne pr\u00e9sente ses f\u00e9licitations au Pr\u00e9sident Ibrahim Boubakar Ke\u00efta \u00e0 l'occasion de sa c\u00e9r\u00e9monie d'investiture. #Mali"
+        },
+        {
+            "created_at": "2013-09-19T07:20:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "hangout"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 122,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 100,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380592213656633344",
+            "lang": "lt",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#hangout su @BarrosoEU  subtitrai lietuvi\u0173 kalba. Spustel\u0117kite antra\u0161t\u0117s mygtuk\u0105, kad aktyvintum\u0117te http://t.co/eaV2JdbkvX"
+        },
+        {
+            "created_at": "2013-09-19T07:10:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 84,
+                        "start": 73,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 71,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 49,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380589692892508160",
+            "lang": "hu",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Magyar feliratok! #hangout with @BarrosoEU 12/9: http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T07:01:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 136,
+                        "start": 125,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 123,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 101,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380587378756571136",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "Dostupni su hrvatski podnaslovi #hangout s @BarrosoEU ! Za aktivaciju kliknite gumb za podnaslove na http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-19T06:50:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 19,
+                        "tag": "Ghaeilge"
+                    },
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 125,
+                        "start": 114,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 113,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 91,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380584645643227136",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Cuireadh fotheidil #Ghaeilge ar #hangout le @BarrosoEU Clice\u00e1il cnaipe na bhfortheideal le http://t.co/eaV2JdbkvX #askBarroso a ghn\u00edomhacht\u00fa"
+        },
+        {
+            "created_at": "2013-09-19T06:40:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 96,
+                        "start": 85,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 83,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 61,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380582145234071552",
+            "lang": "et",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#hangout mille @BarrosoEU: lisatud eestikeelsed subtiitrid.  http://t.co/eaV2JdbkvX  #askBarroso aktiveerimiseks kl\u00f5psake subtiitrite nupul"
+        },
+        {
+            "created_at": "2013-09-19T06:30:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 132,
+                        "start": 121,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 119,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 97,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380579750663966720",
+            "lang": "ro",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Subtitrarea \u00een RO a fost ad\u0103ugat\u0103 la  #hangout cu @BarrosoEU ! Face\u0163i clic pe butonul Subtitr\u0103ri http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-18T17:11:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 36,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 133,
+                        "start": 122,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 120,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 98,
+                        "url": "http://t.co/Khbrt2EDNd"
+                    }
+                ]
+            },
+            "id": "380378631794462721",
+            "lang": "el",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c4\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03af \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03b9 \u03c3\u03c4\u03bf #hangout \u03bc\u03b5 @BarrosoEU \u03c3\u03c4\u03b9\u03c2 \u039a\u03ac\u03bd\u03c4\u03b5 \u03ba\u03bb\u03b9\u03ba \u03c3\u03c4\u03bf \u03ba\u03bf\u03c5\u03bc\u03c0\u03af \u03bb\u03b5\u03b6\u03ac\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf http://t.co/Khbrt2EDNd  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-18T16:58:17.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 29,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 120,
+                        "start": 109,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 107,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 85,
+                        "url": "http://t.co/Khbrt2EDNd"
+                    }
+                ]
+            },
+            "id": "380375232051036160",
+            "lang": "da",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "DA undertekster tilf\u00f8jet til #hangout med @BarrosoEU! Klik p\u00e5 knappen under playeren http://t.co/Khbrt2EDNd  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-18T16:44:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 16,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 130,
+                        "start": 119,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 117,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 95,
+                        "url": "http://t.co/Khbrt2EDNd"
+                    }
+                ]
+            },
+            "id": "380371641403850752",
+            "lang": "cs",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u010cesk\u00e9 titulky k #hangout s @BarrosoEU z 12/9! Aktivujte kliknut\u00edm na ikonu 'Captions' u videa: http://t.co/Khbrt2EDNd  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-18T16:20:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 35,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 139,
+                        "start": 128,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 126,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4",
+                        "start": 104,
+                        "url": "http://t.co/eaV2JdbkvX"
+                    }
+                ]
+            },
+            "id": "380365754451099648",
+            "lang": "bg",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0435\u043d\u0438 \u0441\u0443\u0431\u0442\u0438\u0442\u0440\u0438 \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u043a\u044a\u043c #hangout \u0441 @BarrosoEU !  \u0417\u0430 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0430\u043d\u0435 \u0449\u0440\u0430\u043a\u043d\u0435\u0442\u0435 \u0432\u044a\u0440\u0445\u0443 \u0431\u0443\u0442\u043e\u043d Captions http://t.co/eaV2JdbkvX  #askBarroso"
+        },
+        {
+            "created_at": "2013-09-18T16:12:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 4,
+                        "tag": "press"
+                    },
+                    {
+                        "end": 104,
+                        "start": 100,
+                        "tag": "VAT"
+                    }
+                ]
+            },
+            "id": "380363623912046592",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "New #press event 19/09/13:11:00 Technical briefing on-the-record (for accredited journalists only): #VAT GAP study"
+        },
+        {
+            "created_at": "2013-09-18T14:59:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 120,
+                        "id": "2815632681",
+                        "start": 111,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oZ2JQ",
+                        "end": 107,
+                        "expanded_url": "http://ow.ly/oZ2JQ",
+                        "start": 85,
+                        "url": "http://t.co/xXOTBihGli"
+                    }
+                ]
+            },
+            "id": "380345446419673088",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Discours de @MBarnierEU lors de la conf\u00e9rence de presse sur les indices de r\u00e9f\u00e9rence http://t.co/xXOTBihGli cc @EU_Markt"
+        },
+        {
+            "created_at": "2013-09-18T14:04:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 30,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 134,
+                        "start": 123,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/udcZJ_AtPl4",
+                        "end": 122,
+                        "expanded_url": "http://youtu.be/udcZJ_AtPl4",
+                        "start": 100,
+                        "url": "http://t.co/zxi7HPS0Pf"
+                    }
+                ]
+            },
+            "id": "380331579362381824",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "\u00a1Hay subt\u00edtulos espa\u00f1oles del #hangout con @BarrosoEU Pulsa el bot\u00f3n de subt\u00edtulos para activarlos. http://t.co/zxi7HPS0Pf #askBarroso"
+        },
+        {
+            "created_at": "2013-09-18T11:22:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "European Cooperation Day",
+                        "probability": 0.4711,
+                        "start": 8,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 34,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 106,
+                        "start": 99,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 116,
+                        "start": 110,
+                        "tag": "ecday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 55,
+                        "id": "1011129121",
+                        "start": 47,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/NHZbFM1slj",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/380290715760082944/photo/1",
+                        "start": 117,
+                        "url": "http://t.co/NHZbFM1slj"
+                    }
+                ]
+            },
+            "id": "380290715760082944",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 11
+            },
+            "text": "To mark European Cooperation Day: #EUchat with @JHahnEU tomorrow 19/9 14-15CET. Tweet your qs with #EUchat or #ecday http://t.co/NHZbFM1slj"
+        },
+        {
+            "created_at": "2013-09-18T10:55:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    },
+                    {
+                        "end": 62,
+                        "start": 50,
+                        "tag": "concessions"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 138,
+                        "id": "2560262977",
+                        "start": 122,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYEYD",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/oYEYD",
+                        "start": 96,
+                        "url": "http://t.co/LIw0UnOeo3"
+                    }
+                ]
+            },
+            "id": "380283900851150848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#Stateaid @EU_Commission opens inquiry into water #concessions to EDP &amp; other Member States http://t.co/LIw0UnOeo3 cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-09-18T10:50:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 107,
+                        "tag": "FAQs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYEMX",
+                        "end": 135,
+                        "expanded_url": "http://ow.ly/oYEMX",
+                        "start": 113,
+                        "url": "http://t.co/A9bRcyoBA3"
+                    }
+                ]
+            },
+            "id": "380282647890915328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Proposal for a Regulation on indices used as benchmarks in financial instruments &amp; financial contracts #FAQs http://t.co/A9bRcyoBA3"
+        },
+        {
+            "created_at": "2013-09-18T10:45:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 59,
+                        "tag": "LIBOR"
+                    },
+                    {
+                        "end": 78,
+                        "start": 70,
+                        "tag": "EURIBOR"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 120,
+                        "id": "28114871",
+                        "start": 114,
+                        "username": "ecfin"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYEFP",
+                        "end": 110,
+                        "expanded_url": "http://ow.ly/oYEFP",
+                        "start": 88,
+                        "url": "http://t.co/AeHFTs5aV0"
+                    }
+                ]
+            },
+            "id": "380281482461609984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "New measures to restore confidence in benchmarks following #LIBOR and #EURIBOR scandals http://t.co/AeHFTs5aV0 cc @ECFIN"
+        },
+        {
+            "created_at": "2013-09-18T10:40:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Cyprus",
+                        "probability": 0.9365,
+                        "start": 41,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Cyprus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 108,
+                        "id": "2865432395",
+                        "start": 93,
+                        "username": "ECspokesCezary"
+                    },
+                    {
+                        "end": 121,
+                        "id": "2853418829",
+                        "start": 109,
+                        "username": "ECSpokesPia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYEwq",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/oYEwq",
+                        "start": 67,
+                        "url": "http://t.co/D9BoCGYZcK"
+                    }
+                ]
+            },
+            "id": "380280184244809728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Cyprus Steering Group: new momentum for Cyprus settlement process http://t.co/D9BoCGYZcK cc @ECspokesCezary @ECspokesPia"
+        },
+        {
+            "created_at": "2013-09-18T10:35:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 11,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 92,
+                        "start": 85,
+                        "tag": "Cyprus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 126,
+                        "id": "392741474",
+                        "start": 116,
+                        "username": "EU_Budget"
+                    },
+                    {
+                        "end": 142,
+                        "id": "2531022596",
+                        "start": 127,
+                        "username": "ECspokesbudget"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYEiO",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/oYEiO",
+                        "start": 93,
+                        "url": "http://t.co/E8zhotu9My"
+                    }
+                ]
+            },
+            "id": "380278869041119232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "2014 draft #EUbudget: update favours students, businesses, research &amp; to support #Cyprus http://t.co/E8zhotu9My @EU_Budget @ECspokesbudget"
+        },
+        {
+            "created_at": "2013-09-18T10:31:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 131,
+                        "tag": "ecday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "1011129121",
+                        "start": 105,
+                        "username": "JHahnEU"
+                    },
+                    {
+                        "end": 130,
+                        "id": "1020007537",
+                        "start": 114,
+                        "username": "shirinwheelerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYE2P",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/oYE2P",
+                        "start": 79,
+                        "url": "http://t.co/p4cQ1tc1d8"
+                    }
+                ]
+            },
+            "id": "380277770737442816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Sharing borders, Growing Closer: Celebrating European Territorial Cooperation  http://t.co/p4cQ1tc1d8 cc @JHahnEU @shirinwheelerEU #ecday"
+        },
+        {
+            "created_at": "2013-09-18T10:25:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "Caribbean"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "2560248703",
+                        "start": 101,
+                        "username": "APiebalgsEU"
+                    },
+                    {
+                        "end": 127,
+                        "id": "2345716675",
+                        "start": 114,
+                        "username": "EUspokesAlex"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYDMS",
+                        "end": 97,
+                        "expanded_url": "http://ow.ly/oYDMS",
+                        "start": 75,
+                        "url": "http://t.co/PkasGAI7iJ"
+                    }
+                ]
+            },
+            "id": "380276368208302080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#EU to discuss future priorities for development cooperation w/ #Caribbean http://t.co/PkasGAI7iJ cc @APiebalgsEU @EUspokesAlex"
+        },
+        {
+            "created_at": "2013-09-18T10:20:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "trade"
+                    },
+                    {
+                        "end": 96,
+                        "start": 84,
+                        "tag": "development"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYDGs",
+                        "end": 119,
+                        "expanded_url": "http://ow.ly/oYDGs",
+                        "start": 97,
+                        "url": "http://t.co/NIz8gLNJkv"
+                    }
+                ]
+            },
+            "id": "380275089440526336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU relations w/ Caribbean countries are based on political relations, #trade &amp; #development http://t.co/NIz8gLNJkv"
+        },
+        {
+            "created_at": "2013-09-18T10:12:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "Croatia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 139,
+                        "id": "177179008",
+                        "start": 123,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oYDwG",
+                        "end": 119,
+                        "expanded_url": "http://ow.ly/oYDwG",
+                        "start": 97,
+                        "url": "http://t.co/JCtSAp5j6F"
+                    }
+                ]
+            },
+            "id": "380273176930172928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 23
+            },
+            "text": ".@EU_Commission takes action to ensure #Croatia correctly implements the European Arrest Warrant http://t.co/JCtSAp5j6F cc @VivianeRedingEU"
+        },
+        {
+            "created_at": "2013-09-17T17:30:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 25,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 140,
+                        "start": 129,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/udcZJ_AtPl4",
+                        "end": 128,
+                        "expanded_url": "http://youtu.be/udcZJ_AtPl4",
+                        "start": 106,
+                        "url": "http://t.co/zxi7HPS0Pf"
+                    }
+                ]
+            },
+            "id": "380020870221025280",
+            "lang": "pt",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Legendas em portugu\u00eas do #hangout com @BarrosoEU 12/9 Clique no bot\u00e3o das legendas (captions) para ativar http://t.co/zxi7HPS0Pf #askBarroso"
+        },
+        {
+            "created_at": "2013-09-17T17:23:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 30,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 127,
+                        "start": 116,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.co/watch?v=udcZJ_\u2026",
+                        "end": 115,
+                        "expanded_url": "http://www.youtube.co/watch?v=udcZJ_AtPl4",
+                        "start": 93,
+                        "url": "http://t.co/U7O2ZYmFMr"
+                    }
+                ]
+            },
+            "id": "380019148706684928",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Mit deutschen Untertiteln zum #hangout mit @BarrosoEU! Klicken Sie auf das Untertitel-Symbol http://t.co/U7O2ZYmFMr #askBarroso"
+        },
+        {
+            "created_at": "2013-09-17T17:11:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 29,
+                        "tag": "hangout"
+                    },
+                    {
+                        "end": 137,
+                        "start": 126,
+                        "tag": "askBarroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/udcZJ_AtPl4",
+                        "end": 125,
+                        "expanded_url": "http://youtu.be/udcZJ_AtPl4",
+                        "start": 103,
+                        "url": "http://t.co/zxi7HPS0Pf"
+                    }
+                ]
+            },
+            "id": "380016157341663232",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Sous-titres ajout\u00e9s en FR au #hangout avec @BarrosoEU Cliquez sur l'ic\u00f4ne des sous-titres pour activer http://t.co/zxi7HPS0Pf #askBarroso"
+        },
+        {
+            "created_at": "2013-09-17T17:05:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 18,
+                        "tag": "askBarroso"
+                    },
+                    {
+                        "end": 48,
+                        "start": 35,
+                        "tag": "SocialRights"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 79,
+                        "id": "260181833",
+                        "start": 66,
+                        "username": "uhereczkyagi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=udcZJ_\u2026",
+                        "end": 129,
+                        "expanded_url": "http://www.youtube.com/watch?v=udcZJ_AtPl4&feature=youtu.be&t=15m50s",
+                        "start": 107,
+                        "url": "http://t.co/H1layeOCQF"
+                    }
+                ]
+            },
+            "id": "380014697115684864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "text": "You asked us with #askBarroso (3): #SocialRights. See question by @uhereczkyagi &amp; reply by @BarrosoEU: http://t.co/H1layeOCQF"
+        },
+        {
+            "created_at": "2013-09-17T16:15:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 123,
+                        "normalized_text": "Twitter",
+                        "probability": 0.5486,
+                        "start": 117,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 85,
+                        "tag": "ECday"
+                    },
+                    {
+                        "end": 99,
+                        "start": 92,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1011129121",
+                        "start": 1,
+                        "username": "JHahnEU"
+                    }
+                ]
+            },
+            "id": "380002103973789696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "\"@JHahnEU: EuropeanCooperation day: cross border, transnational projects,what value? #ECday #EUchat  join me live on Twitter 19/9 14h-15h\""
+        },
+        {
+            "created_at": "2013-09-17T14:27:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "E.Rama",
+                        "probability": 0.6646,
+                        "start": 18,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "EUAlbania"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 108,
+                        "id": "505748969",
+                        "start": 95,
+                        "username": "StefanFuleEU"
+                    },
+                    {
+                        "end": 124,
+                        "id": "3010679741",
+                        "start": 109,
+                        "username": "EU_enlargement"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWLmY",
+                        "end": 91,
+                        "expanded_url": "http://ow.ly/oWLmY",
+                        "start": 69,
+                        "url": "http://t.co/zqfY2WLblj"
+                    }
+                ]
+            },
+            "id": "379974927589584896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#EUAlbania: w/ PM E.Rama on the way forward in the accession process http://t.co/zqfY2WLblj cc @StefanFuleEU @EU_enlargement"
+        },
+        {
+            "created_at": "2013-09-17T14:23:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 1,
+                        "tag": "China"
+                    },
+                    {
+                        "end": 21,
+                        "start": 14,
+                        "tag": "Europe"
+                    },
+                    {
+                        "end": 67,
+                        "start": 59,
+                        "tag": "DeGucht"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 107,
+                        "id": "106426994",
+                        "start": 94,
+                        "username": "EUJohnClancy"
+                    },
+                    {
+                        "end": 117,
+                        "id": "1109452214",
+                        "start": 108,
+                        "username": "Trade_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWKFC",
+                        "end": 90,
+                        "expanded_url": "http://ow.ly/oWKFC",
+                        "start": 68,
+                        "url": "http://t.co/DQevQsHv7w"
+                    }
+                ]
+            },
+            "id": "379974010932846592",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 14
+            },
+            "text": "\"#China &amp; #Europe: Essential Partners\" by Commissioner #DeGucht http://t.co/DQevQsHv7w cc @EUJohnClancy @Trade_EU"
+        },
+        {
+            "created_at": "2013-09-17T14:21:10.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Almazbek Atambaev",
+                        "probability": 0.4883,
+                        "start": 43,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "Kyrgyz"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 127,
+                        "id": "2855615075",
+                        "start": 114,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 140,
+                        "id": "2853418829",
+                        "start": 128,
+                        "username": "ECSpokesPia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWKfa",
+                        "end": 113,
+                        "expanded_url": "http://ow.ly/oWKfa",
+                        "start": 91,
+                        "url": "http://t.co/hwk7eYvBV7"
+                    }
+                ]
+            },
+            "id": "379973305597698048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Statement by Pres @BarrosoEU after mtng w/ Almazbek Atambaev President of #Kyrgyz Republic http://t.co/hwk7eYvBV7 @ECSpokesKoen @ECSpokesPia"
+        },
+        {
+            "created_at": "2013-09-17T14:17:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Italian Parliament",
+                        "probability": 0.4861,
+                        "start": 22,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 13,
+                        "tag": "Rehn"
+                    },
+                    {
+                        "end": 69,
+                        "start": 64,
+                        "tag": "euro"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 87,
+                        "id": "2853940703",
+                        "start": 73,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWJC4",
+                        "end": 63,
+                        "expanded_url": "http://ow.ly/oWJC4",
+                        "start": 41,
+                        "url": "http://t.co/QkSGIgBbb6"
+                    }
+                ]
+            },
+            "id": "379972257097187328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 5
+            },
+            "text": "Speech by VP #Rehn at Italian Parliament http://t.co/QkSGIgBbb6 #euro cc @ECspokesSimon"
+        },
+        {
+            "created_at": "2013-09-17T13:56:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Antonis Samaras",
+                        "probability": 0.2513,
+                        "start": 56,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWIN0",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/oWIN0",
+                        "start": 72,
+                        "url": "http://t.co/lSlfkOtsLT"
+                    },
+                    {
+                        "display_url": "ow.ly/oWJ1f",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/oWJ1f",
+                        "start": 116,
+                        "url": "http://t.co/oSbTcIt2Av"
+                    }
+                ]
+            },
+            "id": "379967051072548864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "Statement by Pres @BarrosoEU following mtng w/ Greek PM Antonis Samaras http://t.co/lSlfkOtsLT Press Point video at http://t.co/oSbTcIt2Av"
+        },
+        {
+            "created_at": "2013-09-17T10:47:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 10,
+                        "tag": "legalhighs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 105,
+                        "id": "177179008",
+                        "start": 89,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 143,
+                        "id": "461919971",
+                        "start": 132,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWmON",
+                        "end": 128,
+                        "expanded_url": "http://ow.ly/oWmON",
+                        "start": 106,
+                        "url": "http://t.co/Tscduze7A2"
+                    }
+                ]
+            },
+            "id": "379919588169101312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "\"Tackling #legalhighs: A quicker, smarter &amp; more proportionate response\" - speech by @VivianeRedingEU http://t.co/Tscduze7A2 cc @EU_Justice"
+        },
+        {
+            "created_at": "2013-09-17T10:40:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 60,
+                        "tag": "nuclearsafety"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19386622",
+                        "start": 1,
+                        "username": "iaeaorg"
+                    },
+                    {
+                        "end": 30,
+                        "id": "157981564",
+                        "start": 16,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWkM7",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/oWkM7",
+                        "start": 108,
+                        "url": "http://t.co/7PF6fyxQzO"
+                    }
+                ]
+            },
+            "id": "379917812644737024",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": ".@IAEAorg &amp; @EU_Commission to strengthen cooperation in #nuclearsafety. See Memorandum of Understanding http://t.co/7PF6fyxQzO"
+        },
+        {
+            "created_at": "2013-09-17T10:35:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Euroarea"
+                    },
+                    {
+                        "end": 29,
+                        "start": 10,
+                        "tag": "internationaltrade"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 98,
+                        "id": "300868924",
+                        "start": 86,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWjQs",
+                        "end": 82,
+                        "expanded_url": "http://ow.ly/oWjQs",
+                        "start": 60,
+                        "url": "http://t.co/rquIlLNnoE"
+                    }
+                ]
+            },
+            "id": "379916531272273920",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Euroarea #internationaltrade in goods surplus 18.2 bn euro http://t.co/rquIlLNnoE cc @EU_Eurostat"
+        },
+        {
+            "created_at": "2013-09-17T10:31:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "Albania",
+                        "probability": 0.7421,
+                        "start": 51,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 64,
+                        "tag": "EdiRama"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "791282820",
+                        "start": 18,
+                        "username": "Barroso_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWjDW",
+                        "end": 95,
+                        "expanded_url": "http://ow.ly/oWjDW",
+                        "start": 73,
+                        "url": "http://t.co/cO8XfppZUf"
+                    }
+                ]
+            },
+            "id": "379915553429016576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Statement by Pres @Barroso_EU following meeting w/ Albania's PM #EdiRama http://t.co/cO8XfppZUf"
+        },
+        {
+            "created_at": "2013-09-17T10:25:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 18,
+                        "tag": "SalesLaw"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 43,
+                        "id": "157981564",
+                        "start": 29,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 75,
+                        "id": "36329597",
+                        "start": 63,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 128,
+                        "id": "177179008",
+                        "start": 112,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 140,
+                        "id": "461919971",
+                        "start": 129,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWjgY",
+                        "end": 108,
+                        "expanded_url": "http://ow.ly/oWjgY",
+                        "start": 86,
+                        "url": "http://t.co/jkQcTRBWBO"
+                    }
+                ]
+            },
+            "id": "379913992137080832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Optional European #SalesLaw: @EU_Commission proposal backed by @Europarl_EN committee http://t.co/jkQcTRBWBO cc @VivianeRedingEU @EU_Justice"
+        },
+        {
+            "created_at": "2013-09-17T10:10:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Europe",
+                        "probability": 0.958,
+                        "start": 47,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "FAQs"
+                    },
+                    {
+                        "end": 131,
+                        "start": 120,
+                        "tag": "legalhighs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 96,
+                        "id": "177179008",
+                        "start": 80,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWj3S",
+                        "end": 76,
+                        "expanded_url": "http://ow.ly/oWj3S",
+                        "start": 54,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/MEMO_13_790",
+                        "url": "http://t.co/Kv5J3W30yk"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/S6IdW6f2Ic",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/NatashaBertaud/status/379902799766913024/photo/1",
+                        "start": 97,
+                        "url": "http://t.co/S6IdW6f2Ic"
+                    }
+                ]
+            },
+            "id": "379910208770031616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "#FAQs: tackling psychoactive substances across Europe http://t.co/Kv5J3W30yk cc @VivianeRedingEU http://t.co/S6IdW6f2Ic #legalhighs"
+        },
+        {
+            "created_at": "2013-09-17T10:02:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 46,
+                        "tag": "legalhighs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 100,
+                        "id": "177179008",
+                        "start": 84,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 112,
+                        "id": "461919971",
+                        "start": 101,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWiMI",
+                        "end": 80,
+                        "expanded_url": "http://ow.ly/oWiMI",
+                        "start": 58,
+                        "url": "http://t.co/nvbraoVZkF"
+                    }
+                ]
+            },
+            "id": "379908094845009920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@EU_Commission takes decisive action against #legalhighs http://t.co/nvbraoVZkF cc @VivianeRedingEU @EU_Justice"
+        },
+        {
+            "created_at": "2013-09-17T09:31:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 66,
+                        "start": 55,
+                        "tag": "legalhighs"
+                    },
+                    {
+                        "end": 110,
+                        "start": 104,
+                        "tag": "drugs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 44,
+                        "id": "177179008",
+                        "start": 28,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oWev0",
+                        "end": 103,
+                        "expanded_url": "http://ow.ly/oWev0",
+                        "start": 81,
+                        "url": "http://t.co/39JgzlNVHW"
+                    }
+                ]
+            },
+            "id": "379900384388849664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "LIVE: Press conference with @VivianeRedingEU on lethal #legalhighs starting now: http://t.co/39JgzlNVHW #drugs"
+        },
+        {
+            "created_at": "2013-09-16T14:52:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Trieste",
+                        "probability": 0.4704,
+                        "start": 61,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Helsinki",
+                        "probability": 0.9834,
+                        "start": 91,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 53,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 139,
+                        "id": "90139268",
+                        "start": 124,
+                        "username": "europainitalia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oUtHx",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/oUtHx",
+                        "start": 101,
+                        "url": "http://t.co/jGzaSfqQN8"
+                    }
+                ]
+            },
+            "id": "379618849416830976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "Thanks everyone for such lively participation in the #eudeb8 Trieste! Join us next time in Helsinki! http://t.co/jGzaSfqQN8 @europainitalia"
+        },
+        {
+            "created_at": "2013-09-16T12:57:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 119,
+                        "normalized_text": "Minister Enzo",
+                        "probability": 0.7327,
+                        "start": 107,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 11,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 104,
+                        "id": "177179008",
+                        "start": 88,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/164tJy7",
+                        "end": 83,
+                        "expanded_url": "http://bit.ly/164tJy7",
+                        "start": 61,
+                        "url": "http://t.co/pZip11SDQ0"
+                    }
+                ]
+            },
+            "id": "379589928251703296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Follow our #eudeb8 live-blog to share your comments with us! http://t.co/pZip11SDQ0  w/ @VivianeRedingEU &amp; Minister Enzo Moavero Milanesi"
+        },
+        {
+            "created_at": "2013-09-16T12:33:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Europe",
+                        "probability": 0.9722,
+                        "start": 50,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 25,
+                        "tag": "eudeb8"
+                    },
+                    {
+                        "end": 100,
+                        "start": 92,
+                        "tag": "Trieste"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 78,
+                        "id": "177179008",
+                        "start": 62,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oU5K2",
+                        "end": 124,
+                        "expanded_url": "http://ow.ly/oU5K2",
+                        "start": 102,
+                        "url": "http://t.co/bXuebnTMLC"
+                    }
+                ]
+            },
+            "id": "379583870221692928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "Tune in now and join the #eudeb8 on the future of Europe with @VivianeRedingEU, live now in #Trieste! http://t.co/bXuebnTMLC"
+        },
+        {
+            "created_at": "2013-09-16T12:25:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 81,
+                        "normalized_text": "Hassan Sheikh Mohamud",
+                        "probability": 0.8733,
+                        "start": 61,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 105,
+                        "start": 97,
+                        "tag": "Somalia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oU4Qh",
+                        "end": 128,
+                        "expanded_url": "http://ow.ly/oU4Qh",
+                        "start": 106,
+                        "url": "http://t.co/p7xkKmfLC5"
+                    }
+                ]
+            },
+            "id": "379581759513698304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Statement by President @BarrosoEU following his meeting with Hassan Sheikh Mohamud, President of #Somalia http://t.co/p7xkKmfLC5"
+        },
+        {
+            "created_at": "2013-09-16T12:11:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 30,
+                        "tag": "NewDeal"
+                    },
+                    {
+                        "end": 58,
+                        "start": 46,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 78,
+                        "start": 70,
+                        "tag": "Somalia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oU2UH",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/oU2UH",
+                        "start": 79,
+                        "url": "http://t.co/pRotesNHxE"
+                    }
+                ]
+            },
+            "id": "379578258289086464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 17
+            },
+            "text": "Memo with all the info on the #NewDeal and EU #development support in #Somalia http://t.co/pRotesNHxE"
+        },
+        {
+            "created_at": "2013-09-16T12:02:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Somalia",
+                        "probability": 0.5511,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 36,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 86,
+                        "start": 78,
+                        "tag": "Somalia"
+                    },
+                    {
+                        "end": 95,
+                        "start": 87,
+                        "tag": "NewDeal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "2560248703",
+                        "start": 3,
+                        "username": "APiebalgsEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/164oxKR",
+                        "end": 129,
+                        "expanded_url": "http://bit.ly/164oxKR",
+                        "start": 107,
+                        "url": "http://t.co/NjgtkEFWFl"
+                    }
+                ]
+            },
+            "id": "379575964205740032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "RT @APiebalgsEU: \"A new chapter in  #EU-Somalia relations\" - Statement at the #Somalia #NewDeal Conference http://t.co/NjgtkEFWFl"
+        },
+        {
+            "created_at": "2013-09-16T10:23:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Globalisation Fund",
+                        "probability": 0.6863,
+                        "start": 27,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Employment"
+                    },
+                    {
+                        "end": 100,
+                        "start": 94,
+                        "tag": "Spain"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oTRz9",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/oTRz9",
+                        "start": 101,
+                        "url": "http://t.co/DsMTLQGT8q"
+                    }
+                ]
+            },
+            "id": "379551194030829568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "#Employment: \u20ac840,000 from Globalisation Fund to help redundant building materials workers in #Spain http://t.co/DsMTLQGT8q"
+        },
+        {
+            "created_at": "2013-09-16T10:20:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Karel de Gucht",
+                        "probability": 0.9381,
+                        "start": 60,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 97,
+                        "normalized_text": "Hannover",
+                        "probability": 0.981,
+                        "start": 90,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 41,
+                        "tag": "Trade"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 131,
+                        "id": "1109452214",
+                        "start": 122,
+                        "username": "Trade_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oTRnG",
+                        "end": 121,
+                        "expanded_url": "http://ow.ly/oTRnG",
+                        "start": 99,
+                        "url": "http://t.co/QOhJk6iA0Z"
+                    }
+                ]
+            },
+            "id": "379550457985003520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Working Together for Growth through Free #Trade - speech by Karel de Gucht at EMO 2013 in Hannover http://t.co/QOhJk6iA0Z @trade_eu"
+        },
+        {
+            "created_at": "2013-09-16T10:11:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 78,
+                        "start": 72,
+                        "tag": "urban"
+                    },
+                    {
+                        "end": 89,
+                        "start": 79,
+                        "tag": "transport"
+                    },
+                    {
+                        "end": 117,
+                        "start": 113,
+                        "tag": "EMW"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "126596936",
+                        "start": 14,
+                        "username": "mobilityweek"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oTQoY",
+                        "end": 112,
+                        "expanded_url": "http://ow.ly/oTQoY",
+                        "start": 90,
+                        "url": "http://t.co/4mlmcJKxFU"
+                    }
+                ]
+            },
+            "id": "379548145245761536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 44
+            },
+            "text": "It's European @MobilityWeek! Envisaging cleaner air through alternative #urban #transport http://t.co/4mlmcJKxFU #EMW"
+        },
+        {
+            "created_at": "2013-09-16T10:07:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 86,
+                        "start": 83,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 97,
+                        "start": 87,
+                        "tag": "transport"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 68,
+                        "id": "2982227086",
+                        "start": 55,
+                        "username": "SiimKallasEU"
+                    },
+                    {
+                        "end": 117,
+                        "id": "2484749870",
+                        "start": 108,
+                        "username": "EU2013LT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/oTQ0R",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/oTQ0R",
+                        "start": 118,
+                        "url": "http://t.co/C8RoBG6mYa"
+                    }
+                ]
+            },
+            "id": "379547185618378752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "Single European Sky:time to make the vision a reality! @SiimKallasEU at meeting of #EU #transport ministers @EU2013LT http://t.co/C8RoBG6mYa"
+        }
+    ],
+    "meta": {
+        "newest_id": "382150013956415488",
+        "next_token": "1jzu9lk96gu5npw0l3346a0pb6ctoibrdqwjzfrb616l",
+        "oldest_id": "379547185618378752",
+        "result_count": 100
+    }
+}

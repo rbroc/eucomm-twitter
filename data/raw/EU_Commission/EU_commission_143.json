@@ -1,0 +1,4398 @@
+{
+    "data": [
+        {
+            "created_at": "2017-03-04T12:05:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 37,
+                        "start": 32,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/xistzN7nL4",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837997338903855105/photo/1",
+                        "start": 97,
+                        "url": "https://t.co/xistzN7nL4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/xistzN7nL4",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837997338903855105/photo/1",
+                        "start": 97,
+                        "url": "https://t.co/xistzN7nL4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/xistzN7nL4",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837997338903855105/photo/1",
+                        "start": 97,
+                        "url": "https://t.co/xistzN7nL4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/xistzN7nL4",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837997338903855105/photo/1",
+                        "start": 97,
+                        "url": "https://t.co/xistzN7nL4"
+                    }
+                ]
+            },
+            "id": "837997338903855105",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 85,
+                "quote_count": 8,
+                "reply_count": 4,
+                "retweet_count": 105
+            },
+            "text": "#FutureofEurope Scenario 1: The #EU27 sticks to its course and pursues a joint agenda for action https://t.co/xistzN7nL4"
+        },
+        {
+            "created_at": "2017-03-03T18:47:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "Europe",
+                        "probability": 0.9747,
+                        "start": 60,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 6,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 79,
+                        "start": 68,
+                        "tag": "EUGIFstory"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Hn78BB",
+                        "end": 137,
+                        "expanded_url": "http://europa.eu/!Hn78BB",
+                        "start": 114,
+                        "url": "https://t.co/8VFAzao3mI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/1L09u5fuEZ",
+                        "end": 161,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837736286924451841/photo/1",
+                        "start": 138,
+                        "url": "https://t.co/1L09u5fuEZ"
+                    }
+                ]
+            },
+            "id": "837736286924451841",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 29,
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 27
+            },
+            "text": "Using #EU archive footage, create GIFs to tell the story of Europe! #EUGIFstory applications open until 21 March: https://t.co/8VFAzao3mI https://t.co/1L09u5fuEZ"
+        },
+        {
+            "created_at": "2017-03-03T18:32:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Juncker",
+                        "probability": 0.5619,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "DSK Bank",
+                        "probability": 0.8639,
+                        "start": 94,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 128,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!rM33jX",
+                        "end": 126,
+                        "expanded_url": "http://europa.eu/!rM33jX",
+                        "start": 103,
+                        "url": "https://t.co/Se2yJ7WhPZ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4RuGMMnNz3",
+                        "end": 161,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837732319888715776/video/1",
+                        "start": 138,
+                        "url": "https://t.co/4RuGMMnNz3"
+                    }
+                ]
+            },
+            "id": "837732319888715776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 31,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 26
+            },
+            "text": "Juncker Plan \u27a1\ufe0f\ufe0f \u20ac15 million for Bulgarian innovative SMEs after new guarantee agreement with DSK Bank https://t.co/Se2yJ7WhPZ  #investEU https://t.co/4RuGMMnNz3"
+        },
+        {
+            "created_at": "2017-03-03T17:24:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "EU",
+                        "probability": 0.4139,
+                        "start": 38,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 116,
+                        "start": 101,
+                        "tag": "FutureofEurope"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!RJ89Gt",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!RJ89Gt",
+                        "start": 117,
+                        "url": "https://t.co/datKlwNXAF"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/WiPOMiwcCD",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837715215835766784/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/WiPOMiwcCD"
+                    }
+                ]
+            },
+            "id": "837715215835766784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 61,
+                "quote_count": 3,
+                "reply_count": 7,
+                "retweet_count": 91
+            },
+            "text": "There is still strong support for the EU project but it's no longer unconditional \u27a1\ufe0f 5 scenarios for #FutureofEurope https://t.co/datKlwNXAF https://t.co/WiPOMiwcCD"
+        },
+        {
+            "created_at": "2017-03-03T15:51:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "EU",
+                        "probability": 0.4919,
+                        "start": 56,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "EUGIFstory"
+                    },
+                    {
+                        "end": 139,
+                        "start": 134,
+                        "tag": "EU60"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Hn78BB",
+                        "end": 130,
+                        "expanded_url": "http://europa.eu/!Hn78BB",
+                        "start": 107,
+                        "url": "https://t.co/8VFAzao3mI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ZngP3qR5nH",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837691789909901321/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/ZngP3qR5nH"
+                    }
+                ]
+            },
+            "id": "837691789909901321",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 75,
+                "quote_count": 12,
+                "reply_count": 5,
+                "retweet_count": 72
+            },
+            "text": "#EUGIFstory - GIF competition launched to highlight the EU's history before looking forward to its future: https://t.co/8VFAzao3mI \ud83c\uddea\ud83c\uddfa #EU60 https://t.co/ZngP3qR5nH"
+        },
+        {
+            "created_at": "2017-03-03T14:15:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "WorldWildlifeDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!VG68pU",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!VG68pU",
+                        "start": 117,
+                        "url": "https://t.co/M0v9wHnHrQ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/YfYnNi3xHf",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837667655397990400/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/YfYnNi3xHf"
+                    }
+                ]
+            },
+            "id": "837667655397990400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 79,
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 64
+            },
+            "text": "#WorldWildlifeDay Ecosystems are the foundation of our wellbeing. Let's join efforts in preserving diverse wildlife\ud83d\udc18 https://t.co/M0v9wHnHrQ https://t.co/YfYnNi3xHf"
+        },
+        {
+            "created_at": "2017-03-03T11:58:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "EU",
+                        "probability": 0.7263,
+                        "start": 23,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Greece",
+                        "probability": 0.9982,
+                        "start": 58,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "1425447227091193859",
+                        "start": 0,
+                        "username": "sofrup"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!WG64yG",
+                        "end": 106,
+                        "expanded_url": "http://europa.eu/!WG64yG",
+                        "start": 83,
+                        "url": "https://t.co/YbiQCrWMUf"
+                    }
+                ]
+            },
+            "id": "837633188704956417",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "@Sofrup An overview of EU funded projects for refugees in Greece can be found here https://t.co/YbiQCrWMUf [pdf] Best, The Social Media team"
+        },
+        {
+            "created_at": "2017-03-03T11:34:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 102,
+                        "tag": "DESIeu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!FX93YW",
+                        "end": 101,
+                        "expanded_url": "http://europa.eu/!FX93YW",
+                        "start": 78,
+                        "url": "https://t.co/h8qrb0MPYt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RKIAVHhFLY",
+                        "end": 133,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837627300048945152/photo/1",
+                        "start": 110,
+                        "url": "https://t.co/RKIAVHhFLY"
+                    }
+                ]
+            },
+            "id": "837627300048945152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 41,
+                "quote_count": 14,
+                "reply_count": 1,
+                "retweet_count": 68
+            },
+            "text": "2017 Digital Economy and Society Index: detailed results &amp; methodology \u27a1\ufe0f https://t.co/h8qrb0MPYt #DESIeu https://t.co/RKIAVHhFLY"
+        },
+        {
+            "created_at": "2017-03-03T11:32:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Europe",
+                        "probability": 0.8652,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 128,
+                        "start": 121,
+                        "tag": "DESIeu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!PG48TK",
+                        "end": 120,
+                        "expanded_url": "http://europa.eu/!PG48TK",
+                        "start": 97,
+                        "url": "https://t.co/ksDKFHj6oh"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mfRR5yN9GC",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837626832451162112/photo/1",
+                        "start": 132,
+                        "url": "https://t.co/mfRR5yN9GC"
+                    }
+                ]
+            },
+            "id": "837626832451162112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 39,
+                "quote_count": 7,
+                "reply_count": 0,
+                "retweet_count": 51
+            },
+            "text": "2017 Digital Economy and Society Index: Europe improves but still needs to close the digital gap https://t.co/ksDKFHj6oh #DESIeu \u2328\ufe0f https://t.co/mfRR5yN9GC"
+        },
+        {
+            "created_at": "2017-03-03T11:31:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 105,
+                        "start": 98,
+                        "tag": "DESIeu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 97,
+                        "id": "2803587655",
+                        "start": 88,
+                        "username": "Ansip_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/qh0OWrjKRt",
+                        "end": 129,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837626455999791104/photo/1",
+                        "start": 106,
+                        "url": "https://t.co/qh0OWrjKRt"
+                    }
+                ]
+            },
+            "id": "837626455999791104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 27,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 33
+            },
+            "text": "\"All Member States should invest more to fully benefit from the Digital Single Market.\" @Ansip_EU #DESIeu https://t.co/qh0OWrjKRt"
+        },
+        {
+            "created_at": "2017-03-03T11:29:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 132,
+                        "tag": "DESIeu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "id": "2803587655",
+                        "start": 51,
+                        "username": "Ansip_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 130,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 107,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/7RrPWMz1Z3",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837626036313550851/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/7RrPWMz1Z3"
+                    }
+                ]
+            },
+            "id": "837626036313550851",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 26
+            },
+            "text": "How digital is your country? \ud83c\udfa5 Press conference by @Ansip_EU on the 2017 Digital Economy and Society Index https://t.co/P0BIU0PzXA  #DESIeu https://t.co/7RrPWMz1Z3"
+        },
+        {
+            "created_at": "2017-03-03T11:15:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Greece",
+                        "probability": 0.9981,
+                        "start": 74,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 118,
+                        "start": 106,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!nU98fP",
+                        "end": 105,
+                        "expanded_url": "http://europa.eu/!nU98fP",
+                        "start": 82,
+                        "url": "https://t.co/EdqIGCpcBM"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jefoYIjm5c",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837622459721527297/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/jefoYIjm5c"
+                    }
+                ]
+            },
+            "id": "837622459721527297",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 66,
+                "quote_count": 5,
+                "reply_count": 4,
+                "retweet_count": 47
+            },
+            "text": "EU support helps 2,500 refugee and migrant children get back to school in Greece: https://t.co/EdqIGCpcBM #MigrationEU https://t.co/jefoYIjm5c"
+        },
+        {
+            "created_at": "2017-03-03T11:15:11.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Xk47WU",
+                        "end": 108,
+                        "expanded_url": "http://europa.eu/!Xk47WU",
+                        "start": 85,
+                        "url": "https://t.co/4Gl8uRXTH6"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/zNbBSbmwPO",
+                        "end": 132,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837622378226143232/photo/1",
+                        "start": 109,
+                        "url": "https://t.co/zNbBSbmwPO"
+                    }
+                ]
+            },
+            "id": "837622378226143232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 25,
+                "quote_count": 5,
+                "reply_count": 0,
+                "retweet_count": 27
+            },
+            "text": "EU-US \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 agreement on mutual recognition of inspections of medicine manufacturers: https://t.co/4Gl8uRXTH6 https://t.co/zNbBSbmwPO"
+        },
+        {
+            "created_at": "2017-03-03T11:10:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "EUHaveYourSay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qQ78RV",
+                        "end": 126,
+                        "expanded_url": "http://europa.eu/!qQ78RV",
+                        "start": 103,
+                        "url": "https://t.co/CMsRvQazTa"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/qAm5k1NrOt",
+                        "end": 150,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837621193599496192/photo/1",
+                        "start": 127,
+                        "url": "https://t.co/qAm5k1NrOt"
+                    }
+                ]
+            },
+            "id": "837621193599496192",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 5,
+                "reply_count": 1,
+                "retweet_count": 46
+            },
+            "text": "#EUHaveYourSay: launch of a public consultation on whistleblower protection at national and EU level \u27a1\ufe0fhttps://t.co/CMsRvQazTa https://t.co/qAm5k1NrOt"
+        },
+        {
+            "created_at": "2017-03-03T10:50:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 91,
+                        "tag": "France"
+                    },
+                    {
+                        "end": 136,
+                        "start": 127,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!TG94px",
+                        "end": 126,
+                        "expanded_url": "http://europa.eu/!TG94px",
+                        "start": 103,
+                        "url": "https://t.co/wCSTRtySkD"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/aYG1ruDZxE",
+                        "end": 160,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837616167124631552/video/1",
+                        "start": 137,
+                        "url": "https://t.co/aYG1ruDZxE"
+                    }
+                ]
+            },
+            "id": "837616167124631552",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 4,
+                "reply_count": 2,
+                "retweet_count": 25
+            },
+            "text": "Nouveau financement du Plan Juncker pour le d\u00e9ploiement internet \u00e0 tr\u00e8s haut d\u00e9bit fixe en #France \ud83c\uddeb\ud83c\uddf7: https://t.co/wCSTRtySkD #investEU https://t.co/aYG1ruDZxE"
+        },
+        {
+            "created_at": "2017-03-03T09:00:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1338962648",
+                        "start": 0,
+                        "username": "Maroolee"
+                    }
+                ]
+            },
+            "id": "837588433329598464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@Maroolee The translations can be found by clicking on the language on the top &amp; downloading the White Paper in the Documents column."
+        },
+        {
+            "created_at": "2017-03-02T18:53:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "migrationEU"
+                    },
+                    {
+                        "end": 49,
+                        "start": 44,
+                        "tag": "EUCO"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "157981564",
+                        "start": 13,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 110,
+                        "id": "169426475",
+                        "start": 100,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Tk73Uf",
+                        "end": 87,
+                        "expanded_url": "http://europa.eu/!Tk73Uf",
+                        "start": 64,
+                        "url": "https://t.co/YDJCFpNSqh"
+                    },
+                    {
+                        "display_url": "europa.eu/!kr68vu",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!kr68vu",
+                        "start": 117,
+                        "url": "https://t.co/Kff6pNSyop"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/OzeZSPZDdK",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837375419045318656/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/OzeZSPZDdK"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/OzeZSPZDdK",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837375419045318656/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/OzeZSPZDdK"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/OzeZSPZDdK",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837375419045318656/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/OzeZSPZDdK"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/OzeZSPZDdK",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837375419045318656/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/OzeZSPZDdK"
+                    }
+                ]
+            },
+            "id": "837375419045318656",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 3,
+                "reply_count": 4,
+                "retweet_count": 13
+            },
+            "text": "#migrationEU @EU_Commission contribution to #EUCO.Summary (pdf) https://t.co/YDJCFpNSqh | Letter by @JunckerEU (pdf) https://t.co/Kff6pNSyop https://t.co/OzeZSPZDdK"
+        },
+        {
+            "created_at": "2017-03-02T15:22:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "17h CET",
+                        "probability": 0.7101,
+                        "start": 28,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "EUdialogues"
+                    },
+                    {
+                        "end": 77,
+                        "start": 68,
+                        "tag": "Slovenia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 47,
+                        "id": "169426475",
+                        "start": 37,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 64,
+                        "id": "1655801280",
+                        "start": 54,
+                        "username": "MiroCerar"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "facebook.com/evropska.komis\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.facebook.com/evropska.komisija/",
+                        "start": 116,
+                        "url": "https://t.co/pN4WjYYZ3J"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BV83AIYlq5",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837322335728328704/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/BV83AIYlq5"
+                    }
+                ]
+            },
+            "id": "837322335728328704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 35,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 28
+            },
+            "text": "#EUdialogues follow LIVE at 17h CET: @JunckerEU &amp; @MiroCerar in #Slovenia \ud83c\uddf8\ud83c\uddee exchanging with young citizens \u27a1\ufe0f\ufe0f https://t.co/pN4WjYYZ3J https://t.co/BV83AIYlq5"
+        },
+        {
+            "created_at": "2017-03-02T14:31:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "Slovenia",
+                        "probability": 0.9442,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "Ljubljana",
+                        "probability": 0.973,
+                        "start": 93,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 53,
+                        "id": "169426475",
+                        "start": 43,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 68,
+                        "id": "1655801280",
+                        "start": 58,
+                        "username": "MiroCerar"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dn64MN",
+                        "end": 127,
+                        "expanded_url": "http://europa.eu/!dn64MN",
+                        "start": 104,
+                        "url": "https://t.co/cAWAOVeEpe"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/MngKVydNRs",
+                        "end": 151,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837309500726083589/photo/1",
+                        "start": 128,
+                        "url": "https://t.co/MngKVydNRs"
+                    }
+                ]
+            },
+            "id": "837309500726083589",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 29,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "\ud83c\udfa5 Live now: Watch press point of President @JunckerEU and @MiroCerar PM of Slovenia \ud83c\uddf8\ud83c\uddee in Ljubljana \u27a1\ufe0f\ufe0f https://t.co/cAWAOVeEpe https://t.co/MngKVydNRs"
+        },
+        {
+            "created_at": "2017-03-02T11:33:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Sweden",
+                        "probability": 0.996,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 138,
+                        "start": 126,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!tw46fX",
+                        "end": 125,
+                        "expanded_url": "http://europa.eu/!tw46fX",
+                        "start": 102,
+                        "url": "https://t.co/rwOeuTxo3w"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/xzmi20GuiK",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837264545081098240/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/xzmi20GuiK"
+                    }
+                ]
+            },
+            "id": "837264545081098240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 42,
+                "quote_count": 7,
+                "reply_count": 5,
+                "retweet_count": 40
+            },
+            "text": "\u20ac20 million in emergency migration funding to Sweden to increase reception and accommodation capacity https://t.co/rwOeuTxo3w #MigrationEU https://t.co/xzmi20GuiK"
+        },
+        {
+            "created_at": "2017-03-02T11:16:23.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Romania",
+                        "probability": 0.9947,
+                        "start": 53,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 143,
+                        "start": 134,
+                        "tag": "investEU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 109,
+                        "id": "14418196",
+                        "start": 99,
+                        "username": "LIBRABANK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!TD43Jy",
+                        "end": 133,
+                        "expanded_url": "http://europa.eu/!TD43Jy",
+                        "start": 110,
+                        "url": "https://t.co/h6YdY5qOoI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/unovjO0F9R",
+                        "end": 167,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837260290068787202/video/1",
+                        "start": 144,
+                        "url": "https://t.co/unovjO0F9R"
+                    }
+                ]
+            },
+            "id": "837260290068787202",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 38,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 28
+            },
+            "text": "\u20ac10 million of loans for cultural &amp; creative SMEs in Romania = guarantee agreement signed with @LIBRABANK https://t.co/h6YdY5qOoI #investEU https://t.co/unovjO0F9R"
+        },
+        {
+            "created_at": "2017-03-02T11:12:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "Central Mediterranean Route",
+                        "probability": 0.3415,
+                        "start": 72,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "MigrationEU"
+                    },
+                    {
+                        "end": 130,
+                        "start": 125,
+                        "tag": "EUCO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!cm48bT",
+                        "end": 124,
+                        "expanded_url": "http://europa.eu/!cm48bT",
+                        "start": 101,
+                        "url": "https://t.co/tlEONWbKuD"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Ylt9p27sg4",
+                        "end": 154,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837259236753227776/photo/1",
+                        "start": 131,
+                        "url": "https://t.co/Ylt9p27sg4"
+                    }
+                ]
+            },
+            "id": "837259236753227776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 43,
+                "quote_count": 2,
+                "reply_count": 6,
+                "retweet_count": 70
+            },
+            "text": "#MigrationEU Partnership Framework: Progress on actions taken along the Central Mediterranean Route: https://t.co/tlEONWbKuD #EUCO https://t.co/Ylt9p27sg4"
+        },
+        {
+            "created_at": "2017-03-02T10:48:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "EUBorderGuard"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jN77yk",
+                        "end": 143,
+                        "expanded_url": "http://europa.eu/!jN77yk",
+                        "start": 120,
+                        "url": "https://t.co/94oktK7VDY"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ZWbNF8zV7g",
+                        "end": 167,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837253224696528900/photo/1",
+                        "start": 144,
+                        "url": "https://t.co/ZWbNF8zV7g"
+                    }
+                ]
+            },
+            "id": "837253224696528900",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 27,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 33
+            },
+            "text": "#EUBorderGuard: Call on Member States to fill gaps regarding material contributions&amp;specialists by the end of March https://t.co/94oktK7VDY https://t.co/ZWbNF8zV7g"
+        },
+        {
+            "created_at": "2017-03-02T10:27:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jN77yk",
+                        "end": 99,
+                        "expanded_url": "http://europa.eu/!jN77yk",
+                        "start": 76,
+                        "url": "https://t.co/94oktK7VDY"
+                    },
+                    {
+                        "display_url": "europa.eu/!tY74ck",
+                        "end": 134,
+                        "expanded_url": "http://europa.eu/!tY74ck",
+                        "start": 111,
+                        "url": "https://t.co/7lEFhtQm3y"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cQfkZYb61w",
+                        "end": 158,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837248036438966272/photo/1",
+                        "start": 135,
+                        "url": "https://t.co/cQfkZYb61w"
+                    }
+                ]
+            },
+            "id": "837248036438966272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 33,
+                "quote_count": 5,
+                "reply_count": 2,
+                "retweet_count": 52
+            },
+            "text": "#MigrationEU 5th Progress Report on the EU-Turkey Statement: Press release: https://t.co/94oktK7VDY | Q&amp;A: https://t.co/7lEFhtQm3y https://t.co/cQfkZYb61w"
+        },
+        {
+            "created_at": "2017-03-02T10:20:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!tY74ck",
+                        "end": 132,
+                        "expanded_url": "http://europa.eu/!tY74ck",
+                        "start": 109,
+                        "url": "https://t.co/7lEFhtQm3y"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/B4BNoM7WZU",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837246149631348736/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/B4BNoM7WZU"
+                    }
+                ]
+            },
+            "id": "837246149631348736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 32,
+                "quote_count": 9,
+                "reply_count": 14,
+                "retweet_count": 65
+            },
+            "text": "#MigrationEU 10th Report on Relocation&amp;Resettlement: Only 2 Member States fully on track \ud83c\uddeb\ud83c\uddee\ud83c\uddf2\ud83c\uddf9 Read more: https://t.co/7lEFhtQm3y https://t.co/B4BNoM7WZU"
+        },
+        {
+            "created_at": "2017-03-02T09:50:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "MigrationEU"
+                    },
+                    {
+                        "end": 27,
+                        "start": 22,
+                        "tag": "EUCO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jN77yk",
+                        "end": 139,
+                        "expanded_url": "http://europa.eu/!jN77yk",
+                        "start": 116,
+                        "url": "https://t.co/94oktK7VDY"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/0qXztWi822",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837238716569628672/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/0qXztWi822"
+                    }
+                ]
+            },
+            "id": "837238716569628672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 45,
+                "quote_count": 7,
+                "reply_count": 5,
+                "retweet_count": 52
+            },
+            "text": "#MigrationEU Ahead of #EUCO on 9-10/3 the Commission calls for renewed efforts in implementing solidarity measures: https://t.co/94oktK7VDY https://t.co/0qXztWi822"
+        },
+        {
+            "created_at": "2017-03-02T09:20:07.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "EU",
+                        "probability": 0.5085,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 113,
+                        "start": 101,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wt88vQ",
+                        "end": 100,
+                        "expanded_url": "http://europa.eu/!Wt88vQ",
+                        "start": 77,
+                        "url": "https://t.co/Of5CUol5Y8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pXLjRuRUc0",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837231032957091840/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/pXLjRuRUc0"
+                    }
+                ]
+            },
+            "id": "837231032957091840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 23,
+                "quote_count": 6,
+                "reply_count": 5,
+                "retweet_count": 24
+            },
+            "text": "New measures for an efficient and credible EU return policy - press release: https://t.co/Of5CUol5Y8 #MigrationEU https://t.co/pXLjRuRUc0"
+        },
+        {
+            "created_at": "2017-03-02T09:08:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 103,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 44,
+                        "id": "2805926353",
+                        "start": 31,
+                        "username": "Avramopoulos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 139,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 116,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/U5pgEkaeME",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837228192045858816/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/U5pgEkaeME"
+                    }
+                ]
+            },
+            "id": "837228192045858816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 26,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 26
+            },
+            "text": "\ud83d\udcfaLive now: press conference by @Avramopoulos - update on relocation, resettlement, EU-Turkey Statement #MigrationEU https://t.co/P0BIU0PzXA https://t.co/U5pgEkaeME"
+        },
+        {
+            "created_at": "2017-03-02T08:30:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 93,
+                        "tag": "EU27"
+                    },
+                    {
+                        "end": 139,
+                        "start": 124,
+                        "tag": "FutureofEurope"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!RJ89Gt",
+                        "end": 123,
+                        "expanded_url": "http://europa.eu/!RJ89Gt",
+                        "start": 100,
+                        "url": "https://t.co/datKlx5yZf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/3imALRr5zr",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837218542827237376/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/3imALRr5zr"
+                    }
+                ]
+            },
+            "id": "837218542827237376",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 129,
+                "quote_count": 14,
+                "reply_count": 14,
+                "retweet_count": 151
+            },
+            "text": "What future do we want for ourselves, for our children and for our Union? \u27a1\ufe0f 5 scenarios for #EU27: https://t.co/datKlx5yZf #FutureofEurope https://t.co/3imALRr5zr"
+        },
+        {
+            "created_at": "2017-03-01T18:48:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 74,
+                        "start": 69,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!QG77Hc",
+                        "end": 123,
+                        "expanded_url": "http://europa.eu/!QG77Hc",
+                        "start": 100,
+                        "url": "https://t.co/Iuk03Mvziz"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BpTyhLU4pn",
+                        "end": 147,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/837011570798424064/photo/1",
+                        "start": 124,
+                        "url": "https://t.co/BpTyhLU4pn"
+                    }
+                ]
+            },
+            "id": "837011570798424064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 81,
+                "quote_count": 15,
+                "reply_count": 6,
+                "retweet_count": 134
+            },
+            "text": "#FutureofEurope: initiating reflections on avenues for unity for the #EU27 by 2025 - 5 scenarios \u27a1\ufe0f https://t.co/Iuk03Mvziz https://t.co/BpTyhLU4pn"
+        },
+        {
+            "created_at": "2017-03-01T16:14:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Antonio Tajani",
+                        "probability": 0.9934,
+                        "start": 51,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 93,
+                        "tag": "FutureOfEurope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 31,
+                        "id": "169426475",
+                        "start": 21,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 49,
+                        "id": "818837224003289088",
+                        "start": 36,
+                        "username": "EP_President"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 117,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/U49bHlcYGF",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836972930940682240/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/U49bHlcYGF"
+                    }
+                ]
+            },
+            "id": "836972930940682240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 35,
+                "quote_count": 4,
+                "reply_count": 4,
+                "retweet_count": 36
+            },
+            "text": "\ud83c\udfa5Press conference by @JunckerEU and @EP_President Antonio Tajani following the debate on the #FutureOfEurope LIVE at https://t.co/P0BIU0PzXA https://t.co/U49bHlcYGF"
+        },
+        {
+            "created_at": "2017-03-01T15:24:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Europe",
+                        "probability": 0.7455,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "258352799",
+                        "start": 0,
+                        "username": "_X_acerbation"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!KY73yD",
+                        "end": 97,
+                        "expanded_url": "http://europa.eu/!KY73yD",
+                        "start": 74,
+                        "url": "https://t.co/o11S5yPGdu"
+                    }
+                ]
+            },
+            "id": "836960401833267203",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 3,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "@_X_acerbation You can find the White Paper on the Future of Europe here: https://t.co/o11S5yPGdu Best, The Social media team"
+        },
+        {
+            "created_at": "2017-03-01T14:58:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 93,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 139,
+                        "start": 134,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!QG77Hc",
+                        "end": 133,
+                        "expanded_url": "http://europa.eu/!QG77Hc",
+                        "start": 110,
+                        "url": "https://t.co/Iuk03MNaH9"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4pFl3qt3RB",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836953775487188992/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/4pFl3qt3RB"
+                    }
+                ]
+            },
+            "id": "836953775487188992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 131,
+                "quote_count": 23,
+                "reply_count": 6,
+                "retweet_count": 201
+            },
+            "text": "Over the next months, we will contribute to the debate with a series of reflection papers on #FutureofEurope: https://t.co/Iuk03MNaH9 #EU27 https://t.co/4pFl3qt3RB"
+        },
+        {
+            "created_at": "2017-03-01T14:50:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 73,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 94,
+                        "start": 89,
+                        "tag": "EU27"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/nDdxesVYsy",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836951798183301120/photo/1",
+                        "start": 95,
+                        "url": "https://t.co/nDdxesVYsy"
+                    }
+                ]
+            },
+            "id": "836951798183301120",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 46,
+                "quote_count": 4,
+                "reply_count": 7,
+                "retweet_count": 35
+            },
+            "text": ".@JunckerEU: \"L'Europe sociale est un enjeu principal pour notre futur!\" #FutureofEurope #EU27 https://t.co/nDdxesVYsy"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10047898654",
+                        "name": "La primaire : le d\u00e9bat de la Gauche"
+                    }
+                }
+            ],
+            "created_at": "2017-03-01T14:47:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 138,
+                        "start": 123,
+                        "tag": "FutureOfEurope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 122,
+                        "id": "169426475",
+                        "start": 112,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/f2oLmhnqJq",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836951086690861059/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/f2oLmhnqJq"
+                    }
+                ]
+            },
+            "id": "836951086690861059",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 51,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 42
+            },
+            "text": "\"Il nous faut un v\u00e9ritable d\u00e9bat, en toute honn\u00eatet\u00e9, sur l\u2019Europe et sur ce que les citoyens attendent d\u2019elle\" @JunckerEU #FutureOfEurope https://t.co/f2oLmhnqJq"
+        },
+        {
+            "created_at": "2017-03-01T14:40:26.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 131,
+                        "id": "169426475",
+                        "start": 121,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/J1gNg4XE7K",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836949253188550656/video/1",
+                        "start": 132,
+                        "url": "https://t.co/J1gNg4XE7K"
+                    }
+                ]
+            },
+            "id": "836949253188550656",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 31,
+                "quote_count": 7,
+                "reply_count": 4,
+                "retweet_count": 38
+            },
+            "text": "Futur de l'Europe: \"La parole sera aux parlements nationaux, aux gouvernements, \u00e0 la soci\u00e9t\u00e9 civile, bref aux citoyens.\" @JunckerEU https://t.co/J1gNg4XE7K"
+        },
+        {
+            "created_at": "2017-03-01T14:35:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 64,
+                        "start": 59,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/qaCc5Um6VJ",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836947950211321856/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/qaCc5Um6VJ"
+                    }
+                ]
+            },
+            "id": "836947950211321856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 115,
+                "quote_count": 15,
+                "reply_count": 9,
+                "retweet_count": 157
+            },
+            "text": "#FutureofEurope Scenario 5: Doing Much More Together - The #EU27 decide to share more power, resources and decision-making across the board https://t.co/qaCc5Um6VJ"
+        },
+        {
+            "created_at": "2017-03-01T14:34:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 67,
+                        "start": 62,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Krd3Hk3WTU",
+                        "end": 154,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836947864274227200/photo/1",
+                        "start": 131,
+                        "url": "https://t.co/Krd3Hk3WTU"
+                    }
+                ]
+            },
+            "id": "836947864274227200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 46,
+                "quote_count": 7,
+                "reply_count": 0,
+                "retweet_count": 103
+            },
+            "text": "#FutureofEurope Scenario 4: Doing Less More Efficiently - The #EU27 focuses on delivering more and faster in selected policy areas https://t.co/Krd3Hk3WTU"
+        },
+        {
+            "created_at": "2017-03-01T14:34:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 67,
+                        "start": 62,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/aX4Hyq5nv7",
+                        "end": 161,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836947735966277633/photo/1",
+                        "start": 138,
+                        "url": "https://t.co/aX4Hyq5nv7"
+                    }
+                ]
+            },
+            "id": "836947735966277633",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 50,
+                "quote_count": 7,
+                "reply_count": 1,
+                "retweet_count": 107
+            },
+            "text": "#FutureofEurope Scenario 3: Those Who Want More Do More - The #EU27 proceeds as today but willing Member States do more in specific areas https://t.co/aX4Hyq5nv7"
+        },
+        {
+            "created_at": "2017-03-01T14:32:11.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 69,
+                        "start": 64,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/p24hK2RURt",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836947179570868225/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/p24hK2RURt"
+                    }
+                ]
+            },
+            "id": "836947179570868225",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 35,
+                "quote_count": 9,
+                "reply_count": 4,
+                "retweet_count": 99
+            },
+            "text": "#FutureofEurope Scenario 2: Nothing but the Single Market - The #EU27 is gradually re-centred on the single market https://t.co/p24hK2RURt"
+        },
+        {
+            "created_at": "2017-03-01T14:31:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 51,
+                        "start": 46,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/3J7unu69P2",
+                        "end": 124,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836946986825703424/photo/1",
+                        "start": 101,
+                        "url": "https://t.co/3J7unu69P2"
+                    }
+                ]
+            },
+            "id": "836946986825703424",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 50,
+                "quote_count": 5,
+                "reply_count": 3,
+                "retweet_count": 106
+            },
+            "text": "#FutureofEurope Scenario 1: Carrying On - The #EU27 focuses on delivering its positive reform agenda https://t.co/3J7unu69P2"
+        },
+        {
+            "created_at": "2017-03-01T14:24:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 138,
+                        "start": 123,
+                        "tag": "FutureOfEurope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 122,
+                        "id": "169426475",
+                        "start": 112,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ZEA9wehnDC",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836945251977719809/video/1",
+                        "start": 139,
+                        "url": "https://t.co/ZEA9wehnDC"
+                    }
+                ]
+            },
+            "id": "836945251977719809",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 17
+            },
+            "text": "\"Es gibt keinen besseren Zeitpunkt, keinen anderen Zeitpunkt als jetzt, um diese schwierige Debatte zu f\u00fchren.\" @JunckerEU #FutureOfEurope https://t.co/ZEA9wehnDC"
+        },
+        {
+            "created_at": "2017-03-01T14:23:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 23,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 140,
+                        "start": 135,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!KY73yD",
+                        "end": 134,
+                        "expanded_url": "http://europa.eu/!KY73yD",
+                        "start": 111,
+                        "url": "https://t.co/o11S5yPGdu"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/3vSkyMfQ5b",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836944990303621120/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/3vSkyMfQ5b"
+                    }
+                ]
+            },
+            "id": "836944990303621120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 433,
+                "quote_count": 157,
+                "reply_count": 57,
+                "retweet_count": 799
+            },
+            "text": "The White Paper on the #FutureofEurope \ud83c\uddea\ud83c\uddfa is out. It presents 5 scenarios for how the EU at 27 could evolve \u27a1\ufe0f https://t.co/o11S5yPGdu #EU27 https://t.co/3vSkyMfQ5b"
+        },
+        {
+            "created_at": "2017-03-01T14:22:54.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "The Rome summit",
+                        "probability": 0.3643,
+                        "start": 18,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "FutureOfEurope"
+                    },
+                    {
+                        "end": 100,
+                        "start": 95,
+                        "tag": "EU60"
+                    },
+                    {
+                        "end": 106,
+                        "start": 101,
+                        "tag": "EU27"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 117,
+                        "id": "169426475",
+                        "start": 107,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ttq90FrsYV",
+                        "end": 141,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836944839375732737/photo/1",
+                        "start": 118,
+                        "url": "https://t.co/ttq90FrsYV"
+                    }
+                ]
+            },
+            "id": "836944839375732737",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 126,
+                "quote_count": 12,
+                "reply_count": 5,
+                "retweet_count": 165
+            },
+            "text": "#FutureOfEurope  \"The Rome summit will be the 'birth moment' of the EU at 27.\" - 25 March 2017 #EU60 #EU27 @JunckerEU https://t.co/ttq90FrsYV"
+        },
+        {
+            "created_at": "2017-03-01T14:14:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 48,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 128,
+                        "start": 123,
+                        "tag": "EU27"
+                    },
+                    {
+                        "end": 138,
+                        "start": 129,
+                        "tag": "EPlenary"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "169426475",
+                        "start": 2,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 83,
+                        "id": "36329597",
+                        "start": 71,
+                        "username": "Europarl_EN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dn64MN",
+                        "end": 122,
+                        "expanded_url": "http://europa.eu/!dn64MN",
+                        "start": 99,
+                        "url": "https://t.co/cAWAOVeEpe"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Bs5Xwai2sK",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836942732744658945/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/Bs5Xwai2sK"
+                    }
+                ]
+            },
+            "id": "836942732744658945",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 119,
+                "quote_count": 16,
+                "reply_count": 9,
+                "retweet_count": 160
+            },
+            "text": "\ud83c\udfa5 @JunckerEU is presenting a White Paper on the #FutureofEurope in the @Europarl_EN. Watch LIVE at https://t.co/cAWAOVeEpe #EU27 #EPlenary https://t.co/Bs5Xwai2sK"
+        },
+        {
+            "created_at": "2017-03-01T13:31:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 30,
+                        "tag": "EPlenary"
+                    },
+                    {
+                        "end": 102,
+                        "start": 87,
+                        "tag": "FutureofEurope"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dn64MN",
+                        "end": 138,
+                        "expanded_url": "http://europa.eu/!dn64MN",
+                        "start": 115,
+                        "url": "https://t.co/cAWAOVeEpe"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RBSvOXaT8e",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836931966591250433/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/RBSvOXaT8e"
+                    }
+                ]
+            },
+            "id": "836931966591250433",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 63,
+                "quote_count": 9,
+                "reply_count": 0,
+                "retweet_count": 63
+            },
+            "text": "Commissioners are arriving at #EPlenary for the presentation of the White Paper on the #FutureofEurope. Doorsteps: https://t.co/cAWAOVeEpe https://t.co/RBSvOXaT8e"
+        },
+        {
+            "created_at": "2017-03-01T12:48:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 70,
+                        "tag": "FutureofEurope"
+                    },
+                    {
+                        "end": 104,
+                        "start": 95,
+                        "tag": "EPlenary"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 35,
+                        "id": "169426475",
+                        "start": 25,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dn64MN",
+                        "end": 130,
+                        "expanded_url": "http://europa.eu/!dn64MN",
+                        "start": 107,
+                        "url": "https://t.co/cAWAOVeEpe"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/yzlqkREtpg",
+                        "end": 154,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836921098155491328/photo/1",
+                        "start": 131,
+                        "url": "https://t.co/yzlqkREtpg"
+                    }
+                ]
+            },
+            "id": "836921098155491328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 112,
+                "quote_count": 23,
+                "reply_count": 5,
+                "retweet_count": 165
+            },
+            "text": "\ud83d\udcfaFrom 3pm CET watch live @JunckerEU to present the White Paper on the #FutureofEurope \ud83c\uddea\ud83c\uddfaat the #EPlenary \u25b6\ufe0fhttps://t.co/cAWAOVeEpe https://t.co/yzlqkREtpg"
+        },
+        {
+            "created_at": "2017-02-28T15:37:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 45,
+                        "tag": "FutureofEurope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 136,
+                        "id": "820190174",
+                        "start": 124,
+                        "username": "MargSchinas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/AgbotgYy7q",
+                        "end": 160,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836601102166605828/video/1",
+                        "start": 137,
+                        "url": "https://t.co/AgbotgYy7q"
+                    }
+                ]
+            },
+            "id": "836601102166605828",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 105,
+                "quote_count": 27,
+                "reply_count": 13,
+                "retweet_count": 165
+            },
+            "text": "01/03/2017: launch of the White Paper on the #FutureofEurope to reflect on unity &amp; cooperation among 27 EU countries \ud83c\uddea\ud83c\uddfa @MargSchinas https://t.co/AgbotgYy7q"
+        },
+        {
+            "created_at": "2017-02-28T13:53:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 144,
+                        "id": "820190174",
+                        "start": 132,
+                        "username": "MargSchinas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/qPrE6nXZlc",
+                        "end": 168,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836575062643867650/video/1",
+                        "start": 145,
+                        "url": "https://t.co/qPrE6nXZlc"
+                    }
+                ]
+            },
+            "id": "836575062643867650",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 30,
+                "quote_count": 9,
+                "reply_count": 3,
+                "retweet_count": 49
+            },
+            "text": "Livre blanc sur l'avenir de l'Europe = lancer une r\u00e9flexion pour assurer l'unit\u00e9 &amp; la coop\u00e9ration entre les 27 \u00c9tats membres \ud83c\uddea\ud83c\uddfa @MargSchinas https://t.co/qPrE6nXZlc"
+        },
+        {
+            "created_at": "2017-02-28T11:25:10.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "360659189",
+                        "start": 0,
+                        "username": "JamesCrisp6"
+                    }
+                ]
+            },
+            "id": "836537725050310657",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "@JamesCrisp6 We had some technical problems. The briefing will be re-transmitted and we're currently working on publishing the videos."
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226204225708033",
+                        "name": "Chelsea FC"
+                    }
+                }
+            ],
+            "created_at": "2017-02-28T11:22:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "China",
+                        "probability": 0.9953,
+                        "start": 69,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!uB99JX",
+                        "end": 99,
+                        "expanded_url": "http://europa.eu/!uB99JX",
+                        "start": 76,
+                        "url": "https://t.co/CbeozBvx6R"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/1BWqInW4hG",
+                        "end": 123,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836536935657136128/photo/1",
+                        "start": 100,
+                        "url": "https://t.co/1BWqInW4hG"
+                    }
+                ]
+            },
+            "id": "836536935657136128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 23,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 29
+            },
+            "text": "Definitive anti-dumping duties on imports of heavy steel plates from China: https://t.co/CbeozBvx6R https://t.co/1BWqInW4hG"
+        },
+        {
+            "created_at": "2017-02-28T11:10:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 124,
+                        "tag": "RareDiseaseDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!wr64Vn",
+                        "end": 123,
+                        "expanded_url": "http://europa.eu/!wr64Vn",
+                        "start": 100,
+                        "url": "https://t.co/bhCtzVqbuK"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QJlQjunr5c",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836534138844950529/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/QJlQjunr5c"
+                    }
+                ]
+            },
+            "id": "836534138844950529",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 38,
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 62
+            },
+            "text": "How will European Reference Networks improve the lives of patients? What medical areas are covered? https://t.co/bhCtzVqbuK #RareDiseaseDay https://t.co/QJlQjunr5c"
+        },
+        {
+            "created_at": "2017-02-28T11:05:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 124,
+                        "tag": "RareDiseaseDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!rk73kX",
+                        "end": 123,
+                        "expanded_url": "http://europa.eu/!rk73kX",
+                        "start": 100,
+                        "url": "https://t.co/YnRgZjN9Yh"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/6TIKvJbWOt",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836532817404231680/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/6TIKvJbWOt"
+                    }
+                ]
+            },
+            "id": "836532817404231680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 105,
+                "quote_count": 12,
+                "reply_count": 1,
+                "retweet_count": 131
+            },
+            "text": "European Reference Networks: 900 EU medical teams to join forces to tackle complex or rare diseases https://t.co/YnRgZjN9Yh #RareDiseaseDay https://t.co/6TIKvJbWOt"
+        },
+        {
+            "created_at": "2017-02-28T07:53:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 17,
+                        "tag": "EUIndustryDay"
+                    },
+                    {
+                        "end": 104,
+                        "start": 95,
+                        "tag": "investEU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 119,
+                        "id": "23746425",
+                        "start": 105,
+                        "username": "jyrkikatainen"
+                    },
+                    {
+                        "end": 134,
+                        "id": "2804154672",
+                        "start": 120,
+                        "username": "EBienkowskaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Fc98Uw",
+                        "end": 94,
+                        "expanded_url": "http://europa.eu/!Fc98Uw",
+                        "start": 71,
+                        "url": "https://t.co/CTcWsf7YWl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/I67evEWH4o",
+                        "end": 158,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836484335360344064/photo/1",
+                        "start": 135,
+                        "url": "https://t.co/I67evEWH4o"
+                    }
+                ]
+            },
+            "id": "836484335360344064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 39,
+                "quote_count": 6,
+                "reply_count": 1,
+                "retweet_count": 41
+            },
+            "text": "Can't attend the #EUIndustryDay? \ud83d\udcfa Follow it live today from 9h CET \u25b6\ufe0f https://t.co/CTcWsf7YWl #investEU @jyrkikatainen @EBienkowskaEU https://t.co/I67evEWH4o"
+        },
+        {
+            "created_at": "2017-02-27T11:23:18.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dC98Gb",
+                        "end": 134,
+                        "expanded_url": "http://europa.eu/!dC98Gb",
+                        "start": 111,
+                        "url": "https://t.co/BucaRZWKs3"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/dYwoJebHrs",
+                        "end": 158,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836174866793521154/photo/1",
+                        "start": 135,
+                        "url": "https://t.co/dYwoJebHrs"
+                    }
+                ]
+            },
+            "id": "836174866793521154",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 88,
+                "quote_count": 24,
+                "reply_count": 15,
+                "retweet_count": 154
+            },
+            "text": "Publication of the 2016 Regional Competitiveness Index for 263 EU regions - How competitive is your region? \u27a1\ufe0f\ufe0fhttps://t.co/BucaRZWKs3 https://t.co/dYwoJebHrs"
+        },
+        {
+            "created_at": "2017-02-27T11:19:29.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!fu37YH",
+                        "end": 144,
+                        "expanded_url": "http://europa.eu/!fu37YH",
+                        "start": 121,
+                        "url": "https://t.co/x5PTQddvlJ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/DEpkCZLDvW",
+                        "end": 168,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836173907568771073/photo/1",
+                        "start": 145,
+                        "url": "https://t.co/DEpkCZLDvW"
+                    }
+                ]
+            },
+            "id": "836173907568771073",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 20,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "117 millions d'\u20ac en faveur de la s\u00e9curit\u00e9 alimentaire et nutritionnelle &amp; de l'agriculture durable au Burkina Faso\ud83c\udde7\ud83c\uddeb https://t.co/x5PTQddvlJ https://t.co/DEpkCZLDvW"
+        },
+        {
+            "created_at": "2017-02-27T11:04:40.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!tc49Gt",
+                        "end": 120,
+                        "expanded_url": "http://europa.eu/!tc49Gt",
+                        "start": 97,
+                        "url": "https://t.co/mtKXEdV6vx"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/TsOj4W6JbH",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836170179553935361/photo/1",
+                        "start": 121,
+                        "url": "https://t.co/TsOj4W6JbH"
+                    }
+                ]
+            },
+            "id": "836170179553935361",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 35,
+                "quote_count": 5,
+                "reply_count": 2,
+                "retweet_count": 43
+            },
+            "text": "New independent study shows trade agreements boost EU agri-food exports. Memo &amp; methodology: https://t.co/mtKXEdV6vx https://t.co/TsOj4W6JbH"
+        },
+        {
+            "created_at": "2017-02-27T10:49:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "EU",
+                        "probability": 0.698,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!HC64Cj",
+                        "end": 138,
+                        "expanded_url": "http://europa.eu/!HC64Cj",
+                        "start": 115,
+                        "url": "https://t.co/6oWcuukPMI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RKqTobp3U0",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836166420849377280/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/RKqTobp3U0"
+                    }
+                ]
+            },
+            "id": "836166420849377280",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 30,
+                "quote_count": 3,
+                "reply_count": 1,
+                "retweet_count": 47
+            },
+            "text": "Record year for EU agri-food exports in 2016, with total exports reaching \u20ac130.7 billion, up \u20ac1.7 billion on 2015: https://t.co/6oWcuukPMI https://t.co/RKqTobp3U0"
+        },
+        {
+            "created_at": "2017-02-27T10:46:32.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 123,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 100,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/lwmaZQmSh5",
+                        "end": 147,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836165615991795712/photo/1",
+                        "start": 124,
+                        "url": "https://t.co/lwmaZQmSh5"
+                    }
+                ]
+            },
+            "id": "836165615991795712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 18,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 26
+            },
+            "text": "LIVE Press conference by @PhilHoganEU on the effects of trade agreements on the agricultural sector https://t.co/P0BIU0PzXA https://t.co/lwmaZQmSh5"
+        },
+        {
+            "created_at": "2017-02-27T09:43:53.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!fM63wD",
+                        "end": 131,
+                        "expanded_url": "http://europa.eu/!fM63wD",
+                        "start": 108,
+                        "url": "https://t.co/WSvKufABNf"
+                    }
+                ]
+            },
+            "id": "836149849892474880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "Revision of the Visa Suspension Mechanism: what are the changes? How is the mechanism triggered? Factsheet: https://t.co/WSvKufABNf"
+        },
+        {
+            "created_at": "2017-02-27T09:39:00.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "2805926353",
+                        "start": 13,
+                        "username": "Avramopoulos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!vQ34Dp",
+                        "end": 128,
+                        "expanded_url": "http://europa.eu/!vQ34Dp",
+                        "start": 105,
+                        "url": "https://t.co/skPk0I5GoS"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/5MwLOxFSfh",
+                        "end": 152,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836148621011795968/photo/1",
+                        "start": 129,
+                        "url": "https://t.co/5MwLOxFSfh"
+                    }
+                ]
+            },
+            "id": "836148621011795968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 17,
+                "quote_count": 2,
+                "reply_count": 3,
+                "retweet_count": 15
+            },
+            "text": "Statement by @Avramopoulos on the adoption by the Council of the strengthened visa suspension mechanism: https://t.co/skPk0I5GoS https://t.co/5MwLOxFSfh"
+        },
+        {
+            "created_at": "2017-02-27T09:23:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 105,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8472,
+                        "start": 99,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "2805926353",
+                        "start": 13,
+                        "username": "Avramopoulos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dC78fJ",
+                        "end": 132,
+                        "expanded_url": "http://europa.eu/!dC78fJ",
+                        "start": 109,
+                        "url": "https://t.co/vGyOWgqhGc"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/i5EU5nonTW",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836144827410563072/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/i5EU5nonTW"
+                    }
+                ]
+            },
+            "id": "836144827410563072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 29,
+                "quote_count": 4,
+                "reply_count": 1,
+                "retweet_count": 26
+            },
+            "text": "Statement by @Avramopoulos on the Council adoption of our proposal to grant visa liberalisation to Georgia \ud83c\uddec\ud83c\uddeahttps://t.co/vGyOWgqhGc https://t.co/i5EU5nonTW"
+        },
+        {
+            "created_at": "2017-02-27T07:10:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 10,
+                        "tag": "TeamJunckerEU"
+                    },
+                    {
+                        "end": 100,
+                        "start": 91,
+                        "tag": "EPlenary"
+                    },
+                    {
+                        "end": 115,
+                        "start": 101,
+                        "tag": "EUIndustryDay"
+                    },
+                    {
+                        "end": 128,
+                        "start": 116,
+                        "tag": "EUDialogues"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!nt43BM",
+                        "end": 90,
+                        "expanded_url": "http://europa.eu/!nt43BM",
+                        "start": 67,
+                        "url": "https://t.co/p6KY4LgqjG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4uoqrZfFE6",
+                        "end": 152,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/836111129969451009/photo/1",
+                        "start": 129,
+                        "url": "https://t.co/4uoqrZfFE6"
+                    }
+                ]
+            },
+            "id": "836111129969451009",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 28,
+                "quote_count": 3,
+                "reply_count": 6,
+                "retweet_count": 39
+            },
+            "text": "What will #TeamJunckerEU be doing this week? Check out the agenda: https://t.co/p6KY4LgqjG #EPlenary #EUIndustryDay #EUDialogues https://t.co/4uoqrZfFE6"
+        },
+        {
+            "created_at": "2017-02-26T19:13:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 32,
+                        "tag": "EUIndustryDay"
+                    },
+                    {
+                        "end": 112,
+                        "start": 103,
+                        "tag": "InvestEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Fc98Uw",
+                        "end": 102,
+                        "expanded_url": "http://europa.eu/!Fc98Uw",
+                        "start": 79,
+                        "url": "https://t.co/CTcWsf7YWl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWj78e6n1w",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835930689727938560/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/iWj78e6n1w"
+                    }
+                ]
+            },
+            "id": "835930689727938560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 68,
+                "quote_count": 12,
+                "reply_count": 3,
+                "retweet_count": 91
+            },
+            "text": "On Tuesday 28 February join the #EUIndustryDay - programme &amp; webstreaming: https://t.co/CTcWsf7YWl #InvestEU https://t.co/iWj78e6n1w"
+        },
+        {
+            "created_at": "2017-02-26T16:10:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 9,
+                        "tag": "Refugee"
+                    },
+                    {
+                        "end": 123,
+                        "start": 111,
+                        "tag": "MigrationEU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 45,
+                        "id": "157981564",
+                        "start": 31,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "medium.com/@EuropeanCommi\u2026",
+                        "end": 110,
+                        "expanded_url": "https://medium.com/@EuropeanCommission/who-is-a-refugee-and-what-is-the-commission-doing-to-help-f6f746668fde#.9au5q0rjd",
+                        "start": 87,
+                        "url": "https://t.co/fy1ure8raX"
+                    }
+                ]
+            },
+            "id": "835884812497993728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 41,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 48
+            },
+            "text": "Who is a #Refugee? And what is @EU_Commission doing to help? The latest from our blog: https://t.co/fy1ure8raX #MigrationEU"
+        },
+        {
+            "created_at": "2017-02-26T09:28:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 113,
+                        "start": 104,
+                        "tag": "OurOcean"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/HZFFz67WDF",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835783488200531968/video/1",
+                        "start": 114,
+                        "url": "https://t.co/HZFFz67WDF"
+                    }
+                ]
+            },
+            "id": "835783488200531968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 391,
+                "quote_count": 19,
+                "reply_count": 14,
+                "retweet_count": 373
+            },
+            "text": "Protecting the seas means protecting the future. \ud83c\udf0a The ocean is owned by no one but shared by everyone. #OurOcean https://t.co/HZFFz67WDF"
+        },
+        {
+            "created_at": "2017-02-25T15:54:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 90,
+                        "start": 85,
+                        "tag": "EIPP"
+                    },
+                    {
+                        "end": 134,
+                        "start": 125,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/eipp",
+                        "end": 123,
+                        "expanded_url": "http://ec.europa.eu/eipp",
+                        "start": 100,
+                        "url": "https://t.co/iSp8G5VLXI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/tgmlEtwbbd",
+                        "end": 158,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835518218827542529/photo/1",
+                        "start": 135,
+                        "url": "https://t.co/tgmlEtwbbd"
+                    }
+                ]
+            },
+            "id": "835518218827542529",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 45,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 61
+            },
+            "text": "Think your project is too small to present to investors? Partner up &amp; get on the #EIPP portal : https://t.co/iSp8G5VLXI  #investEU https://t.co/tgmlEtwbbd"
+        },
+        {
+            "created_at": "2017-02-25T13:52:01.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1391776140",
+                        "start": 1,
+                        "username": "TimmermansEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/29OGGcNY1s",
+                        "end": 167,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835487517612781569/video/1",
+                        "start": 144,
+                        "url": "https://t.co/29OGGcNY1s"
+                    }
+                ]
+            },
+            "id": "835487517612781569",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 2,
+                "reply_count": 10,
+                "retweet_count": 28
+            },
+            "text": ".@TimmermansEU &amp; l'Europe \u00e0 2 vitesses: \"Nous ne sommes pas tous dans la m\u00eame situation (...) C'est la nature de l'int\u00e9gration europ\u00e9enne.\" https://t.co/29OGGcNY1s"
+        },
+        {
+            "created_at": "2017-02-25T10:21:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Europe",
+                        "probability": 0.8716,
+                        "start": 34,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 122,
+                        "start": 112,
+                        "tag": "Erasmus30"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 57,
+                        "id": "23746425",
+                        "start": 43,
+                        "username": "jyrkikatainen"
+                    },
+                    {
+                        "end": 110,
+                        "id": "81089247",
+                        "start": 95,
+                        "username": "uniofleicester"
+                    },
+                    {
+                        "end": 137,
+                        "id": "163770896",
+                        "start": 123,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/SKgAzhLsRx",
+                        "end": 161,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835434416738447360/video/1",
+                        "start": 138,
+                        "url": "https://t.co/SKgAzhLsRx"
+                    }
+                ]
+            },
+            "id": "835434416738447360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 78,
+                "quote_count": 9,
+                "reply_count": 2,
+                "retweet_count": 92
+            },
+            "text": "\"It is your continent. It is your Europe.\" @jyrkikatainen tells us about his experience at the @uniofleicester. #Erasmus30 @EUErasmusPlus https://t.co/SKgAzhLsRx"
+        },
+        {
+            "created_at": "2017-02-24T11:25:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "EU",
+                        "probability": 0.8034,
+                        "start": 72,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Xq68RD",
+                        "end": 146,
+                        "expanded_url": "http://europa.eu/!Xq68RD",
+                        "start": 123,
+                        "url": "https://t.co/agveGx9eiD"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/o38jD4oTDI",
+                        "end": 170,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835088301438693377/photo/1",
+                        "start": 147,
+                        "url": "https://t.co/o38jD4oTDI"
+                    }
+                ]
+            },
+            "id": "835088301438693377",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 115,
+                "quote_count": 25,
+                "reply_count": 15,
+                "retweet_count": 118
+            },
+            "text": "We just launched a new online app to track invasive animals &amp; plants in EU. Help us map &amp; protect biodiversity! \ud83d\udc3f\ufe0f\ud83c\udf3fhttps://t.co/agveGx9eiD https://t.co/o38jD4oTDI"
+        },
+        {
+            "created_at": "2017-02-24T11:22:23.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "Lake Chad",
+                        "probability": 0.4218,
+                        "start": 35,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jx38jh",
+                        "end": 142,
+                        "expanded_url": "http://europa.eu/!jx38jh",
+                        "start": 119,
+                        "url": "https://t.co/ScmNDqKL7W"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rpumpUhb3h",
+                        "end": 166,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835087475215323136/photo/1",
+                        "start": 143,
+                        "url": "https://t.co/rpumpUhb3h"
+                    }
+                ]
+            },
+            "id": "835087475215323136",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 33
+            },
+            "text": "Humanitarian aid: \u20ac105 million for Lake Chad region for life-saving needs. Essential to ensure quick &amp; safe access https://t.co/ScmNDqKL7W https://t.co/rpumpUhb3h"
+        },
+        {
+            "created_at": "2017-02-24T11:15:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "EU",
+                        "probability": 0.563,
+                        "start": 30,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 5,
+                        "id": "169963553",
+                        "start": 1,
+                        "username": "wto"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!yh43hr",
+                        "end": 132,
+                        "expanded_url": "http://europa.eu/!yh43hr",
+                        "start": 109,
+                        "url": "https://t.co/hDU7TESaL5"
+                    }
+                ]
+            },
+            "id": "835085744301551616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 3,
+                "reply_count": 5,
+                "retweet_count": 29
+            },
+            "text": ".@wto comfirms Russian ban on EU pork is illegal especially in light of international trade rules. Read more https://t.co/hDU7TESaL5"
+        },
+        {
+            "created_at": "2017-02-24T09:36:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Regulatory Scrutiny Board",
+                        "probability": 0.7001,
+                        "start": 29,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "EU",
+                        "probability": 0.6493,
+                        "start": 92,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!TT33my",
+                        "end": 139,
+                        "expanded_url": "http://europa.eu/!TT33my",
+                        "start": 116,
+                        "url": "https://t.co/CiFCl8IyKl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iSp7ovqSkJ",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835060724611211266/photo/1",
+                        "start": 140,
+                        "url": "https://t.co/iSp7ovqSkJ"
+                    }
+                ]
+            },
+            "id": "835060724611211266",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 25,
+                "quote_count": 7,
+                "reply_count": 2,
+                "retweet_count": 46
+            },
+            "text": "The 1st annual report of the Regulatory Scrutiny Board, committed to improve the quality of EU regulations, is out: https://t.co/CiFCl8IyKl https://t.co/iSp7ovqSkJ"
+        },
+        {
+            "created_at": "2017-02-24T07:09:48.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 109,
+                        "id": "169426475",
+                        "start": 99,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 133,
+                        "expanded_url": "http://europa.eu/rapid/press-release_SPEECH-17-341_fr.htm",
+                        "start": 110,
+                        "url": "https://t.co/ErllEZilu4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/MRPrdRiHIa",
+                        "end": 157,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/835023907249926145/photo/1",
+                        "start": 134,
+                        "url": "https://t.co/MRPrdRiHIa"
+                    }
+                ]
+            },
+            "id": "835023907249926145",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 33,
+                "quote_count": 5,
+                "reply_count": 6,
+                "retweet_count": 32
+            },
+            "text": "\"Nous ne devons pas, au vu de l'histoire et devant les d\u00e9fis qui nous guettent, baisser les bras.\" @JunckerEU https://t.co/ErllEZilu4 https://t.co/MRPrdRiHIa"
+        },
+        {
+            "created_at": "2017-02-23T18:41:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "Utrecht",
+                        "probability": 0.9224,
+                        "start": 72,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 18,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 49,
+                        "id": "1391776140",
+                        "start": 36,
+                        "username": "TimmermansEU"
+                    },
+                    {
+                        "end": 67,
+                        "id": "157009365",
+                        "start": 54,
+                        "username": "NYTimesCohen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 102,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 79,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/nXHuctJReZ",
+                        "end": 126,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834835577975533568/photo/1",
+                        "start": 103,
+                        "url": "https://t.co/nXHuctJReZ"
+                    }
+                ]
+            },
+            "id": "834835577975533568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 25,
+                "quote_count": 4,
+                "reply_count": 5,
+                "retweet_count": 29
+            },
+            "text": "\ud83c\udfa5 LIVE now: watch #EUdialogues with @TimmermansEU and @NYTimesCohen in Utrecht https://t.co/P0BIU0PzXA https://t.co/nXHuctJReZ"
+        },
+        {
+            "created_at": "2017-02-23T17:50:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 4,
+                        "tag": "EIPP"
+                    },
+                    {
+                        "end": 123,
+                        "start": 114,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/eipp",
+                        "end": 112,
+                        "expanded_url": "http://ec.europa.eu/eipp",
+                        "start": 89,
+                        "url": "https://t.co/iSp8G5VLXI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/lbjj599RIM",
+                        "end": 147,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834822635250806784/photo/1",
+                        "start": 124,
+                        "url": "https://t.co/lbjj599RIM"
+                    }
+                ]
+            },
+            "id": "834822635250806784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 23,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 27
+            },
+            "text": "New #EIPP portal admission criteria can help you make your project visible to investors. https://t.co/iSp8G5VLXI  #investEU https://t.co/lbjj599RIM"
+        },
+        {
+            "created_at": "2017-02-23T17:22:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 72,
+                        "id": "169426475",
+                        "start": 62,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 90,
+                        "id": "2319105122",
+                        "start": 77,
+                        "username": "UCLouvain_be"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/pZhivb1wPi",
+                        "end": 114,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834815818689028096/photo/1",
+                        "start": 91,
+                        "url": "https://t.co/pZhivb1wPi"
+                    }
+                ]
+            },
+            "id": "834815818689028096",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 39,
+                "quote_count": 3,
+                "reply_count": 2,
+                "retweet_count": 36
+            },
+            "text": "\"L'Europe n'est pas une \u00e9vidence, elle fut et reste un choix\" @JunckerEU \u00e0 l'@UCLouvain_be https://t.co/pZhivb1wPi"
+        },
+        {
+            "created_at": "2017-02-23T15:51:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "EU",
+                        "probability": 0.435,
+                        "start": 60,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 124,
+                        "tag": "Trappist1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/h0Z83lp08U",
+                        "end": 158,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834792690562641920/photo/1",
+                        "start": 135,
+                        "url": "https://t.co/h0Z83lp08U"
+                    }
+                ]
+            },
+            "id": "834792690562641920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 103,
+                "quote_count": 7,
+                "reply_count": 2,
+                "retweet_count": 85
+            },
+            "text": "Great achievements are possible when great minds cooperate. EU will continue to promote excellence and help push boundaries #Trappist1 https://t.co/h0Z83lp08U"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Do not use this domain",
+                        "id": "5",
+                        "name": "Legacy Politics"
+                    },
+                    "entity": {
+                        "id": "10043689831",
+                        "name": "EU Referendum 2016"
+                    }
+                }
+            ],
+            "created_at": "2017-02-23T14:26:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 127,
+                        "normalized_text": "Ireland",
+                        "probability": 0.9795,
+                        "start": 121,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 116,
+                        "start": 109,
+                        "tag": "Brexit"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 55,
+                        "id": "135514272",
+                        "start": 43,
+                        "username": "EndaKennyTD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/JU6eG1HGuk",
+                        "end": 153,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834771450733162496/video/1",
+                        "start": 130,
+                        "url": "https://t.co/JU6eG1HGuk"
+                    }
+                ]
+            },
+            "id": "834771450733162496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 53,
+                "quote_count": 9,
+                "reply_count": 12,
+                "retweet_count": 55
+            },
+            "text": ".@JunckerEU remarks following meeting with @EndaKennyTD on the future of the EU and minimising the impact of #Brexit for Ireland. https://t.co/JU6eG1HGuk"
+        },
+        {
+            "created_at": "2017-02-23T11:25:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 121,
+                        "start": 111,
+                        "tag": "TRAPPIST1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 135,
+                        "id": "820190174",
+                        "start": 123,
+                        "username": "MargSchinas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/2RkbnR4u4R",
+                        "end": 159,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834725840302780416/video/1",
+                        "start": 136,
+                        "url": "https://t.co/2RkbnR4u4R"
+                    }
+                ]
+            },
+            "id": "834725840302780416",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 30,
+                "quote_count": 9,
+                "reply_count": 0,
+                "retweet_count": 32
+            },
+            "text": "Les succ\u00e8s sont possibles quand les chercheurs de diff\u00e9rents pays collaborent. \ud83c\uddea\ud83c\uddfa L'UE soutiendra cela encore. #TRAPPIST1 \n@MargSchinas https://t.co/2RkbnR4u4R"
+        },
+        {
+            "created_at": "2017-02-23T10:57:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 135,
+                        "normalized_text": "Micha\u00ebl Gillon",
+                        "probability": 0.9871,
+                        "start": 122,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 75,
+                        "tag": "Trappist1"
+                    },
+                    {
+                        "end": 110,
+                        "start": 101,
+                        "tag": "EUfunded"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bR7q3fTLDp",
+                        "end": 161,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834718928186273792/photo/1",
+                        "start": 138,
+                        "url": "https://t.co/bR7q3fTLDp"
+                    }
+                ]
+            },
+            "id": "834718928186273792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 249,
+                "quote_count": 22,
+                "reply_count": 39,
+                "retweet_count": 243
+            },
+            "text": "Did you know? The team that has discovered 7 Earth-like planets around the #Trappist1 star is led by #EUfunded researcher Micha\u00ebl Gillon\ud83d\udc4f https://t.co/bR7q3fTLDp"
+        },
+        {
+            "created_at": "2017-02-22T18:56:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 19,
+                        "tag": "EUfunded"
+                    },
+                    {
+                        "end": 132,
+                        "start": 122,
+                        "tag": "trappist1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 98,
+                        "id": "467551928",
+                        "start": 85,
+                        "username": "ERC_Research"
+                    },
+                    {
+                        "end": 115,
+                        "id": "137635095",
+                        "start": 99,
+                        "username": "UniversiteLiege"
+                    },
+                    {
+                        "end": 121,
+                        "id": "11348282",
+                        "start": 116,
+                        "username": "NASA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/NASA/status/83\u2026",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/NASA/status/834466377201307652",
+                        "start": 133,
+                        "url": "https://t.co/Q7ELteINMl"
+                    }
+                ]
+            },
+            "id": "834477002069520385",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 100,
+                "quote_count": 6,
+                "reply_count": 2,
+                "retweet_count": 70
+            },
+            "text": "Congratulations to #EUfunded astronomer Micha\u00ebl Gillon &amp; the international team! @ERC_Research @UniversiteLiege @NASA #trappist1 https://t.co/Q7ELteINMl"
+        },
+        {
+            "created_at": "2017-02-22T17:33:01.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!BU94Jr",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!BU94Jr",
+                        "start": 117,
+                        "url": "https://t.co/o48GGpX9IG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/G4cxiuzpe0",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834455969476308992/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/G4cxiuzpe0"
+                    }
+                ]
+            },
+            "id": "834455969476308992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 26,
+                "quote_count": 3,
+                "reply_count": 4,
+                "retweet_count": 34
+            },
+            "text": "European Day for victims of crime: We call on Member States to transpose the Victims' Rights Directive without delay https://t.co/o48GGpX9IG https://t.co/G4cxiuzpe0"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                }
+            ],
+            "created_at": "2017-02-22T14:00:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Europe",
+                        "probability": 0.9405,
+                        "start": 31,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 65,
+                        "normalized_text": "Facebook",
+                        "probability": 0.5856,
+                        "start": 58,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 99,
+                        "id": "1391776140",
+                        "start": 86,
+                        "username": "TimmermansEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "facebook.com/EuropeanCommis\u2026",
+                        "end": 135,
+                        "expanded_url": "https://www.facebook.com/EuropeanCommission/",
+                        "start": 112,
+                        "url": "https://t.co/M7A01lM2IM"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cMRnWJ7tCf",
+                        "end": 159,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834402377625067522/photo/1",
+                        "start": 136,
+                        "url": "https://t.co/cMRnWJ7tCf"
+                    }
+                ]
+            },
+            "id": "834402377625067522",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 31,
+                "quote_count": 6,
+                "reply_count": 10,
+                "retweet_count": 29
+            },
+            "text": "Let's talk about the future of Europe \ud83c\uddea\ud83c\uddfa. Join us for a Facebook Live discussion with @TimmermansEU at 16h CET: https://t.co/M7A01lM2IM https://t.co/cMRnWJ7tCf"
+        },
+        {
+            "created_at": "2017-02-22T13:34:37.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "169963553",
+                        "start": 4,
+                        "username": "wto"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qq94Uc",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!qq94Uc",
+                        "start": 117,
+                        "url": "https://t.co/cieTqy4BkX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/0aJcp8Foiu",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834395977196912644/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/0aJcp8Foiu"
+                    }
+                ]
+            },
+            "id": "834395977196912644",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 30,
+                "quote_count": 4,
+                "reply_count": 2,
+                "retweet_count": 41
+            },
+            "text": "The @WTO Trade Facilitation Agreement has entered into force! \ud83c\udf89\ud83d\udc4f Simpler rules = major win for small companies Info: https://t.co/cieTqy4BkX https://t.co/0aJcp8Foiu"
+        },
+        {
+            "created_at": "2017-02-22T13:13:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Europe",
+                        "probability": 0.9917,
+                        "start": 75,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ReNrkwna2c",
+                        "end": 160,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834390639278178304/video/1",
+                        "start": 137,
+                        "url": "https://t.co/ReNrkwna2c"
+                    }
+                ]
+            },
+            "id": "834390639278178304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 93,
+                "quote_count": 8,
+                "reply_count": 6,
+                "retweet_count": 109
+            },
+            "text": "#EuropeanSemester: \ud83d\udc4fEmployment \u2b06\ufe0f232 million (highest it has ever been in Europe), Unemployment \u2b07\ufe0f8.2% in the EU, below 10% in the \ud83d\udcb6area https://t.co/ReNrkwna2c"
+        },
+        {
+            "created_at": "2017-02-22T12:22:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Xm93VW",
+                        "end": 84,
+                        "expanded_url": "http://europa.eu/!Xm93VW",
+                        "start": 61,
+                        "url": "https://t.co/kB4fGSEBSz"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/5gq7miPFRh",
+                        "end": 108,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834377926405656576/photo/1",
+                        "start": 85,
+                        "url": "https://t.co/5gq7miPFRh"
+                    }
+                ]
+            },
+            "id": "834377926405656576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 144,
+                "quote_count": 29,
+                "reply_count": 6,
+                "retweet_count": 282
+            },
+            "text": "#EuropeanSemester All 27 country reports are available here: https://t.co/kB4fGSEBSz https://t.co/5gq7miPFRh"
+        },
+        {
+            "created_at": "2017-02-22T12:12:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Salzburg",
+                        "probability": 0.8352,
+                        "start": 60,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Rn88kq",
+                        "end": 116,
+                        "expanded_url": "http://europa.eu/!Rn88kq",
+                        "start": 93,
+                        "url": "https://t.co/7deaJcMdJh"
+                    }
+                ]
+            },
+            "id": "834375426269147136",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": ".@EU_Commission investigation into statistical reporting in Salzburg. Questions and Answers: https://t.co/7deaJcMdJh"
+        },
+        {
+            "created_at": "2017-02-22T11:54:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qv46BV",
+                        "end": 140,
+                        "expanded_url": "http://europa.eu/!qv46BV",
+                        "start": 117,
+                        "url": "https://t.co/cbutuEttA6"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rUQDxHRv8B",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834370838547853313/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/rUQDxHRv8B"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rUQDxHRv8B",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834370838547853313/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/rUQDxHRv8B"
+                    }
+                ]
+            },
+            "id": "834370838547853313",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 6,
+                "reply_count": 3,
+                "retweet_count": 29
+            },
+            "text": "#EuropeanSemester explained-What is the Winter Package? What are the steps under Macroeconomic Imbalances Procedure? https://t.co/cbutuEttA6 https://t.co/rUQDxHRv8B"
+        },
+        {
+            "created_at": "2017-02-22T11:44:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 123,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qQ93Jc",
+                        "end": 122,
+                        "expanded_url": "http://europa.eu/!qQ93Jc",
+                        "start": 99,
+                        "url": "https://t.co/7BhZNUUX4b"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/F1HJXHt0IE",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834368358522957825/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/F1HJXHt0IE"
+                    }
+                ]
+            },
+            "id": "834368358522957825",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 85,
+                "quote_count": 28,
+                "reply_count": 8,
+                "retweet_count": 141
+            },
+            "text": "Just out: Our annual analysis of the economic and social situation in the Member States. Overview: https://t.co/7BhZNUUX4b #EuropeanSemester https://t.co/F1HJXHt0IE"
+        },
+        {
+            "created_at": "2017-02-22T11:41:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 34,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 106,
+                        "id": "42183750",
+                        "start": 93,
+                        "username": "VDombrovskis"
+                    },
+                    {
+                        "end": 123,
+                        "id": "28565356",
+                        "start": 107,
+                        "username": "pierremoscovici"
+                    },
+                    {
+                        "end": 140,
+                        "id": "2220009464",
+                        "start": 124,
+                        "username": "mariannethyssen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 91,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 68,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/D5rpNdMiGo",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834367459624886272/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/D5rpNdMiGo"
+                    }
+                ]
+            },
+            "id": "834367459624886272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 25
+            },
+            "text": "\ud83d\udcfaLIVE NOW Press conference on the #EuropeanSemester Winter Package  https://t.co/P0BIU0PzXA  @VDombrovskis @pierremoscovici @mariannethyssen https://t.co/D5rpNdMiGo"
+        },
+        {
+            "created_at": "2017-02-21T13:20:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Member State",
+                        "probability": 0.531,
+                        "start": 27,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 9,
+                        "tag": "RuleOfLaw"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/rj7alRV5uK",
+                        "end": 160,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834029988361928704/video/1",
+                        "start": 137,
+                        "url": "https://t.co/rj7alRV5uK"
+                    }
+                ]
+            },
+            "id": "834029988361928704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 89,
+                "quote_count": 13,
+                "reply_count": 18,
+                "retweet_count": 94
+            },
+            "text": "When the #RuleOfLaw in any Member State is in question it is an issue for all Member States. Such is the nature of being part of the EU. https://t.co/rj7alRV5uK"
+        },
+        {
+            "created_at": "2017-02-21T12:12:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "South Sudan",
+                        "probability": 0.9635,
+                        "start": 96,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "SouthSudan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!xW68FM",
+                        "end": 132,
+                        "expanded_url": "http://europa.eu/!xW68FM",
+                        "start": 109,
+                        "url": "https://t.co/luaZ7XRJVt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/7IgAV5wpGt",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834012985693728772/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/7IgAV5wpGt"
+                    }
+                ]
+            },
+            "id": "834012985693728772",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 28,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 37
+            },
+            "text": "#SouthSudan | New \u20ac82 million emergency humanitarian aid package as famine has been declared in South Sudan: https://t.co/luaZ7XRJVt https://t.co/7IgAV5wpGt"
+        },
+        {
+            "created_at": "2017-02-21T11:52:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 132,
+                        "tag": "Almaraz"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!pH49HY",
+                        "end": 131,
+                        "expanded_url": "http://europa.eu/!pH49HY",
+                        "start": 108,
+                        "url": "https://t.co/Jtuy7tsmBo"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/kv2YCAIVGL",
+                        "end": 164,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834007931918098434/photo/1",
+                        "start": 141,
+                        "url": "https://t.co/kv2YCAIVGL"
+                    }
+                ]
+            },
+            "id": "834007931918098434",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 28,
+                "quote_count": 3,
+                "reply_count": 4,
+                "retweet_count": 24
+            },
+            "text": "Disputes between Member States who traditionally are allies should be solved swiftly in a consensual manner https://t.co/Jtuy7tsmBo #Almaraz https://t.co/kv2YCAIVGL"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Mariano Rajoy Brey",
+                        "id": "832615864327237634",
+                        "name": "Mariano Rajoy Brey"
+                    }
+                }
+            ],
+            "created_at": "2017-02-21T11:36:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 101,
+                        "tag": "Almaraz"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "169426475",
+                        "start": 19,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 44,
+                        "id": "343447873",
+                        "start": 31,
+                        "username": "marianorajoy"
+                    },
+                    {
+                        "end": 66,
+                        "id": "718009445863788544",
+                        "start": 51,
+                        "username": "antoniocostapm"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!pH49HY",
+                        "end": 138,
+                        "expanded_url": "http://europa.eu/!pH49HY",
+                        "start": 115,
+                        "url": "https://t.co/Jtuy7tsmBo"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/hrApZwxeV8",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834003820292276224/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/hrApZwxeV8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/hrApZwxeV8",
+                        "end": 162,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/834003820292276224/photo/1",
+                        "start": 139,
+                        "url": "https://t.co/hrApZwxeV8"
+                    }
+                ]
+            },
+            "id": "834003820292276224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 66,
+                "quote_count": 8,
+                "reply_count": 2,
+                "retweet_count": 55
+            },
+            "text": "Joint Statement by @JunckerEU, @marianorajoy &amp;\n@antoniocostapm on the amicable settlement of the #Almaraz case https://t.co/Jtuy7tsmBo https://t.co/hrApZwxeV8"
+        },
+        {
+            "created_at": "2017-02-21T10:43:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Europe",
+                        "probability": 0.9647,
+                        "start": 53,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 79,
+                        "start": 76,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 24,
+                        "id": "288776272",
+                        "start": 12,
+                        "username": "LaChambreBE"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/pG6bhoUsy4",
+                        "end": 167,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/833990507328057344/photo/1",
+                        "start": 144,
+                        "url": "https://t.co/pG6bhoUsy4"
+                    }
+                ]
+            },
+            "id": "833990507328057344",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 125,
+                "quote_count": 6,
+                "reply_count": 24,
+                "retweet_count": 102
+            },
+            "text": ".@JunckerEU @LaChambreBE \"We should be more proud of Europe's achievements: #EU created peace,biggest single market&amp;strong single currency\" https://t.co/pG6bhoUsy4"
+        },
+        {
+            "created_at": "2017-02-21T10:35:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "ECOFIN"
+                    },
+                    {
+                        "end": 132,
+                        "start": 126,
+                        "tag": "ATAD2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!fY74mk",
+                        "end": 125,
+                        "expanded_url": "http://europa.eu/!fY74mk",
+                        "start": 102,
+                        "url": "https://t.co/3k4V7hNP73"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/sFihkRHXiL",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/833988570650140672/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/sFihkRHXiL"
+                    }
+                ]
+            },
+            "id": "833988570650140672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 51,
+                "quote_count": 10,
+                "reply_count": 13,
+                "retweet_count": 68
+            },
+            "text": "#ECOFIN | \ud83d\udc4fWe welcome the agreement on new rules to prevent tax avoidance through non-EU countries \ud83d\udcb6\ud83d\udcb5 https://t.co/3k4V7hNP73 #ATAD2 https://t.co/sFihkRHXiL"
+        },
+        {
+            "created_at": "2017-02-21T10:03:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 109,
+                        "normalized_text": "Belgium",
+                        "probability": 0.6528,
+                        "start": 103,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 33,
+                        "id": "169426475",
+                        "start": 23,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 135,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 112,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pK2pIAHBYx",
+                        "end": 159,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/833980471159689218/photo/1",
+                        "start": 136,
+                        "url": "https://t.co/pK2pIAHBYx"
+                    }
+                ]
+            },
+            "id": "833980471159689218",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 43,
+                "quote_count": 4,
+                "reply_count": 8,
+                "retweet_count": 30
+            },
+            "text": "+/- 11h CET watch live @JunckerEU's keynote speech at the Plenary Session of the Federal Parliament of Belgium \ud83d\udcfahttps://t.co/P0BIU0PzXA https://t.co/pK2pIAHBYx"
+        },
+        {
+            "created_at": "2017-02-20T18:48:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 89,
+                        "tag": "EIPP"
+                    },
+                    {
+                        "end": 136,
+                        "start": 127,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/eipp",
+                        "end": 126,
+                        "expanded_url": "http://ec.europa.eu/eipp",
+                        "start": 103,
+                        "url": "https://t.co/iSp8G5VLXI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/seMbzMvdqe",
+                        "end": 160,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/833750087385833472/photo/1",
+                        "start": 137,
+                        "url": "https://t.co/seMbzMvdqe"
+                    }
+                ]
+            },
+            "id": "833750087385833472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 32,
+                "quote_count": 6,
+                "reply_count": 4,
+                "retweet_count": 36
+            },
+            "text": "Did you know you can combine several projects &amp; submit a larger project programme to #EIPP portal? https://t.co/iSp8G5VLXI #investEU https://t.co/seMbzMvdqe"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                }
+            ],
+            "created_at": "2017-02-20T17:22:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Europe",
+                        "probability": 0.7033,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "Facebook",
+                        "probability": 0.5564,
+                        "start": 62,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 92,
+                        "id": "1391776140",
+                        "start": 79,
+                        "username": "TimmermansEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/cxEk4IiHgt",
+                        "end": 147,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/833728443799924737/photo/1",
+                        "start": 124,
+                        "url": "https://t.co/cxEk4IiHgt"
+                    }
+                ]
+            },
+            "id": "833728443799924737",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 31,
+                "quote_count": 7,
+                "reply_count": 1,
+                "retweet_count": 47
+            },
+            "text": "Facing our challenges for a united Europe \ud83c\uddea\ud83c\uddfa. Join us for a Facebook Live with @TimmermansEU on Wednesday (22/02, 16h CET). https://t.co/cxEk4IiHgt"
+        }
+    ],
+    "meta": {
+        "newest_id": "837997338903855105",
+        "next_token": "1jzu9lk96gu5npw3j714r9ijzk52k3wb24dlre1rxo59",
+        "oldest_id": "833728443799924737",
+        "result_count": 100
+    }
+}

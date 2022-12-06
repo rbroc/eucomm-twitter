@@ -1,0 +1,4487 @@
+{
+    "data": [
+        {
+            "created_at": "2013-11-20T16:32:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "EUBudget"
+                    },
+                    {
+                        "end": 54,
+                        "start": 42,
+                        "tag": "Lewandowski"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0ZwG",
+                        "end": 77,
+                        "expanded_url": "http://ow.ly/r0ZwG",
+                        "start": 55,
+                        "url": "http://t.co/KIixJIoHsm"
+                    }
+                ]
+            },
+            "id": "403199176496128000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EUBudget 2014: Statement by Commissioner #Lewandowski http://t.co/KIixJIoHsm"
+        },
+        {
+            "created_at": "2013-11-20T16:32:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 59,
+                        "tag": "Kiev"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 39,
+                        "id": "505748969",
+                        "start": 26,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0ZsC",
+                        "end": 87,
+                        "expanded_url": "http://ow.ly/r0ZsC",
+                        "start": 65,
+                        "url": "http://t.co/zsmCI4Mq3x"
+                    }
+                ]
+            },
+            "id": "403199057772167169",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Statement by Commissioner @StefanFuleEU after his visit to #Kiev http://t.co/zsmCI4Mq3x"
+        },
+        {
+            "created_at": "2013-11-20T16:31:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "Ciolo\u015f"
+                    },
+                    {
+                        "end": 55,
+                        "start": 51,
+                        "tag": "CAP"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 42,
+                        "id": "36329597",
+                        "start": 30,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 103,
+                        "id": "2982188999",
+                        "start": 89,
+                        "username": "ECspokesRoger"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0ZhM",
+                        "end": 85,
+                        "expanded_url": "http://ow.ly/r0ZhM",
+                        "start": 63,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/MEMO_13_1018",
+                        "url": "http://t.co/P8UGGLyrme"
+                    }
+                ]
+            },
+            "id": "403198843174813696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Commissioner #Ciolo\u015f welcomes @EuroParl_EN vote on #CAP reform http://t.co/P8UGGLyrme cc @ECspokesRoger"
+        },
+        {
+            "created_at": "2013-11-20T16:29:44.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 59,
+                        "id": "377976301",
+                        "start": 45,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0Z32",
+                        "end": 82,
+                        "expanded_url": "http://ow.ly/r0Z32",
+                        "start": 60,
+                        "url": "http://t.co/aHoNSt28fO"
+                    }
+                ]
+            },
+            "id": "403198483349651457",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "\"Commission work programme 2014\" a speech by @MarosSefcovic http://t.co/aHoNSt28fO"
+        },
+        {
+            "created_at": "2013-11-20T16:28:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Marie Sk\u0142odowska",
+                        "probability": 0.9858,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 53,
+                        "tag": "research"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0YNS",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/r0YNS",
+                        "start": 108,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_13_948",
+                        "url": "http://t.co/w4PFLMOajw"
+                    }
+                ]
+            },
+            "id": "403198212389216257",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Marie Sk\u0142odowska-Curie Actions and EIT: investing in #research excellence and the entrepreneurs of tomorrow http://t.co/w4PFLMOajw"
+        },
+        {
+            "created_at": "2013-11-20T16:27:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 136,
+                        "tag": "PAC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0YHs",
+                        "end": 135,
+                        "expanded_url": "http://ow.ly/r0YHs",
+                        "start": 113,
+                        "url": "http://t.co/FdVjWY4864"
+                    }
+                ]
+            },
+            "id": "403197993798860801",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Intervention lors du d\u00e9bat conjoint sur la r\u00e9forme de la Politique Agricole Commune et les mesures de transition http://t.co/FdVjWY4864 #PAC"
+        },
+        {
+            "created_at": "2013-11-20T16:26:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 23,
+                        "tag": "Sweden"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0Yv7",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/r0Yv7",
+                        "start": 72,
+                        "url": "http://t.co/bPUaqAgT3V"
+                    }
+                ]
+            },
+            "id": "403197690869473280",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@EU_Commission refers #Sweden to the Court over VAT on postal services http://t.co/bPUaqAgT3V"
+        },
+        {
+            "created_at": "2013-11-20T16:25:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Europe",
+                        "probability": 0.8934,
+                        "start": 9,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 44,
+                        "id": "36329597",
+                        "start": 32,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 65,
+                        "id": "157981564",
+                        "start": 51,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 132,
+                        "id": "177179008",
+                        "start": 116,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0YbW",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/r0YbW",
+                        "start": 93,
+                        "url": "http://t.co/mMYQ4yqsXU"
+                    }
+                ]
+            },
+            "id": "403197452440072192",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 5
+            },
+            "text": "Cracking Europe's Glass Ceiling @EuroParl_EN backs @EU_Commission's Women on Boards proposal http://t.co/mMYQ4yqsXU @VivianeRedingEU"
+        },
+        {
+            "created_at": "2013-11-20T15:55:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 117,
+                        "start": 109,
+                        "tag": "eunobel"
+                    },
+                    {
+                        "end": 140,
+                        "start": 118,
+                        "tag": "universalchildrensday"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/LxpT1c7sBBs",
+                        "end": 108,
+                        "expanded_url": "http://youtu.be/LxpT1c7sBBs",
+                        "start": 86,
+                        "url": "http://t.co/nxdeoQFVBP"
+                    }
+                ]
+            },
+            "id": "403189783934939138",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "28 mil conflict-affected children primary school. 9 new partners helping them in 2014 http://t.co/nxdeoQFVBP #eunobel #universalchildrensday"
+        },
+        {
+            "created_at": "2013-11-20T15:24:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "eunobel"
+                    },
+                    {
+                        "end": 130,
+                        "start": 108,
+                        "tag": "universalchildrensday"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0MT8",
+                        "end": 98,
+                        "expanded_url": "http://ow.ly/r0MT8",
+                        "start": 76,
+                        "url": "http://t.co/WRsTfKtkQu"
+                    }
+                ]
+            },
+            "id": "403181971788283905",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "#EU Children of Peace to continue in 2014 announced by @KGeorgievaEU today! http://t.co/WRsTfKtkQu #eunobel #universalchildrensday"
+        },
+        {
+            "created_at": "2013-11-20T15:19:35.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "36329597",
+                        "start": 1,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 135,
+                        "id": "1227470592",
+                        "start": 119,
+                        "username": "ECspokesCorazza"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0MTz",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/r0MTz",
+                        "start": 93,
+                        "url": "http://t.co/pqgB36VvRg"
+                    }
+                ]
+            },
+            "id": "403180831755481088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 9
+            },
+            "text": ".@EuroParl_EN approves financing for the European satellite navigation programmes until 2020 http://t.co/pqgB36VvRg cc @ECspokesCorazza"
+        },
+        {
+            "created_at": "2013-11-20T14:12:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 102,
+                        "start": 80,
+                        "tag": "universalchildrensday"
+                    },
+                    {
+                        "end": 111,
+                        "start": 103,
+                        "tag": "eunobel"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "id": "470099591",
+                        "start": 52,
+                        "username": "eu_echo"
+                    }
+                ]
+            },
+            "id": "403164013392977921",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "Our #EU Children of Peace event is underway! Follow @eu_echo for live updates!  #universalchildrensday #eunobel cc @KGeorgievaEU"
+        },
+        {
+            "created_at": "2013-11-20T13:45:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 95,
+                        "start": 84,
+                        "tag": "unemployed"
+                    },
+                    {
+                        "end": 137,
+                        "start": 129,
+                        "tag": "EUFunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1iRlkOM",
+                        "end": 128,
+                        "expanded_url": "http://bit.ly/1iRlkOM",
+                        "start": 106,
+                        "url": "http://t.co/PhtbjKDnI2"
+                    }
+                ]
+            },
+            "id": "403157238321143808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "European Social Fund to invest over \u20ac70billion in job creation &amp; opps for young #unemployed 2014-2020 http://t.co/PhtbjKDnI2 #EUFunds"
+        },
+        {
+            "created_at": "2013-11-20T13:20:38.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "26663329",
+                        "start": 0,
+                        "username": "Golwar"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0uu1",
+                        "end": 87,
+                        "expanded_url": "http://ow.ly/r0uu1",
+                        "start": 65,
+                        "url": "http://t.co/YHmn9ix4aJ"
+                    }
+                ]
+            },
+            "id": "403150894444720128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@Golwar the link in the tweet get you there! Direct link to pdf: http://t.co/YHmn9ix4aJ"
+        },
+        {
+            "created_at": "2013-11-20T13:05:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Europe",
+                        "probability": 0.9578,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 9,
+                        "tag": "CohesionPolicy"
+                    },
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYwYN",
+                        "end": 120,
+                        "expanded_url": "http://ow.ly/qYwYN",
+                        "start": 98,
+                        "url": "http://t.co/6b9nZO0HqF"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ibKJLkteAc",
+                        "end": 143,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/403147008073932800/photo/1",
+                        "start": 121,
+                        "url": "http://t.co/ibKJLkteAc"
+                    }
+                ]
+            },
+            "id": "403147008073932800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 20,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 71
+            },
+            "text": "Reformed #CohesionPolicy will maximise #EUfunds impact &amp; put Europe back on track of recovery http://t.co/6b9nZO0HqF http://t.co/ibKJLkteAc"
+        },
+        {
+            "created_at": "2013-11-20T12:47:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "CohesionPolicy"
+                    },
+                    {
+                        "end": 140,
+                        "start": 132,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 30,
+                        "id": "157981564",
+                        "start": 16,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 52,
+                        "id": "36329597",
+                        "start": 40,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 116,
+                        "id": "1011129121",
+                        "start": 108,
+                        "username": "JHahnEU"
+                    },
+                    {
+                        "end": 131,
+                        "id": "218812123",
+                        "start": 117,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0q8H",
+                        "end": 107,
+                        "expanded_url": "http://ow.ly/r0q8H",
+                        "start": 85,
+                        "url": "http://t.co/FZIU2EgjN1"
+                    }
+                ]
+            },
+            "id": "403142518071889920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "#CohesionPolicy @EU_Commission welcomes @EuroParl_EN support for fundamental reforms http://t.co/FZIU2EgjN1 @JHahnEU @LaszloAndorEU #EUfunds"
+        },
+        {
+            "created_at": "2013-11-20T12:37:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "tag": "satellite"
+                    },
+                    {
+                        "end": 72,
+                        "start": 61,
+                        "tag": "navigation"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "36329597",
+                        "start": 1,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 137,
+                        "id": "3029538799",
+                        "start": 121,
+                        "username": "antoniotajanieu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0pnn",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/r0pnn",
+                        "start": 95,
+                        "url": "http://t.co/70sTx6GTfb"
+                    }
+                ]
+            },
+            "id": "403140109186662400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": ".@EuroParl_EN approves financing for the European #satellite #navigation programmes until 2020 http://t.co/70sTx6GTfb cc @AntonioTajaniEU"
+        },
+        {
+            "created_at": "2013-11-20T12:31:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "Ciolo\u015f"
+                    },
+                    {
+                        "end": 124,
+                        "start": 120,
+                        "tag": "CAP"
+                    },
+                    {
+                        "end": 135,
+                        "start": 125,
+                        "tag": "CAPreform"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 42,
+                        "id": "36329597",
+                        "start": 30,
+                        "username": "Europarl_EN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0p0o",
+                        "end": 119,
+                        "expanded_url": "http://ow.ly/r0p0o",
+                        "start": 97,
+                        "url": "http://t.co/VxOVaINmJ6"
+                    }
+                ]
+            },
+            "id": "403138430282256384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "Commissioner #Ciolo\u015f welcomes @EuroParl_EN vote of the reform of the Common Agricultural Policy: http://t.co/VxOVaINmJ6 #CAP #CAPreform"
+        },
+        {
+            "created_at": "2013-11-20T12:28:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 37,
+                        "tag": "WomenOnBoards"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "36329597",
+                        "start": 1,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 34,
+                        "id": "157981564",
+                        "start": 20,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 104,
+                        "id": "177179008",
+                        "start": 88,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0oMA",
+                        "end": 84,
+                        "expanded_url": "http://ow.ly/r0oMA",
+                        "start": 62,
+                        "url": "http://t.co/W0YYdJWKJe"
+                    }
+                ]
+            },
+            "id": "403137765300523008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": ".@Europarl_EN backs @EU_Commission's #WomenOnBoards proposal: http://t.co/W0YYdJWKJe cc @VivianeRedingEU"
+        },
+        {
+            "created_at": "2013-11-20T11:27:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.7994,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "Central Asia Region",
+                        "probability": 0.6087,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 112,
+                        "id": "2345716675",
+                        "start": 99,
+                        "username": "EUspokesAlex"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0ihl",
+                        "end": 95,
+                        "expanded_url": "http://ow.ly/r0ihl",
+                        "start": 73,
+                        "url": "http://t.co/YNsvnzBHe7"
+                    }
+                ]
+            },
+            "id": "403122537246511104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "EU announces future commitments for development with Central Asia Region http://t.co/YNsvnzBHe7 cc @EUspokesAlex"
+        },
+        {
+            "created_at": "2013-11-20T11:16:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "Deutsche Post",
+                        "probability": 0.5542,
+                        "start": 86,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    },
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "Germany"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 139,
+                        "id": "2560262977",
+                        "start": 123,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0hfI",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/r0hfI",
+                        "start": 100,
+                        "url": "http://t.co/CMJ7NIjnfd"
+                    }
+                ]
+            },
+            "id": "403119732410556416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Stateaid @EU_Commission refers #Germany for failure to recover incompatible aid from Deutsche Post http://t.co/CMJ7NIjnfd @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T11:14:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "tag": "RenewableEnergy"
+                    },
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "Austria"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 31,
+                        "id": "157981564",
+                        "start": 17,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 130,
+                        "id": "869894239",
+                        "start": 117,
+                        "username": "GOettingerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0h3o",
+                        "end": 113,
+                        "expanded_url": "http://ow.ly/r0h3o",
+                        "start": 91,
+                        "url": "http://t.co/hwfWPfb0AC"
+                    }
+                ]
+            },
+            "id": "403119167366524928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#RenewableEnergy @EU_Commission refers #Austria to Court for failing to transpose EU rules http://t.co/hwfWPfb0AC cc @GOettingerEU"
+        },
+        {
+            "created_at": "2013-11-20T11:13:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 126,
+                        "id": "177179008",
+                        "start": 110,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 138,
+                        "id": "461919971",
+                        "start": 127,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gY4",
+                        "end": 109,
+                        "expanded_url": "http://ow.ly/r0gY4",
+                        "start": 87,
+                        "url": "http://t.co/nF76E9CtNr"
+                    }
+                ]
+            },
+            "id": "403118927045480449",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": ".@EU_Commission closes infringement procedure on forced retirement of Hungarian judges http://t.co/nF76E9CtNr @VivianeRedingEU @EU_Justice"
+        },
+        {
+            "created_at": "2013-11-20T11:12:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 23,
+                        "tag": "Ireland"
+                    },
+                    {
+                        "end": 85,
+                        "start": 72,
+                        "tag": "publichealth"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gUa",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/r0gUa",
+                        "start": 95,
+                        "url": "http://t.co/87fearIO4i"
+                    }
+                ]
+            },
+            "id": "403118675211067392",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": ".@Eu_Commission refers #Ireland to Court for not respecting EU rules in #publichealth services http://t.co/87fearIO4i"
+        },
+        {
+            "created_at": "2013-11-20T11:12:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Greece",
+                        "probability": 0.9664,
+                        "start": 23,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 59,
+                        "normalized_text": "EU",
+                        "probability": 0.4461,
+                        "start": 58,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 70,
+                        "tag": "publichealth"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gRC",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/r0gRC",
+                        "start": 93,
+                        "url": "http://t.co/rJ7frsanjw"
+                    }
+                ]
+            },
+            "id": "403118550547959808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": ".@EU_Commission refers Greece to Court for not respecting EU rules in #publichealth services http://t.co/rJ7frsanjw"
+        },
+        {
+            "created_at": "2013-11-20T11:11:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "Socialsecurity"
+                    },
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "Finland"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 30,
+                        "id": "157981564",
+                        "start": 16,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gP3",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/r0gP3",
+                        "start": 118,
+                        "url": "http://t.co/aof4JgHZMT"
+                    }
+                ]
+            },
+            "id": "403118424328781825",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Socialsecurity @EU_Commission refers #Finland to Court for restricting rights of people that have worked in other MS http://t.co/aof4JgHZMT"
+        },
+        {
+            "created_at": "2013-11-20T11:10:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Taxation"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gLp",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/r0gLp",
+                        "start": 118,
+                        "url": "http://t.co/qwrWB15Zqo"
+                    }
+                ]
+            },
+            "id": "403118240349827072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#Taxation @EU_Commission brings case before Court of Justice in respect of 2 discriminatory provisions in Belgian law http://t.co/qwrWB15Zqo"
+        },
+        {
+            "created_at": "2013-11-20T11:10:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Customs"
+                    },
+                    {
+                        "end": 39,
+                        "start": 31,
+                        "tag": "Belgium"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 23,
+                        "id": "157981564",
+                        "start": 9,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gGg",
+                        "end": 116,
+                        "expanded_url": "http://ow.ly/r0gGg",
+                        "start": 94,
+                        "url": "http://t.co/N9Eo6mjHkv"
+                    }
+                ]
+            },
+            "id": "403118030869508096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#Customs @EU_Commission refers #Belgium to Court over customs offices\u2019 opening hours and fees http://t.co/N9Eo6mjHkv"
+        },
+        {
+            "created_at": "2013-11-20T11:09:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 50,
+                        "normalized_text": "Italy",
+                        "probability": 0.9618,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 126,
+                        "id": "2560262977",
+                        "start": 110,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gAf",
+                        "end": 109,
+                        "expanded_url": "http://ow.ly/r0gAf",
+                        "start": 87,
+                        "url": "http://t.co/rJEy4CFLMp"
+                    }
+                ]
+            },
+            "id": "403117840888520704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "#Stateaid @EU_Commission takes action against Italy for failure to recover illegal aid http://t.co/rJEy4CFLMp @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T11:08:30.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "EU",
+                        "probability": 0.6895,
+                        "start": 54,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 86,
+                        "start": 77,
+                        "tag": "gambling"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gwv",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/r0gwv",
+                        "start": 96,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_13_1101",
+                        "url": "http://t.co/sBkV2Tvwgm"
+                    }
+                ]
+            },
+            "id": "403117644708335617",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": ".@EU_Commission requests Member States to comply with EU law when regulating #gambling services http://t.co/sBkV2Tvwgm"
+        },
+        {
+            "created_at": "2013-11-20T11:07:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Portugal",
+                        "probability": 0.9292,
+                        "start": 23,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gqc",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/r0gqc",
+                        "start": 118,
+                        "url": "http://t.co/jle4YS3Dmy"
+                    }
+                ]
+            },
+            "id": "403117457063546880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@EU_Commission refers Portugal to Court of Justice for failing to guarantee independence of airport slot coordinator http://t.co/jle4YS3Dmy"
+        },
+        {
+            "created_at": "2013-11-20T11:06:04.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0gkz",
+                        "end": 69,
+                        "expanded_url": "http://ow.ly/r0gkz",
+                        "start": 47,
+                        "url": "http://t.co/9jckxNXl13"
+                    }
+                ]
+            },
+            "id": "403117030528024576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "November infringements package: main decisions http://t.co/9jckxNXl13"
+        },
+        {
+            "created_at": "2013-11-20T11:03:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 22,
+                        "tag": "Germany"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0g5q",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/r0g5q",
+                        "start": 118,
+                        "url": "http://t.co/JdClt1C4DT"
+                    }
+                ]
+            },
+            "id": "403116443820384256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": ".@EU_Commission takes #Germany to Court for failure to separate fin flows between train operators &amp; rail managers http://t.co/JdClt1C4DT"
+        },
+        {
+            "created_at": "2013-11-20T11:02:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 140,
+                        "id": "2560262977",
+                        "start": 124,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0fY7",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/r0fY7",
+                        "start": 101,
+                        "url": "http://t.co/mtpNOYjB9t"
+                    }
+                ]
+            },
+            "id": "403116120351465472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#Stateaid @EU_Commission approves \u20ac15.2M to ALSTOM &amp; RATP for new generation of automatic metros http://t.co/mtpNOYjB9t @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T11:01:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "Yousafzai",
+                        "probability": 0.4378,
+                        "start": 8,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Malala"
+                    },
+                    {
+                        "end": 45,
+                        "start": 36,
+                        "tag": "Sakharov"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1dgJIfG",
+                        "end": 106,
+                        "expanded_url": "http://bit.ly/1dgJIfG",
+                        "start": 84,
+                        "url": "http://t.co/gm0BRCDzKK"
+                    }
+                ]
+            },
+            "id": "403115848681783296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "#Malala Yousafzai receives the 2013 #Sakharov Prize today! Watch the ceremony live: http://t.co/gm0BRCDzKK"
+        },
+        {
+            "created_at": "2013-11-20T11:00:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 139,
+                        "id": "2560262977",
+                        "start": 123,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0fKj",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/r0fKj",
+                        "start": 100,
+                        "url": "http://t.co/rCMZVqefeJ"
+                    }
+                ]
+            },
+            "id": "403115708495974400",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#stateaid @EU_Commission d\u00e9cisions relatives aides d'Etat incompatibles octroy\u00e9es par France \u00e0 SNCM http://t.co/rCMZVqefeJ @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:58:46.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "Notre-Dame",
+                        "probability": 0.4521,
+                        "start": 73,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 137,
+                        "id": "2560262977",
+                        "start": 121,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0fBE",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/r0fBE",
+                        "start": 95,
+                        "url": "http://t.co/sOdlobmHsZ"
+                    }
+                ]
+            },
+            "id": "403115193167011840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#Stateaid @EU_Commission approves aid for construction of French airport Notre-Dame-des-Landes http://t.co/sOdlobmHsZ cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:57:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 86,
+                        "normalized_text": "Lithuanian LNG",
+                        "probability": 0.5652,
+                        "start": 73,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 139,
+                        "id": "2560262977",
+                        "start": 123,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0fwU",
+                        "end": 119,
+                        "expanded_url": "http://ow.ly/r0fwU",
+                        "start": 97,
+                        "url": "http://t.co/gclJD6mCPn"
+                    }
+                ]
+            },
+            "id": "403114882113220609",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 7
+            },
+            "text": "#Stateaid @EU_Commission authorises \u20ac448 million aid for construction of Lithuanian LNG terminal http://t.co/gclJD6mCPn cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:55:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "UK",
+                        "probability": 0.9529,
+                        "start": 44,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    },
+                    {
+                        "end": 66,
+                        "start": 61,
+                        "tag": "SMEs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 109,
+                        "id": "2560262977",
+                        "start": 93,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0feJ",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/r0feJ",
+                        "start": 67,
+                        "url": "http://t.co/4zCKtONQtz"
+                    }
+                ]
+            },
+            "id": "403114317278871552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#Stateaid @EU_Commission opens inquiry into UK financing for #SMEs http://t.co/4zCKtONQtz cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:54:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 94,
+                        "normalized_text": "Amsterdam",
+                        "probability": 0.996,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 138,
+                        "id": "2560262977",
+                        "start": 122,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0faO",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/r0faO",
+                        "start": 96,
+                        "url": "http://t.co/ATo2Y3zsif"
+                    }
+                ]
+            },
+            "id": "403114075506606080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#Stateaid @EU_Commission approves investment aid for purchase of electric vehicles in Amsterdam http://t.co/ATo2Y3zsif cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:53:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 116,
+                        "id": "2560262977",
+                        "start": 100,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0f6C",
+                        "end": 96,
+                        "expanded_url": "http://ow.ly/r0f6C",
+                        "start": 74,
+                        "url": "http://t.co/g59wf9LTgw"
+                    }
+                ]
+            },
+            "id": "403113920279638017",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#Stateaid @EU_Commission approves Danish support scheme for written media http://t.co/g59wf9LTgw cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:53:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 119,
+                        "id": "2560262977",
+                        "start": 103,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r0eZM",
+                        "end": 99,
+                        "expanded_url": "http://ow.ly/r0eZM",
+                        "start": 77,
+                        "url": "http://t.co/iJDgnvDPWw"
+                    }
+                ]
+            },
+            "id": "403113752322908160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "#Stateaid @EU_Commission clears Belgian support scheme for football stadiums http://t.co/iJDgnvDPWw cc @ECspokesAntoine"
+        },
+        {
+            "created_at": "2013-11-20T10:15:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 38,
+                        "tag": "employment"
+                    },
+                    {
+                        "end": 73,
+                        "start": 62,
+                        "tag": "jobseekers"
+                    },
+                    {
+                        "end": 83,
+                        "start": 77,
+                        "tag": "Spain"
+                    },
+                    {
+                        "end": 112,
+                        "start": 108,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 122,
+                        "start": 113,
+                        "tag": "EUBudget"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 107,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 85,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "403104284772167681",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Extra \u20ac20 million for 2013 to promote #employment and support #jobseekers in #Spain  http://t.co/5Ubva0PTPc #MFF #EUBudget"
+        },
+        {
+            "created_at": "2013-11-20T10:03:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 56,
+                        "tag": "regions"
+                    },
+                    {
+                        "end": 76,
+                        "start": 68,
+                        "tag": "Ireland"
+                    },
+                    {
+                        "end": 105,
+                        "start": 101,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 115,
+                        "start": 106,
+                        "tag": "EUBudget"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 100,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 78,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "403101313120350208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Extra \u20ac100 million for the Border, Midlands and Western #regions in #Ireland  http://t.co/5Ubva0PTPc #MFF #EUBudget"
+        },
+        {
+            "created_at": "2013-11-20T09:48:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 36,
+                        "tag": "Brussels"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 94,
+                        "id": "2851209748",
+                        "start": 78,
+                        "username": "ashtonspox_maja"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/r08VJ",
+                        "end": 74,
+                        "expanded_url": "http://ow.ly/r08VJ",
+                        "start": 52,
+                        "url": "http://t.co/swA5VLBkOM"
+                    }
+                ]
+            },
+            "id": "403097594387525632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "10th EU-Central Asia Ministerial in #Brussels today http://t.co/swA5VLBkOM cc @AshtonSpox_Maja"
+        },
+        {
+            "created_at": "2013-11-20T09:16:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 60,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 74,
+                        "start": 65,
+                        "tag": "EUBudget"
+                    },
+                    {
+                        "end": 83,
+                        "start": 75,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 59,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 37,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "403089333802258432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 5
+            },
+            "text": "Boost in funds for Estonian farmers  http://t.co/5Ubva0PTPc #MFF #EUBudget #EUfunds"
+        },
+        {
+            "created_at": "2013-11-20T09:03:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 29,
+                        "tag": "regions"
+                    },
+                    {
+                        "end": 73,
+                        "start": 65,
+                        "tag": "Leipzig"
+                    },
+                    {
+                        "end": 107,
+                        "start": 98,
+                        "tag": "EUBudget"
+                    },
+                    {
+                        "end": 112,
+                        "start": 108,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 121,
+                        "start": 113,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 97,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 75,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "403086078703595520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "\u20ac710 million more for German #regions, including 200 million for #Leipzig  http://t.co/5Ubva0PTPc #EUBudget #MFF #EUfunds"
+        },
+        {
+            "created_at": "2013-11-19T18:16:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "CreativeEurope"
+                    },
+                    {
+                        "end": 54,
+                        "start": 49,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 62,
+                        "start": 58,
+                        "tag": "art"
+                    },
+                    {
+                        "end": 77,
+                        "start": 69,
+                        "tag": "culture"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYHlS",
+                        "end": 143,
+                        "expanded_url": "http://ow.ly/qYHlS",
+                        "start": 121,
+                        "url": "http://t.co/aJbILkIIvu"
+                    }
+                ]
+            },
+            "id": "402862877755056128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 29
+            },
+            "text": "#CreativeEurope: new guarantee facility enabling #SMEs in #art &amp; #culture to access up to \u20ac750 million in bank loans http://t.co/aJbILkIIvu"
+        },
+        {
+            "created_at": "2013-11-19T18:06:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 123,
+                        "start": 119,
+                        "tag": "MFF"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "36329597",
+                        "start": 28,
+                        "username": "Europarl_EN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYIli",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/qYIli",
+                        "start": 96,
+                        "url": "http://t.co/h4unZtlCjc"
+                    }
+                ]
+            },
+            "id": "402860392214695938",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 35
+            },
+            "text": "#EUbudget 2014-20 deal with @EuroParl_EN today: How much is in it and for what - 12 highlights: http://t.co/h4unZtlCjc #MFF"
+        },
+        {
+            "created_at": "2013-11-19T17:55:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    },
+                    {
+                        "end": 58,
+                        "start": 48,
+                        "tag": "volunteer"
+                    },
+                    {
+                        "end": 90,
+                        "start": 84,
+                        "tag": "youth"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 115,
+                        "id": "163770896",
+                        "start": 101,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYHNT",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/qYHNT",
+                        "start": 116,
+                        "url": "http://t.co/KhX1ECmmke"
+                    }
+                ]
+            },
+            "id": "402857701593858048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 42
+            },
+            "text": "#ErasmusPlus: More than 500 000 young people to #volunteer abroad or participate in #youth exchanges @EUErasmusPlus http://t.co/KhX1ECmmke"
+        },
+        {
+            "created_at": "2013-11-19T17:45:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Denmark"
+                    },
+                    {
+                        "end": 79,
+                        "start": 75,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "EUBudget"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 74,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 52,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "402855146012807169",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "#Denmark obtains a rebate of \u20ac130 million per year  http://t.co/5Ubva0PTPc #MFF #EUBudget"
+        },
+        {
+            "created_at": "2013-11-19T17:37:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 70,
+                        "tag": "COP19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2558819556",
+                        "start": 1,
+                        "username": "CHedegaardEU"
+                    },
+                    {
+                        "end": 69,
+                        "id": "14159148",
+                        "start": 66,
+                        "username": "UN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYKAh",
+                        "end": 99,
+                        "expanded_url": "http://ow.ly/qYKAh",
+                        "start": 77,
+                        "url": "http://t.co/ET6cfpD1YH"
+                    }
+                ]
+            },
+            "id": "402853142666416128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 9
+            },
+            "text": ".@CHedegaardEU: \"Commitments \u2013 that is ACTIONS \u2013 are what matter\" @UN #COP19 http://t.co/ET6cfpD1YH"
+        },
+        {
+            "created_at": "2013-11-19T17:25:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "CzechRepublic"
+                    },
+                    {
+                        "end": 71,
+                        "start": 62,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 76,
+                        "start": 72,
+                        "tag": "MFF"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 99,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 77,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "402850144393363456",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 7
+            },
+            "text": "#CzechRepublic remains a substantial net beneficiary from the #EUbudget #MFF http://t.co/5Ubva0PTPc"
+        },
+        {
+            "created_at": "2013-11-19T17:10:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 94,
+                        "id": "163770896",
+                        "start": 80,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYGud",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/qYGud",
+                        "start": 95,
+                        "url": "http://t.co/JHe0P35gSi"
+                    }
+                ]
+            },
+            "id": "402846367808516096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 26
+            },
+            "text": "#ErasmusPlus: Master's abroad? 200 000 students to benefit from loan guarantees @EUErasmusPlus http://t.co/JHe0P35gSi"
+        },
+        {
+            "created_at": "2013-11-19T16:27:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 27,
+                        "tag": "CohesionPolicy"
+                    },
+                    {
+                        "end": 63,
+                        "start": 51,
+                        "tag": "infographic"
+                    },
+                    {
+                        "end": 95,
+                        "start": 87,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 108,
+                        "id": "1019536601490313221",
+                        "start": 96,
+                        "username": "EU_Regional"
+                    },
+                    {
+                        "end": 117,
+                        "id": "1011129121",
+                        "start": 109,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYwYN",
+                        "end": 86,
+                        "expanded_url": "http://ow.ly/qYwYN",
+                        "start": 64,
+                        "url": "http://t.co/6b9nZO0HqF"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/htLhz54Rim",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/402835516413837312/photo/1",
+                        "start": 118,
+                        "url": "http://t.co/htLhz54Rim"
+                    }
+                ]
+            },
+            "id": "402835516413837312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 35,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 99
+            },
+            "text": "All you want to know about #CohesionPolicy 2014-20 #infographic http://t.co/6b9nZO0HqF #EUfunds @EU_Regional @JHahnEU http://t.co/htLhz54Rim"
+        },
+        {
+            "created_at": "2013-11-19T16:06:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 73,
+                        "start": 67,
+                        "tag": "youth"
+                    },
+                    {
+                        "end": 87,
+                        "start": 74,
+                        "tag": "unemployment"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 121,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 99,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "402830210372231168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 14
+            },
+            "text": "Specific funding opportunities for all Greek regions with level of #youth #unemployment above 25%  http://t.co/5Ubva0PTPc"
+        },
+        {
+            "created_at": "2013-11-19T15:53:51.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    },
+                    {
+                        "end": 31,
+                        "start": 22,
+                        "tag": "teachers"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 116,
+                        "id": "163770896",
+                        "start": 102,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYtel",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/qYtel",
+                        "start": 117,
+                        "unwound_url": "https://ow.ly/qYtel",
+                        "url": "http://t.co/ShL3rfuLEg"
+                    }
+                ]
+            },
+            "id": "402827064677781504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "text": "#ErasmusPlus: 800 000 #teachers, trainers, education staff and youth workers to teach or train abroad @EUErasmusPlus http://t.co/ShL3rfuLEg"
+        },
+        {
+            "created_at": "2013-11-19T15:09:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "425365839",
+                        "start": 0,
+                        "username": "ItaliaDGIovani"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1bYbgkY",
+                        "end": 77,
+                        "expanded_url": "http://bit.ly/1bYbgkY",
+                        "start": 55,
+                        "url": "http://t.co/CPOVnJ0S0Z"
+                    },
+                    {
+                        "display_url": "bit.ly/1bYbecE",
+                        "end": 138,
+                        "expanded_url": "http://bit.ly/1bYbecE",
+                        "start": 116,
+                        "url": "http://t.co/32rDANePPn"
+                    }
+                ]
+            },
+            "id": "402816001038749696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 0
+            },
+            "text": "@ItaliaDGIovani You can contact the Traineeship office http://t.co/CPOVnJ0S0Z There's also a directory of all staff http://t.co/32rDANePPn"
+        },
+        {
+            "created_at": "2013-11-19T14:55:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 74,
+                        "normalized_text": "Ford",
+                        "probability": 0.547,
+                        "start": 71,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Genk",
+                        "probability": 0.7853,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "ArcelorMittal",
+                        "probability": 0.5497,
+                        "start": 86,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 107,
+                        "normalized_text": "Li\u00e8ge",
+                        "probability": 0.8887,
+                        "start": 103,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 141,
+                        "start": 137,
+                        "tag": "MFF"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 136,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 114,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "402812273393418240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Extra \u20ac133 million to tackle the unemployment caused by the closure of Ford in Genk &amp; ArcelorMittal in Li\u00e8ge. http://t.co/5Ubva0PTPc #MFF"
+        },
+        {
+            "created_at": "2013-11-19T14:45:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    },
+                    {
+                        "end": 42,
+                        "start": 33,
+                        "tag": "students"
+                    },
+                    {
+                        "end": 61,
+                        "start": 49,
+                        "tag": "apprentices"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "163770896",
+                        "start": 107,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYg7g",
+                        "end": 144,
+                        "expanded_url": "http://ow.ly/qYg7g",
+                        "start": 122,
+                        "url": "http://t.co/UWv98Xm8ip"
+                    }
+                ]
+            },
+            "id": "402809833348681728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 40
+            },
+            "text": "#ErasmusPlus: 650 000 vocational #students &amp; #apprentices to receive grants to study/train/work abroad @EUErasmusPlus http://t.co/UWv98Xm8ip"
+        },
+        {
+            "created_at": "2013-11-19T14:35:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "youth"
+                    },
+                    {
+                        "end": 91,
+                        "start": 78,
+                        "tag": "unemployment"
+                    },
+                    {
+                        "end": 130,
+                        "start": 126,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 139,
+                        "start": 131,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/1fwRF7",
+                        "end": 125,
+                        "expanded_url": "http://goo.gl/1fwRF7",
+                        "start": 103,
+                        "url": "http://t.co/5Ubva0PTPc"
+                    }
+                ]
+            },
+            "id": "402807336538210306",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Specific funding opportunities for all Bulgarian regions with level of #youth #unemployment above 25%  http://t.co/5Ubva0PTPc #MFF #EUfunds"
+        },
+        {
+            "created_at": "2013-11-19T14:25:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "CreativeEurope"
+                    },
+                    {
+                        "end": 71,
+                        "start": 63,
+                        "tag": "culture"
+                    },
+                    {
+                        "end": 80,
+                        "start": 76,
+                        "tag": "art"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYbMK",
+                        "end": 134,
+                        "expanded_url": "http://ow.ly/qYbMK",
+                        "start": 112,
+                        "url": "http://t.co/rghGWhUepb"
+                    }
+                ]
+            },
+            "id": "402804860476989440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 42
+            },
+            "text": "#CreativeEurope: funding for at least 250 000 professionals in #culture and #art, 2 000 cinemas &amp; 800 films http://t.co/rghGWhUepb"
+        },
+        {
+            "created_at": "2013-11-19T14:08:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    },
+                    {
+                        "end": 41,
+                        "start": 31,
+                        "tag": "education"
+                    },
+                    {
+                        "end": 51,
+                        "start": 42,
+                        "tag": "students"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 104,
+                        "id": "163770896",
+                        "start": 90,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qYbfx",
+                        "end": 127,
+                        "expanded_url": "http://ow.ly/qYbfx",
+                        "start": 105,
+                        "url": "http://t.co/VJKp5qJsi0"
+                    }
+                ]
+            },
+            "id": "402800594525884416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 41
+            },
+            "text": "#ErasmusPlus: 2 million higher #education #students will be able to study or train abroad @EUErasmusPlus http://t.co/VJKp5qJsi0"
+        },
+        {
+            "created_at": "2013-11-19T13:23:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 97,
+                        "start": 87,
+                        "tag": "consumers"
+                    },
+                    {
+                        "end": 107,
+                        "start": 102,
+                        "tag": "SMEs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 55,
+                        "id": "157981564",
+                        "start": 41,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qY51A",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/qY51A",
+                        "start": 108,
+                        "url": "http://t.co/12PoGgya8V"
+                    }
+                ]
+            },
+            "id": "402789285667287040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "Shopped online and want your money back? @EU_Commission proposal on Small Claims helps #consumers and #SMEs http://t.co/12PoGgya8V"
+        },
+        {
+            "created_at": "2013-11-19T13:06:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 20,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 107,
+                        "start": 103,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 120,
+                        "start": 108,
+                        "tag": "Lewandowski"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "id": "36329597",
+                        "start": 48,
+                        "username": "Europarl_EN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qY3so",
+                        "end": 102,
+                        "expanded_url": "http://ow.ly/qY3so",
+                        "start": 80,
+                        "url": "http://t.co/BbenHm4KrD"
+                    }
+                ]
+            },
+            "id": "402784959737651201",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Press conference on #EUbudget 2014-20 after the @EuroParl_EN adoption now live: http://t.co/BbenHm4KrD #MFF #Lewandowski"
+        },
+        {
+            "created_at": "2013-11-19T12:55:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 19,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 102,
+                        "start": 98,
+                        "tag": "MFF"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "392741474",
+                        "start": 103,
+                        "username": "EU_Budget"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXXCJ",
+                        "end": 97,
+                        "expanded_url": "http://ow.ly/qXXCJ",
+                        "start": 75,
+                        "url": "http://t.co/INrO4qbpjh"
+                    }
+                ]
+            },
+            "id": "402782205275295744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 40
+            },
+            "text": "New website on the #EUbudget 2014-20: explanations, figures and documents: http://t.co/INrO4qbpjh #MFF @EU_Budget"
+        },
+        {
+            "created_at": "2013-11-19T12:45:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "CreativeEurope"
+                    },
+                    {
+                        "end": 45,
+                        "start": 42,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 96,
+                        "start": 92,
+                        "tag": "art"
+                    },
+                    {
+                        "end": 111,
+                        "start": 103,
+                        "tag": "culture"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "36329597",
+                        "start": 28,
+                        "username": "Europarl_EN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXZl8",
+                        "end": 142,
+                        "expanded_url": "http://ow.ly/qXZl8",
+                        "start": 120,
+                        "url": "http://t.co/jIUVKhSEzN"
+                    }
+                ]
+            },
+            "id": "402779762231640064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 25
+            },
+            "text": "#CreativeEurope approved by @Europarl_EN! #EU funding for at least 250 000 professionals in #art &amp; #culture 2014-20 http://t.co/jIUVKhSEzN"
+        },
+        {
+            "created_at": "2013-11-19T12:35:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 120,
+                        "id": "163770896",
+                        "start": 106,
+                        "username": "EUErasmusPlus"
+                    },
+                    {
+                        "end": 133,
+                        "id": "481964948",
+                        "start": 121,
+                        "username": "VassiliouEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXZd9",
+                        "end": 105,
+                        "expanded_url": "http://ow.ly/qXZd9",
+                        "start": 83,
+                        "url": "http://t.co/U7EkgGqEZn"
+                    }
+                ]
+            },
+            "id": "402777038337347584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 51
+            },
+            "text": "#ErasmusPlus: \u20ac14.7 billion for 2014-20 = 40% increase compared to current levels! http://t.co/U7EkgGqEZn @EUErasmusPlus @VassiliouEU"
+        },
+        {
+            "created_at": "2013-11-19T12:22:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 16,
+                        "tag": "ErasmusPlus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 108,
+                        "id": "163770896",
+                        "start": 94,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXYwi",
+                        "end": 93,
+                        "expanded_url": "http://ow.ly/qXYwi",
+                        "start": 71,
+                        "url": "http://t.co/KT2zv4MiK0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/kJUG6G8gU8",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/402773909700747264/photo/1",
+                        "start": 109,
+                        "url": "http://t.co/kJUG6G8gU8"
+                    }
+                ]
+            },
+            "id": "402773909700747264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 25,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 141
+            },
+            "text": "Green light for #ErasmusPlus! 4 million people to benefit 2014-20! RT! http://t.co/KT2zv4MiK0 @EUErasmusPlus http://t.co/kJUG6G8gU8"
+        },
+        {
+            "created_at": "2013-11-19T12:07:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 50,
+                        "start": 47,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 117,
+                        "start": 113,
+                        "tag": "MFF"
+                    },
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "EUfunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXXa5",
+                        "end": 112,
+                        "expanded_url": "http://ow.ly/qXXa5",
+                        "start": 90,
+                        "url": "http://t.co/NKTUetxUiP"
+                    }
+                ]
+            },
+            "id": "402770087503216640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 57
+            },
+            "text": "#EUbudget 2014-20: find figures for individual #EU funding programmes on our new website: http://t.co/NKTUetxUiP #MFF #EUfunds"
+        },
+        {
+            "created_at": "2013-11-19T11:46:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 118,
+                        "start": 114,
+                        "tag": "FAQ"
+                    },
+                    {
+                        "end": 123,
+                        "start": 119,
+                        "tag": "MFF"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 83,
+                        "id": "392741474",
+                        "start": 73,
+                        "username": "EU_Budget"
+                    },
+                    {
+                        "end": 99,
+                        "id": "2531022596",
+                        "start": 84,
+                        "username": "ECspokesbudget"
+                    },
+                    {
+                        "end": 113,
+                        "id": "2560511629",
+                        "start": 100,
+                        "username": "ECspokesJens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXV5s",
+                        "end": 72,
+                        "expanded_url": "http://ow.ly/qXV5s",
+                        "start": 50,
+                        "url": "http://t.co/zVHtLwJkTc"
+                    }
+                ]
+            },
+            "id": "402764939737452544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "#EUbudget 2014-2020 \u2013 Frequently Asked Questions: http://t.co/zVHtLwJkTc @EU_Budget @ECspokesbudget @ECspokesJens #FAQ #MFF"
+        },
+        {
+            "created_at": "2013-11-19T11:40:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 84,
+                        "start": 75,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 122,
+                        "start": 118,
+                        "tag": "MFF"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 52,
+                        "id": "36329597",
+                        "start": 40,
+                        "username": "Europarl_EN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXUnb",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/qXUnb",
+                        "start": 95,
+                        "url": "http://t.co/HwcDl4asO2"
+                    }
+                ]
+            },
+            "id": "402763407780507648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 24
+            },
+            "text": ".@EU_Commission Commission welcomes the @Europarl_EN consent to the future #EUbudget 2014-2020 http://t.co/HwcDl4asO2 #MFF"
+        },
+        {
+            "created_at": "2013-11-19T11:21:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 68,
+                        "tag": "flooding"
+                    },
+                    {
+                        "end": 90,
+                        "start": 81,
+                        "tag": "Sardinia"
+                    },
+                    {
+                        "end": 97,
+                        "start": 91,
+                        "tag": "Italy"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 52,
+                        "id": "157981564",
+                        "start": 38,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXSwP",
+                        "end": 120,
+                        "expanded_url": "http://ow.ly/qXSwP",
+                        "start": 98,
+                        "url": "http://t.co/2niMM72MZ9"
+                    }
+                ]
+            },
+            "id": "402758408572772353",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Message from @BarrosoEU, President of @EU_Commission, following the #flooding in #Sardinia #Italy http://t.co/2niMM72MZ9"
+        },
+        {
+            "created_at": "2013-11-19T11:17:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 14,
+                        "tag": "CohesionPolicy"
+                    },
+                    {
+                        "end": 59,
+                        "start": 52,
+                        "tag": "Growth"
+                    },
+                    {
+                        "end": 69,
+                        "start": 64,
+                        "tag": "Jobs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 129,
+                        "id": "1011129121",
+                        "start": 121,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXS8T",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/qXS8T",
+                        "start": 95,
+                        "url": "http://t.co/cEGOU13srR"
+                    }
+                ]
+            },
+            "id": "402757626020511744",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "Refocusing EU #CohesionPolicy for Maximum Impact on #Growth and #Jobs: The Reform in 10 points http://t.co/cEGOU13srR cc @JHahnEU"
+        },
+        {
+            "created_at": "2013-11-19T11:15:28.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 101,
+                        "normalized_text": "Berlin",
+                        "probability": 0.9925,
+                        "start": 96,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 16,
+                        "tag": "science"
+                    },
+                    {
+                        "end": 34,
+                        "start": 29,
+                        "tag": "data"
+                    },
+                    {
+                        "end": 42,
+                        "start": 37,
+                        "tag": "cash"
+                    },
+                    {
+                        "end": 56,
+                        "start": 47,
+                        "tag": "economic"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 92,
+                        "id": "159950527",
+                        "start": 78,
+                        "username": "NeelieKroesEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXRTK",
+                        "end": 125,
+                        "expanded_url": "http://ow.ly/qXRTK",
+                        "start": 103,
+                        "url": "http://t.co/IGZUEdA0gj"
+                    }
+                ]
+            },
+            "id": "402757009206181888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 36
+            },
+            "text": "\"Open Access to #science and #data = #cash and #economic bonanza\" speech from @NeelieKroesEU in Berlin http://t.co/IGZUEdA0gj"
+        },
+        {
+            "created_at": "2013-11-19T11:13:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "16th EU-China Summit",
+                        "probability": 0.4484,
+                        "start": 21,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 51,
+                        "normalized_text": "Beijing",
+                        "probability": 0.9671,
+                        "start": 45,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXRKf",
+                        "end": 75,
+                        "expanded_url": "http://ow.ly/qXRKf",
+                        "start": 53,
+                        "url": "http://t.co/A93E4o2FSA"
+                    }
+                ]
+            },
+            "id": "402756422150422528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Read more before the 16th EU-China Summit in Beijing http://t.co/A93E4o2FSA cc @BarrosoEU  @euHvR"
+        },
+        {
+            "created_at": "2013-11-19T11:09:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 10,
+                        "start": 4,
+                        "tag": "China"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXRjY",
+                        "end": 60,
+                        "expanded_url": "http://ow.ly/qXRjY",
+                        "start": 38,
+                        "url": "http://t.co/B9gWrUkzFR"
+                    }
+                ]
+            },
+            "id": "402755399360991232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EU-#China Summit on 21 November 2013 http://t.co/B9gWrUkzFR cc @BarrosoEU @euHvR"
+        },
+        {
+            "created_at": "2013-11-19T11:06:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 20,
+                        "tag": "European"
+                    },
+                    {
+                        "end": 43,
+                        "start": 36,
+                        "tag": "Claims"
+                    },
+                    {
+                        "end": 62,
+                        "start": 58,
+                        "tag": "FAQ"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXRfL",
+                        "end": 85,
+                        "expanded_url": "http://ow.ly/qXRfL",
+                        "start": 63,
+                        "url": "http://t.co/S0L3JBstAf"
+                    }
+                ]
+            },
+            "id": "402754843477295104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Read more about the #European Small #Claims Procedure 2.0 #FAQ http://t.co/S0L3JBstAf"
+        },
+        {
+            "created_at": "2013-11-19T11:03:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "Claims"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "consumers"
+                    },
+                    {
+                        "end": 108,
+                        "start": 103,
+                        "tag": "SMEs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 55,
+                        "id": "157981564",
+                        "start": 41,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXQRv",
+                        "end": 131,
+                        "expanded_url": "http://ow.ly/qXQRv",
+                        "start": 109,
+                        "url": "http://t.co/qMrLwnMqx4"
+                    }
+                ]
+            },
+            "id": "402754079233167360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Shopped online and want your money back? @EU_Commission Proposal on Small #Claims helps #consumers and #SMEs http://t.co/qMrLwnMqx4 cc..."
+        },
+        {
+            "created_at": "2013-11-19T10:55:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 39,
+                        "tag": "Euroarea"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 138,
+                        "id": "300868924",
+                        "start": 126,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXQ95",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/qXQ95",
+                        "start": 100,
+                        "url": "http://t.co/wM3pPxyu36"
+                    }
+                ]
+            },
+            "id": "402751867522129920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "September 2013 compared w/ August 2013 #Euroarea &amp; EU28 production in construction down by 1.3% http://t.co/wM3pPxyu36 cc @EU_Eurostat"
+        },
+        {
+            "created_at": "2013-11-19T10:52:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "China"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 128,
+                        "id": "300868924",
+                        "start": 116,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXPYK",
+                        "end": 112,
+                        "expanded_url": "http://ow.ly/qXPYK",
+                        "start": 90,
+                        "url": "http://t.co/O1MnTaGQ9J"
+                    }
+                ]
+            },
+            "id": "402751271654133760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "EU28 deficit in trade in goods w/ #China down to 62 bn euro in the first 6 months of 2013 http://t.co/O1MnTaGQ9J cc @EU_Eurostat"
+        },
+        {
+            "created_at": "2013-11-19T08:46:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "ErasmusPlus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 45,
+                        "id": "36329597",
+                        "start": 33,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 85,
+                        "id": "481964948",
+                        "start": 73,
+                        "username": "VassiliouEU"
+                    },
+                    {
+                        "end": 103,
+                        "id": "895722655",
+                        "start": 92,
+                        "username": "pack_doris"
+                    },
+                    {
+                        "end": 144,
+                        "id": "163770896",
+                        "start": 130,
+                        "username": "EUErasmusPlus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXDkV",
+                        "end": 129,
+                        "expanded_url": "http://ow.ly/qXDkV",
+                        "start": 107,
+                        "url": "http://t.co/xTozQ8dpLH"
+                    }
+                ]
+            },
+            "id": "402719484773138432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 33
+            },
+            "text": "#ErasmusPlus set for adoption by @EuroParl_EN today. Press conf @ 3PM w/ @VassiliouEU &amp; @pack_doris at http://t.co/xTozQ8dpLH @EUErasmusPlus"
+        },
+        {
+            "created_at": "2013-11-19T08:36:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 20,
+                        "tag": "EUUS"
+                    },
+                    {
+                        "end": 88,
+                        "start": 77,
+                        "tag": "Washington"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 131,
+                        "id": "177179008",
+                        "start": 115,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 144,
+                        "id": "460966881",
+                        "start": 132,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qXCwj",
+                        "end": 111,
+                        "expanded_url": "http://ow.ly/qXCwj",
+                        "start": 89,
+                        "url": "http://t.co/76XhPyy3Nt"
+                    }
+                ]
+            },
+            "id": "402717075657207808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Statement following #EUUS Justice &amp; Home Affairs Min. Mtng 18/11/2013 in #Washington http://t.co/76XhPyy3Nt cc @VivianeRedingEU @MalmstromEU"
+        },
+        {
+            "created_at": "2013-11-18T15:51:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 48,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 87,
+                        "start": 79,
+                        "tag": "Moldova"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "4859588668",
+                        "start": 1,
+                        "username": "EIBtheEUbank"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qW1Zs",
+                        "end": 110,
+                        "expanded_url": "http://ow.ly/qW1Zs",
+                        "start": 88,
+                        "url": "http://t.co/mdS0DMu9jl"
+                    }
+                ]
+            },
+            "id": "402463984399691776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@EIBtheEUbank continues to support projects of #SMEs and mid-cap companies in #Moldova http://t.co/mdS0DMu9jl"
+        },
+        {
+            "created_at": "2013-11-18T15:10:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 23,
+                        "tag": "Philippines"
+                    },
+                    {
+                        "end": 90,
+                        "start": 83,
+                        "tag": "Haiyan"
+                    },
+                    {
+                        "end": 101,
+                        "start": 91,
+                        "tag": "YolandaPH"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "470099591",
+                        "start": 3,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/YMDyUFlGpo",
+                        "end": 124,
+                        "expanded_url": "https://twitter.com/eu_echo/status/402452715571146752/photo/1",
+                        "start": 102,
+                        "url": "http://t.co/YMDyUFlGpo"
+                    }
+                ]
+            },
+            "id": "402453778395172864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 36
+            },
+            "text": "RT @eu_echo Our latest #Philippines map is now online - see the updated statistics #Haiyan #YolandaPH http://t.co/YMDyUFlGpo"
+        },
+        {
+            "created_at": "2013-11-18T14:42:31.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "Jean Monnet",
+                        "probability": 0.8608,
+                        "start": 14,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 68,
+                        "tag": "economic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVO4V",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/qVO4V",
+                        "start": 118,
+                        "url": "http://t.co/CS534uMwSS"
+                    }
+                ]
+            },
+            "id": "402446728693313536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "@BarrosoEU to Jean Monnet Chairs:Political implications of European #economic integration \u2013 towards a political Union http://t.co/CS534uMwSS"
+        },
+        {
+            "created_at": "2013-11-18T13:35:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 39,
+                        "tag": "agriculture"
+                    },
+                    {
+                        "end": 91,
+                        "start": 84,
+                        "tag": "Malawi"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "4859588668",
+                        "start": 1,
+                        "username": "EIBtheEUbank"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVDFW",
+                        "end": 114,
+                        "expanded_url": "http://ow.ly/qVDFW",
+                        "start": 92,
+                        "url": "http://t.co/cEypF9PQOW"
+                    }
+                ]
+            },
+            "id": "402429970309722114",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 8
+            },
+            "text": ".@EIBtheEUbank supports EUR 30 million #agriculture sector investment initiative in #Malawi http://t.co/cEypF9PQOW"
+        },
+        {
+            "created_at": "2013-11-18T12:25:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Washington, D.C.",
+                        "probability": 0.5456,
+                        "start": 60,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 3,
+                        "tag": "US"
+                    },
+                    {
+                        "end": 15,
+                        "start": 7,
+                        "tag": "Justice"
+                    },
+                    {
+                        "end": 34,
+                        "start": 22,
+                        "tag": "HomeAffairs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 102,
+                        "id": "177179008",
+                        "start": 86,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 119,
+                        "id": "460966881",
+                        "start": 107,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVmpJ",
+                        "end": 142,
+                        "expanded_url": "http://ow.ly/qVmpJ",
+                        "start": 120,
+                        "url": "http://t.co/wFyrRKFIxn"
+                    }
+                ]
+            },
+            "id": "402412157683646464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "EU-#US #Justice &amp; #HomeAffairs Ministerial meeting today in Washington, D.C. with @VivianeRedingEU and @MalmstromEU http://t.co/wFyrRKFIxn"
+        },
+        {
+            "created_at": "2013-11-18T11:11:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 5,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 22,
+                        "start": 20,
+                        "tag": "R"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 130,
+                        "id": "613378164",
+                        "start": 114,
+                        "username": "ECspokesScience"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVlLY",
+                        "end": 110,
+                        "expanded_url": "http://ow.ly/qVlLY",
+                        "start": 88,
+                        "url": "http://t.co/tj07yRrqMy"
+                    }
+                ]
+            },
+            "id": "402393576749158400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 17
+            },
+            "text": "2013 #EU Industrial #R&amp;D Investment Scoreboard based on a sample of 2 000 companies http://t.co/tj07yRrqMy cc @ECSpokesScience"
+        },
+        {
+            "created_at": "2013-11-18T11:07:57.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Volkswagen"
+                    },
+                    {
+                        "end": 26,
+                        "start": 24,
+                        "tag": "R"
+                    },
+                    {
+                        "end": 49,
+                        "start": 46,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "tag": "companies"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 128,
+                        "id": "613378164",
+                        "start": 112,
+                        "username": "ECspokesScience"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVlvL",
+                        "end": 108,
+                        "expanded_url": "http://ow.ly/qVlvL",
+                        "start": 86,
+                        "url": "http://t.co/WmHa20nxKT"
+                    }
+                ]
+            },
+            "id": "402392728967081984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 9
+            },
+            "text": "#Volkswagen tops global #R&amp;D ranking, but #EU #companies put in mixed performance http://t.co/WmHa20nxKT cc @ECSpokesScience"
+        },
+        {
+            "created_at": "2013-11-18T11:04:51.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 44,
+                        "tag": "universities"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "157981564",
+                        "start": 0,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 24,
+                        "id": "25390350",
+                        "start": 19,
+                        "username": "OECD"
+                    },
+                    {
+                        "end": 130,
+                        "id": "481964948",
+                        "start": 118,
+                        "username": "VassiliouEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVl9V",
+                        "end": 114,
+                        "expanded_url": "http://ow.ly/qVl9V",
+                        "start": 92,
+                        "url": "http://t.co/LoYWcQqrox"
+                    }
+                ]
+            },
+            "id": "402391948306444288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 33
+            },
+            "text": "@EU_Commission and @OECD launch website for #universities to measure entrepreneurial impact http://t.co/LoYWcQqrox cc @VassiliouEU"
+        },
+        {
+            "created_at": "2013-11-18T11:02:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Labour"
+                    },
+                    {
+                        "end": 56,
+                        "start": 48,
+                        "tag": "workers"
+                    },
+                    {
+                        "end": 79,
+                        "start": 69,
+                        "tag": "seafarers"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "157981564",
+                        "start": 13,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 120,
+                        "id": "218812123",
+                        "start": 106,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVkS2",
+                        "end": 102,
+                        "expanded_url": "http://ow.ly/qVkS2",
+                        "start": 80,
+                        "url": "http://t.co/rsWkLpBBnr"
+                    }
+                ]
+            },
+            "id": "402391369639264256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#Labour law: @EU_Commission proposes to improve #workers' rights for #seafarers http://t.co/rsWkLpBBnr cc @LaszloAndorEU"
+        },
+        {
+            "created_at": "2013-11-18T10:12:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 29,
+                        "start": 23,
+                        "tag": "trade"
+                    },
+                    {
+                        "end": 58,
+                        "start": 52,
+                        "tag": "Japan"
+                    },
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVeyM",
+                        "end": 137,
+                        "expanded_url": "http://ow.ly/qVeyM",
+                        "start": 115,
+                        "url": "http://t.co/8XZD8dOoa0"
+                    }
+                ]
+            },
+            "id": "402378834630422528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#EU-Japan Summit: EU28 #trade in goods deficit with #Japan decreased to 1.9 bn \u20ac in the 1st half of 2013 #Eurostat http://t.co/8XZD8dOoa0"
+        },
+        {
+            "created_at": "2013-11-18T10:10:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 106,
+                        "start": 97,
+                        "tag": "Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qVe6S",
+                        "end": 129,
+                        "expanded_url": "http://ow.ly/qVe6S",
+                        "start": 107,
+                        "url": "http://t.co/Qc0zp1lDxp"
+                    }
+                ]
+            },
+            "id": "402378238007459840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "Euro area international trade in goods surplus of \u20ac13.1 bn for Sept 2013, \u20ac0.6 bn surplus for EU #Eurostat http://t.co/Qc0zp1lDxp"
+        },
+        {
+            "created_at": "2013-11-18T08:40:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 87,
+                        "tag": "Philippines"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "157981564",
+                        "start": 26,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/avservices/ebs\u2026",
+                        "end": 138,
+                        "expanded_url": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+                        "start": 116,
+                        "url": "http://t.co/7RAsscYbcu"
+                    }
+                ]
+            },
+            "id": "402355669598089216",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "At 12:00,@KGeorgievaEU in @EU_Commission press room, back from humanitarian mission to #Philippines. Watch it here: http://t.co/7RAsscYbcu \u2026"
+        },
+        {
+            "created_at": "2013-11-18T08:26:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 40,
+                        "tag": "Greek"
+                    },
+                    {
+                        "end": 50,
+                        "start": 47,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 126,
+                        "start": 117,
+                        "tag": "gr2014eu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1397477076",
+                        "start": 3,
+                        "username": "gr2014eu"
+                    },
+                    {
+                        "end": 75,
+                        "id": "206717989",
+                        "start": 65,
+                        "username": "EUCouncil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "gr2014.eu",
+                        "end": 109,
+                        "expanded_url": "http://www.gr2014.eu",
+                        "start": 87,
+                        "url": "http://t.co/B1Y8j7H7lq"
+                    }
+                ]
+            },
+            "id": "402352209205026816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 10
+            },
+            "text": "MT @gr2014eu The provisional website of #Greek #EU Presidency of @EUCouncil now online http://t.co/B1Y8j7H7lq Follow #gr2014eu for updates!"
+        },
+        {
+            "created_at": "2013-11-18T08:23:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 64,
+                        "tag": "EUJapan"
+                    },
+                    {
+                        "end": 102,
+                        "start": 92,
+                        "tag": "euinjapan"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "335772065",
+                        "start": 3,
+                        "username": "EUinJapan"
+                    }
+                ]
+            },
+            "id": "402351426728259584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "RT @EUinJapan : President @BarrosoEU in Tokyo to participate in #EUJapan Summit 19 November #euinjapan"
+        },
+        {
+            "created_at": "2013-11-18T08:02:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 44,
+                        "tag": "EuropeanStory"
+                    },
+                    {
+                        "end": 115,
+                        "start": 107,
+                        "tag": "EYC2013"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qTvJg",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/qTvJg",
+                        "start": 116,
+                        "url": "http://t.co/Y7crmzVrw5"
+                    }
+                ]
+            },
+            "id": "402346013052379136",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Just 3 more hours to enter a photo into the #EuropeanStory competition! Don\u2019t miss out to submit and vote! #EYC2013 http://t.co/Y7crmzVrw5"
+        },
+        {
+            "created_at": "2013-11-17T15:31:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 56,
+                        "start": 46,
+                        "tag": "Eurogroup"
+                    },
+                    {
+                        "end": 103,
+                        "start": 89,
+                        "tag": "EuropeHouseNL"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 44,
+                        "id": "29422232",
+                        "start": 29,
+                        "username": "J_Dijsselbloem"
+                    },
+                    {
+                        "end": 68,
+                        "id": "42368462",
+                        "start": 61,
+                        "username": "EUinNL"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qTv3m",
+                        "end": 126,
+                        "expanded_url": "http://ow.ly/qTv3m",
+                        "start": 104,
+                        "url": "http://t.co/nKpXeboojd"
+                    }
+                ]
+            },
+            "id": "402096673226522624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "20/11 16h lecture (in EN) by @J_Dijsselbloem (#Eurogroup) at @EUinNL. Ask questions with #EuropeHouseNL http://t.co/nKpXeboojd"
+        },
+        {
+            "created_at": "2013-11-17T14:45:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "EaP"
+                    },
+                    {
+                        "end": 140,
+                        "start": 126,
+                        "tag": "VilniusSummit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qSQm2",
+                        "end": 124,
+                        "expanded_url": "http://ow.ly/qSQm2",
+                        "start": 102,
+                        "url": "http://t.co/DQQvmkmsUv"
+                    }
+                ]
+            },
+            "id": "402085143495843840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 12
+            },
+            "text": "#EaP initiative supports regional development through \"pilot regional development programmes\" (PRDPs) http://t.co/DQQvmkmsUv  #VilniusSummit"
+        }
+    ],
+    "meta": {
+        "newest_id": "403199176496128000",
+        "next_token": "1jzu9lk96gu5npw15sg2cnty48we3kdb3alxdw6h0kfx",
+        "oldest_id": "402085143495843840",
+        "result_count": 100
+    }
+}

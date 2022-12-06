@@ -1,0 +1,4835 @@
+{
+    "data": [
+        {
+            "created_at": "2015-11-30T17:25:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 63,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 85,
+                        "start": 70,
+                        "tag": "united4climate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 36,
+                        "id": "169426475",
+                        "start": 26,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/cop21",
+                        "end": 109,
+                        "expanded_url": "http://ec.europa.eu/cop21",
+                        "start": 86,
+                        "url": "https://t.co/RdYFdxJdZV"
+                    },
+                    {
+                        "display_url": "snpy.tv/1Iw5O8D",
+                        "end": 133,
+                        "expanded_url": "http://snpy.tv/1Iw5O8D",
+                        "start": 110,
+                        "url": "https://t.co/awayaMpua0"
+                    }
+                ]
+            },
+            "id": "671379493437595649",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 56,
+                "quote_count": 0,
+                "reply_count": 9,
+                "retweet_count": 94
+            },
+            "text": "Intervention int\u00e9grale de @JunckerEU lors de l'ouverture de la #COP21 #united4climate https://t.co/RdYFdxJdZV https://t.co/awayaMpua0"
+        },
+        {
+            "created_at": "2015-11-30T17:17:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 114,
+                        "start": 108,
+                        "tag": "COP21"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/M4xaacDBBr",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/671377633641394176/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/M4xaacDBBr"
+                    }
+                ]
+            },
+            "id": "671377633641394176",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 38
+            },
+            "text": "Chaque jour, nos citoyens, nos entreprises, soci\u00e9t\u00e9s civiles font de la transition \u00e9nerg\u00e9tique une r\u00e9alit\u00e9. #COP21 https://t.co/M4xaacDBBr"
+        },
+        {
+            "created_at": "2015-11-30T16:13:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "united4climate"
+                    },
+                    {
+                        "end": 64,
+                        "start": 58,
+                        "tag": "cop21"
+                    },
+                    {
+                        "end": 83,
+                        "start": 73,
+                        "tag": "liveonEBS"
+                    },
+                    {
+                        "end": 116,
+                        "start": 108,
+                        "tag": "gocop21"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "169426475",
+                        "start": 22,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 107,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 84,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "twitter.com/AK_Itkonen/sta\u2026",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/AK_Itkonen/status/671360838889021440",
+                        "start": 117,
+                        "url": "https://t.co/QnGH5dmjxX"
+                    }
+                ]
+            },
+            "id": "671361479510245376",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 18
+            },
+            "text": "#united4climate Pres. @JunckerEU to address Leaders Event #cop21 shortly #liveonEBS https://t.co/P0BIU0PzXA #gocop21 https://t.co/QnGH5dmjxX"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-30T15:12:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Europe",
+                        "probability": 0.9849,
+                        "start": 62,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 23,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 99,
+                        "start": 85,
+                        "tag": "climatechange"
+                    },
+                    {
+                        "end": 139,
+                        "start": 124,
+                        "tag": "united4climate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 46,
+                        "id": "1106482400",
+                        "start": 35,
+                        "username": "AK_Itkonen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/EU_Commission/\u2026",
+                        "end": 123,
+                        "expanded_url": "https://twitter.com/EU_Commission/timelines/669173267865948160",
+                        "start": 100,
+                        "url": "https://t.co/Y9OHnGTUIa"
+                    }
+                ]
+            },
+            "id": "671345990163656704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "Delay with speeches at #COP21 [via @AK_Itkonen]. \n\nRead about Europe's fight against #climatechange https://t.co/Y9OHnGTUIa #united4climate"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-30T14:40:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 45,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 91,
+                        "start": 76,
+                        "tag": "united4climate"
+                    },
+                    {
+                        "end": 101,
+                        "start": 93,
+                        "tag": "GoCop21"
+                    },
+                    {
+                        "end": 116,
+                        "start": 102,
+                        "tag": "climatechange"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 34,
+                        "id": "169426475",
+                        "start": 24,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 75,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 52,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/aqkPcxTMyM",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/671337967865171969/photo/1",
+                        "start": 117,
+                        "url": "https://t.co/aqkPcxTMyM"
+                    }
+                ]
+            },
+            "id": "671337967865171969",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 17
+            },
+            "text": "Live from +/- 15h53CET- @JunckerEU speech at #COP21 https://t.co/P0BIU0PzXA #united4climate  #GoCop21 #climatechange https://t.co/aqkPcxTMyM"
+        },
+        {
+            "created_at": "2015-11-30T11:27:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 130,
+                        "start": 126,
+                        "tag": "CMU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 139,
+                        "id": "2650351980",
+                        "start": 131,
+                        "username": "JHillEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!UR37Wf",
+                        "end": 125,
+                        "expanded_url": "http://europa.eu/!UR37Wf",
+                        "start": 102,
+                        "url": "https://t.co/A5qatNvXRr"
+                    }
+                ]
+            },
+            "id": "671289540162805760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 25
+            },
+            "text": "Overhaul of EU prospectus rules to improve access to finance for companies &amp; simplify information https://t.co/A5qatNvXRr #CMU @JHillEU"
+        },
+        {
+            "created_at": "2015-11-30T11:12:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Northern Ireland",
+                        "probability": 0.8855,
+                        "start": 40,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Ireland",
+                        "probability": 0.9836,
+                        "start": 82,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Ub68bQ",
+                        "end": 117,
+                        "expanded_url": "http://europa.eu/!Ub68bQ",
+                        "start": 94,
+                        "url": "https://t.co/FwFHk5p28e"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KwVmdBvrON",
+                        "end": 141,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/671285722712817665/photo/1",
+                        "start": 118,
+                        "url": "https://t.co/KwVmdBvrON"
+                    }
+                ]
+            },
+            "id": "671285722712817665",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 29
+            },
+            "text": "Consolidating peace &amp; reconciliation in Northern Ireland and the Border region of Ireland https://t.co/FwFHk5p28e https://t.co/KwVmdBvrON"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-30T10:15:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 15,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 99,
+                        "start": 89,
+                        "tag": "LiveonEbS"
+                    },
+                    {
+                        "end": 132,
+                        "start": 117,
+                        "tag": "united4climate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/cop21",
+                        "end": 86,
+                        "expanded_url": "http://ec.europa.eu/cop21",
+                        "start": 63,
+                        "url": "https://t.co/RdYFdy0Pov"
+                    }
+                ]
+            },
+            "id": "671271286652477440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 22,
+                "quote_count": 2,
+                "reply_count": 6,
+                "retweet_count": 40
+            },
+            "text": ".@JunckerEU at #COP21 to lead the fight against climate change https://t.co/RdYFdy0Pov | #LiveonEbS at +/- 15h50 CET #united4climate"
+        },
+        {
+            "created_at": "2015-11-29T21:43:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 28,
+                        "tag": "EUTurkey"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 82,
+                        "id": "169426475",
+                        "start": 72,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 97,
+                        "id": "196994616",
+                        "start": 83,
+                        "username": "eucopresident"
+                    },
+                    {
+                        "end": 114,
+                        "id": "181567076",
+                        "start": 98,
+                        "username": "Ahmet_Davutoglu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!MC33dX",
+                        "end": 71,
+                        "expanded_url": "http://europa.eu/!MC33dX",
+                        "start": 48,
+                        "url": "https://t.co/CrVzdwSlL7"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/8dAxe7j2qT",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/671082189015146498/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/8dAxe7j2qT"
+                    }
+                ]
+            },
+            "id": "671082189015146498",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 83,
+                "quote_count": 0,
+                "reply_count": 26,
+                "retweet_count": 88
+            },
+            "text": "Summit meeting re-energises #EUTurkey relations https://t.co/CrVzdwSlL7 @JunckerEU @EucoPresident @Ahmet_Davutoglu https://t.co/8dAxe7j2qT"
+        },
+        {
+            "created_at": "2015-11-29T12:30:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "EU",
+                        "probability": 0.8556,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 93,
+                        "start": 84,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!YQ76Hm",
+                        "end": 83,
+                        "expanded_url": "http://europa.eu/!YQ76Hm",
+                        "start": 60,
+                        "url": "https://t.co/PNAz43ncep"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BMyaB8XE2x",
+                        "end": 117,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670942799928410114/photo/1",
+                        "start": 94,
+                        "url": "https://t.co/BMyaB8XE2x"
+                    }
+                ]
+            },
+            "id": "670942799928410114",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 50,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 81
+            },
+            "text": "What are the main challenges to investment in EU countries? https://t.co/PNAz43ncep #investEU https://t.co/BMyaB8XE2x"
+        },
+        {
+            "created_at": "2015-11-29T10:00:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Paris",
+                        "probability": 0.9947,
+                        "start": 10,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 45,
+                        "start": 37,
+                        "tag": "climate"
+                    },
+                    {
+                        "end": 112,
+                        "start": 97,
+                        "tag": "united4climate"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/EU_Commission/\u2026",
+                        "end": 96,
+                        "expanded_url": "https://twitter.com/EU_Commission/timelines/669173267865948160",
+                        "start": 73,
+                        "url": "https://t.co/Y9OHnGTUIa"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RwvKnNzJQV",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670905064685457412/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/RwvKnNzJQV"
+                    }
+                ]
+            },
+            "id": "670905064685457412",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 57,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 105
+            },
+            "text": "#COP21 in Paris starts tomorrow! See #climate actions from EU countries: https://t.co/Y9OHnGTUIa #united4climate https://t.co/RwvKnNzJQV"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-28T17:55:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 4,
+                        "tag": "Paris"
+                    },
+                    {
+                        "end": 116,
+                        "start": 110,
+                        "tag": "COP21"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!pY77py",
+                        "end": 109,
+                        "expanded_url": "http://europa.eu/!pY77py",
+                        "start": 86,
+                        "url": "https://t.co/kMeHxht4Vk"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/eqx9wnR0JH",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670662204274929666/photo/1",
+                        "start": 117,
+                        "url": "https://t.co/eqx9wnR0JH"
+                    }
+                ]
+            },
+            "id": "670662204274929666",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 45,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 91
+            },
+            "text": "D-2 #Paris climate conference, historic opportunity to avoid dangerous climate change https://t.co/kMeHxht4Vk #COP21 https://t.co/eqx9wnR0JH"
+        },
+        {
+            "created_at": "2015-11-28T17:01:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 50,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 100,
+                        "start": 86,
+                        "tag": "EUHaveYourSay"
+                    },
+                    {
+                        "end": 113,
+                        "start": 101,
+                        "tag": "EU4Citizens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/eusurvey/runne\u2026",
+                        "end": 85,
+                        "expanded_url": "https://ec.europa.eu/eusurvey/runner/EUCitizenship",
+                        "start": 62,
+                        "url": "https://t.co/sG5yUFgjO0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/qgdX9KEY6p",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670648750113714176/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/qgdX9KEY6p"
+                    }
+                ]
+            },
+            "id": "670648750113714176",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 27,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 42
+            },
+            "text": "Questionnaire: What is your experience using your #EU rights? https://t.co/sG5yUFgjO0 #EUHaveYourSay #EU4Citizens https://t.co/qgdX9KEY6p"
+        },
+        {
+            "created_at": "2015-11-28T13:57:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 3,
+                        "tag": "united4climate"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/euclimateactio\u2026",
+                        "end": 43,
+                        "expanded_url": "https://twitter.com/euclimateaction/status/670587454148247552",
+                        "start": 20,
+                        "url": "https://t.co/TlDzxhdMDx"
+                    }
+                ]
+            },
+            "id": "670602464673050624",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 19
+            },
+            "text": "RT #united4climate  https://t.co/TlDzxhdMDx"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-28T13:31:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "climatechange"
+                    },
+                    {
+                        "end": 86,
+                        "start": 80,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 102,
+                        "start": 87,
+                        "tag": "united4climate"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!gC83vx",
+                        "end": 79,
+                        "expanded_url": "http://europa.eu/!gC83vx",
+                        "start": 56,
+                        "url": "https://t.co/rWuHBHoREX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KR01fJbQ2G",
+                        "end": 126,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670595810237816832/photo/1",
+                        "start": 103,
+                        "url": "https://t.co/KR01fJbQ2G"
+                    }
+                ]
+            },
+            "id": "670595810237816832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 42,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 92
+            },
+            "text": "#climatechange and the EU - statistics &amp; factsheets https://t.co/rWuHBHoREX #COP21 #united4climate https://t.co/KR01fJbQ2G"
+        },
+        {
+            "created_at": "2015-11-28T08:53:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 84,
+                        "start": 75,
+                        "tag": "aviation"
+                    },
+                    {
+                        "end": 114,
+                        "start": 95,
+                        "tag": "AviationStrategyEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amp.twimg.com/v/3046313a-f3a\u2026",
+                        "end": 138,
+                        "expanded_url": "https://amp.twimg.com/v/3046313a-f3a2-4dcb-9582-ca4c7f5e4585",
+                        "start": 115,
+                        "url": "https://t.co/8Y6ix5iMiB"
+                    }
+                ]
+            },
+            "id": "670525889277333504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 46,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 71
+            },
+            "text": "Air traffic expected up by 50% by 2035. Planning now for all aspects of EU #aviation is vital. #AviationStrategyEU\nhttps://t.co/8Y6ix5iMiB"
+        },
+        {
+            "created_at": "2015-11-27T16:46:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "United",
+                        "probability": 0.4052,
+                        "start": 16,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 66,
+                        "tag": "United4Climate"
+                    },
+                    {
+                        "end": 89,
+                        "start": 83,
+                        "tag": "COP21"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wh87th",
+                        "end": 113,
+                        "expanded_url": "http://europa.eu/!Wh87th",
+                        "start": 90,
+                        "url": "https://t.co/9Jm9xRg3e1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LufXbXu6hb",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670282664675565569/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/LufXbXu6hb"
+                    }
+                ]
+            },
+            "id": "670282664675565569",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 39,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 91
+            },
+            "text": "How do you say 'United for Climate' in your language? RT to stand #United4Climate! #COP21 https://t.co/9Jm9xRg3e1 https://t.co/LufXbXu6hb"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-27T11:11:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 67,
+                        "start": 61,
+                        "tag": "Paris"
+                    },
+                    {
+                        "end": 74,
+                        "start": 68,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 114,
+                        "start": 99,
+                        "tag": "united4climate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "169426475",
+                        "start": 10,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 31,
+                        "id": "14159148",
+                        "start": 28,
+                        "username": "UN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wh87th",
+                        "end": 98,
+                        "expanded_url": "http://europa.eu/!Wh87th",
+                        "start": 75,
+                        "url": "https://t.co/9Jm9xRg3e1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/u0PxGdLjvO",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670198181116948480/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/u0PxGdLjvO"
+                    }
+                ]
+            },
+            "id": "670198181116948480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 108,
+                "quote_count": 0,
+                "reply_count": 25,
+                "retweet_count": 202
+            },
+            "text": "President @JunckerEU at the @UN climate change conference in #Paris #COP21 https://t.co/9Jm9xRg3e1 #united4climate https://t.co/u0PxGdLjvO"
+        },
+        {
+            "created_at": "2015-11-27T11:07:16.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 139,
+                        "id": "461919971",
+                        "start": 128,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!KD49Nx",
+                        "end": 127,
+                        "expanded_url": "http://europa.eu/!KD49Nx",
+                        "start": 104,
+                        "url": "https://t.co/jmMszB89VP"
+                    }
+                ]
+            },
+            "id": "670197190472658945",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 25
+            },
+            "text": ".@EU_Commission provides \u20ac5.4M in funding for projects to prevent &amp; combat all forms of intolerance https://t.co/jmMszB89VP @EU_Justice"
+        },
+        {
+            "created_at": "2015-11-27T11:03:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "EU",
+                        "probability": 0.7841,
+                        "start": 10,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Georgia"
+                    },
+                    {
+                        "end": 120,
+                        "start": 104,
+                        "tag": "EUneighbourhood"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jB97NP",
+                        "end": 103,
+                        "expanded_url": "http://europa.eu/!jB97NP",
+                        "start": 80,
+                        "url": "https://t.co/2SJY9z4xjT"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/z7QImcxdvq",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670196151933657088/photo/1",
+                        "start": 121,
+                        "url": "https://t.co/z7QImcxdvq"
+                    }
+                ]
+            },
+            "id": "670196151933657088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 31
+            },
+            "text": "#Georgia: EU provides \u20ac100 million to support reform &amp; economic development https://t.co/2SJY9z4xjT #EUneighbourhood https://t.co/z7QImcxdvq"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-27T10:58:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 10,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 32,
+                        "start": 18,
+                        "tag": "climatechange"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 89,
+                        "id": "300868924",
+                        "start": 77,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!gC83vx",
+                        "end": 113,
+                        "expanded_url": "http://europa.eu/!gC83vx",
+                        "start": 90,
+                        "url": "https://t.co/rWuHBHoREX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/yqhnwEIE2Y",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/670194952605974528/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/yqhnwEIE2Y"
+                    }
+                ]
+            },
+            "id": "670194952605974528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 49,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 133
+            },
+            "text": "3 days to #COP21: #climatechange and the EU - statistics &amp; factsheets by @EU_Eurostat https://t.co/rWuHBHoREX https://t.co/yqhnwEIE2Y"
+        },
+        {
+            "created_at": "2015-11-27T09:07:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 92,
+                        "normalized_text": "Asia",
+                        "probability": 0.8556,
+                        "start": 89,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "437732852",
+                        "start": 0,
+                        "username": "RoboticsNews1"
+                    },
+                    {
+                        "end": 24,
+                        "id": "1545333888",
+                        "start": 15,
+                        "username": "MimicaEU"
+                    },
+                    {
+                        "end": 35,
+                        "id": "268059310",
+                        "start": 25,
+                        "username": "APolackEU"
+                    },
+                    {
+                        "end": 46,
+                        "id": "1350078021663862784",
+                        "start": 36,
+                        "username": "europeaid"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/europeaid/regi\u2026",
+                        "end": 136,
+                        "expanded_url": "https://ec.europa.eu/europeaid/regions/asia-0_en",
+                        "start": 113,
+                        "url": "https://t.co/hC07SuJH4h"
+                    }
+                ]
+            },
+            "id": "670167074988273664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "@RoboticsNews1 @MimicaEU @APolackEU @europeaid More on the cooperation and programs with Asia can be found here: https://t.co/hC07SuJH4h"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10038637317",
+                        "name": "WORKING!!"
+                    }
+                }
+            ],
+            "created_at": "2015-11-27T08:14:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 68,
+                        "tag": "investEU"
+                    },
+                    {
+                        "end": 95,
+                        "start": 78,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "41130232",
+                        "start": 0,
+                        "username": "vincentbrussel"
+                    },
+                    {
+                        "end": 67,
+                        "id": "28114871",
+                        "start": 61,
+                        "username": "ecfin"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/europe2020/pdf\u2026",
+                        "end": 60,
+                        "expanded_url": "http://ec.europa.eu/europe2020/pdf/2016/ags2016_challenges_ms_investment_environments_en.pdf",
+                        "start": 37,
+                        "url": "https://t.co/MMFw1SKn6t"
+                    }
+                ]
+            },
+            "id": "670153701349310464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@vincentbrussel Link is working now: https://t.co/MMFw1SKn6t @ecfin #investEU #EuropeanSemester"
+        },
+        {
+            "created_at": "2015-11-26T15:55:27.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3078689950",
+                        "start": 0,
+                        "username": "ReyesCastilloEU"
+                    },
+                    {
+                        "end": 130,
+                        "id": "2220009464",
+                        "start": 114,
+                        "username": "mariannethyssen"
+                    }
+                ]
+            },
+            "id": "669907325273141248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "@ReyesCastilloEU \"We need to prioritise investment without forgetting human capital &amp; social investment\" said @mariannethyssen today"
+        },
+        {
+            "created_at": "2015-11-26T15:24:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "EnergyUnion"
+                    },
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "Estonia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 35,
+                        "id": "377976301",
+                        "start": 21,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!RU76qT",
+                        "end": 112,
+                        "expanded_url": "http://europa.eu/!RU76qT",
+                        "start": 89,
+                        "url": "https://t.co/NmF5p7kGb5"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/9WnckwFJ7k",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669899487805112320/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/9WnckwFJ7k"
+                    }
+                ]
+            },
+            "id": "669899487805112320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 20,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "text": "#EnergyUnion tour of @MarosSefcovic to #Estonia on 27/11. Highlights of previous visits: https://t.co/NmF5p7kGb5 https://t.co/9WnckwFJ7k"
+        },
+        {
+            "created_at": "2015-11-26T14:04:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 19,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!bY63mQ",
+                        "end": 103,
+                        "expanded_url": "http://europa.eu/!bY63mQ",
+                        "start": 80,
+                        "url": "https://t.co/w7JmwY4XSb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/K1csZfelwa",
+                        "end": 127,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669879302838689793/photo/1",
+                        "start": 104,
+                        "url": "https://t.co/K1csZfelwa"
+                    }
+                ]
+            },
+            "id": "669879302838689793",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 26,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 34
+            },
+            "text": "Launch of the 2016 #EuropeanSemester | Factsheet on the EU economic governance: https://t.co/w7JmwY4XSb https://t.co/K1csZfelwa"
+        },
+        {
+            "created_at": "2015-11-26T13:38:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 19,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!RW83Vm",
+                        "end": 91,
+                        "expanded_url": "http://europa.eu/!RW83Vm",
+                        "start": 68,
+                        "url": "https://t.co/UjkgLmQEv7"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ERvcEhD0mm",
+                        "end": 115,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669872797653573633/photo/1",
+                        "start": 92,
+                        "url": "https://t.co/ERvcEhD0mm"
+                    }
+                ]
+            },
+            "id": "669872797653573633",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 46
+            },
+            "text": "Launch of the 2016 #EuropeanSemester with the Annual Growth Survey: https://t.co/UjkgLmQEv7 https://t.co/ERvcEhD0mm"
+        },
+        {
+            "created_at": "2015-11-26T13:32:26.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 115,
+                        "id": "2220009464",
+                        "start": 99,
+                        "username": "mariannethyssen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1Ijonwt",
+                        "end": 139,
+                        "expanded_url": "http://snpy.tv/1Ijonwt",
+                        "start": 116,
+                        "url": "https://t.co/piUB8s4qwq"
+                    }
+                ]
+            },
+            "id": "669871334587895808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 20
+            },
+            "text": "Substantial disparities among EU countries.They've drifted apart instead of moving closer together @mariannethyssen https://t.co/piUB8s4qwq"
+        },
+        {
+            "created_at": "2015-11-26T13:26:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 96,
+                        "start": 79,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "28565356",
+                        "start": 97,
+                        "username": "pierremoscovici"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1lLZ9Ce",
+                        "end": 138,
+                        "expanded_url": "http://snpy.tv/1lLZ9Ce",
+                        "start": 115,
+                        "url": "https://t.co/O7GM1lFIVv"
+                    }
+                ]
+            },
+            "id": "669869920071520257",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "\"Niveaux \u00e9lev\u00e9s d\u2019endettement demeurent 1 pr\u00e9occupation dans plusieurs pays UE\"#EuropeanSemester @pierremoscovici  https://t.co/O7GM1lFIVv"
+        },
+        {
+            "created_at": "2015-11-26T13:16:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "EU",
+                        "probability": 0.3922,
+                        "start": 62,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 97,
+                        "start": 80,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 79,
+                        "id": "42183750",
+                        "start": 66,
+                        "username": "VDombrovskis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1TgGzgC",
+                        "end": 121,
+                        "expanded_url": "http://snpy.tv/1TgGzgC",
+                        "start": 98,
+                        "url": "https://t.co/sD24sLNLDf"
+                    }
+                ]
+            },
+            "id": "669867212442697728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 23
+            },
+            "text": "\"Our focus is on policies that can strengthen the recovery in EU\" @VDombrovskis #EuropeanSemester https://t.co/sD24sLNLDf"
+        },
+        {
+            "created_at": "2015-11-26T13:08:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 118,
+                        "start": 101,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 100,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 77,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HcnqtxG7Wr",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669865261860827136/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/HcnqtxG7Wr"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HcnqtxG7Wr",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669865261860827136/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/HcnqtxG7Wr"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HcnqtxG7Wr",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669865261860827136/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/HcnqtxG7Wr"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HcnqtxG7Wr",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669865261860827136/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/HcnqtxG7Wr"
+                    }
+                ]
+            },
+            "id": "669865261860827136",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 18
+            },
+            "text": "Now LIVE: Annual Growth Survey &amp; Alert Mechanism Report press conference https://t.co/P0BIU0PzXA #EuropeanSemester https://t.co/HcnqtxG7Wr"
+        },
+        {
+            "created_at": "2015-11-26T11:24:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 56,
+                        "start": 48,
+                        "tag": "roaming"
+                    },
+                    {
+                        "end": 113,
+                        "start": 99,
+                        "tag": "EUhaveyoursay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RoamingConsult",
+                        "end": 98,
+                        "expanded_url": "http://bit.ly/RoamingConsult",
+                        "start": 75,
+                        "url": "https://t.co/ZiTjEGfFem"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/0rfoMmOqjb",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669839172241391616/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/0rfoMmOqjb"
+                    }
+                ]
+            },
+            "id": "669839172241391616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 21
+            },
+            "text": "Have your say on measures related to the end of #roaming charges in the EU https://t.co/ZiTjEGfFem #EUhaveyoursay https://t.co/0rfoMmOqjb"
+        },
+        {
+            "created_at": "2015-11-26T11:22:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.6816,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "Africa",
+                        "probability": 0.9716,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 51,
+                        "normalized_text": "Caribbean",
+                        "probability": 0.4987,
+                        "start": 43,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 65,
+                        "tag": "ACP"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!bR47tW",
+                        "end": 110,
+                        "expanded_url": "http://europa.eu/!bR47tW",
+                        "start": 87,
+                        "url": "https://t.co/hzwgi9zCFH"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Dtn1WDtwZj",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669838710926671872/photo/1",
+                        "start": 111,
+                        "url": "https://t.co/Dtn1WDtwZj"
+                    }
+                ]
+            },
+            "id": "669838710926671872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 11
+            },
+            "text": "EU signs \u20ac3.6 billion program with Africa, Caribbean and Pacific #ACP group of states  https://t.co/hzwgi9zCFH https://t.co/Dtn1WDtwZj"
+        },
+        {
+            "created_at": "2015-11-26T11:15:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 44,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 71,
+                        "start": 62,
+                        "tag": "investEU"
+                    },
+                    {
+                        "end": 77,
+                        "start": 72,
+                        "tag": "EFSI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Nt86mW",
+                        "end": 101,
+                        "expanded_url": "http://europa.eu/!Nt86mW",
+                        "start": 78,
+                        "url": "https://t.co/O0NDFLy8cX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/dEJvFMO3du",
+                        "end": 125,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669836753168179200/photo/1",
+                        "start": 102,
+                        "url": "https://t.co/dEJvFMO3du"
+                    }
+                ]
+            },
+            "id": "669836753168179200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 36
+            },
+            "text": "Investment Plan for Europe: \u20ac40 million for #SMEs in Belgium. #investEU #EFSI https://t.co/O0NDFLy8cX https://t.co/dEJvFMO3du"
+        },
+        {
+            "created_at": "2015-11-26T10:50:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 120,
+                        "start": 103,
+                        "tag": "EuropeanSemester"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 102,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 79,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/sJq1TGHlHc",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669830582575235072/photo/1",
+                        "start": 121,
+                        "url": "https://t.co/sJq1TGHlHc"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/sJq1TGHlHc",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669830582575235072/photo/1",
+                        "start": 121,
+                        "url": "https://t.co/sJq1TGHlHc"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/sJq1TGHlHc",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669830582575235072/photo/1",
+                        "start": 121,
+                        "url": "https://t.co/sJq1TGHlHc"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/sJq1TGHlHc",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669830582575235072/photo/1",
+                        "start": 121,
+                        "url": "https://t.co/sJq1TGHlHc"
+                    }
+                ]
+            },
+            "id": "669830582575235072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "Press conference on Annual Growth Survey &amp; Alert Mechanism Report, 14h CET https://t.co/P0BIU0PzXA #EuropeanSemester https://t.co/sJq1TGHlHc"
+        },
+        {
+            "created_at": "2015-11-25T15:02:12.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3377184623",
+                        "start": 0,
+                        "username": "Graphenology"
+                    },
+                    {
+                        "end": 26,
+                        "id": "300868924",
+                        "start": 14,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1NONpW7",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/1NONpW7",
+                        "start": 74,
+                        "url": "https://t.co/sOD6bClo63"
+                    }
+                ]
+            },
+            "id": "669531537659043841",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@Graphenology @EU_Eurostat all information can be found in the link here: https://t.co/sOD6bClo63"
+        },
+        {
+            "created_at": "2015-11-25T14:43:51.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3014474437",
+                        "start": 0,
+                        "username": "Humanity_4All"
+                    },
+                    {
+                        "end": 135,
+                        "id": "470099591",
+                        "start": 127,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!HD79pv",
+                        "end": 125,
+                        "expanded_url": "http://europa.eu/!HD79pv",
+                        "start": 102,
+                        "url": "https://t.co/UCPFBSGRL1"
+                    }
+                ]
+            },
+            "id": "669526918149087232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@Humanity_4All we've just increased our humanitarian support to education for children in emergencies https://t.co/UCPFBSGRL1  @eu_echo"
+        },
+        {
+            "created_at": "2015-11-25T13:54:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 144,
+                        "start": 130,
+                        "tag": "refugeecrisis"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "937531525",
+                        "start": 0,
+                        "username": "MetodijaKoloski"
+                    },
+                    {
+                        "end": 25,
+                        "id": "1011129121",
+                        "start": 17,
+                        "username": "JHahnEU"
+                    },
+                    {
+                        "end": 40,
+                        "id": "120916462",
+                        "start": 26,
+                        "username": "Fatmir_Besimi"
+                    },
+                    {
+                        "end": 64,
+                        "id": "280976134",
+                        "start": 56,
+                        "username": "eu_near"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!gU84WC",
+                        "end": 99,
+                        "expanded_url": "http://europa.eu/!gU84WC",
+                        "start": 76,
+                        "url": "https://t.co/cTtJxEhhoG"
+                    },
+                    {
+                        "display_url": "europa.eu/!qx69dQ",
+                        "end": 129,
+                        "expanded_url": "http://europa.eu/!qx69dQ",
+                        "start": 106,
+                        "url": "https://t.co/qK4UT89IE5"
+                    }
+                ]
+            },
+            "id": "669514439624888321",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "@MetodijaKoloski @JHahnEU @Fatmir_Besimi @EU_InfoCentre @eu_near info here: https://t.co/cTtJxEhhoG &amp; https://t.co/qK4UT89IE5 #refugeecrisis"
+        },
+        {
+            "created_at": "2015-11-25T13:34:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 53,
+                        "start": 47,
+                        "tag": "Paris"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!yw78df",
+                        "end": 141,
+                        "expanded_url": "http://europa.eu/!yw78df",
+                        "start": 118,
+                        "url": "https://t.co/1ddY9dLpJX"
+                    }
+                ]
+            },
+            "id": "669509424541777920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 29
+            },
+            "text": "#COP21 What is the aim of the new agreement in #Paris? What are the key elements of a successful agreement? Q&amp;A \u27a1 https://t.co/1ddY9dLpJX"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040144401",
+                        "name": "Extreme Weather + Climate Change"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "25",
+                        "name": "Events"
+                    },
+                    "entity": {
+                        "id": "10040529339",
+                        "name": "Discovery VCN - Earth"
+                    }
+                }
+            ],
+            "created_at": "2015-11-25T13:30:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "Paris"
+                    },
+                    {
+                        "end": 112,
+                        "start": 106,
+                        "tag": "COP21"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!pY77py",
+                        "end": 105,
+                        "expanded_url": "http://europa.eu/!pY77py",
+                        "start": 82,
+                        "url": "https://t.co/kMeHxht4Vk"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CdeV9FdBl1",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669508424246427648/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/CdeV9FdBl1"
+                    }
+                ]
+            },
+            "id": "669508424246427648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 99
+            },
+            "text": "#Paris climate conference: historic opportunity to avoid dangerous climate change https://t.co/kMeHxht4Vk #COP21 https://t.co/CdeV9FdBl1"
+        },
+        {
+            "created_at": "2015-11-25T13:26:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 52,
+                        "start": 46,
+                        "tag": "Paris"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!HW88vx",
+                        "end": 138,
+                        "expanded_url": "http://europa.eu/!HW88vx",
+                        "start": 115,
+                        "url": "https://t.co/PZycZ0bQkp"
+                    }
+                ]
+            },
+            "id": "669507530868006913",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "#COP21 Quel est l\u2019objectif du futur accord de #Paris? Quel effet aura l\u2019accord sur la strat\u00e9gie climat de l\u2019UE? \u27a1\ufe0f https://t.co/PZycZ0bQkp"
+        },
+        {
+            "created_at": "2015-11-25T13:19:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 14,
+                        "tag": "Paris"
+                    },
+                    {
+                        "end": 137,
+                        "start": 131,
+                        "tag": "COP21"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!mg83nD",
+                        "end": 130,
+                        "expanded_url": "http://europa.eu/!mg83nD",
+                        "start": 107,
+                        "url": "https://t.co/OcACr2n19k"
+                    }
+                ]
+            },
+            "id": "669505703904739328",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "Conf\u00e9rence de #Paris sur le climat: une occasion historique d\u2019\u00e9viter des changements climatiques dangereux https://t.co/OcACr2n19k #COP21"
+        },
+        {
+            "created_at": "2015-11-25T13:17:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 24,
+                        "tag": "Paris"
+                    },
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 93,
+                        "start": 78,
+                        "tag": "united4climate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 70,
+                        "id": "2438273430",
+                        "start": 59,
+                        "username": "MAC_europa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1Yu0qMq",
+                        "end": 117,
+                        "expanded_url": "http://snpy.tv/1Yu0qMq",
+                        "start": 94,
+                        "url": "https://t.co/EHVsUrEDGb"
+                    }
+                ]
+            },
+            "id": "669505096728776704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 42,
+                "quote_count": 0,
+                "reply_count": 11,
+                "retweet_count": 73
+            },
+            "text": "\"We will have a deal in #Paris but we need the right deal\" @MAC_europa #COP21 #united4climate https://t.co/EHVsUrEDGb"
+        },
+        {
+            "created_at": "2015-11-25T13:07:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 10,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 88,
+                        "start": 78,
+                        "tag": "LiveOnEbs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 44,
+                        "id": "157981564",
+                        "start": 30,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 73,
+                        "id": "2438273430",
+                        "start": 62,
+                        "username": "MAC_europa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 113,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 90,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/L24e8Kenes",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669502724967415808/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/L24e8Kenes"
+                    }
+                ]
+            },
+            "id": "669502724967415808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 18,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 31
+            },
+            "text": "5 days to #COP21. Latest from @EU_Commission chief negotiator @MAC_europa now #LiveOnEbs: https://t.co/P0BIU0PzXA https://t.co/L24e8Kenes"
+        },
+        {
+            "created_at": "2015-11-25T11:28:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 84,
+                        "start": 77,
+                        "tag": "Africa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 130,
+                        "id": "1545333888",
+                        "start": 121,
+                        "username": "MimicaEU"
+                    },
+                    {
+                        "end": 141,
+                        "id": "268059310",
+                        "start": 131,
+                        "username": "APolackEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!TK76fG",
+                        "end": 120,
+                        "expanded_url": "http://europa.eu/!TK76fG",
+                        "start": 97,
+                        "url": "https://t.co/Dubb8yvxkh"
+                    }
+                ]
+            },
+            "id": "669477690165039105",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "9 projects to support governance, human rights, innovation &amp; learning in #Africa - factsheet https://t.co/Dubb8yvxkh @MimicaEU @APolackEU"
+        },
+        {
+            "created_at": "2015-11-25T11:26:15.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "Pan Africa Action Plan",
+                        "probability": 0.4243,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 112,
+                        "id": "1545333888",
+                        "start": 103,
+                        "username": "MimicaEU"
+                    },
+                    {
+                        "end": 123,
+                        "id": "268059310",
+                        "start": 113,
+                        "username": "APolackEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!xP33bt",
+                        "end": 102,
+                        "expanded_url": "http://europa.eu/!xP33bt",
+                        "start": 79,
+                        "url": "https://t.co/F7YSQuD0LQ"
+                    }
+                ]
+            },
+            "id": "669477192104062976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": ".@EU_Commission announces 9 new projects as part of the Pan Africa Action Plan https://t.co/F7YSQuD0LQ @MimicaEU @APolackEU"
+        },
+        {
+            "created_at": "2015-11-25T11:23:51.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 91,
+                        "id": "169426475",
+                        "start": 81,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!HV96HU",
+                        "end": 115,
+                        "expanded_url": "http://europa.eu/!HV96HU",
+                        "start": 92,
+                        "url": "https://t.co/Lq2UmoDtKw"
+                    },
+                    {
+                        "display_url": "snpy.tv/1TejVWc",
+                        "end": 139,
+                        "expanded_url": "http://snpy.tv/1TejVWc",
+                        "start": 116,
+                        "url": "https://t.co/InGO1SOw2n"
+                    }
+                ]
+            },
+            "id": "669476586500943873",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 16
+            },
+            "text": "\"Schengen pas 1 concept anodin: une des pi\u00e8ces ma\u00eetresses de la construction UE\" @JunckerEU https://t.co/Lq2UmoDtKw https://t.co/InGO1SOw2n"
+        },
+        {
+            "created_at": "2015-11-25T11:11:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 30,
+                        "tag": "education"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!HD79pv",
+                        "end": 88,
+                        "expanded_url": "http://europa.eu/!HD79pv",
+                        "start": 65,
+                        "url": "https://t.co/UCPFBSGRL1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SNbqcztKQe",
+                        "end": 112,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669473438579470336/photo/1",
+                        "start": 89,
+                        "url": "https://t.co/SNbqcztKQe"
+                    }
+                ]
+            },
+            "id": "669473438579470336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 22,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 26
+            },
+            "text": "More children to benefit from #education in emergency situations https://t.co/UCPFBSGRL1 https://t.co/SNbqcztKQe"
+        },
+        {
+            "created_at": "2015-11-25T10:50:44.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "306306897",
+                        "start": 0,
+                        "username": "AjiAhmed"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!WW39rH",
+                        "end": 139,
+                        "expanded_url": "http://europa.eu/!WW39rH",
+                        "start": 116,
+                        "url": "https://t.co/u7DeTuptXh"
+                    }
+                ]
+            },
+            "id": "669468252121223169",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@AjiAhmed Nous condamnons toutes les formes de violence contre les femmes, dans les pays UE &amp;au-del\u00e0. + d'info: https://t.co/u7DeTuptXh (EN)"
+        },
+        {
+            "created_at": "2015-11-25T10:36:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "14hCET",
+                        "probability": 0.4003,
+                        "start": 64,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 9,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 25,
+                        "start": 19,
+                        "tag": "Paris"
+                    },
+                    {
+                        "end": 111,
+                        "start": 96,
+                        "tag": "united4climate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "id": "2438273430",
+                        "start": 49,
+                        "username": "MAC_europa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 95,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 72,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NHoyi8gzTV",
+                        "end": 135,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669464653580402688/photo/1",
+                        "start": 112,
+                        "url": "https://t.co/NHoyi8gzTV"
+                    }
+                ]
+            },
+            "id": "669464653580402688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 35
+            },
+            "text": "Ahead of #COP21 in #Paris, press conference with @MAC_europa at 14hCET: https://t.co/P0BIU0PzXA #united4climate https://t.co/NHoyi8gzTV"
+        },
+        {
+            "created_at": "2015-11-25T09:22:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "OrangeTheWorld"
+                    },
+                    {
+                        "end": 43,
+                        "start": 22,
+                        "tag": "ViolenceAgainstWomen"
+                    },
+                    {
+                        "end": 110,
+                        "start": 103,
+                        "tag": "16days"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!kD88wH",
+                        "end": 102,
+                        "expanded_url": "http://europa.eu/!kD88wH",
+                        "start": 79,
+                        "url": "https://t.co/Y8FwFDVo46"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/0PJgsaRXTi",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669446157064630272/photo/1",
+                        "start": 111,
+                        "url": "https://t.co/0PJgsaRXTi"
+                    }
+                ]
+            },
+            "id": "669446157064630272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 232,
+                "quote_count": 0,
+                "reply_count": 13,
+                "retweet_count": 418
+            },
+            "text": "#OrangeTheWorld! Make #ViolenceAgainstWomen &amp; Girls a problem of the past: https://t.co/Y8FwFDVo46 #16days https://t.co/0PJgsaRXTi"
+        },
+        {
+            "created_at": "2015-11-25T08:07:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 50,
+                        "tag": "EPlenary"
+                    },
+                    {
+                        "end": 86,
+                        "start": 73,
+                        "tag": "ParisAttacks"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1I9VjwR",
+                        "end": 111,
+                        "expanded_url": "http://snpy.tv/1I9VjwR",
+                        "start": 88,
+                        "url": "https://t.co/lMCVDId0me"
+                    }
+                ]
+            },
+            "id": "669427062709600257",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 23,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 37
+            },
+            "text": ".@JunckerEU : \"Vive la France et sa R\u00e9publique\" - #EPlenary on terrorism #ParisAttacks  https://t.co/lMCVDId0me"
+        },
+        {
+            "created_at": "2015-11-25T07:57:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 114,
+                        "start": 101,
+                        "tag": "ParisAttacks"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1IfFVcU",
+                        "end": 138,
+                        "expanded_url": "http://snpy.tv/1IfFVcU",
+                        "start": 115,
+                        "url": "https://t.co/cUJ9UBjQFh"
+                    }
+                ]
+            },
+            "id": "669424664633081856",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 28,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 45
+            },
+            "text": ".@JunckerEU \"Je mets en garde contre amalgames qui mettent sur un m\u00eame pied r\u00e9fugi\u00e9s et terroristes\" #ParisAttacks https://t.co/cUJ9UBjQFh"
+        },
+        {
+            "created_at": "2015-11-25T07:52:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "France",
+                        "probability": 0.6185,
+                        "start": 21,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 31,
+                        "tag": "EPlenary"
+                    },
+                    {
+                        "end": 67,
+                        "start": 54,
+                        "tag": "ParisAttacks"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "946731366569447425",
+                        "start": 1,
+                        "username": "juncker"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/avservices/ebs\u2026",
+                        "end": 102,
+                        "expanded_url": "http://ec.europa.eu/avservices/ebs/live.cfm?page=2",
+                        "start": 79,
+                        "url": "https://t.co/a3gMlEd74e"
+                    },
+                    {
+                        "display_url": "snpy.tv/1Te5bH4",
+                        "end": 126,
+                        "expanded_url": "http://snpy.tv/1Te5bH4",
+                        "start": 103,
+                        "url": "https://t.co/NytMZ1MQ6s"
+                    }
+                ]
+            },
+            "id": "669423349198626822",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 30
+            },
+            "text": ".@Juncker : \"Vive la France\" - #EPlenary on terrorism #ParisAttacks- Live here https://t.co/a3gMlEd74e https://t.co/NytMZ1MQ6s"
+        },
+        {
+            "created_at": "2015-11-25T07:46:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 36,
+                        "tag": "EPlenary"
+                    },
+                    {
+                        "end": 62,
+                        "start": 49,
+                        "tag": "ParisAttacks"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 21,
+                        "id": "169426475",
+                        "start": 11,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/avservices/ebs\u2026",
+                        "end": 100,
+                        "expanded_url": "http://ec.europa.eu/avservices/ebs/live.cfm?page=2",
+                        "start": 77,
+                        "url": "https://t.co/a3gMlEd74e"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/U1pLyXZwDX",
+                        "end": 124,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669421805564796928/photo/1",
+                        "start": 101,
+                        "url": "https://t.co/U1pLyXZwDX"
+                    }
+                ]
+            },
+            "id": "669421805564796928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 44
+            },
+            "text": "LIVE now - @JunckerEU addresses the #EPlenary on #ParisAttacks and terrorism https://t.co/a3gMlEd74e https://t.co/U1pLyXZwDX"
+        },
+        {
+            "created_at": "2015-11-24T15:57:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 14,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 47,
+                        "start": 35,
+                        "tag": "EnergyUnion"
+                    },
+                    {
+                        "end": 114,
+                        "start": 99,
+                        "tag": "united4climate"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wj96KV",
+                        "end": 98,
+                        "expanded_url": "http://europa.eu/!Wj96KV",
+                        "start": 75,
+                        "url": "https://t.co/2zb0KfT6Sj"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/lMDjxdLd3K",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669183027042525184/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/lMDjxdLd3K"
+                    }
+                ]
+            },
+            "id": "669183027042525184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 21
+            },
+            "text": "6 days before #COP21! State of the #EnergyUnion | progress since February: https://t.co/2zb0KfT6Sj #united4climate https://t.co/lMDjxdLd3K"
+        },
+        {
+            "created_at": "2015-11-24T15:42:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Europe",
+                        "probability": 0.995,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 56,
+                        "tag": "EDIS"
+                    },
+                    {
+                        "end": 76,
+                        "start": 63,
+                        "tag": "BankingUnion"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 85,
+                        "id": "2650351980",
+                        "start": 77,
+                        "username": "JHillEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Yc66bP",
+                        "end": 109,
+                        "expanded_url": "http://europa.eu/!Yc66bP",
+                        "start": 86,
+                        "url": "https://t.co/BaN1qNbimn"
+                    },
+                    {
+                        "display_url": "amp.twimg.com/v/d64cb8bd-ce8\u2026",
+                        "end": 133,
+                        "expanded_url": "https://amp.twimg.com/v/d64cb8bd-ce8a-452a-939e-c13a97ede7f8",
+                        "start": 110,
+                        "url": "https://t.co/CRR9j1dH7q"
+                    }
+                ]
+            },
+            "id": "669179239850094592",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 22
+            },
+            "text": "Reinforced protection for depositors in Europe: what is #EDIS? #BankingUnion @JHillEU https://t.co/BaN1qNbimn\nhttps://t.co/CRR9j1dH7q"
+        },
+        {
+            "created_at": "2015-11-24T14:14:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Turkey",
+                        "probability": 0.9302,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 11,
+                        "start": 4,
+                        "tag": "Turkey"
+                    },
+                    {
+                        "end": 105,
+                        "start": 91,
+                        "tag": "refugeecrisis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!hH67dd",
+                        "end": 90,
+                        "expanded_url": "http://europa.eu/!hH67dd",
+                        "start": 67,
+                        "url": "https://t.co/unXfObZB59"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/suVXeS07Ry",
+                        "end": 129,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669157174673829888/photo/1",
+                        "start": 106,
+                        "url": "https://t.co/suVXeS07Ry"
+                    }
+                ]
+            },
+            "id": "669157174673829888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 52,
+                "quote_count": 0,
+                "reply_count": 30,
+                "retweet_count": 117
+            },
+            "text": "#EU-#Turkey Cooperation: a \u20ac3 billion Refugee Facility for Turkey  https://t.co/unXfObZB59 #refugeecrisis https://t.co/suVXeS07Ry"
+        },
+        {
+            "created_at": "2015-11-24T13:49:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 98,
+                        "tag": "BankingUnion"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wd33BM",
+                        "end": 97,
+                        "expanded_url": "http://europa.eu/!Wd33BM",
+                        "start": 74,
+                        "url": "https://t.co/0iRkyd3LvC"
+                    },
+                    {
+                        "display_url": "snpy.tv/1IdsTg4",
+                        "end": 135,
+                        "expanded_url": "http://snpy.tv/1IdsTg4",
+                        "start": 112,
+                        "url": "https://t.co/qbl8WVpBzX"
+                    }
+                ]
+            },
+            "id": "669150768109252608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 17
+            },
+            "text": "EU Deposit Insurance Scheme: guaranteeing citizens' deposits in euro area https://t.co/0iRkyd3LvC #BankingUnion https://t.co/qbl8WVpBzX"
+        },
+        {
+            "created_at": "2015-11-24T13:19:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 34,
+                        "tag": "EDIS"
+                    },
+                    {
+                        "end": 110,
+                        "start": 97,
+                        "tag": "BankingUnion"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!DD63kN",
+                        "end": 96,
+                        "expanded_url": "http://europa.eu/!DD63kN",
+                        "start": 73,
+                        "url": "https://t.co/ZG60sJ9umU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/vJvm6GpSfc",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669143211345072128/photo/1",
+                        "start": 111,
+                        "url": "https://t.co/vJvm6GpSfc"
+                    }
+                ]
+            },
+            "id": "669143211345072128",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 24,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 34
+            },
+            "text": "European deposit insurance scheme #EDIS - Communication &amp; Proposal:  https://t.co/ZG60sJ9umU #BankingUnion https://t.co/vJvm6GpSfc"
+        },
+        {
+            "created_at": "2015-11-24T13:16:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 50,
+                        "tag": "EDIS"
+                    },
+                    {
+                        "end": 106,
+                        "start": 93,
+                        "tag": "BankingUnion"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!xt48Jg",
+                        "end": 92,
+                        "expanded_url": "http://europa.eu/!xt48Jg",
+                        "start": 69,
+                        "url": "https://t.co/eSxrXggUt9"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LPaAUr4pWU",
+                        "end": 130,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669142431053520896/photo/1",
+                        "start": 107,
+                        "url": "https://t.co/LPaAUr4pWU"
+                    }
+                ]
+            },
+            "id": "669142431053520896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 25
+            },
+            "text": "Euro-area wide insurance scheme for bank deposits #EDIS \u2013 Factsheet: https://t.co/eSxrXggUt9 #BankingUnion https://t.co/LPaAUr4pWU"
+        },
+        {
+            "created_at": "2015-11-24T13:12:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 11,
+                        "tag": "BankingUnion"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 136,
+                        "id": "2650351980",
+                        "start": 128,
+                        "username": "JHillEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wd33BM",
+                        "end": 127,
+                        "expanded_url": "http://europa.eu/!Wd33BM",
+                        "start": 104,
+                        "url": "https://t.co/0iRkydlmUc"
+                    }
+                ]
+            },
+            "id": "669141423481036801",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 32
+            },
+            "text": "A stronger #BankingUnion: New measures to reinforce deposit protection and further reduce banking risks https://t.co/0iRkydlmUc @JHillEU"
+        },
+        {
+            "created_at": "2015-11-24T13:09:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 4,
+                        "tag": "LiveonEBS"
+                    },
+                    {
+                        "end": 115,
+                        "start": 102,
+                        "tag": "BankingUnion"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 47,
+                        "id": "2650351980",
+                        "start": 39,
+                        "username": "JHillEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 38,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 15,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/qa9qdpn3ZC",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669140867324772353/photo/1",
+                        "start": 116,
+                        "url": "https://t.co/qa9qdpn3ZC"
+                    }
+                ]
+            },
+            "id": "669140867324772353",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Now #LiveonEBS https://t.co/P0BIU0PzXA @JHillEU press conference on European Deposit Insurance Scheme #BankingUnion https://t.co/qa9qdpn3ZC"
+        },
+        {
+            "created_at": "2015-11-24T11:24:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "EU",
+                        "probability": 0.4175,
+                        "start": 5,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 95,
+                        "start": 89,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 108,
+                        "start": 96,
+                        "tag": "StateEnUn15"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 88,
+                        "id": "377976301",
+                        "start": 74,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amp.twimg.com/v/d7ab79bd-a7e\u2026",
+                        "end": 132,
+                        "expanded_url": "https://amp.twimg.com/v/d7ab79bd-a7e8-41f4-ad58-f457ad55535c",
+                        "start": 109,
+                        "status": 200,
+                        "unwound_url": "https://amp.twimg.com/v/d7ab79bd-a7e8-41f4-ad58-f457ad55535c",
+                        "url": "https://t.co/a6WJsRYCTp"
+                    }
+                ]
+            },
+            "id": "669114385273524224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 44,
+                "quote_count": 0,
+                "reply_count": 16,
+                "retweet_count": 58
+            },
+            "text": "\"The EU must remain the leader in the transition to a low-carbon society\" @MarosSefcovic #COP21 #StateEnUn15\nhttps://t.co/a6WJsRYCTp"
+        },
+        {
+            "created_at": "2015-11-24T11:15:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "International Day",
+                        "probability": 0.5593,
+                        "start": 23,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 64,
+                        "tag": "ViolenceAgainstWomen"
+                    },
+                    {
+                        "end": 93,
+                        "start": 86,
+                        "tag": "16days"
+                    },
+                    {
+                        "end": 109,
+                        "start": 94,
+                        "tag": "OrangeTheWorld"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!kD88wH",
+                        "end": 134,
+                        "expanded_url": "http://europa.eu/!kD88wH",
+                        "start": 111,
+                        "url": "https://t.co/Y8FwFDVo46"
+                    }
+                ]
+            },
+            "id": "669112180311240704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 30,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 77
+            },
+            "text": "Joint Statement on the International Day for the Elimination of #ViolenceAgainstWomen #16days #OrangeTheWorld: https://t.co/Y8FwFDVo46"
+        },
+        {
+            "created_at": "2015-11-24T09:48:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 48,
+                        "tag": "EDIS"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 63,
+                        "id": "2650351980",
+                        "start": 55,
+                        "username": "JHillEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 115,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 92,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/nAt1DtzkGx",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/669090211113132032/photo/1",
+                        "start": 116,
+                        "url": "https://t.co/nAt1DtzkGx"
+                    }
+                ]
+            },
+            "id": "669090211113132032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 34
+            },
+            "text": "Creation of a European Deposit Insurance Scheme #EDIS: @JHillEU press conference at 14h CET https://t.co/P0BIU0PzXA https://t.co/nAt1DtzkGx"
+        },
+        {
+            "created_at": "2015-11-23T11:33:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 94,
+                        "tag": "EUhaveyoursay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!TW73Qc",
+                        "end": 93,
+                        "expanded_url": "http://europa.eu/!TW73Qc",
+                        "start": 70,
+                        "url": "https://t.co/5t1tIiU85E"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rSYHB4TKG1",
+                        "end": 132,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668754235744473090/photo/1",
+                        "start": 109,
+                        "url": "https://t.co/rSYHB4TKG1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rSYHB4TKG1",
+                        "end": 132,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668754235744473090/photo/1",
+                        "start": 109,
+                        "url": "https://t.co/rSYHB4TKG1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rSYHB4TKG1",
+                        "end": 132,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668754235744473090/photo/1",
+                        "start": 109,
+                        "url": "https://t.co/rSYHB4TKG1"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rSYHB4TKG1",
+                        "end": 132,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668754235744473090/photo/1",
+                        "start": 109,
+                        "url": "https://t.co/rSYHB4TKG1"
+                    }
+                ]
+            },
+            "id": "668754235744473090",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 60,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 106
+            },
+            "text": "Help to shape EU's digital policies - 6 current public consultations: https://t.co/5t1tIiU85E #EUhaveyoursay https://t.co/rSYHB4TKG1"
+        },
+        {
+            "created_at": "2015-11-23T11:13:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 58,
+                        "tag": "madagascar"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "157981564",
+                        "start": 4,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!QJ36wF",
+                        "end": 93,
+                        "expanded_url": "http://europa.eu/!QJ36wF",
+                        "start": 70,
+                        "url": "https://t.co/p2ovRvpmra"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/TaxMMromtP",
+                        "end": 117,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668749281206104064/photo/1",
+                        "start": 94,
+                        "url": "https://t.co/TaxMMromtP"
+                    }
+                ]
+            },
+            "id": "668749281206104064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 13
+            },
+            "text": "New @EU_Commission development cooperation programme with #madagascar https://t.co/p2ovRvpmra https://t.co/TaxMMromtP"
+        },
+        {
+            "created_at": "2015-11-23T11:09:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Palestine",
+                        "probability": 0.5346,
+                        "start": 19,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 58,
+                        "id": "42604302",
+                        "start": 52,
+                        "username": "UNRWA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Xd84nq",
+                        "end": 103,
+                        "expanded_url": "http://europa.eu/!Xd84nq",
+                        "start": 80,
+                        "url": "https://t.co/gT3hBr0SEU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ux7WuJ1XPc",
+                        "end": 127,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668748134839934976/photo/1",
+                        "start": 104,
+                        "url": "https://t.co/ux7WuJ1XPc"
+                    }
+                ]
+            },
+            "id": "668748134839934976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 34,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 39
+            },
+            "text": "New EU funding for Palestine refugees in support to @UNRWA to keep schools open https://t.co/gT3hBr0SEU https://t.co/ux7WuJ1XPc"
+        },
+        {
+            "created_at": "2015-11-22T14:25:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 7,
+                        "tag": "GHG"
+                    },
+                    {
+                        "end": 100,
+                        "start": 94,
+                        "tag": "COP21"
+                    },
+                    {
+                        "end": 116,
+                        "start": 101,
+                        "tag": "United4Climate"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1OQkHKc",
+                        "end": 93,
+                        "expanded_url": "http://bit.ly/1OQkHKc",
+                        "start": 70,
+                        "url": "https://t.co/bFLa8mwjO8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GSJMZFz12d",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668435030683856896/photo/1",
+                        "start": 117,
+                        "url": "https://t.co/GSJMZFz12d"
+                    }
+                ]
+            },
+            "id": "668435030683856896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 34,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 73
+            },
+            "text": "EU cut #GHG emissions by 23% from 1990-2014. On track to \u201320% by 2020 https://t.co/bFLa8mwjO8 #COP21 #United4Climate https://t.co/GSJMZFz12d"
+        },
+        {
+            "created_at": "2015-11-22T12:25:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 59,
+                        "tag": "SME"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Vt46Vk",
+                        "end": 116,
+                        "expanded_url": "http://europa.eu/!Vt46Vk",
+                        "start": 93,
+                        "url": "https://t.co/hagI2zKjCa"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SdNe8ZSIGV",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668404827643318272/photo/1",
+                        "start": 117,
+                        "url": "https://t.co/SdNe8ZSIGV"
+                    }
+                ]
+            },
+            "id": "668404827643318272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 76,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 114
+            },
+            "text": "Are you looking to take your business international? Check #SME Internationalisation Portal  https://t.co/hagI2zKjCa https://t.co/SdNe8ZSIGV"
+        },
+        {
+            "created_at": "2015-11-21T14:10:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 41,
+                        "tag": "COSME"
+                    },
+                    {
+                        "end": 104,
+                        "start": 92,
+                        "tag": "euSMEweek15"
+                    },
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "investEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/growth/smes/co\u2026",
+                        "end": 91,
+                        "expanded_url": "http://ec.europa.eu/growth/smes/cosme/",
+                        "start": 68,
+                        "url": "https://t.co/MJPH6tiC0v"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cHnSUHEVqq",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/668068864836681729/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/cHnSUHEVqq"
+                    }
+                ]
+            },
+            "id": "668068864836681729",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 56,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 134
+            },
+            "text": "Have an innovative business idea? The EU #COSME programme can help: https://t.co/MJPH6tiC0v #euSMEweek15 #investEU https://t.co/cHnSUHEVqq"
+        },
+        {
+            "created_at": "2015-11-20T13:53:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "15h CET",
+                        "probability": 0.4162,
+                        "start": 90,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 20,
+                        "tag": "EnergyUnion"
+                    },
+                    {
+                        "end": 60,
+                        "start": 44,
+                        "tag": "EnergyUnionChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 76,
+                        "id": "377976301",
+                        "start": 62,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Exx3CaRJw2",
+                        "end": 121,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667702342079393792/photo/1",
+                        "start": 98,
+                        "url": "https://t.co/Exx3CaRJw2"
+                    }
+                ]
+            },
+            "id": "667702342079393792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 17
+            },
+            "text": "Questions about the #EnergyUnion? Ask using #EnergyUnionChat. @MarosSefcovic kicks off at 15h CET https://t.co/Exx3CaRJw2"
+        },
+        {
+            "created_at": "2015-11-20T11:31:11.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 75,
+                        "tag": "Chad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 120,
+                        "id": "460163041",
+                        "start": 108,
+                        "username": "FedericaMog"
+                    },
+                    {
+                        "end": 130,
+                        "id": "1545333888",
+                        "start": 121,
+                        "username": "MimicaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!kk49Hj",
+                        "end": 104,
+                        "expanded_url": "http://europa.eu/!kk49Hj",
+                        "start": 81,
+                        "url": "https://t.co/LJqxe6QNdv"
+                    }
+                ]
+            },
+            "id": "667666495196000256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "text": "The European Union reinforces its support for development and stability in #Chad https://t.co/LJqxe6QNdv cc @FedericaMog @MimicaEU"
+        },
+        {
+            "created_at": "2015-11-20T11:23:49.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!qf98ut",
+                        "end": 114,
+                        "expanded_url": "http://europa.eu/!qf98ut",
+                        "start": 91,
+                        "url": "https://t.co/Gc6RWEHgDP"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/7z51Kxf9JE",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667664638511837184/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/7z51Kxf9JE"
+                    }
+                ]
+            },
+            "id": "667664638511837184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 23
+            },
+            "text": "\u20ac410 million returned to European farmers from the Common Agricultural Policy (CAP) budget https://t.co/Gc6RWEHgDP https://t.co/7z51Kxf9JE"
+        },
+        {
+            "created_at": "2015-11-20T11:21:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 106,
+                        "tag": "vouli"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 105,
+                        "id": "820190174",
+                        "start": 93,
+                        "username": "MargSchinas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1jaTqUJ",
+                        "end": 136,
+                        "expanded_url": "http://snpy.tv/1jaTqUJ",
+                        "start": 113,
+                        "url": "https://t.co/k6fWx8G4Ke"
+                    }
+                ]
+            },
+            "id": "667664011714891776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 21
+            },
+            "text": ".@EU_Commission welcomes the adoption of the legislation in the Greek parliament last night. @MargSchinas #vouli https://t.co/k6fWx8G4Ke"
+        },
+        {
+            "created_at": "2015-11-20T11:17:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 50,
+                        "tag": "environment"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Nn97vQ",
+                        "end": 95,
+                        "expanded_url": "http://europa.eu/!Nn97vQ",
+                        "start": 72,
+                        "url": "https://t.co/B4C9i8EIFt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/FxYWrVtZsC",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667663100905132032/photo/1",
+                        "start": 96,
+                        "url": "https://t.co/FxYWrVtZsC"
+                    }
+                ]
+            },
+            "id": "667663100905132032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 40
+            },
+            "text": ".@EU_Commission invests \u20ac 160.6 million in 96 new #environment projects https://t.co/B4C9i8EIFt https://t.co/FxYWrVtZsC"
+        },
+        {
+            "created_at": "2015-11-20T11:11:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 5,
+                        "tag": "EUTransport"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!kP77vq",
+                        "end": 67,
+                        "expanded_url": "http://europa.eu/!kP77vq",
+                        "start": 44,
+                        "url": "https://t.co/k5RHKw8bVU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RJpq2sOPto",
+                        "end": 91,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667661644735082496/photo/1",
+                        "start": 68,
+                        "url": "https://t.co/RJpq2sOPto"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RJpq2sOPto",
+                        "end": 91,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667661644735082496/photo/1",
+                        "start": 68,
+                        "url": "https://t.co/RJpq2sOPto"
+                    }
+                ]
+            },
+            "id": "667661644735082496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 24
+            },
+            "text": "2015 #EUTransport Scoreboard - Fact sheet:  https://t.co/k5RHKw8bVU https://t.co/RJpq2sOPto"
+        },
+        {
+            "created_at": "2015-11-20T11:08:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 82,
+                        "tag": "EUTransport"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!By97Th",
+                        "end": 81,
+                        "expanded_url": "http://europa.eu/!By97Th",
+                        "start": 58,
+                        "url": "https://t.co/45oCWKt08F"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/O33LnDvY8s",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667660779647344640/photo/1",
+                        "start": 95,
+                        "url": "https://t.co/O33LnDvY8s"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/O33LnDvY8s",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667660779647344640/photo/1",
+                        "start": 95,
+                        "url": "https://t.co/O33LnDvY8s"
+                    }
+                ]
+            },
+            "id": "667660779647344640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 24,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 34
+            },
+            "text": "New Transport Scoreboard shows EU Member States' progress https://t.co/45oCWKt08F #EUTransport https://t.co/O33LnDvY8s"
+        },
+        {
+            "created_at": "2015-11-20T09:40:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 114,
+                        "start": 98,
+                        "tag": "EnergyUnionChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 97,
+                        "id": "377976301",
+                        "start": 83,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/7dPe5egYHC",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667638529342742528/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/7dPe5egYHC"
+                    }
+                ]
+            },
+            "id": "667638529342742528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 25,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 32
+            },
+            "text": "Geopolitical challenges, energy poverty, renewables... are we making progress? Ask @MarosSefcovic #EnergyUnionChat https://t.co/7dPe5egYHC"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10039681938",
+                        "name": "Childrens Day"
+                    }
+                }
+            ],
+            "created_at": "2015-11-20T08:44:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 76,
+                        "tag": "ChildrensDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!Wt98JF",
+                        "end": 115,
+                        "expanded_url": "http://europa.eu/!Wt98JF",
+                        "start": 92,
+                        "url": "https://t.co/eSqANrFP9E"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/b0CdfnxJ5T",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667624641377271809/photo/1",
+                        "start": 116,
+                        "url": "https://t.co/b0CdfnxJ5T"
+                    }
+                ]
+            },
+            "id": "667624641377271809",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 26,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 47
+            },
+            "text": "Strengthening child protection systems is one of our priorities - statement #ChildrensDay : https://t.co/eSqANrFP9E https://t.co/b0CdfnxJ5T"
+        },
+        {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10039681938",
+                        "name": "Childrens Day"
+                    }
+                }
+            ],
+            "created_at": "2015-11-20T08:39:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "EU",
+                        "probability": 0.5943,
+                        "start": 14,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "ChildrensDay"
+                    },
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "tag": "education"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1VBTBa6",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/1VBTBa6",
+                        "start": 84,
+                        "url": "https://t.co/M4JiFWAwsG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/IfhBPneopg",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667623402182680577/photo/1",
+                        "start": 108,
+                        "url": "https://t.co/IfhBPneopg"
+                    }
+                ]
+            },
+            "id": "667623402182680577",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 42,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 74
+            },
+            "text": "#ChildrensDay EU is providing \u20ac11M for children's #education in emergencies in 2015 https://t.co/M4JiFWAwsG https://t.co/IfhBPneopg"
+        },
+        {
+            "created_at": "2015-11-19T15:58:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 20,
+                        "tag": "EnergyUnion"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "EnergyUnionChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 93,
+                        "id": "377976301",
+                        "start": 79,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/o0UXwcjUO0",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667371419047755776/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/o0UXwcjUO0"
+                    }
+                ]
+            },
+            "id": "667371419047755776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 20,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 27
+            },
+            "text": "Questions about the #EnergyUnion? Tweet your questions using #EnergyUnionChat. @MarosSefcovic to answer on 20/11 https://t.co/o0UXwcjUO0"
+        },
+        {
+            "created_at": "2015-11-19T12:55:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 51,
+                        "start": 44,
+                        "tag": "Sweden"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "42183750",
+                        "start": 27,
+                        "username": "VDombrovskis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!MF76YJ",
+                        "end": 112,
+                        "expanded_url": "http://europa.eu/!MF76YJ",
+                        "start": 89,
+                        "url": "https://t.co/JWMwyDbdNz"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/rx3qQL7wM8",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667325302100619264/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/rx3qQL7wM8"
+                    }
+                ]
+            },
+            "id": "667325302100619264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 26,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 25
+            },
+            "text": "#EuropeanSemester visit of @VDombrovskis in #Sweden. Highlights of Swedish economy here: https://t.co/JWMwyDbdNz https://t.co/rx3qQL7wM8"
+        },
+        {
+            "created_at": "2015-11-19T11:07:40.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!ft93WQ",
+                        "end": 69,
+                        "expanded_url": "http://europa.eu/!ft93WQ",
+                        "start": 46,
+                        "url": "https://t.co/t8shognEFQ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/51oSKT0qLs",
+                        "end": 93,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667298188794028032/photo/1",
+                        "start": 70,
+                        "url": "https://t.co/51oSKT0qLs"
+                    }
+                ]
+            },
+            "id": "667298188794028032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 32
+            },
+            "text": "November infringements package: key decisions https://t.co/t8shognEFQ https://t.co/51oSKT0qLs"
+        },
+        {
+            "created_at": "2015-11-18T18:40:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 29,
+                        "tag": "EnergyUnion"
+                    },
+                    {
+                        "end": 101,
+                        "start": 85,
+                        "tag": "EnergyUnionChat"
+                    },
+                    {
+                        "end": 114,
+                        "start": 102,
+                        "tag": "StateEnUn15"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 61,
+                        "id": "377976301",
+                        "start": 47,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/KRE1cojhI6",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667049790073630720/photo/1",
+                        "start": 115,
+                        "url": "https://t.co/KRE1cojhI6"
+                    }
+                ]
+            },
+            "id": "667049790073630720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 55
+            },
+            "text": "Questions about State of the #EnergyUnion? Ask @MarosSefcovic on 20/11 15h CET using #EnergyUnionChat #StateEnUn15 https://t.co/KRE1cojhI6"
+        },
+        {
+            "created_at": "2015-11-18T17:30:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 24,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 71,
+                        "start": 64,
+                        "tag": "Sweden"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "42183750",
+                        "start": 7,
+                        "username": "VDombrovskis"
+                    },
+                    {
+                        "end": 92,
+                        "id": "255941376",
+                        "start": 76,
+                        "username": "EC_StockholmRep"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/economy_financ\u2026",
+                        "end": 116,
+                        "expanded_url": "http://ec.europa.eu/economy_finance/eu/forecasts/2015_autumn/se_en.pdf",
+                        "start": 93,
+                        "url": "https://t.co/75t1qR0KCx"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4wc0b6XcpK",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/667032030580985856/photo/1",
+                        "start": 117,
+                        "url": "https://t.co/4wc0b6XcpK"
+                    }
+                ]
+            },
+            "id": "667032030580985856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 22,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "Follow @VDombrovskis on #EuropeanSemester visit (19-20 Nov.) in #Sweden via @EC_StockholmRep https://t.co/75t1qR0KCx https://t.co/4wc0b6XcpK"
+        },
+        {
+            "created_at": "2015-11-18T17:12:11.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 64,
+                        "tag": "EnergyUnion"
+                    },
+                    {
+                        "end": 91,
+                        "start": 79,
+                        "tag": "StateEnUn15"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 106,
+                        "id": "377976301",
+                        "start": 92,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amp.twimg.com/v/7c62d82f-00f\u2026",
+                        "end": 130,
+                        "expanded_url": "https://amp.twimg.com/v/7c62d82f-00fa-4639-8e83-d4e0c345fdec",
+                        "start": 107,
+                        "url": "https://t.co/5lg9aMUfEP"
+                    }
+                ]
+            },
+            "id": "667027535314579456",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 19
+            },
+            "text": "9 months in and much progress has already been made towards the #EnergyUnion | #StateEnUn15 @MarosSefcovic\nhttps://t.co/5lg9aMUfEP"
+        },
+        {
+            "created_at": "2015-11-18T16:41:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 18,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 46,
+                        "id": "169426475",
+                        "start": 36,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 85,
+                        "id": "21313364",
+                        "start": 80,
+                        "username": "lobs"
+                    },
+                    {
+                        "end": 98,
+                        "id": "21408400",
+                        "start": 86,
+                        "username": "destandaard"
+                    },
+                    {
+                        "end": 106,
+                        "id": "17169453",
+                        "start": 99,
+                        "username": "lesoir"
+                    },
+                    {
+                        "end": 113,
+                        "id": "819197575",
+                        "start": 107,
+                        "username": "EU4BE"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!YV88nP",
+                        "end": 79,
+                        "expanded_url": "http://europa.eu/!YV88nP",
+                        "start": 56,
+                        "url": "https://t.co/YHhrK7lUbE"
+                    },
+                    {
+                        "display_url": "snpy.tv/1S4kG3r",
+                        "end": 137,
+                        "expanded_url": "http://snpy.tv/1S4kG3r",
+                        "start": 114,
+                        "url": "https://t.co/viPhGEVm9n"
+                    }
+                ]
+            },
+            "id": "667019693446660097",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 18
+            },
+            "text": "Si vous avez rat\u00e9 #EUdialogues avec @JunckerEU &gt;&gt; https://t.co/YHhrK7lUbE @lobs @destandaard @lesoir @eu4be https://t.co/viPhGEVm9n"
+        },
+        {
+            "created_at": "2015-11-18T16:25:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 48,
+                        "id": "306152873",
+                        "start": 37,
+                        "username": "Beadelvaux"
+                    },
+                    {
+                        "end": 60,
+                        "id": "169426475",
+                        "start": 50,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1MSKbof",
+                        "end": 138,
+                        "expanded_url": "http://snpy.tv/1MSKbof",
+                        "start": 115,
+                        "url": "https://t.co/9WHnmCa9rw"
+                    }
+                ]
+            },
+            "id": "667015695218053121",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 32
+            },
+            "text": "#EUdialogues A la question finale de @Beadelvaux, @JunckerEU r\u00e9pond: \"L'Europe est le plus grand amour de ma vie.\" https://t.co/9WHnmCa9rw"
+        },
+        {
+            "created_at": "2015-11-18T16:08:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "EUdialogues"
+                    },
+                    {
+                        "end": 112,
+                        "start": 99,
+                        "tag": "Parisattacks"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1MSI2Zy",
+                        "end": 136,
+                        "expanded_url": "http://snpy.tv/1MSI2Zy",
+                        "start": 113,
+                        "url": "https://t.co/156oGbfihT"
+                    }
+                ]
+            },
+            "id": "667011504219095040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 40,
+                "quote_count": 0,
+                "reply_count": 16,
+                "retweet_count": 86
+            },
+            "text": "#EUdialogues \"Terrorists want to destroy our way of living together. We need to defend our values\" #Parisattacks https://t.co/156oGbfihT"
+        },
+        {
+            "created_at": "2015-11-18T15:58:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 12,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1X7JnwZ",
+                        "end": 138,
+                        "expanded_url": "http://snpy.tv/1X7JnwZ",
+                        "start": 115,
+                        "url": "https://t.co/Ll478XtnxW"
+                    }
+                ]
+            },
+            "id": "667009017672105984",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 24
+            },
+            "text": ".@JunckerEU #EUdialogues \"Travailler pour re-convaincre les Europ\u00e9ens de la n\u00e9cessit\u00e9 de l'int\u00e9gration europ\u00e9enne\" https://t.co/Ll478XtnxW"
+        },
+        {
+            "created_at": "2015-11-18T15:43:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "2402247128",
+                        "start": 0,
+                        "username": "l_abril_l"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!dn64MN",
+                        "end": 85,
+                        "expanded_url": "http://europa.eu/!dn64MN",
+                        "start": 62,
+                        "url": "https://t.co/cAWAOVeEpe"
+                    }
+                ]
+            },
+            "id": "667005314454147072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@l_abril_l Hello, thank you for your question! Try this link: https://t.co/cAWAOVeEpe Best, the social media team"
+        },
+        {
+            "created_at": "2015-11-18T15:43:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "RefugeeCrisis"
+                    },
+                    {
+                        "end": 87,
+                        "start": 75,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 74,
+                        "id": "169426475",
+                        "start": 64,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!YV88nP",
+                        "end": 111,
+                        "expanded_url": "http://europa.eu/!YV88nP",
+                        "start": 88,
+                        "url": "https://t.co/YHhrK7lUbE"
+                    },
+                    {
+                        "display_url": "snpy.tv/1luJQhj",
+                        "end": 135,
+                        "expanded_url": "http://snpy.tv/1luJQhj",
+                        "start": 112,
+                        "url": "https://t.co/u4UIcUbwyf"
+                    }
+                ]
+            },
+            "id": "667005203397263360",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 20
+            },
+            "text": "#RefugeeCrisis \"Tous les Etats membres doivent \u00eatre solidaires\" @JunckerEU #EUdialogues https://t.co/YHhrK7lUbE https://t.co/u4UIcUbwyf"
+        },
+        {
+            "created_at": "2015-11-18T15:33:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 73,
+                        "tag": "eudialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!YV88nP",
+                        "end": 114,
+                        "expanded_url": "http://europa.eu/!YV88nP",
+                        "start": 91,
+                        "url": "https://t.co/YHhrK7lUbE"
+                    },
+                    {
+                        "display_url": "snpy.tv/1luIN0D",
+                        "end": 138,
+                        "expanded_url": "http://snpy.tv/1luIN0D",
+                        "start": 115,
+                        "url": "https://t.co/g4RF9tcKdn"
+                    }
+                ]
+            },
+            "id": "667002678317158402",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 17
+            },
+            "text": ".@JunckerEU \"French &amp; Belgian police cooperation is excellent\". LIVE #eudialogues LIVE https://t.co/YHhrK7lUbE https://t.co/g4RF9tcKdn"
+        },
+        {
+            "created_at": "2015-11-18T15:30:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 12,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "169426475",
+                        "start": 1,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "snpy.tv/1OQorLU",
+                        "end": 139,
+                        "expanded_url": "http://snpy.tv/1OQorLU",
+                        "start": 116,
+                        "url": "https://t.co/2lfv5Wk5lv"
+                    }
+                ]
+            },
+            "id": "667001829549453320",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 35
+            },
+            "text": ".@JunckerEU #EUdialogues \"Je ne voudrais pas que ma g\u00e9n\u00e9ration soit celle qui r\u00e9introduit les fronti\u00e8res en Europe\" https://t.co/2lfv5Wk5lv"
+        },
+        {
+            "created_at": "2015-11-18T15:05:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 71,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "169426475",
+                        "start": 14,
+                        "username": "JunckerEU"
+                    },
+                    {
+                        "end": 35,
+                        "id": "17169453",
+                        "start": 28,
+                        "username": "lesoir"
+                    },
+                    {
+                        "end": 48,
+                        "id": "21408400",
+                        "start": 36,
+                        "username": "destandaard"
+                    },
+                    {
+                        "end": 54,
+                        "id": "21313364",
+                        "start": 49,
+                        "username": "lobs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!YV88nP",
+                        "end": 113,
+                        "expanded_url": "http://europa.eu/!YV88nP",
+                        "start": 90,
+                        "url": "https://t.co/YHhrK7lUbE"
+                    },
+                    {
+                        "display_url": "snpy.tv/1WYPKrV",
+                        "end": 137,
+                        "expanded_url": "http://snpy.tv/1WYPKrV",
+                        "start": 114,
+                        "url": "https://t.co/uOGaq98Cxz"
+                    }
+                ]
+            },
+            "id": "666995715567054850",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 20
+            },
+            "text": "Dialogue avec @JunckerEU et @leSoir @destandaard @lObs. Participez sur #EUdialogues, LIVE https://t.co/YHhrK7lUbE https://t.co/uOGaq98Cxz"
+        },
+        {
+            "created_at": "2015-11-18T14:53:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "EUdialogues"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 28,
+                        "id": "169426475",
+                        "start": 18,
+                        "username": "JunckerEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!YV88nP",
+                        "end": 77,
+                        "expanded_url": "http://europa.eu/!YV88nP",
+                        "start": 54,
+                        "url": "https://t.co/YHhrK7lUbE"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QSQRRAWXMA",
+                        "end": 101,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/666992604224036865/photo/1",
+                        "start": 78,
+                        "url": "https://t.co/QSQRRAWXMA"
+                    }
+                ]
+            },
+            "id": "666992604224036865",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 19
+            },
+            "text": "#EUdialogues with @JunckerEU starting soon. Tune in @ https://t.co/YHhrK7lUbE https://t.co/QSQRRAWXMA"
+        },
+        {
+            "created_at": "2015-11-18T12:24:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 78,
+                        "tag": "ENP"
+                    },
+                    {
+                        "end": 93,
+                        "start": 83,
+                        "tag": "ENPreview"
+                    },
+                    {
+                        "end": 98,
+                        "start": 94,
+                        "tag": "FAQ"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!jN68UC",
+                        "end": 77,
+                        "expanded_url": "http://europa.eu/!jN68UC",
+                        "start": 54,
+                        "url": "https://t.co/xEM7cd751l"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/xcgl1tuo4I",
+                        "end": 122,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/666955153778585600/photo/1",
+                        "start": 99,
+                        "url": "https://t.co/xcgl1tuo4I"
+                    }
+                ]
+            },
+            "id": "666955153778585600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 33
+            },
+            "text": "European Neighbourhood Policy reviewed and explained: https://t.co/xEM7cd751l #ENP #ENPreview #FAQ https://t.co/xcgl1tuo4I"
+        },
+        {
+            "created_at": "2015-11-18T12:21:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "European Neighbourhood Policy",
+                        "probability": 0.3233,
+                        "start": 15,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 79,
+                        "id": "460163041",
+                        "start": 67,
+                        "username": "FedericaMog"
+                    },
+                    {
+                        "end": 94,
+                        "id": "1011129121",
+                        "start": 86,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/!CJ73CR",
+                        "end": 118,
+                        "expanded_url": "http://europa.eu/!CJ73CR",
+                        "start": 95,
+                        "url": "https://t.co/P0BIU0PzXA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BrDu5AerWy",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/666954271225716736/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/BrDu5AerWy"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BrDu5AerWy",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/666954271225716736/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/BrDu5AerWy"
+                    }
+                ]
+            },
+            "id": "666954271225716736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 15,
+                "retweet_count": 19
+            },
+            "text": "Starting NOW | European Neighbourhood Policy review press conf. w/ @FedericaMog &amp; @JHahnEU https://t.co/P0BIU0PzXA https://t.co/BrDu5AerWy"
+        }
+    ],
+    "meta": {
+        "newest_id": "671379493437595649",
+        "next_token": "1jzu9lk96gu5npw2cv92fgug9a00oqmgoa0j98qwkmf1",
+        "oldest_id": "666954271225716736",
+        "result_count": 100
+    }
+}

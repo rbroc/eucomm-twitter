@@ -1,0 +1,3216 @@
+{
+    "data": [
+        {
+            "created_at": "2011-06-22T11:05:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "European Chemicals Agency",
+                        "probability": 0.5165,
+                        "start": 58,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 36,
+                        "tag": "chemical"
+                    },
+                    {
+                        "end": 89,
+                        "start": 84,
+                        "tag": "ECHA"
+                    }
+                ]
+            },
+            "id": "83490843041873920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "New graduate scheme in the field of #chemical policies at European Chemicals Agency #ECHA http://bit.ly/j7Ezfs"
+        },
+        {
+            "created_at": "2011-06-22T11:04:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 18,
+                        "tag": "energy"
+                    },
+                    {
+                        "end": 56,
+                        "start": 45,
+                        "tag": "efficiency"
+                    }
+                ]
+            },
+            "id": "83490441307234304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "Strong impetus to #energy savings and energy #efficiency http://bit.ly/l9Phs3"
+        },
+        {
+            "created_at": "2011-06-22T10:58:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 30,
+                        "tag": "Professional"
+                    }
+                ]
+            },
+            "id": "83489147100209152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Commission seeks to modernise #Professional Qualifications Directive http://bit.ly/j5PJoI"
+        },
+        {
+            "created_at": "2011-06-22T08:35:23.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.829,
+                        "start": 13,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 79,
+                        "start": 68,
+                        "tag": "Parliament"
+                    },
+                    {
+                        "end": 97,
+                        "start": 91,
+                        "tag": "Greek"
+                    },
+                    {
+                        "end": 137,
+                        "start": 130,
+                        "tag": "Greece"
+                    }
+                ]
+            },
+            "id": "83453012508540928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Statement by President Barroso following the confidence vote in the #Parliament on the new #Greek Government http://bit.ly/mGJP0X #Greece"
+        },
+        {
+            "created_at": "2011-06-22T08:33:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.7552,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 39,
+                        "normalized_text": "President Van Rompuy",
+                        "probability": 0.8301,
+                        "start": 20,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "Ban Ki-moon",
+                        "probability": 0.8564,
+                        "start": 61,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 96,
+                        "start": 93,
+                        "tag": "UN"
+                    }
+                ]
+            },
+            "id": "83452560366780416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "President Barroso & President Van Rompuy @euHvR congratulate Ban Ki-moon with re-election as #UN Secretary-General http://bit.ly/jm32iF"
+        },
+        {
+            "created_at": "2011-06-21T14:20:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Wroc\u0142aw"
+                    },
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "Culture"
+                    },
+                    {
+                        "end": 58,
+                        "start": 51,
+                        "tag": "Poland"
+                    }
+                ]
+            },
+            "id": "83177438254858241",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 17
+            },
+            "text": "#Wroc\u0142aw to be the European Capital of #Culture in #Poland in 2016 http://bit.ly/jFwxbG"
+        },
+        {
+            "created_at": "2011-06-21T14:02:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Aviation"
+                    },
+                    {
+                        "end": 21,
+                        "start": 11,
+                        "tag": "Transport"
+                    },
+                    {
+                        "end": 94,
+                        "start": 83,
+                        "tag": "technology"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 48,
+                        "id": "2982227086",
+                        "start": 35,
+                        "username": "SiimKallasEU"
+                    }
+                ]
+            },
+            "id": "83172887233708032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#Aviation: #Transport Commissioner @SiimKallasEU calls for closer collaboration on #technology http://bit.ly/miwtd9"
+        },
+        {
+            "created_at": "2011-06-21T10:21:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 12,
+                        "tag": "Environment"
+                    },
+                    {
+                        "end": 73,
+                        "start": 67,
+                        "tag": "water"
+                    },
+                    {
+                        "end": 88,
+                        "start": 74,
+                        "tag": "climatechange"
+                    }
+                ]
+            },
+            "id": "83117396503691264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Preparation #Environment Council 21 June 2011 http://bit.ly/kX4euk #water #climatechange"
+        },
+        {
+            "created_at": "2011-06-21T10:19:51.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "digitalagenda"
+                    },
+                    {
+                        "end": 85,
+                        "start": 72,
+                        "tag": "broadcasting"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "broadband"
+                    },
+                    {
+                        "end": 136,
+                        "start": 128,
+                        "tag": "belgium"
+                    }
+                ]
+            },
+            "id": "83116916671119361",
+            "lang": "ca",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#digitalagenda: EC concerns on Belgian regulators' proposal to regulate #broadcasting & #broadband markets http://bit.ly/mAp526 #belgium"
+        },
+        {
+            "created_at": "2011-06-21T10:17:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 49,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 72,
+                        "start": 61,
+                        "tag": "innovation"
+                    },
+                    {
+                        "end": 106,
+                        "start": 94,
+                        "tag": "horizon2020"
+                    }
+                ]
+            },
+            "id": "83116219888181249",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "New name for the future EU funding programme for #research & #innovation http://bit.ly/ljPH3n #horizon2020"
+        },
+        {
+            "created_at": "2011-06-21T10:15:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "Myspace"
+                    },
+                    {
+                        "end": 49,
+                        "start": 44,
+                        "tag": "Bebo"
+                    },
+                    {
+                        "end": 67,
+                        "start": 59,
+                        "tag": "privacy"
+                    },
+                    {
+                        "end": 113,
+                        "start": 99,
+                        "tag": "digitalagenda"
+                    }
+                ]
+            },
+            "id": "83115920834301952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Only 2 social networking sites (#Myspace  & #Bebo) protect #privacy of minors' profiles by default #digitalagenda http://bit.ly/jYHFTB"
+        },
+        {
+            "created_at": "2011-06-21T10:12:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "EU",
+                        "probability": 0.6043,
+                        "start": 26,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 101,
+                        "start": 89,
+                        "tag": "maintenance"
+                    },
+                    {
+                        "end": 111,
+                        "start": 102,
+                        "tag": "payments"
+                    }
+                ]
+            },
+            "id": "83114979368239104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Children benefit from new EU rules on payments when parents divorce http://bit.ly/juI80F #maintenance #payments"
+        },
+        {
+            "created_at": "2011-06-21T07:35:22.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 33,
+                        "tag": "iSOFT"
+                    },
+                    {
+                        "end": 47,
+                        "start": 43,
+                        "tag": "CSC"
+                    },
+                    {
+                        "end": 56,
+                        "start": 48,
+                        "tag": "mergers"
+                    }
+                ]
+            },
+            "id": "83075519733706753",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Commission clears acquisition of #iSOFT by #CSC #mergers http://bit.ly/kovA0W"
+        },
+        {
+            "created_at": "2011-06-21T06:56:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 42,
+                        "tag": "Architecture"
+                    },
+                    {
+                        "end": 83,
+                        "start": 76,
+                        "tag": "Awards"
+                    }
+                ]
+            },
+            "id": "83065776550055937",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Winners of 2011 EU Prize for Contemporary #Architecture / Mies van der Rohe #Awards honoured http://bit.ly/kjhkMg"
+        },
+        {
+            "created_at": "2011-06-20T14:04:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 26,
+                        "tag": "USA"
+                    },
+                    {
+                        "end": 79,
+                        "start": 73,
+                        "tag": "trade"
+                    }
+                ]
+            },
+            "id": "82811021688963073",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "EU trade chief travels to #USA & Central America to foster transatlantic #trade ties http://bit.ly/jyLBMr"
+        },
+        {
+            "created_at": "2011-06-20T10:19:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 5,
+                        "tag": "Japan"
+                    },
+                    {
+                        "end": 63,
+                        "start": 54,
+                        "tag": "Internet"
+                    },
+                    {
+                        "end": 87,
+                        "start": 73,
+                        "tag": "digitalagenda"
+                    }
+                ]
+            },
+            "id": "82754450845999104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "EU & #Japan agree to strengthen cooperation in Future #Internet research #digitalagenda http://bit.ly/mBJPJO"
+        },
+        {
+            "created_at": "2011-06-20T10:15:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 12,
+                        "tag": "food"
+                    },
+                    {
+                        "end": 96,
+                        "start": 86,
+                        "tag": "consumers"
+                    }
+                ]
+            },
+            "id": "82753343797198849",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Specialized #food products : Commission's initiative to provide better information to #consumers http://bit.ly/j9bKZT"
+        },
+        {
+            "created_at": "2011-06-20T10:14:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.5291,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 16,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 52,
+                        "start": 46,
+                        "tag": "Niger"
+                    }
+                ]
+            },
+            "id": "82753112565227520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "EU resumes full #development cooperation with #Niger http://bit.ly/iAtyHM"
+        },
+        {
+            "created_at": "2011-06-20T10:11:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 52,
+                        "start": 48,
+                        "tag": "Rio"
+                    },
+                    {
+                        "end": 101,
+                        "start": 88,
+                        "tag": "greeneconomy"
+                    },
+                    {
+                        "end": 117,
+                        "start": 102,
+                        "tag": "sustainability"
+                    }
+                ]
+            },
+            "id": "82752298417266688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Commission presents policy orientations for the #Rio+20 Conference http://bit.ly/l1e7AQ #greeneconomy #sustainability"
+        },
+        {
+            "created_at": "2011-06-20T10:09:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "EU",
+                        "probability": 0.5878,
+                        "start": 17,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 51,
+                        "tag": "environment"
+                    }
+                ]
+            },
+            "id": "82751846724280320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Huge majority of EU citizens care deeply about the #environment http://bit.ly/m6TURo"
+        },
+        {
+            "created_at": "2011-06-20T10:08:21.000Z",
+            "id": "82751635054542848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u20ac 113 million for the 2012 most deprived persons programme http://bit.ly/iBsQoW"
+        },
+        {
+            "created_at": "2011-06-20T10:07:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 34,
+                        "tag": "film"
+                    },
+                    {
+                        "end": 77,
+                        "start": 68,
+                        "tag": "stateaid"
+                    }
+                ]
+            },
+            "id": "82751325049323520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 8
+            },
+            "text": "Commission consults on support to #film sector http://bit.ly/muzb0u #stateaid"
+        },
+        {
+            "created_at": "2011-06-17T14:52:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Piebalgs"
+                    },
+                    {
+                        "end": 62,
+                        "start": 53,
+                        "tag": "Pakistan"
+                    },
+                    {
+                        "end": 79,
+                        "start": 67,
+                        "tag": "agriculture"
+                    },
+                    {
+                        "end": 91,
+                        "start": 81,
+                        "tag": "education"
+                    },
+                    {
+                        "end": 107,
+                        "start": 96,
+                        "tag": "governance"
+                    }
+                ]
+            },
+            "id": "81735961431650304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "#Piebalgs: signature of \u20ac225 million worth of aid to #Pakistan for #agriculture, #education and #governance http://bit.ly/medSWT (video)"
+        },
+        {
+            "created_at": "2011-06-17T14:07:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 10,
+                        "tag": "Almunia"
+                    },
+                    {
+                        "end": 75,
+                        "start": 67,
+                        "tag": "Ireland"
+                    },
+                    {
+                        "end": 130,
+                        "start": 124,
+                        "tag": "banks"
+                    },
+                    {
+                        "end": 140,
+                        "start": 131,
+                        "tag": "StateAid"
+                    }
+                ]
+            },
+            "id": "81724731174293504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Speech VP #Almunia: \"Beyond the banking crisis: another chapter in #Ireland's history of resilience\",  http://bit.ly/m9uVE0 #banks #StateAid"
+        },
+        {
+            "created_at": "2011-06-17T14:03:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "DigitalAgenda"
+                    },
+                    {
+                        "end": 67,
+                        "start": 58,
+                        "tag": "spectrum"
+                    }
+                ]
+            },
+            "id": "81723668266364930",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#DigitalAgenda: fast progress needed to ensure sufficient #spectrum allocation in the EU http://bit.ly/jNM2G9"
+        },
+        {
+            "created_at": "2011-06-17T12:10:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "Eurogroup"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 118,
+                        "id": "28114871",
+                        "start": 112,
+                        "username": "ecfin"
+                    }
+                ]
+            },
+            "id": "81695227437522944",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Preparation of #Eurogroup and Economic and Finance Ministers Council, 19 and 20 June 2011  http://bit.ly/mBjmdR @ecfin"
+        },
+        {
+            "created_at": "2011-06-17T12:07:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "Asylum"
+                    }
+                ]
+            },
+            "id": "81694557170970624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "The European #Asylum Support Office is now fully operational  http://bit.ly/m42bXD"
+        },
+        {
+            "created_at": "2011-06-17T12:05:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 97,
+                        "start": 90,
+                        "tag": "Greece"
+                    }
+                ]
+            },
+            "id": "81694011093549057",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 6
+            },
+            "text": "#Barroso: \"I call on all political forces to secure broad support for the economic reform #Greece needs\" http://bit.ly/lkYaQV"
+        },
+        {
+            "created_at": "2011-06-17T12:02:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "DigitalAgenda"
+                    }
+                ]
+            },
+            "id": "81693159926677504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#DigitalAgenda: \"Best children's online content\" competition winners : http://bit.ly/lD7WdS"
+        },
+        {
+            "created_at": "2011-06-17T11:43:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 80,
+                        "tag": "asylum"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "antifraud"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "roaming"
+                    },
+                    {
+                        "end": 116,
+                        "start": 108,
+                        "tag": "Galileo"
+                    }
+                ]
+            },
+            "id": "81688416777019392",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Top News from the European Commission 7 June \u2013 21 July 2011http://bit.ly/jR4JCX #asylum #antifraud #roaming #Galileo"
+        },
+        {
+            "created_at": "2011-06-17T11:33:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "EC",
+                        "probability": 0.703,
+                        "start": 10,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "Coulter",
+                        "probability": 0.6319,
+                        "start": 65,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 64,
+                        "start": 56,
+                        "tag": "Beckman"
+                    },
+                    {
+                        "end": 101,
+                        "start": 93,
+                        "tag": "Danaher"
+                    }
+                ]
+            },
+            "id": "81686008399265792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Mergers: EC approves acquisition of biomedical company #Beckman Coulter by technology group #Danaher  http://bit.ly/mDJCrk"
+        },
+        {
+            "created_at": "2011-06-17T11:33:17.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 75,
+                        "start": 68,
+                        "tag": "Keiper"
+                    },
+                    {
+                        "end": 100,
+                        "start": 92,
+                        "tag": "Johnson"
+                    }
+                ]
+            },
+            "id": "81685844024508416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Mergers: Commission approves acquisition of automotive business of #Keiper Recaro Group by #Johnson Controls  http://bit.ly/m4V9LW"
+        },
+        {
+            "created_at": "2011-06-17T11:32:29.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "EC",
+                        "probability": 0.7202,
+                        "start": 10,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 33,
+                        "normalized_text": "Liberty Global",
+                        "probability": 0.6401,
+                        "start": 20,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 83,
+                        "start": 79,
+                        "tag": "KBW"
+                    }
+                ]
+            },
+            "id": "81685641980682240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Mergers: EC refers Liberty Global planned acquisition of German cable company #KBW to German competition authority http://bit.ly/iEd3CA"
+        },
+        {
+            "created_at": "2011-06-16T13:04:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 14,
+                        "tag": "tobacco"
+                    }
+                ]
+            },
+            "id": "81346415485399040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 10
+            },
+            "text": "Fight against #tobacco: EC launches pan-European campaign: www.exsmokers.eu press release: http://bit.ly/l51VYj"
+        },
+        {
+            "created_at": "2011-06-16T12:40:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EC",
+                        "probability": 0.6065,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 42,
+                        "tag": "waste"
+                    },
+                    {
+                        "end": 102,
+                        "start": 90,
+                        "tag": "environment"
+                    }
+                ]
+            },
+            "id": "81340478645223425",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "EC asks 5 Member States to comply with EU #waste framework directive http://bit.ly/jNVAkA #environment"
+        },
+        {
+            "created_at": "2011-06-16T12:39:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 90,
+                        "tag": "pollution"
+                    },
+                    {
+                        "end": 113,
+                        "start": 101,
+                        "tag": "environment"
+                    }
+                ]
+            },
+            "id": "81340149681758208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "Environmental crimes: EC asks 12 Member States to implement EU rules http://bit.ly/lsRZZk #pollution #environment"
+        },
+        {
+            "created_at": "2011-06-16T12:38:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EC",
+                        "probability": 0.6355,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "EU",
+                        "probability": 0.5998,
+                        "start": 39,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 129,
+                        "start": 119,
+                        "tag": "transport"
+                    }
+                ]
+            },
+            "id": "81339810320625664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "EC asks 9 Member States to comply with EU vessel traffic monitoring and information system regime http://bit.ly/lN8JEG #transport"
+        },
+        {
+            "created_at": "2011-06-16T12:30:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EC",
+                        "probability": 0.5974,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 37,
+                        "tag": "railway"
+                    },
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "transport"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "tag": "infringements"
+                    }
+                ]
+            },
+            "id": "81337733670383616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "EC asks 8 Member States to implement #railway interoperability Directives http://bit.ly/myPx1X #transport #infringements"
+        },
+        {
+            "created_at": "2011-06-16T12:28:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 97,
+                        "tag": "infringements"
+                    },
+                    {
+                        "end": 124,
+                        "start": 112,
+                        "tag": "environment"
+                    }
+                ]
+            },
+            "id": "81337388781158400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "EC requests 10 Member States to comply with green vehicle procurement rules http://bit.ly/mrR5Xr #infringements #environment"
+        },
+        {
+            "created_at": "2011-06-16T11:39:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "Infringements"
+                    },
+                    {
+                        "end": 34,
+                        "start": 31,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 110,
+                        "start": 100,
+                        "tag": "transport"
+                    },
+                    {
+                        "end": 119,
+                        "start": 111,
+                        "tag": "justice"
+                    },
+                    {
+                        "end": 132,
+                        "start": 120,
+                        "tag": "environment"
+                    }
+                ]
+            },
+            "id": "81325040469147648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "#Infringements - cases against #EU Member States for not complying with EU law http://bit.ly/l6DwNu #transport #justice #environment"
+        },
+        {
+            "created_at": "2011-06-16T11:35:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 5,
+                        "tag": "Rehn"
+                    },
+                    {
+                        "end": 31,
+                        "start": 24,
+                        "tag": "Greece"
+                    },
+                    {
+                        "end": 60,
+                        "start": 55,
+                        "tag": "euro"
+                    }
+                ]
+            },
+            "id": "81324005327503360",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Cssr #Rehn statement on #Greece:  http://bit.ly/l33iD9 #euro"
+        },
+        {
+            "created_at": "2011-06-16T10:40:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "climate"
+                    }
+                ]
+            },
+            "id": "81310112710533120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "#Barroso: \"The world needs to do much better if we are to limit temperature increase to 2\u00b0C...\" Speech http://bit.ly/kXgImI #climate"
+        },
+        {
+            "created_at": "2011-06-16T10:36:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 82,
+                        "tag": "Health"
+                    }
+                ]
+            },
+            "id": "81309257714245632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "The holiday season is approaching! Travel safely \u2013 and don't forget your European #Health Insurance Card!! http://bit.ly/diLEVz"
+        },
+        {
+            "created_at": "2011-06-16T10:21:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 15,
+                        "start": 4,
+                        "tag": "Commission"
+                    },
+                    {
+                        "end": 30,
+                        "start": 22,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 51,
+                        "start": 43,
+                        "tag": "climate"
+                    },
+                    {
+                        "end": 80,
+                        "start": 69,
+                        "tag": "renewables"
+                    },
+                    {
+                        "end": 95,
+                        "start": 89,
+                        "tag": "Kinks"
+                    }
+                ]
+            },
+            "id": "81305492999249922",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EU #Commission chief #Barroso on fighting #climate change, boosting #renewables and The #Kinks: http://bit.ly/il8C0E"
+        },
+        {
+            "created_at": "2011-06-16T09:32:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 53,
+                        "start": 43,
+                        "tag": "Columbian"
+                    },
+                    {
+                        "end": 64,
+                        "start": 54,
+                        "tag": "Chemicals"
+                    },
+                    {
+                        "end": 74,
+                        "start": 68,
+                        "tag": "Birla"
+                    }
+                ]
+            },
+            "id": "81292951539564546",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#Mergers: Commission clears acquisition of #Columbian #Chemicals by #Birla Group  http://bit.ly/j6iO2b"
+        },
+        {
+            "created_at": "2011-06-16T09:15:01.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 33,
+                        "id": "2560246616",
+                        "start": 17,
+                        "username": "JanezPotocnikEU"
+                    }
+                ]
+            },
+            "id": "81288660632342530",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "11.30: Pressconf @JanezPotocnikEU on Bathing Water Report + launch of the new symbol on bathing water classification http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-06-15T14:24:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 77,
+                        "tag": "data"
+                    },
+                    {
+                        "end": 94,
+                        "start": 83,
+                        "tag": "protection"
+                    }
+                ]
+            },
+            "id": "81004267019829248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "EDPS Annual Report 2010: an increased effort is required to ensure effective #data #protection in practice  http://bit.ly/kNgnLg"
+        },
+        {
+            "created_at": "2011-06-15T13:24:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "EC",
+                        "probability": 0.5427,
+                        "start": 11,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "German Leipzig",
+                        "probability": 0.7532,
+                        "start": 88,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Halle airport",
+                        "probability": 0.3829,
+                        "start": 103,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "StateAid"
+                    }
+                ]
+            },
+            "id": "80988969604628480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#StateAid: EC opens in-depth investigation into financing of infrastructure projects at German Leipzig/Halle airport http://bit.ly/l5koeo"
+        },
+        {
+            "created_at": "2011-06-15T13:23:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 14,
+                        "start": 4,
+                        "tag": "Transport"
+                    },
+                    {
+                        "end": 63,
+                        "start": 58,
+                        "tag": "rail"
+                    }
+                ]
+            },
+            "id": "80988732349616128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EU #Transport: New rules to establish a more competitive #rail market:  http://bit.ly/jbar22"
+        },
+        {
+            "created_at": "2011-06-15T10:09:54.000Z",
+            "id": "80940082982424576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "Reminder: vote for your favorite EuroCoin design? http://www.eurocoin-competition.eu/ Deadline: 24 June."
+        },
+        {
+            "created_at": "2011-06-14T13:16:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EC",
+                        "probability": 0.6718,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "EU",
+                        "probability": 0.7468,
+                        "start": 39,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 79,
+                        "start": 63,
+                        "tag": "electromagnetic"
+                    },
+                    {
+                        "end": 87,
+                        "start": 80,
+                        "tag": "fields"
+                    }
+                ]
+            },
+            "id": "80624769694834688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "EC proposes to revamp rules to protect EU workers from harmful #electromagnetic #fields  http://bit.ly/lV3XPA"
+        },
+        {
+            "created_at": "2011-06-14T13:15:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 52,
+                        "start": 43,
+                        "tag": "Parmalat"
+                    },
+                    {
+                        "end": 65,
+                        "start": 56,
+                        "tag": "Lactalis"
+                    },
+                    {
+                        "end": 93,
+                        "start": 87,
+                        "tag": "dairy"
+                    },
+                    {
+                        "end": 101,
+                        "start": 94,
+                        "tag": "France"
+                    },
+                    {
+                        "end": 108,
+                        "start": 102,
+                        "tag": "Italy"
+                    }
+                ]
+            },
+            "id": "80624380274671616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Mergers: Commission clears acquisition of #Parmalat by #Lactalis http://bit.ly/mcZHT7 #dairy #France #Italy"
+        },
+        {
+            "created_at": "2011-06-14T13:13:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "EU",
+                        "probability": 0.4828,
+                        "start": 44,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 26,
+                        "tag": "detention"
+                    },
+                    {
+                        "end": 65,
+                        "start": 57,
+                        "tag": "justice"
+                    },
+                    {
+                        "end": 100,
+                        "start": 87,
+                        "tag": "consultation"
+                    }
+                ]
+            },
+            "id": "80623882016530433",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "Commission seeks views on #detention in the EU's area of #justice http://bit.ly/ijjeac #consultation"
+        },
+        {
+            "created_at": "2011-06-14T12:35:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 23,
+                        "tag": "European"
+                    },
+                    {
+                        "end": 39,
+                        "start": 33,
+                        "tag": "Green"
+                    },
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "Capital"
+                    },
+                    {
+                        "end": 79,
+                        "start": 76,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 92,
+                        "start": 80,
+                        "tag": "Environment"
+                    }
+                ]
+            },
+            "id": "80614384317116416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Could your city be the #European #Green #Capital 2014? http://bit.ly/jPSz1A #EU #Environment"
+        },
+        {
+            "created_at": "2011-06-14T08:11:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 12,
+                        "tag": "Schengen"
+                    },
+                    {
+                        "end": 110,
+                        "start": 100,
+                        "tag": "Malmstr\u00f6m"
+                    }
+                ]
+            },
+            "id": "80547778194976768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 18
+            },
+            "text": "26 years of #Schengen:  \"one of the most tangible and successful achievements of the EU,\" says Cssr #Malmstr\u00f6m http://bit.ly/lpu7rR"
+        },
+        {
+            "created_at": "2011-06-11T18:26:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 46,
+                        "tag": "parliament"
+                    },
+                    {
+                        "end": 64,
+                        "start": 61,
+                        "tag": "eu"
+                    },
+                    {
+                        "end": 103,
+                        "start": 95,
+                        "tag": "Barroso"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2855615075",
+                        "start": 3,
+                        "username": "ecspokeskoen"
+                    }
+                ]
+            },
+            "id": "79615388849152000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 2
+            },
+            "text": "MT @ECspokesKoen: How active is your national #parliament on #eu affairs? http://bit.ly/kHTqrh #Barroso"
+        },
+        {
+            "created_at": "2011-06-10T11:19:59.000Z",
+            "id": "79145781579362304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "National Parliaments rise to the challenge http://bit.ly/lIJEry"
+        },
+        {
+            "created_at": "2011-06-10T10:28:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.8149,
+                        "start": 13,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 34,
+                        "tag": "Croatia"
+                    },
+                    {
+                        "end": 111,
+                        "start": 101,
+                        "tag": "accession"
+                    }
+                ]
+            },
+            "id": "79132805237440513",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 12
+            },
+            "text": "Statement by President Barroso on #Croatia : Commission proposes to close the last \"Chapters\" in the #accession talks http://bit.ly/mSXLeP"
+        },
+        {
+            "created_at": "2011-06-10T10:14:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "EU",
+                        "probability": 0.7321,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": "EU Institutions",
+                        "probability": 0.4873,
+                        "start": 77,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "Cybersecurity"
+                    },
+                    {
+                        "end": 47,
+                        "start": 38,
+                        "tag": "Computer"
+                    },
+                    {
+                        "end": 58,
+                        "start": 48,
+                        "tag": "Emergency"
+                    }
+                ]
+            },
+            "id": "79129315773657088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "#Cybersecurity: EU prepares to set up #Computer #Emergency Response Team for EU Institutions http://bit.ly/jOyxGN"
+        },
+        {
+            "created_at": "2011-06-10T10:13:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 68,
+                        "start": 60,
+                        "tag": "jobless"
+                    },
+                    {
+                        "end": 91,
+                        "start": 77,
+                        "tag": "Globalisation"
+                    }
+                ]
+            },
+            "id": "79129112282800128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Commission proposes to continue economic crisis support for #jobless from EU #Globalisation Fund until end 2013 http://bit.ly/lm1cAb"
+        },
+        {
+            "created_at": "2011-06-10T10:12:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "Development"
+                    },
+                    {
+                        "end": 34,
+                        "start": 31,
+                        "tag": "US"
+                    },
+                    {
+                        "end": 67,
+                        "start": 60,
+                        "tag": "health"
+                    },
+                    {
+                        "end": 74,
+                        "start": 70,
+                        "tag": "aid"
+                    }
+                ]
+            },
+            "id": "79128903494533120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "#Development cooperation: EU & #US joining forces on global #health & #aid effectiveness  http://bit.ly/lxmEes"
+        },
+        {
+            "created_at": "2011-06-10T10:11:52.000Z",
+            "id": "79128640771719168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Top News from the European Commission 10 June \u2013 14 July 2011 http://bit.ly/lot5xk"
+        },
+        {
+            "created_at": "2011-06-10T10:11:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 63,
+                        "tag": "vaccines"
+                    }
+                ]
+            },
+            "id": "79128477114175488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Commission announces  extra \u20ac10 million to provide life-saving #vaccines http://bit.ly/iEkm0j"
+        },
+        {
+            "created_at": "2011-06-10T07:34:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 35,
+                        "tag": "Ferrosan"
+                    },
+                    {
+                        "end": 87,
+                        "start": 80,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 96,
+                        "start": 88,
+                        "tag": "mergers"
+                    }
+                ]
+            },
+            "id": "79088986274017280",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "text": "Commission approves acquisition of #Ferrosan's Consumer Health Care Business by #Pfizer #mergers http://bit.ly/jkTzgW"
+        },
+        {
+            "created_at": "2011-06-10T06:52:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Antitrust"
+                    },
+                    {
+                        "end": 53,
+                        "start": 46,
+                        "tag": "cartel"
+                    },
+                    {
+                        "end": 81,
+                        "start": 71,
+                        "tag": "seatbelts"
+                    },
+                    {
+                        "end": 91,
+                        "start": 83,
+                        "tag": "airbags"
+                    }
+                ]
+            },
+            "id": "79078483040538624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Antitrust: Commission investigates suspected #cartel in the sector of #seatbelts, #airbags & steering wheels http://bit.ly/k2qoMJ"
+        },
+        {
+            "created_at": "2011-06-09T15:44:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 48,
+                        "tag": "polyester"
+                    },
+                    {
+                        "end": 76,
+                        "start": 68,
+                        "tag": "Trevira"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "Indorama"
+                    },
+                    {
+                        "end": 102,
+                        "start": 92,
+                        "tag": "Sinterama"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "mergers"
+                    }
+                ]
+            },
+            "id": "78849840540434432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Commission approves joint acquisition of German #polyester producer #Trevira by #Indorama & #Sinterama http://bit.ly/iyJJsX #mergers"
+        },
+        {
+            "created_at": "2011-06-09T14:50:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 54,
+                        "normalized_text": "Twitter",
+                        "probability": 0.5773,
+                        "start": 48,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 14,
+                        "start": 4,
+                        "tag": "Transport"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "2982227086",
+                        "start": 28,
+                        "username": "SiimKallasEU"
+                    }
+                ]
+            },
+            "id": "78836492205690880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#EU #Transport Commissioner @SiimKallasEU is on Twitter!"
+        },
+        {
+            "created_at": "2011-06-09T11:55:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "EU",
+                        "probability": 0.5236,
+                        "start": 79,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 13,
+                        "tag": "Oettinger"
+                    },
+                    {
+                        "end": 51,
+                        "start": 43,
+                        "tag": "nuclear"
+                    },
+                    {
+                        "end": 129,
+                        "start": 126,
+                        "tag": "eu"
+                    },
+                    {
+                        "end": 137,
+                        "start": 130,
+                        "tag": "energy"
+                    }
+                ]
+            },
+            "id": "78792449513881600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Speech: Cssr #Oettinger on stress tests of #nuclear power plants and safety in EU neighbouring countries http://bit.ly/lnXV9P #eu #energy"
+        },
+        {
+            "created_at": "2011-06-09T11:19:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 19,
+                        "tag": "Energy"
+                    }
+                ]
+            },
+            "id": "78783220019232768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Preparation of the #Energy Council, 10th June 2011 http://bit.ly/la4eCE"
+        },
+        {
+            "created_at": "2011-06-09T11:17:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Europe",
+                        "probability": 0.9495,
+                        "start": 29,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 38,
+                        "tag": "innovation"
+                    },
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "tag": "emergency"
+                    }
+                ]
+            },
+            "id": "78782642530680832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Commission report highlights Europe's #innovation #emergency & analyses Member States' progress http://bit.ly/ijqDbY"
+        },
+        {
+            "created_at": "2011-06-08T10:05:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 3,
+                        "tag": "Russia"
+                    }
+                ]
+            },
+            "id": "78402319347228672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "EU-#Russia Summit on 9-10 June 2011 http://bit.ly/lkywkz"
+        },
+        {
+            "created_at": "2011-06-08T10:04:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 34,
+                        "tag": "rights"
+                    },
+                    {
+                        "end": 65,
+                        "start": 58,
+                        "tag": "lawyer"
+                    }
+                ]
+            },
+            "id": "78401987183521792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Commission to guarantee suspects\u2019 #rights to speak with a #lawyer, inform family of arrest http://bit.ly/miExTh"
+        },
+        {
+            "created_at": "2011-06-08T10:03:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 24,
+                        "tag": "website"
+                    },
+                    {
+                        "end": 57,
+                        "start": 48,
+                        "tag": "Internet"
+                    },
+                    {
+                        "end": 97,
+                        "start": 83,
+                        "tag": "digitalagenda"
+                    },
+                    {
+                        "end": 124,
+                        "start": 119,
+                        "tag": "IPv6"
+                    }
+                ]
+            },
+            "id": "78401695419342848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Commission makes Europa #website accessible for #Internet Protocol version 6 users #digitalagenda http://bit.ly/lJjWqZ #IPv6"
+        },
+        {
+            "created_at": "2011-06-07T14:12:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Mr Nikola",
+                        "probability": 0.9724,
+                        "start": 33,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 10,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 52,
+                        "start": 43,
+                        "tag": "Gruevski"
+                    },
+                    {
+                        "end": 84,
+                        "start": 75,
+                        "tag": "election"
+                    },
+                    {
+                        "end": 117,
+                        "start": 107,
+                        "tag": "Macedonia"
+                    }
+                ]
+            },
+            "id": "78102091419222016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "President #Barroso congratulates Mr Nikola #Gruevski, on the result of the #election of 5 June in F.Y.R of #Macedonia http://bit.ly/lSmYZP"
+        },
+        {
+            "created_at": "2011-06-07T14:01:17.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 140,
+                        "start": 129,
+                        "tag": "Europe2020"
+                    }
+                ]
+            },
+            "id": "78099211358445568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#Barroso: \"our interdependent economies demand that we cooperate more effectively than we have in the past\" http://bit.ly/k81h4G #Europe2020"
+        },
+        {
+            "created_at": "2011-06-07T13:57:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 84,
+                        "start": 73,
+                        "tag": "Europe2020"
+                    },
+                    {
+                        "end": 122,
+                        "start": 115,
+                        "tag": "reform"
+                    },
+                    {
+                        "end": 133,
+                        "start": 123,
+                        "tag": "stability"
+                    }
+                ]
+            },
+            "id": "78098306470912000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "The 2011 Country-specific Recommendations documents are available on the #Europe2020 website: http://bit.ly/iVU6vH #reform #stability"
+        },
+        {
+            "created_at": "2011-06-07T11:37:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 21,
+                        "tag": "lorries"
+                    },
+                    {
+                        "end": 72,
+                        "start": 62,
+                        "tag": "pollution"
+                    }
+                ]
+            },
+            "id": "78063050619486208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Road charging: Heavy #lorries to pay for costs of air & noise #pollution http://bit.ly/lXPaFZ"
+        },
+        {
+            "created_at": "2011-06-07T11:02:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 25,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 62,
+                        "start": 52,
+                        "tag": "elections"
+                    },
+                    {
+                        "end": 134,
+                        "start": 131,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "78054257026277376",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Joint statement by HR/VP #Ashton & Cssr F\u00fcle on the #elections in the former Yugoslav Republic of # Macedonia http://bit.ly/lmDQsp #EU"
+        },
+        {
+            "created_at": "2011-06-07T11:00:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "public"
+                    },
+                    {
+                        "end": 33,
+                        "start": 21,
+                        "tag": "procurement"
+                    },
+                    {
+                        "end": 41,
+                        "start": 34,
+                        "tag": "policy"
+                    }
+                ]
+            },
+            "id": "78053595089612802",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "New external #public #procurement #policy for the EU - FAQ http://bit.ly/kF1nOT"
+        },
+        {
+            "created_at": "2011-06-07T10:58:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 87,
+                        "tag": "public"
+                    },
+                    {
+                        "end": 107,
+                        "start": 95,
+                        "tag": "procurement"
+                    },
+                    {
+                        "end": 116,
+                        "start": 108,
+                        "tag": "markets"
+                    }
+                ]
+            },
+            "id": "78053171192283136",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Consultation: authorities, business and civil society's opinion on  access to external #public #procurement #markets http://bit.ly/jHxjzi"
+        },
+        {
+            "created_at": "2011-06-07T07:15:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 51,
+                        "start": 45,
+                        "tag": "Sanex"
+                    },
+                    {
+                        "end": 63,
+                        "start": 55,
+                        "tag": "Colgate"
+                    }
+                ]
+            },
+            "id": "77997143582978048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#Mergers: Commission approves acquisition of #Sanex by #Colgate http://bit.ly/mw7xUj"
+        },
+        {
+            "created_at": "2011-06-06T13:56:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 6,
+                        "tag": "shopping"
+                    },
+                    {
+                        "end": 36,
+                        "start": 27,
+                        "tag": "Consumer"
+                    }
+                ]
+            },
+            "id": "77735723649859585",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Safer #shopping : European #Consumer Centres help 71,000 EU shoppers in 2010 http://bit.ly/lGkB4D"
+        },
+        {
+            "created_at": "2011-06-06T13:10:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 16,
+                        "tag": "euro"
+                    },
+                    {
+                        "end": 43,
+                        "start": 38,
+                        "tag": "coin"
+                    }
+                ]
+            },
+            "id": "77723935952736256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 21
+            },
+            "text": "10 years of the #euro \u2013 commemorative #coin design to be chosen by the public http://bit.ly/iDqVK2"
+        },
+        {
+            "created_at": "2011-06-06T10:45:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 27,
+                        "tag": "Vasiliou"
+                    },
+                    {
+                        "end": 65,
+                        "start": 57,
+                        "tag": "student"
+                    },
+                    {
+                        "end": 75,
+                        "start": 66,
+                        "tag": "mobility"
+                    },
+                    {
+                        "end": 86,
+                        "start": 76,
+                        "tag": "education"
+                    }
+                ]
+            },
+            "id": "77687434556612608",
+            "lang": "lt",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "13h00 CET: press conf Cssr #Vasiliou: Erasmus statistics #student #mobility #education"
+        },
+        {
+            "created_at": "2011-06-06T10:15:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 27,
+                        "tag": "Malmstr\u00f6m"
+                    },
+                    {
+                        "end": 69,
+                        "start": 58,
+                        "tag": "corruption"
+                    }
+                ]
+            },
+            "id": "77679881252634624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "12h30 CET: press conf Cssr #Malmstr\u00f6m: EU's fight against #corruption http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-06-06T10:12:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 18,
+                        "tag": "corruption"
+                    }
+                ]
+            },
+            "id": "77679255877722112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Commission fights #corruption: a stronger commitment for greater results http://bit.ly/iwLfk9"
+        },
+        {
+            "created_at": "2011-06-06T10:10:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 9,
+                        "normalized_text": "EU",
+                        "probability": 0.5238,
+                        "start": 8,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 34,
+                        "tag": "carbon"
+                    },
+                    {
+                        "end": 53,
+                        "start": 42,
+                        "tag": "efficiency"
+                    },
+                    {
+                        "end": 79,
+                        "start": 75,
+                        "tag": "ETS"
+                    }
+                ]
+            },
+            "id": "77678638237102080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Helping EU industries to speed up #carbon #efficiency http://bit.ly/ijUIlB #ETS"
+        },
+        {
+            "created_at": "2011-06-06T10:08:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 47,
+                        "tag": "Eik"
+                    },
+                    {
+                        "end": 57,
+                        "start": 52,
+                        "tag": "Bank"
+                    },
+                    {
+                        "end": 87,
+                        "start": 79,
+                        "tag": "Denmark"
+                    },
+                    {
+                        "end": 97,
+                        "start": 88,
+                        "tag": "stateaid"
+                    }
+                ]
+            },
+            "id": "77678331671220224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Commission approves liquidation aid for Danish #Eik #Bank http://bit.ly/jdKix6 #Denmark #stateaid"
+        },
+        {
+            "created_at": "2011-06-06T10:07:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 67,
+                        "start": 54,
+                        "tag": "Amagerbanken"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "Denmark"
+                    },
+                    {
+                        "end": 107,
+                        "start": 98,
+                        "tag": "stateaid"
+                    }
+                ]
+            },
+            "id": "77678109805129728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Commission temporarily approves rescue aid for Danish #Amagerbanken http://bit.ly/jnazyK #Denmark #stateaid"
+        },
+        {
+            "created_at": "2011-06-06T10:07:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "EU",
+                        "probability": 0.6654,
+                        "start": 45,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Erasmus"
+                    },
+                    {
+                        "end": 36,
+                        "start": 27,
+                        "tag": "students"
+                    }
+                ]
+            },
+            "id": "77677884042522625",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "text": "#Erasmus: Record number of #students receive EU grants for study and training abroad http://bit.ly/jPrMQ2"
+        },
+        {
+            "created_at": "2011-06-06T09:48:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 38,
+                        "tag": "EHEC"
+                    },
+                    {
+                        "end": 64,
+                        "start": 60,
+                        "tag": "air"
+                    },
+                    {
+                        "end": 75,
+                        "start": 69,
+                        "tag": "noise"
+                    },
+                    {
+                        "end": 86,
+                        "start": 76,
+                        "tag": "pollution"
+                    }
+                ]
+            },
+            "id": "77673084848578560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Press briefing today: E.Coli bacteria #EHEC, Road charging: #air and #noise #pollution - Watch live 12h00 CET http://bit.ly/EBSlive"
+        },
+        {
+            "created_at": "2011-06-06T07:06:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "EColi"
+                    },
+                    {
+                        "end": 27,
+                        "start": 19,
+                        "tag": "Germany"
+                    },
+                    {
+                        "end": 87,
+                        "start": 80,
+                        "tag": "Health"
+                    }
+                ]
+            },
+            "id": "77632356369969152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EColi outbreak in #Germany: Commission looks forward to discussion in upcoming #Health Council http://bit.ly/iD51Nb"
+        },
+        {
+            "created_at": "2011-06-03T10:02:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "FF"
+                    },
+                    {
+                        "end": 41,
+                        "start": 32,
+                        "tag": "Internal"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "Market"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 71,
+                        "id": "2815632681",
+                        "start": 62,
+                        "username": "EU_Markt"
+                    }
+                ]
+            },
+            "id": "76589445738008576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#FF to our colleagues in the EU #Internal #Market department: @EU_Markt"
+        },
+        {
+            "created_at": "2011-06-01T15:55:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 32,
+                        "tag": "the"
+                    },
+                    {
+                        "end": 139,
+                        "start": 127,
+                        "tag": "competition"
+                    }
+                ]
+            },
+            "id": "75953569647443968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Living, working and studying in #the EU can be great. But it can be difficult as well. What's your story? http://bit.ly/mMNtKv #competition"
+        },
+        {
+            "created_at": "2011-06-01T14:46:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 35,
+                        "tag": "bank"
+                    },
+                    {
+                        "end": 68,
+                        "start": 60,
+                        "tag": "Ireland"
+                    },
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "Spain"
+                    }
+                ]
+            },
+            "id": "75936325047554048",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Commission authorises extension of #bank support schemes in #Ireland & #Spain http://bit.ly/kd2UDs"
+        },
+        {
+            "created_at": "2011-06-01T13:16:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 60,
+                        "start": 55,
+                        "tag": "BASF"
+                    },
+                    {
+                        "end": 71,
+                        "start": 65,
+                        "tag": "INEOS"
+                    },
+                    {
+                        "end": 126,
+                        "start": 116,
+                        "tag": "chemicals"
+                    }
+                ]
+            },
+            "id": "75913524517404672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Mergers: Commission approves styrene joint venture of #BASF and #INEOS, subject to conditions http://bit.ly/llUQEv #chemicals"
+        },
+        {
+            "created_at": "2011-06-01T12:12:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 11,
+                        "start": 4,
+                        "tag": "Africa"
+                    },
+                    {
+                        "end": 31,
+                        "start": 23,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 49,
+                        "start": 46,
+                        "tag": "AU"
+                    },
+                    {
+                        "end": 87,
+                        "start": 75,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 111,
+                        "start": 101,
+                        "tag": "democracy"
+                    }
+                ]
+            },
+            "id": "75897568164446208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#EU #Africa: President #Barroso after meeting #AU Commission: \"There is no #development without deep #democracy.\"\nhttp://bit.ly/mna5vE"
+        },
+        {
+            "created_at": "2011-06-01T11:55:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Hamburg",
+                        "probability": 0.853,
+                        "start": 42,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 5,
+                        "tag": "Dalli"
+                    },
+                    {
+                        "end": 18,
+                        "start": 13,
+                        "tag": "EHEC"
+                    }
+                ]
+            },
+            "id": "75893316289433600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "text": "Cssr #Dalli: #EHEC outbreak is limited to Hamburg area and declining. Banning of any products is disproportionate. http://bit.ly/ky3z55"
+        },
+        {
+            "created_at": "2011-06-01T11:32:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "EU",
+                        "probability": 0.5319,
+                        "start": 54,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "South America",
+                        "probability": 0.8628,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 7,
+                        "tag": "tourists"
+                    },
+                    {
+                        "end": 46,
+                        "start": 39,
+                        "tag": "travel"
+                    }
+                ]
+            },
+            "id": "75887328698187777",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "50,000 #tourists to promote low season #travel in the EU & South America http://bit.ly/lt9Q7Z"
+        },
+        {
+            "created_at": "2011-06-01T10:30:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 29,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 74,
+                        "start": 69,
+                        "tag": "Ping"
+                    },
+                    {
+                        "end": 100,
+                        "start": 97,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 104,
+                        "start": 101,
+                        "tag": "AU"
+                    },
+                    {
+                        "end": 112,
+                        "start": 105,
+                        "tag": "Africa"
+                    }
+                ]
+            },
+            "id": "75871762763612160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "12h40 CET: Press conf w/ Pdt #Barroso & the African Union president  #Ping http://bit.ly/EBSlive #EU #AU #Africa"
+        }
+    ],
+    "meta": {
+        "newest_id": "83490843041873920",
+        "next_token": "7vh6z3esgzqo5btnx02bnhybk418wkweep50upjnul",
+        "oldest_id": "75871762763612160",
+        "result_count": 100
+    }
+}

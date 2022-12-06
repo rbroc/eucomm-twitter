@@ -1,0 +1,4125 @@
+{
+    "data": [
+        {
+            "created_at": "2012-09-19T12:21:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "UK",
+                        "probability": 0.9344,
+                        "start": 52,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Kingston",
+                        "probability": 0.8934,
+                        "start": 99,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "Hull",
+                        "probability": 0.6519,
+                        "start": 113,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dPdIA",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/dPdIA",
+                        "start": 118,
+                        "url": "http://t.co/zmJ3mLkf"
+                    }
+                ]
+            },
+            "id": "248396436805406721",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "State Aid: Commission authorises investment aid for UK ''energy from waste'' gasification plant in Kingston upon Hull http://t.co/zmJ3mLkf"
+        },
+        {
+            "created_at": "2012-09-19T11:49:38.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dPdkE",
+                        "end": 116,
+                        "expanded_url": "http://ow.ly/dPdkE",
+                        "start": 96,
+                        "url": "http://t.co/eZnLGbBg"
+                    }
+                ]
+            },
+            "id": "248388377970356225",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "State aid: Commission orders recovery of \u20ac10 million unlawful aid from Slovenian ski maker Elan http://t.co/eZnLGbBg"
+        },
+        {
+            "created_at": "2012-09-19T10:06:45.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dP69K",
+                        "end": 113,
+                        "expanded_url": "http://ow.ly/dP69K",
+                        "start": 93,
+                        "url": "http://t.co/oQ4BCf8G"
+                    }
+                ]
+            },
+            "id": "248362487311904768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "LIVE NOW @KGeorgievaEU announces a new initiative for young European volunteers. Watch here: http://t.co/oQ4BCf8G"
+        },
+        {
+            "created_at": "2012-09-19T10:01:19.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/PyQDBB",
+                        "end": 113,
+                        "expanded_url": "http://bit.ly/PyQDBB",
+                        "start": 93,
+                        "url": "http://t.co/8tnRbQSP"
+                    }
+                ]
+            },
+            "id": "248361118047809536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "LIVE NOW @KGeorgievaEU announces a new initiative for young European volunteers. Watch here: http://t.co/8tnRbQSP"
+        },
+        {
+            "created_at": "2012-09-19T09:20:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 69,
+                        "tag": "Qu\u00e9EuropaQueremos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "uesp.es/ideas",
+                        "end": 108,
+                        "expanded_url": "http://uesp.es/ideas",
+                        "start": 88,
+                        "url": "http://t.co/HxGSxbb4"
+                    }
+                ]
+            },
+            "id": "248350864857784320",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "text": "Ya hay m\u00e1s de 100 contribuciones en el foro. \u00a1Queda solo una semana! #Qu\u00e9EuropaQueremos http://t.co/HxGSxbb4"
+        },
+        {
+            "created_at": "2012-09-19T07:53:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.7074,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Euronews",
+                        "probability": 0.5081,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Google+",
+                        "probability": 0.4836,
+                        "start": 99,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 49,
+                        "tag": "soteu"
+                    },
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 110,
+                        "id": "1511081094",
+                        "start": 107,
+                        "username": "19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dOXBA",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/dOXBA",
+                        "start": 119,
+                        "url": "http://t.co/r4b2b5zW"
+                    }
+                ]
+            },
+            "id": "248328986722172928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 23
+            },
+            "text": "President Barroso (@BarrosoEU) answers citizens' #soteu questions in live #EUChat by Euronews with Google+ @19:00 CET. http://t.co/r4b2b5zW"
+        },
+        {
+            "created_at": "2012-09-19T06:06:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 122,
+                        "start": 116,
+                        "tag": "SotEU"
+                    },
+                    {
+                        "end": 130,
+                        "start": 123,
+                        "tag": "euchat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/eutube",
+                        "end": 115,
+                        "expanded_url": "http://www.youtube.com/eutube",
+                        "start": 95,
+                        "url": "http://t.co/BfRJNkpd"
+                    }
+                ]
+            },
+            "id": "248302072494170112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "@BarrosoEU will answer citizens\u2019 questions on the state of the union 19 Sept 19.00 CET LIVE on http://t.co/BfRJNkpd #SotEU #euchat\""
+        },
+        {
+            "created_at": "2012-09-18T18:02:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Euronews",
+                        "probability": 0.3685,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "Google+",
+                        "probability": 0.3891,
+                        "start": 80,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P9euYt",
+                        "end": 109,
+                        "expanded_url": "http://bit.ly/P9euYt",
+                        "start": 89,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/archives/commission_2010-2014/president/index_en.htm",
+                        "url": "http://t.co/a1FeIJJr"
+                    }
+                ]
+            },
+            "id": "248119873731956736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "G+Hangout with @BarrosoEU, tomorrow at 19:00 CET, Live, on Euronews, EUTube and Google+. http://t.co/a1FeIJJr"
+        },
+        {
+            "created_at": "2012-09-18T13:21:00.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OVDxgG",
+                        "end": 61,
+                        "expanded_url": "http://bit.ly/OVDxgG",
+                        "start": 41,
+                        "url": "http://t.co/wBcRO2VB"
+                    }
+                ]
+            },
+            "id": "248048980162916353",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Commission lays ground for banking union http://t.co/wBcRO2VB"
+        },
+        {
+            "created_at": "2012-09-18T13:00:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 84,
+                        "start": 74,
+                        "tag": "education"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Pvspbb",
+                        "end": 72,
+                        "expanded_url": "http://bit.ly/Pvspbb",
+                        "start": 52,
+                        "url": "http://t.co/v6UvuOlE"
+                    }
+                ]
+            },
+            "id": "248043759303028736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "High level group to focus on excellence in teaching http://t.co/v6UvuOlE  #education"
+        },
+        {
+            "created_at": "2012-09-18T12:32:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 43,
+                        "start": 37,
+                        "tag": "media"
+                    },
+                    {
+                        "end": 54,
+                        "start": 47,
+                        "tag": "Jordan"
+                    },
+                    {
+                        "end": 114,
+                        "start": 103,
+                        "tag": "journalism"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/PD0e8N",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/PD0e8N",
+                        "start": 115,
+                        "url": "http://t.co/qDku6xkA"
+                    }
+                ]
+            },
+            "id": "248036651857752065",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "#EC has approved new funding for the #media in #Jordan to establish free, independent and high quality #journalism http://t.co/qDku6xkA"
+        },
+        {
+            "created_at": "2012-09-18T12:22:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "Euronews",
+                        "probability": 0.5486,
+                        "start": 70,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "EUTube",
+                        "probability": 0.276,
+                        "start": 80,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 97,
+                        "normalized_text": "Google+",
+                        "probability": 0.5812,
+                        "start": 91,
+                        "type": "Product"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/P9euYt",
+                        "end": 120,
+                        "expanded_url": "http://bit.ly/P9euYt",
+                        "start": 100,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/archives/commission_2010-2014/president/index_en.htm",
+                        "url": "http://t.co/a1FeIJJr"
+                    }
+                ]
+            },
+            "id": "248034216162500608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "text": "Watch YOUR interview with @BarrosoEU, tomorrow at 19:00 CET, Live, on Euronews, EUTube and Google+. http://t.co/a1FeIJJr"
+        },
+        {
+            "created_at": "2012-09-18T12:00:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 32,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 56,
+                        "start": 49,
+                        "tag": "market"
+                    },
+                    {
+                        "end": 81,
+                        "start": 71,
+                        "tag": "transport"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/POcNBK",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/POcNBK",
+                        "start": 95,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_12_975",
+                        "url": "http://t.co/0bgqWmuq"
+                    }
+                ]
+            },
+            "id": "248028610206765056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Commission pushes to accelerate #development and #market uptake of new #transport technologies http://t.co/0bgqWmuq"
+        },
+        {
+            "created_at": "2012-09-18T11:43:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 24,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 39,
+                        "start": 28,
+                        "tag": "scientific"
+                    },
+                    {
+                        "end": 49,
+                        "start": 40,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 65,
+                        "start": 57,
+                        "tag": "Romania"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/S1oiHS",
+                        "end": 104,
+                        "expanded_url": "http://bit.ly/S1oiHS",
+                        "start": 84,
+                        "url": "http://t.co/PBZhyzoU"
+                    }
+                ]
+            },
+            "id": "248024426929598465",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Major investment for an #EU #scientific #research hub in #Romania gets the go ahead http://t.co/PBZhyzoU"
+        },
+        {
+            "created_at": "2012-09-18T10:30:01.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/QiaNia",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/QiaNia",
+                        "start": 77,
+                        "url": "http://t.co/IeimRnHh"
+                    }
+                ]
+            },
+            "id": "248005950965964801",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "Commission and European industry commit to bigger and better robotics sector http://t.co/IeimRnHh"
+        },
+        {
+            "created_at": "2012-09-18T10:16:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "European Cooperation Day",
+                        "probability": 0.4919,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/YPq9ZyIgn9U",
+                        "end": 84,
+                        "expanded_url": "http://youtu.be/YPq9ZyIgn9U",
+                        "start": 64,
+                        "url": "http://t.co/rhvbfPg5"
+                    },
+                    {
+                        "display_url": "bit.ly/SXveHb",
+                        "end": 123,
+                        "expanded_url": "http://bit.ly/SXveHb",
+                        "start": 103,
+                        "url": "http://t.co/2chFsQNu"
+                    }
+                ]
+            },
+            "id": "248002532322971648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "European Cooperation Day 2012: Sharing borders, growing closer  http://t.co/rhvbfPg5 21st of September http://t.co/2chFsQNu"
+        },
+        {
+            "created_at": "2012-09-18T10:13:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 23,
+                        "start": 17,
+                        "tag": "Sport"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Nzn7gR",
+                        "end": 101,
+                        "expanded_url": "http://bit.ly/Nzn7gR",
+                        "start": 81,
+                        "url": "http://t.co/pOyO0JLE"
+                    }
+                ]
+            },
+            "id": "248001873515261952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EU Sport Forum: #Sport leaders and Ministers step up fight against match-fixing http://t.co/pOyO0JLE"
+        },
+        {
+            "created_at": "2012-09-18T09:39:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "trade"
+                    },
+                    {
+                        "end": 43,
+                        "start": 37,
+                        "tag": "China"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OA4PI0",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/OA4PI0",
+                        "start": 95,
+                        "url": "http://t.co/ZKNWtPsn"
+                    }
+                ]
+            },
+            "id": "247993150956793856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "EU27 deficit in #trade in goods with #China down to 67 bn euro in the first six months of 2012 http://t.co/ZKNWtPsn"
+        },
+        {
+            "created_at": "2012-09-18T08:30:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "Dalli"
+                    },
+                    {
+                        "end": 108,
+                        "start": 98,
+                        "tag": "exsmokers"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "barcelona"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "903273166272901126",
+                        "start": 9,
+                        "username": "sandrorosell"
+                    },
+                    {
+                        "end": 53,
+                        "id": "96951800",
+                        "start": 41,
+                        "username": "FCBarcelona"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Lj60hGH5",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/247975943963045888/photo/1",
+                        "start": 120,
+                        "url": "http://t.co/Lj60hGH5"
+                    }
+                ]
+            },
+            "id": "247975943963045888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Dalli , @sandrorosell &amp; Mr Mon\u00e9s of @FCBarcelona formalise new smoke partnership in Brussels #exsmokers #barcelona http://t.co/Lj60hGH5"
+        },
+        {
+            "created_at": "2012-09-18T08:00:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 14,
+                        "tag": "culture"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/PuHTMD",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/PuHTMD",
+                        "start": 120,
+                        "url": "http://t.co/6Dmhyq8S"
+                    }
+                ]
+            },
+            "id": "247968202129281024",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "\u201cMy vision of #culture is not culture as an instrument.As science,culture is a way for people\u2019s fulfillment\u201d @BarrosoEU http://t.co/6Dmhyq8S"
+        },
+        {
+            "created_at": "2012-09-18T07:52:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 21,
+                        "tag": "design"
+                    },
+                    {
+                        "end": 48,
+                        "start": 37,
+                        "tag": "innovation"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/S1ExPp",
+                        "end": 122,
+                        "expanded_url": "http://bit.ly/S1ExPp",
+                        "start": 102,
+                        "url": "http://t.co/rcL0KknD"
+                    }
+                ]
+            },
+            "id": "247966307629268992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Designed for growth: #design to push #innovation. Has been fully exploited to foster competitiveness? http://t.co/rcL0KknD"
+        },
+        {
+            "created_at": "2012-09-18T07:30:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 12,
+                        "tag": "EC"
+                    },
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "tag": "Albania"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/QhUUsb",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/QhUUsb",
+                        "start": 120,
+                        "url": "http://t.co/FNjzmjcB"
+                    }
+                ]
+            },
+            "id": "247960781566652417",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "\"We, at the #EC , are deeply committed to #Albania \u2019s European perspective\" @BarrosoEU. Full text of the Statement here http://t.co/FNjzmjcB"
+        },
+        {
+            "created_at": "2012-09-18T07:19:47.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/UihPrh",
+                        "end": 128,
+                        "expanded_url": "http://bit.ly/UihPrh",
+                        "start": 108,
+                        "url": "http://t.co/ilArNgZm"
+                    }
+                ]
+            },
+            "id": "247958078333526016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 24
+            },
+            "text": "What would you ask to @BarrosoEU ? Post your video question NOW. Tomorrow, at 19.00 CET he will answer you! http://t.co/ilArNgZm"
+        },
+        {
+            "created_at": "2012-09-17T19:05:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 130,
+                        "start": 124,
+                        "tag": "SotEU"
+                    },
+                    {
+                        "end": 138,
+                        "start": 131,
+                        "tag": "euchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2855615075",
+                        "start": 1,
+                        "username": "ecspokeskoen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/eutube",
+                        "end": 123,
+                        "expanded_url": "http://www.youtube.com/eutube",
+                        "start": 103,
+                        "url": "http://t.co/BfRJNkpd"
+                    }
+                ]
+            },
+            "id": "247773253265920000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "\u201c@ECspokesKoen: @BarrosoEU will answer citizens\u2019 questions on the state of the union 19 Sept 19.00 CET http://t.co/BfRJNkpd #SotEU #euchat\""
+        },
+        {
+            "created_at": "2012-09-17T18:32:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 128,
+                        "tag": "SotEU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2855615075",
+                        "start": 1,
+                        "username": "ecspokeskoen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/eutube",
+                        "end": 127,
+                        "expanded_url": "http://www.youtube.com/eutube",
+                        "start": 107,
+                        "url": "http://t.co/BfRJNkpd"
+                    }
+                ]
+            },
+            "id": "247764944903360512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "\u201c@ECspokesKoen:@BarrosoEU will answer citizens\u2019 questions on state of the union on 19 September 19.00 CET. http://t.co/BfRJNkpd #SotEU\u2019\u2019"
+        },
+        {
+            "created_at": "2012-09-17T15:57:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 60,
+                        "tag": "Romanian"
+                    },
+                    {
+                        "end": 91,
+                        "start": 85,
+                        "tag": "Ponta"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2855615075",
+                        "start": 1,
+                        "username": "ecspokeskoen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 114,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/675",
+                        "start": 94,
+                        "url": "http://t.co/ddEZOlfi"
+                    }
+                ]
+            },
+            "id": "247726034101874688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u201c@ECspokesKoen: Statement @BarrosoEU after the meeting with #Romanian Prime Minister #Ponta - http://t.co/ddEZOlfi\u201d"
+        },
+        {
+            "created_at": "2012-09-17T15:34:29.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "93207353",
+                        "start": 0,
+                        "username": "RalfGrahn"
+                    },
+                    {
+                        "end": 24,
+                        "id": "115102341",
+                        "start": 11,
+                        "username": "DanaBrussels"
+                    },
+                    {
+                        "end": 41,
+                        "id": "24719387",
+                        "start": 25,
+                        "username": "dicknieuwenhuis"
+                    },
+                    {
+                        "end": 51,
+                        "id": "55797987",
+                        "start": 42,
+                        "username": "TonyLbxl"
+                    },
+                    {
+                        "end": 61,
+                        "id": "114429252",
+                        "start": 52,
+                        "username": "AnneCbxl"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OxjQdI",
+                        "end": 92,
+                        "expanded_url": "http://bit.ly/OxjQdI",
+                        "start": 72,
+                        "url": "http://t.co/1DpfW9S9"
+                    }
+                ]
+            },
+            "id": "247720185371426816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@RalfGrahn @DanaBrussels @dicknieuwenhuis @TonyLbxl @AnneCbxl Live here http://t.co/1DpfW9S9"
+        },
+        {
+            "created_at": "2012-09-17T15:32:28.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "93207353",
+                        "start": 0,
+                        "username": "RalfGrahn"
+                    },
+                    {
+                        "end": 24,
+                        "id": "115102341",
+                        "start": 11,
+                        "username": "DanaBrussels"
+                    },
+                    {
+                        "end": 41,
+                        "id": "24719387",
+                        "start": 25,
+                        "username": "dicknieuwenhuis"
+                    },
+                    {
+                        "end": 51,
+                        "id": "55797987",
+                        "start": 42,
+                        "username": "TonyLbxl"
+                    },
+                    {
+                        "end": 61,
+                        "id": "114429252",
+                        "start": 52,
+                        "username": "AnneCbxl"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OxjQdI",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/OxjQdI",
+                        "start": 77,
+                        "url": "http://t.co/1DpfW9S9"
+                    }
+                ]
+            },
+            "id": "247719679836180480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@RalfGrahn @DanaBrussels @dicknieuwenhuis @TonyLbxl @AnneCbxl Click on here: http://t.co/1DpfW9S9"
+        },
+        {
+            "created_at": "2012-09-17T15:26:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 104,
+                        "start": 97,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "2853940703",
+                        "start": 13,
+                        "username": "ecspokessimon"
+                    },
+                    {
+                        "end": 44,
+                        "id": "2541793782",
+                        "start": 28,
+                        "username": "ECspokesOlivier"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OxjQdI",
+                        "end": 67,
+                        "expanded_url": "http://bit.ly/OxjQdI",
+                        "start": 47,
+                        "url": "http://t.co/1DpfW9S9"
+                    }
+                ]
+            },
+            "id": "247718175309979648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#EUChat with @ecspokessimon @ecspokesolivier : http://t.co/1DpfW9S9  Join the conversation using #EUChat"
+        },
+        {
+            "created_at": "2012-09-17T15:03:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 9,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 113,
+                        "start": 106,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 36,
+                        "id": "2853940703",
+                        "start": 22,
+                        "username": "ecspokessimon"
+                    },
+                    {
+                        "end": 53,
+                        "id": "2541793782",
+                        "start": 37,
+                        "username": "ECspokesOlivier"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OxjQdI",
+                        "end": 77,
+                        "expanded_url": "http://bit.ly/OxjQdI",
+                        "start": 57,
+                        "url": "http://t.co/1DpfW9S9"
+                    }
+                ]
+            },
+            "id": "247712491268866048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Now live #EUChat with @ecspokessimon @ecspokesolivier  : http://t.co/1DpfW9S9 Join the conversation using #EUChat"
+        },
+        {
+            "created_at": "2012-09-17T15:01:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 9,
+                        "tag": "EUChat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/OxjQdI",
+                        "end": 39,
+                        "expanded_url": "http://bit.ly/OxjQdI",
+                        "start": 19,
+                        "url": "http://t.co/1DpfW9S9"
+                    }
+                ]
+            },
+            "id": "247711767898234880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Now live #EUChat : http://t.co/1DpfW9S9"
+        },
+        {
+            "created_at": "2012-09-17T13:40:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 139,
+                        "normalized_text": "Twitter",
+                        "probability": 0.4884,
+                        "start": 133,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 128,
+                        "start": 121,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 37,
+                        "id": "2853940703",
+                        "start": 23,
+                        "username": "ecspokessimon"
+                    },
+                    {
+                        "end": 54,
+                        "id": "2541793782",
+                        "start": 38,
+                        "username": "ECspokesOlivier"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/PcbBGt",
+                        "end": 89,
+                        "expanded_url": "http://bit.ly/PcbBGt",
+                        "start": 69,
+                        "url": "http://t.co/ZEArsb7z"
+                    }
+                ]
+            },
+            "id": "247691515638476800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#EUChat at 16.30 TODAY @ECspokesSimon @ECspokesOlivier. Live on here http://t.co/ZEArsb7z and join the conversation with #EUChat via Twitter"
+        },
+        {
+            "created_at": "2012-09-17T11:21:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 24,
+                        "start": 11,
+                        "tag": "hangoutonair"
+                    },
+                    {
+                        "end": 111,
+                        "start": 105,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 46,
+                        "id": "2541793782",
+                        "start": 30,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 61,
+                        "id": "2853940703",
+                        "start": 47,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dLj6o",
+                        "end": 104,
+                        "expanded_url": "http://ow.ly/dLj6o",
+                        "start": 84,
+                        "url": "http://t.co/pfhkGLSj"
+                    }
+                ]
+            },
+            "id": "247656556471123970",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "#EUChat on #hangoutonair with @ECspokesOlivier @ECspokesSimon - today at 4:30pm CET http://t.co/pfhkGLSj #soteu"
+        },
+        {
+            "created_at": "2012-09-17T10:28:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 42,
+                        "tag": "trade"
+                    },
+                    {
+                        "end": 72,
+                        "start": 64,
+                        "tag": "Myanmar"
+                    },
+                    {
+                        "end": 81,
+                        "start": 75,
+                        "tag": "Burma"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Uf6Goc",
+                        "end": 102,
+                        "expanded_url": "http://bit.ly/Uf6Goc",
+                        "start": 82,
+                        "url": "http://t.co/3fCWTMIl"
+                    }
+                ]
+            },
+            "id": "247643290315415552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "European Commission proposes to reinstate #trade preferences to #Myanmar / #Burma http://t.co/3fCWTMIl"
+        },
+        {
+            "created_at": "2012-09-17T10:27:41.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RXhZ87",
+                        "end": 78,
+                        "expanded_url": "http://bit.ly/RXhZ87",
+                        "start": 58,
+                        "url": "http://t.co/tBZDdl9o"
+                    }
+                ]
+            },
+            "id": "247642976535343104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Reinforcing Eurostat, Reinforcing high quality statistics http://t.co/tBZDdl9o"
+        },
+        {
+            "created_at": "2012-09-17T10:26:57.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.7991,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 12,
+                        "tag": "prize"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/admin-innovato\u2026",
+                        "end": 74,
+                        "expanded_url": "http://www.ec.europa.eu/admin-innovators",
+                        "start": 54,
+                        "url": "http://t.co/27Rrgcvz"
+                    }
+                ]
+            },
+            "id": "247642793684660224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "text": "EU launches #prize for innovative public authorities  http://t.co/27Rrgcvz"
+        },
+        {
+            "created_at": "2012-09-17T10:00:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "EU",
+                        "probability": 0.5646,
+                        "start": 45,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 101,
+                        "start": 92,
+                        "tag": "Research"
+                    },
+                    {
+                        "end": 117,
+                        "start": 106,
+                        "tag": "Innovation"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/STtwH2",
+                        "end": 138,
+                        "expanded_url": "http://bit.ly/STtwH2",
+                        "start": 118,
+                        "url": "http://t.co/775lafnC"
+                    }
+                ]
+            },
+            "id": "247636055631732737",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "What scientific agreements exist between the EU and other countries?Q&amp;A: Cooperation in #Research and #Innovation http://t.co/775lafnC"
+        },
+        {
+            "created_at": "2012-09-17T09:55:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Euro"
+                    },
+                    {
+                        "end": 25,
+                        "start": 18,
+                        "tag": "labour"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Owsw3Y",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/Owsw3Y",
+                        "start": 120,
+                        "url": "http://t.co/vivPTuss"
+                    }
+                ]
+            },
+            "id": "247634751027044352",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#Euro area hourly #labour costs rose by 1.6% Up by 1.8% in EU27(Second quarter 2012 compared with second quarter 2011 ) http://t.co/vivPTuss"
+        },
+        {
+            "created_at": "2012-09-17T09:53:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Euro"
+                    },
+                    {
+                        "end": 31,
+                        "start": 25,
+                        "tag": "trade"
+                    },
+                    {
+                        "end": 94,
+                        "start": 89,
+                        "tag": "EU27"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Owsw3Y",
+                        "end": 117,
+                        "expanded_url": "http://bit.ly/Owsw3Y",
+                        "start": 97,
+                        "url": "http://t.co/vivPTuss"
+                    }
+                ]
+            },
+            "id": "247634250705281024",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#Euro area international #trade in goods surplus of 15.6 bn euro 3.1 bn euro surplus for #EU27.  http://t.co/vivPTuss"
+        },
+        {
+            "created_at": "2012-09-17T09:43:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 43,
+                        "start": 31,
+                        "tag": "SouthAfrica"
+                    },
+                    {
+                        "end": 61,
+                        "start": 54,
+                        "tag": "Africa"
+                    },
+                    {
+                        "end": 81,
+                        "start": 72,
+                        "tag": "Brussels"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RXas9d",
+                        "end": 119,
+                        "expanded_url": "http://bit.ly/RXas9d",
+                        "start": 99,
+                        "url": "http://t.co/hJhcJjDy"
+                    }
+                ]
+            },
+            "id": "247631731706974208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "#EU strategic partnership with #SouthAfrica. EU-South #Africa Summit in #Brussels on 18 September. http://t.co/hJhcJjDy"
+        },
+        {
+            "created_at": "2012-09-17T09:33:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 36,
+                        "tag": "science"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/S2UiKc",
+                        "end": 104,
+                        "expanded_url": "http://bit.ly/S2UiKc",
+                        "start": 84,
+                        "url": "http://t.co/HaqvIGjA"
+                    }
+                ]
+            },
+            "id": "247629355449192449",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "Commission focuses on international #science co-operation to meet global challenges http://t.co/HaqvIGjA"
+        },
+        {
+            "created_at": "2012-09-17T08:40:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 31,
+                        "start": 25,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 96,
+                        "id": "2541793782",
+                        "start": 80,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 115,
+                        "id": "2853940703",
+                        "start": 101,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIwQC",
+                        "end": 136,
+                        "expanded_url": "http://ow.ly/dIwQC",
+                        "start": 116,
+                        "url": "http://t.co/OiORWkKs"
+                    }
+                ]
+            },
+            "id": "247615876390600704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "#EUchat about @BarrosoEU #soteu. Join us TODAY at 4.30 Monday on G+/Eutube with @ECspokesOlivier and @ECspokesSimon http://t.co/OiORWkKs"
+        },
+        {
+            "created_at": "2012-09-17T08:39:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "European Mobility Week",
+                        "probability": 0.6668,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "mobilityweek.eu",
+                        "end": 140,
+                        "expanded_url": "http://www.mobilityweek.eu/",
+                        "start": 120,
+                        "url": "http://t.co/UXqiFBRW"
+                    }
+                ]
+            },
+            "id": "247615629232840704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "text": "European Mobility Week is on the road! The private car no longer needs to be the only choice for trips around the city! http://t.co/UXqiFBRW"
+        },
+        {
+            "created_at": "2012-09-16T15:50:51.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 31,
+                        "start": 25,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 83,
+                        "id": "2541793782",
+                        "start": 67,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 102,
+                        "id": "2853940703",
+                        "start": 88,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIwQC",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/dIwQC",
+                        "start": 103,
+                        "url": "http://t.co/OiORWkKs"
+                    }
+                ]
+            },
+            "id": "247361915553198080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "#EUchat about @BarrosoEU #soteu. Join us at 4.30 Monday on G+ with @ECspokesOlivier and @ECspokesSimon http://t.co/OiORWkKs"
+        },
+        {
+            "created_at": "2012-09-15T13:35:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 22,
+                        "tag": "QueEuropaQueremos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dHR8m",
+                        "end": 125,
+                        "expanded_url": "http://ow.ly/dHR8m",
+                        "start": 105,
+                        "url": "http://t.co/lNgyrCzP"
+                    }
+                ]
+            },
+            "id": "246965501501243392",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 8
+            },
+            "text": "Danos tus ideas sobre #QueEuropaQueremos y haz que lleguen a @VivianeRedingUE. Participa hasta el 23.09. http://t.co/lNgyrCzP"
+        },
+        {
+            "created_at": "2012-09-15T13:02:16.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIa8e",
+                        "end": 84,
+                        "expanded_url": "http://ow.ly/dIa8e",
+                        "start": 64,
+                        "url": "http://t.co/PwwnKCSf"
+                    }
+                ]
+            },
+            "id": "246957103808405504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "August 2012 Euro area annual inflation up to 2.6% EU up to 2.7% http://t.co/PwwnKCSf"
+        },
+        {
+            "created_at": "2012-09-15T09:45:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 31,
+                        "start": 25,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 83,
+                        "id": "2541793782",
+                        "start": 67,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 102,
+                        "id": "2853940703",
+                        "start": 88,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIwQC",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/dIwQC",
+                        "start": 103,
+                        "url": "http://t.co/OiORWkKs"
+                    }
+                ]
+            },
+            "id": "246907593673543681",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#EUchat about @BarrosoEU #soteu. Join us at 4.30 Monday on G+ with @ECspokesOlivier and @ECspokesSimon http://t.co/OiORWkKs"
+        },
+        {
+            "created_at": "2012-09-15T09:20:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Europe",
+                        "probability": 0.9662,
+                        "start": 24,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 97,
+                        "start": 91,
+                        "tag": "smw20"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "singlemarket20.eu/home",
+                        "end": 118,
+                        "expanded_url": "http://www.singlemarket20.eu/home",
+                        "start": 98,
+                        "url": "http://t.co/sKzVBN33"
+                    }
+                ]
+            },
+            "id": "246901344638758912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 14
+            },
+            "text": "What do you think about Europe's single market? Sign up to submit your thoughts in October #smw20 http://t.co/sKzVBN33"
+        },
+        {
+            "created_at": "2012-09-15T08:05:29.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIac1",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/dIac1",
+                        "start": 118,
+                        "url": "http://t.co/icGTzla8"
+                    }
+                ]
+            },
+            "id": "246882417498013696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "Estimate for the 2nd quarter of 2012 Employment stable in the euro area; up by 0.1% compared with 2nd quarter of 2011 http://t.co/icGTzla8"
+        },
+        {
+            "created_at": "2012-09-14T17:52:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Constitutional Court",
+                        "probability": 0.6383,
+                        "start": 18,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Germany",
+                        "probability": 0.9975,
+                        "start": 42,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 74,
+                        "normalized_text": "ESM",
+                        "probability": 0.4383,
+                        "start": 72,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIxld",
+                        "end": 127,
+                        "expanded_url": "http://ow.ly/dIxld",
+                        "start": 107,
+                        "url": "http://t.co/yL0XEjFs"
+                    }
+                ]
+            },
+            "id": "246667649436770304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 13
+            },
+            "text": "The ruling of the Constitutional Court in Germany opens the way for the ESM to become operational shortly. http://t.co/yL0XEjFs"
+        },
+        {
+            "created_at": "2012-09-14T16:31:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 53,
+                        "tag": "Jordan"
+                    },
+                    {
+                        "end": 67,
+                        "start": 61,
+                        "tag": "Syria"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIxcH",
+                        "end": 88,
+                        "expanded_url": "http://ow.ly/dIxcH",
+                        "start": 68,
+                        "url": "http://t.co/xoP2dkEQ"
+                    }
+                ]
+            },
+            "id": "246647373990879232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Additional EU assistance to reach Syrian Refugees in #Jordan #Syria http://t.co/xoP2dkEQ"
+        },
+        {
+            "created_at": "2012-09-14T16:06:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "Paphos",
+                        "probability": 0.6584,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 43,
+                        "normalized_text": "European Capital of Culture",
+                        "probability": 0.4,
+                        "start": 17,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Cyprus",
+                        "probability": 0.9619,
+                        "start": 48,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIx7m",
+                        "end": 83,
+                        "expanded_url": "http://ow.ly/dIx7m",
+                        "start": 63,
+                        "url": "http://t.co/K56GDapO"
+                    }
+                ]
+            },
+            "id": "246641201464356864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Paphos to be the European Capital of Culture in Cyprus in 2017 http://t.co/K56GDapO"
+        },
+        {
+            "created_at": "2012-09-14T15:56:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 49,
+                        "tag": "robot"
+                    },
+                    {
+                        "end": 63,
+                        "start": 56,
+                        "tag": "robots"
+                    },
+                    {
+                        "end": 74,
+                        "start": 65,
+                        "tag": "robotics"
+                    },
+                    {
+                        "end": 87,
+                        "start": 76,
+                        "tag": "roboticsEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dI9BK",
+                        "end": 108,
+                        "expanded_url": "http://ow.ly/dI9BK",
+                        "start": 88,
+                        "url": "http://t.co/RyALqTCY"
+                    }
+                ]
+            },
+            "id": "246638532934901760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Europeans welcome use of robots in complex world #robot #robots, #robotics, #roboticsEU http://t.co/RyALqTCY"
+        },
+        {
+            "created_at": "2012-09-14T15:51:11.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Alps",
+                        "probability": 0.6949,
+                        "start": 36,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dI9ch",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/dI9ch",
+                        "start": 118,
+                        "url": "http://t.co/Urqwag8u"
+                    }
+                ]
+            },
+            "id": "246637224307859456",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "How many plants can be found in the Alps that are not native? Which animals were accidently introduced to the Danube? http://t.co/Urqwag8u"
+        },
+        {
+            "created_at": "2012-09-14T15:38:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "European Commission",
+                        "probability": 0.4555,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIxfE",
+                        "end": 113,
+                        "expanded_url": "http://ow.ly/dIxfE",
+                        "start": 93,
+                        "url": "http://t.co/MQeT2FHS"
+                    }
+                ]
+            },
+            "id": "246633997633990659",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 7
+            },
+            "text": "The European Commission announces new large-scale support the Occupied Palestinian Territory http://t.co/MQeT2FHS"
+        },
+        {
+            "created_at": "2012-09-14T15:35:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 31,
+                        "start": 25,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 83,
+                        "id": "2541793782",
+                        "start": 67,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 102,
+                        "id": "2853940703",
+                        "start": 88,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIwQC",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/dIwQC",
+                        "start": 103,
+                        "url": "http://t.co/OiORWkKs"
+                    }
+                ]
+            },
+            "id": "246633202150670336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EUchat about @BarrosoEU #soteu. Join us at 4.30 Monday on G+ with @ECspokesOlivier and @ECspokesSimon http://t.co/OiORWkKs"
+        },
+        {
+            "created_at": "2012-09-14T15:31:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 33,
+                        "start": 27,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 100,
+                        "id": "2541793782",
+                        "start": 84,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 119,
+                        "id": "2853940703",
+                        "start": 105,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIwej",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/dIwej",
+                        "start": 120,
+                        "status": 200,
+                        "unwound_url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/%2BEuropeanCommission/posts&followup=https://plus.google.com/%2BEuropeanCommission/posts",
+                        "url": "http://t.co/nCPRkFLB"
+                    }
+                ]
+            },
+            "id": "246632163972358145",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Want another #EUchat about #soteu and @BarrosoEU? Join us at 4.30 Monday on G+ with @ECspokesOlivier and @ECspokesSimon http://t.co/nCPRkFLB"
+        },
+        {
+            "created_at": "2012-09-14T15:10:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 38,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 107,
+                        "start": 100,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 76,
+                        "id": "14359787",
+                        "start": 71,
+                        "username": "1600"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dIt2D",
+                        "end": 137,
+                        "expanded_url": "http://ow.ly/dIt2D",
+                        "start": 117,
+                        "url": "http://t.co/oUPNblaG"
+                    }
+                ]
+            },
+            "id": "246626964687974401",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Thanks to all who participated in the #EUChat. Don't forget to join us @1600 Monday on G+ for more. #EUChat results: http://t.co/oUPNblaG"
+        },
+        {
+            "created_at": "2012-09-14T13:23:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 54,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 68,
+                        "start": 58,
+                        "tag": "education"
+                    },
+                    {
+                        "end": 74,
+                        "start": 69,
+                        "tag": "PISA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dI6pa",
+                        "end": 95,
+                        "expanded_url": "http://ow.ly/dI6pa",
+                        "start": 75,
+                        "url": "http://t.co/8jxGs7x0"
+                    }
+                ]
+            },
+            "id": "246600034391580673",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "Which EU countries have the widest gaps in education? #EU #education #PISA http://t.co/8jxGs7x0"
+        },
+        {
+            "created_at": "2012-09-14T13:03:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 106,
+                        "start": 99,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "351112993",
+                        "start": 0,
+                        "username": "liberaleurope"
+                    },
+                    {
+                        "end": 70,
+                        "id": "201201906",
+                        "start": 55,
+                        "username": "debatingeurope"
+                    },
+                    {
+                        "end": 135,
+                        "id": "120489359",
+                        "start": 128,
+                        "username": "10comm"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "storify.com/EU_Commission/\u2026",
+                        "end": 127,
+                        "expanded_url": "http://storify.com/EU_Commission/euchat-about-the-2012-state-of-the-union-address",
+                        "start": 107,
+                        "url": "http://t.co/2eSgUNmx"
+                    }
+                ]
+            },
+            "id": "246594980787920896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@LiberalEurope nice to get questions and comments from @DebatingEurope! Here is the storify of the #EUChat http://t.co/2eSgUNmx @10comm"
+        },
+        {
+            "created_at": "2012-09-14T12:55:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 99,
+                        "normalized_text": "Warsaw",
+                        "probability": 0.4057,
+                        "start": 94,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 128,
+                        "start": 114,
+                        "tag": "ICTproposer12"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2894539229",
+                        "start": 3,
+                        "username": "DigitalAgendaEU"
+                    },
+                    {
+                        "end": 35,
+                        "id": "335419621",
+                        "start": 24,
+                        "username": "RoboticsEU"
+                    }
+                ]
+            },
+            "id": "246592938417717248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "RT @digitalagendaeu: RT @RoboticsEU: Only 6 days left to register for ICT Proposers' Day 2012 Warsaw, 26-27.9.12. #ICTproposer12"
+        },
+        {
+            "created_at": "2012-09-14T12:53:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 65,
+                        "start": 58,
+                        "tag": "EUChat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 129,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 109,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246592389572079616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Elsevierbrussel You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:53:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 52,
+                        "start": 44,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 67,
+                        "start": 60,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "334635685",
+                        "start": 0,
+                        "username": "desmeki"
+                    },
+                    {
+                        "end": 18,
+                        "id": "55797987",
+                        "start": 9,
+                        "username": "TonyLbxl"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 131,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 111,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246592389442056192",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@desmeki @TonyLbxl You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:51:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 51,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 74,
+                        "start": 67,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "138717046",
+                        "start": 0,
+                        "username": "BrunoBrussels"
+                    },
+                    {
+                        "end": 25,
+                        "id": "1134017071363346434",
+                        "start": 15,
+                        "username": "evaeuropa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 138,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 118,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246592068204519424",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@BrunoBrussels @evaeuropa You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:51:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 41,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 64,
+                        "start": 57,
+                        "tag": "EUChat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 128,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 108,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246592068175138817",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@milovanovica86 You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:51:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 50,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 73,
+                        "start": 66,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "36205090",
+                        "start": 0,
+                        "username": "ktowens"
+                    },
+                    {
+                        "end": 24,
+                        "id": "201201906",
+                        "start": 9,
+                        "username": "debatingeurope"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 137,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 117,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591999971577857",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@ktowens @debatingeurope You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:51:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 63,
+                        "start": 56,
+                        "tag": "EUChat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 127,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 107,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591999900266496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@EmanuilValkov You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:51:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 50,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 73,
+                        "start": 66,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "21755551",
+                        "start": 0,
+                        "username": "kattebel"
+                    },
+                    {
+                        "end": 24,
+                        "id": "19227096",
+                        "start": 10,
+                        "username": "Berlaymonster"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 137,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 117,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591907210330112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@kattebel @Berlaymonster You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:51:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 47,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 70,
+                        "start": 63,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "278020492",
+                        "start": 0,
+                        "username": "GEF_Europe"
+                    },
+                    {
+                        "end": 21,
+                        "id": "48388820",
+                        "start": 12,
+                        "username": "EuroCelt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 134,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 114,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591907113881600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@GEF_Europe @EuroCelt You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:50:57.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 54,
+                        "start": 46,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 69,
+                        "start": 62,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "17722542",
+                        "start": 0,
+                        "username": "jmcest"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 133,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 113,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591868970868736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@jmcest @SustEUfunds You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:50:57.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 51,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 74,
+                        "start": 67,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "93207353",
+                        "start": 0,
+                        "username": "RalfGrahn"
+                    },
+                    {
+                        "end": 25,
+                        "id": "448694372",
+                        "start": 11,
+                        "username": "AdelinaMarini"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 138,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 118,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591868937322496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@RalfGrahn @AdelinaMarini You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:50:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 72,
+                        "start": 65,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 23,
+                        "id": "104833800",
+                        "start": 13,
+                        "username": "mstrubell"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 136,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 116,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591828361617408",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@stephengib1 @mstrubell You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:50:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 54,
+                        "start": 46,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 69,
+                        "start": 62,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "334777310",
+                        "start": 0,
+                        "username": "straneuropa"
+                    },
+                    {
+                        "end": 20,
+                        "id": "16569660",
+                        "start": 13,
+                        "username": "Afelia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 133,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 113,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591828353220608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@STRANEUROPA @afelia You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:50:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 72,
+                        "start": 65,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "19652551",
+                        "start": 0,
+                        "username": "greenparty_ie"
+                    },
+                    {
+                        "end": 23,
+                        "id": "777817",
+                        "start": 15,
+                        "username": "eprenen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 136,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 116,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591769679101952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@greenparty_ie @eprenen You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:49:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 72,
+                        "start": 65,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 23,
+                        "id": "821604536",
+                        "start": 9,
+                        "username": "Michelashvili"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 136,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 116,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591568990044160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@sebkaem @Michelashvili You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:49:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 41,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 64,
+                        "start": 57,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "18519972",
+                        "start": 0,
+                        "username": "demsoc"
+                    },
+                    {
+                        "end": 15,
+                        "id": "16055280",
+                        "start": 8,
+                        "username": "hughbs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 128,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 108,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591492943122432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@demsoc @hughbs You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:49:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 53,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 76,
+                        "start": 69,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "617644406",
+                        "start": 0,
+                        "username": "AnneLaumen"
+                    },
+                    {
+                        "end": 27,
+                        "id": "803996887678418944",
+                        "start": 12,
+                        "username": "captain_europe"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 140,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 120,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246591439381876736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@AnneLaumen @captain_europe You've been quoted in my #Storify story \"#EUChat about the 2012 State of the Union address\" http://t.co/fbwpaklU"
+        },
+        {
+            "created_at": "2012-09-14T12:46:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "President Barroso",
+                        "probability": 0.838,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "246590730288656384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Wednesday 19 September: President Barroso answers citizens' questions on the State of the Union \u2013 submit your video questions..."
+        },
+        {
+            "created_at": "2012-09-14T12:44:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 66,
+                        "tag": "B\u0103sescu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dI9qS",
+                        "end": 95,
+                        "expanded_url": "http://ow.ly/dI9qS",
+                        "start": 75,
+                        "url": "http://t.co/atFg36ct"
+                    }
+                ]
+            },
+            "id": "246590250942611456",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "Statement following the meeting between .@BarrosoEU and President #B\u0103sescu http://t.co/atFg36ct"
+        },
+        {
+            "created_at": "2012-09-14T12:44:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 6,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "2855615075",
+                        "start": 19,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 45,
+                        "id": "2853418829",
+                        "start": 33,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 59,
+                        "id": "2858854887",
+                        "start": 46,
+                        "username": "ECSpokesMark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/d8JM",
+                        "end": 91,
+                        "expanded_url": "http://sfy.co/d8JM",
+                        "start": 71,
+                        "url": "http://t.co/fbwpaklU"
+                    }
+                ]
+            },
+            "id": "246590162828664833",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "First #EUChat with @ECspokesKoen @ECSpokesPia @ECSpokesMark storified: http://t.co/fbwpaklU. 1 hr 32 answers &amp; a lot of follow-ups! TY!"
+        },
+        {
+            "created_at": "2012-09-14T12:38:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Europe",
+                        "probability": 0.9854,
+                        "start": 43,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 51,
+                        "tag": "environment"
+                    },
+                    {
+                        "end": 70,
+                        "start": 64,
+                        "tag": "noise"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dI8RR",
+                        "end": 129,
+                        "expanded_url": "http://ow.ly/dI8RR",
+                        "start": 109,
+                        "url": "http://t.co/kCcYCRaB"
+                    }
+                ]
+            },
+            "id": "246588798912327680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Report \"Common Noise Assessment Methods in Europe\" #environment #noise has been published today. E-version i http://t.co/kCcYCRaB"
+        },
+        {
+            "created_at": "2012-09-14T12:25:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "Pia",
+                        "probability": 0.8027,
+                        "start": 45,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "201201906",
+                        "start": 0,
+                        "username": "debatingeurope"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ECspokesPia/st\u2026",
+                        "end": 95,
+                        "expanded_url": "https://twitter.com/ECspokesPia/status/246541715845029889",
+                        "start": 74,
+                        "url": "https://t.co/MEPS82XB"
+                    }
+                ]
+            },
+            "id": "246585491015737344",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@debatingeurope Thanks for the question! see Pia's reply to this question https://t.co/MEPS82XB"
+        },
+        {
+            "created_at": "2012-09-14T12:16:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 22,
+                        "tag": "QueEuropaQueremos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dHR5c",
+                        "end": 125,
+                        "expanded_url": "http://ow.ly/dHR5c",
+                        "start": 105,
+                        "url": "http://t.co/X5HeUJ4b"
+                    }
+                ]
+            },
+            "id": "246583226200621057",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Danos tus ideas sobre #QueEuropaQueremos y haz que lleguen a @VivianeRedingUE. Participa hasta el 23.09. http://t.co/X5HeUJ4b"
+        },
+        {
+            "created_at": "2012-09-14T12:10:16.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2560246616",
+                        "start": 1,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dI6gE",
+                        "end": 135,
+                        "expanded_url": "http://ow.ly/dI6gE",
+                        "start": 115,
+                        "url": "http://t.co/Hjgjp2UG"
+                    }
+                ]
+            },
+            "id": "246581630473498624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": ".@JanezPotocnikEU 'Noise is a serious environmental risk to public health, especially in urban areas' EU response: http://t.co/Hjgjp2UG"
+        },
+        {
+            "created_at": "2012-09-14T10:34:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 137,
+                        "normalized_text": "European Cooperation Day",
+                        "probability": 0.7259,
+                        "start": 114,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 29,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "246557562575671297",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Coming up next week with the #EU: Tuesday 18 September: \"Sharing Borders, growing closer\"- Official Launch of the European Cooperation Day"
+        },
+        {
+            "created_at": "2012-09-14T09:45:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 41,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 67,
+                        "id": "2858854887",
+                        "start": 54,
+                        "username": "ECSpokesMark"
+                    },
+                    {
+                        "end": 80,
+                        "id": "2853418829",
+                        "start": 68,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 94,
+                        "id": "2855615075",
+                        "start": 81,
+                        "username": "ecspokeskoen"
+                    }
+                ]
+            },
+            "id": "246545195590643712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "A bit more than 10 minutes to go for the #EUChat with @ECspokesMark @ECspokesPia @ECspokesKoen"
+        },
+        {
+            "created_at": "2012-09-14T09:02:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 14,
+                        "start": 8,
+                        "tag": "soteu"
+                    },
+                    {
+                        "end": 85,
+                        "start": 78,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 135,
+                        "start": 129,
+                        "tag": "soteu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 49,
+                        "id": "2855615075",
+                        "start": 36,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 76,
+                        "id": "2858854887",
+                        "start": 63,
+                        "username": "ECSpokesMark"
+                    }
+                ]
+            },
+            "id": "246534283722903552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#EUChat #soteu  starts now. Talk to @ECSpokesKoen @ECSpokedPia @ECSpokesMark. #EUChat to ask a question. Follow discussion using #soteu"
+        },
+        {
+            "created_at": "2012-09-14T08:56:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 22,
+                        "tag": "Tweetchat"
+                    },
+                    {
+                        "end": 42,
+                        "start": 36,
+                        "tag": "SotEU"
+                    },
+                    {
+                        "end": 112,
+                        "start": 105,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56782688",
+                        "start": 0,
+                        "username": "AlesChmelar"
+                    },
+                    {
+                        "end": 21,
+                        "id": "19645781",
+                        "start": 13,
+                        "username": "ardalby"
+                    }
+                ]
+            },
+            "id": "246532796800172032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@aleschmelar @ardalby #Tweetchat on #SotEU starting in 5 mins if you have questions! Ask and follow with #EUchat!"
+        },
+        {
+            "created_at": "2012-09-14T08:53:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 28,
+                        "tag": "SotEU"
+                    },
+                    {
+                        "end": 126,
+                        "start": 119,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "472327937",
+                        "start": 0,
+                        "username": "acorreiads"
+                    },
+                    {
+                        "end": 22,
+                        "id": "97408886",
+                        "start": 12,
+                        "username": "Andym6769"
+                    }
+                ]
+            },
+            "id": "246532082946412544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@acorreiads @andym6769 Live #SotEU chat with the @BarrosoEU spokes starting in a few mins - if you've got Qs, ask with #EUchat!"
+        },
+        {
+            "created_at": "2012-09-14T08:52:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 24,
+                        "tag": "tweetchat"
+                    },
+                    {
+                        "end": 42,
+                        "start": 35,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 49,
+                        "start": 43,
+                        "tag": "SotEU"
+                    },
+                    {
+                        "end": 72,
+                        "start": 69,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 82,
+                        "start": 73,
+                        "tag": "politics"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 100,
+                        "id": "2855615075",
+                        "start": 87,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 129,
+                        "id": "2858854887",
+                        "start": 116,
+                        "username": "ECSpokesMark"
+                    }
+                ]
+            },
+            "id": "246531791903657984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "Starting in 10 minutes: #tweetchat #EUChat #SotEU Ask your questions #EU #politics to .@ECSpokesKoen .@ECSpokedPia .@ECSpokesMark"
+        },
+        {
+            "created_at": "2012-09-14T08:49:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 36,
+                        "tag": "euchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2858854887",
+                        "start": 1,
+                        "username": "ECSpokesMark"
+                    }
+                ]
+            },
+            "id": "246531174284001282",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": ".@ecspokesmark is already there for #euchat. Now logging in :)"
+        },
+        {
+            "created_at": "2012-09-14T08:31:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Kyiv",
+                        "probability": 0.8301,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Yalta",
+                        "probability": 0.6014,
+                        "start": 88,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 96,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 108,
+                        "start": 100,
+                        "tag": "Ukraine"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "505748969",
+                        "start": 1,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dHPUA",
+                        "end": 129,
+                        "expanded_url": "http://ow.ly/dHPUA",
+                        "start": 109,
+                        "url": "http://t.co/fW0QcNjj"
+                    }
+                ]
+            },
+            "id": "246526562940358656",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": ".@StefanFuleEU 'What has happened since my first mission to Kyiv and my first speech in Yalta?' #EU #Ukraine http://t.co/fW0QcNjj"
+        },
+        {
+            "created_at": "2012-09-14T08:23:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 46,
+                        "tag": "EUChat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "17442320",
+                        "start": 0,
+                        "username": "jonworth"
+                    },
+                    {
+                        "end": 21,
+                        "id": "17834349",
+                        "start": 10,
+                        "username": "nosemonkey"
+                    },
+                    {
+                        "end": 33,
+                        "id": "17297759",
+                        "start": 22,
+                        "username": "JanSeifert"
+                    },
+                    {
+                        "end": 98,
+                        "id": "2855615075",
+                        "start": 85,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 111,
+                        "id": "2853418829",
+                        "start": 99,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 125,
+                        "id": "2858854887",
+                        "start": 112,
+                        "username": "ECSpokesMark"
+                    }
+                ]
+            },
+            "id": "246524460721651712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@jonworth @Nosemonkey @JanSeifert also on the #EUChat hashtag today at 11am CET with @ECspokeskoen @ecspokespia @ecspokesmark :-)"
+        },
+        {
+            "created_at": "2012-09-14T07:59:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "EADS",
+                        "probability": 0.6217,
+                        "start": 75,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Singapore Technologies",
+                        "probability": 0.371,
+                        "start": 84,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    },
+                    {
+                        "end": 13,
+                        "start": 10,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dHPOj",
+                        "end": 127,
+                        "expanded_url": "http://ow.ly/dHPOj",
+                        "start": 107,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_12_962",
+                        "url": "http://t.co/l2w0oYag"
+                    }
+                ]
+            },
+            "id": "246518534543396864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Mergers: #EU Commission approves acquisition of joint control over EFW by EADS and Singapore Technologies http://t.co/l2w0oYag"
+        },
+        {
+            "created_at": "2012-09-14T07:57:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 55,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 109,
+                        "start": 92,
+                        "tag": "humantrafficking"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/dHPkn",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/dHPkn",
+                        "start": 110,
+                        "url": "http://t.co/t8Z8Q6q7"
+                    }
+                ]
+            },
+            "id": "246518125842030592",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 8
+            },
+            "text": "Hundreds of thousands of victims trafficked across the #EU annually. Find out more Sep. 20. #humantrafficking http://t.co/t8Z8Q6q7"
+        },
+        {
+            "created_at": "2012-09-14T07:18:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "tweetchat"
+                    },
+                    {
+                        "end": 33,
+                        "start": 26,
+                        "tag": "EUChat"
+                    },
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "SotEU"
+                    },
+                    {
+                        "end": 63,
+                        "start": 60,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 73,
+                        "start": 64,
+                        "tag": "politics"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 91,
+                        "id": "2855615075",
+                        "start": 78,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 120,
+                        "id": "2858854887",
+                        "start": 107,
+                        "username": "ECSpokesMark"
+                    }
+                ]
+            },
+            "id": "246508246981025792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Today @ 11 am: #tweetchat #EUChat #SotEU Ask your questions #EU #politics to .@ECSpokesKoen .@ECSpokedPia .@ECSpokesMark"
+        },
+        {
+            "created_at": "2012-09-14T06:46:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 97,
+                        "normalized_text": "Europe",
+                        "probability": 0.9848,
+                        "start": 92,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Barroso",
+                        "probability": 0.6483,
+                        "start": 104,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 9,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 84,
+                        "start": 77,
+                        "tag": "debate"
+                    },
+                    {
+                        "end": 139,
+                        "start": 132,
+                        "tag": "EUchat"
+                    }
+                ]
+            },
+            "id": "246500043819974656",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 11
+            },
+            "text": "Times of #EU integration by implicit consent of the citizens are over. Broad #debate across Europe? Ask Barroso\u2019s spokespeople with #EUchat"
+        },
+        {
+            "created_at": "2012-09-14T06:16:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Barroso",
+                        "probability": 0.8773,
+                        "start": 69,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 15,
+                        "tag": "federation"
+                    },
+                    {
+                        "end": 37,
+                        "start": 30,
+                        "tag": "nation"
+                    },
+                    {
+                        "end": 45,
+                        "start": 38,
+                        "tag": "states"
+                    },
+                    {
+                        "end": 104,
+                        "start": 97,
+                        "tag": "EUchat"
+                    }
+                ]
+            },
+            "id": "246492586150346752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 13
+            },
+            "text": "Move towards a #federation of #nation #states. EU Treaty change? Ask Barroso\u2019s spokespeople with #EUchat. Answer today @ 11 CET."
+        },
+        {
+            "created_at": "2012-09-14T06:03:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 66,
+                        "start": 59,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "111530549",
+                        "start": 0,
+                        "username": "SegoleneEA"
+                    },
+                    {
+                        "end": 81,
+                        "id": "2855615075",
+                        "start": 68,
+                        "username": "ecspokeskoen"
+                    },
+                    {
+                        "end": 94,
+                        "id": "2853418829",
+                        "start": 82,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 108,
+                        "id": "2858854887",
+                        "start": 95,
+                        "username": "ECSpokesMark"
+                    }
+                ]
+            },
+            "id": "246489294401839104",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@segoleneea c'est aujourd'hui. Envoyez votre question avec #EUchat. @ECspokeskoen @ECspokesPia @ECSpokesMark y r\u00e9pondront \u00e0 11h"
+        },
+        {
+            "created_at": "2012-09-14T05:45:30.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Europe",
+                        "probability": 0.9778,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Barroso",
+                        "probability": 0.7957,
+                        "start": 75,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 26,
+                        "tag": "reform"
+                    },
+                    {
+                        "end": 49,
+                        "start": 44,
+                        "tag": "Fair"
+                    },
+                    {
+                        "end": 114,
+                        "start": 107,
+                        "tag": "EUchat"
+                    }
+                ]
+            },
+            "id": "246484800444194816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Decisive deal for Europe: #reform together. #Fair &amp; equitable reforms? Ask Barroso\u2019s spokespeople with #EUchat. Answer today @ 11 CET"
+        }
+    ],
+    "meta": {
+        "newest_id": "248396436805406721",
+        "next_token": "1jzu9lk96gu5npvzzjo76quvndm50h4rirs4lffpm1kt",
+        "oldest_id": "246484800444194816",
+        "result_count": 100
+    }
+}

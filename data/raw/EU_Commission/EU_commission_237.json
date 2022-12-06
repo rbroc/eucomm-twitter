@@ -1,0 +1,4324 @@
+{
+    "data": [
+        {
+            "created_at": "2013-11-17T13:45:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "EU",
+                        "probability": 0.6499,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 25,
+                        "tag": "SME"
+                    },
+                    {
+                        "end": 59,
+                        "start": 51,
+                        "tag": "economy"
+                    },
+                    {
+                        "end": 121,
+                        "start": 109,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1a2WM3p",
+                        "end": 108,
+                        "expanded_url": "http://bit.ly/1a2WM3p",
+                        "start": 86,
+                        "url": "http://t.co/FFXceeVcfy"
+                    }
+                ]
+            },
+            "id": "402070051702177793",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "Want to take part in the #SME week &amp; boost the #economy in EU? Organise an event! http://t.co/FFXceeVcfy #EU4business"
+        },
+        {
+            "created_at": "2013-11-17T11:40:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 36,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qRcuO",
+                        "end": 133,
+                        "expanded_url": "http://ow.ly/qRcuO",
+                        "start": 111,
+                        "url": "http://t.co/5QkMoy1uLl"
+                    }
+                ]
+            },
+            "id": "402038538424053760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 20
+            },
+            "text": "With 3.4mil jobs in eco-industries, #EU Eco-innovation scheme funds 240 projects. Find an initiative near you: http://t.co/5QkMoy1uLl"
+        },
+        {
+            "created_at": "2013-11-17T10:10:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "European Social Fund",
+                        "probability": 0.5622,
+                        "start": 11,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 57,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 87,
+                        "start": 76,
+                        "tag": "employment"
+                    },
+                    {
+                        "end": 120,
+                        "start": 112,
+                        "tag": "EUFunds"
+                    },
+                    {
+                        "end": 133,
+                        "start": 121,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/17D2bkj",
+                        "end": 111,
+                        "expanded_url": "http://bit.ly/17D2bkj",
+                        "start": 89,
+                        "url": "http://t.co/aqw7pZMspU"
+                    }
+                ]
+            },
+            "id": "402015864998084608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 23
+            },
+            "text": "How is the European Social Fund helping people to set up #SMEs &amp; create #employment? http://t.co/aqw7pZMspU #EUFunds #EU4business"
+        },
+        {
+            "created_at": "2013-11-17T09:14:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 40,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 98,
+                        "start": 81,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "eugrowth"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qTMXB",
+                        "end": 80,
+                        "expanded_url": "http://ow.ly/qTMXB",
+                        "start": 58,
+                        "url": "http://t.co/ZSJEttegrb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/XQaTqiFt8A",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/402001802339422208/photo/1",
+                        "start": 109,
+                        "url": "http://t.co/XQaTqiFt8A"
+                    }
+                ]
+            },
+            "id": "402001802339422208",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 15
+            },
+            "text": "Die wirtschaftspolitische Steuerung der #EU im Einzelnen: http://t.co/ZSJEttegrb #EuropeanSemester #eugrowth http://t.co/XQaTqiFt8A"
+        },
+        {
+            "created_at": "2013-11-17T09:01:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 84,
+                        "start": 67,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 94,
+                        "start": 85,
+                        "tag": "eugrowth"
+                    },
+                    {
+                        "end": 106,
+                        "start": 95,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qTMEX",
+                        "end": 66,
+                        "expanded_url": "http://ow.ly/qTMEX",
+                        "start": 44,
+                        "url": "http://t.co/4icaviKL6L"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iESy4G6lbS",
+                        "end": 129,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/401998579595632640/photo/1",
+                        "start": 107,
+                        "url": "http://t.co/iESy4G6lbS"
+                    }
+                ]
+            },
+            "id": "401998579595632640",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 27
+            },
+            "text": "La gouvernance \u00e9conomique de l\u2019UE en clair: http://t.co/4icaviKL6L #EuropeanSemester #eugrowth #Europe2020 http://t.co/iESy4G6lbS"
+        },
+        {
+            "created_at": "2013-11-17T08:49:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 81,
+                        "start": 64,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 91,
+                        "start": 82,
+                        "tag": "eugrowth"
+                    },
+                    {
+                        "end": 103,
+                        "start": 92,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qTMkL",
+                        "end": 63,
+                        "expanded_url": "http://ow.ly/qTMkL",
+                        "start": 41,
+                        "url": "http://t.co/zeFS34WDyJ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/p516mWsWR0",
+                        "end": 126,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/401995564297879552/photo/1",
+                        "start": 104,
+                        "url": "http://t.co/p516mWsWR0"
+                    }
+                ]
+            },
+            "id": "401995564297879552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 72
+            },
+            "text": "The #EU's economic governance explained: http://t.co/zeFS34WDyJ #EuropeanSemester #eugrowth #Europe2020 http://t.co/p516mWsWR0"
+        },
+        {
+            "created_at": "2013-11-16T15:20:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "EU",
+                        "probability": 0.6048,
+                        "start": 23,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "EU Delegation",
+                        "probability": 0.597,
+                        "start": 59,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 79,
+                        "normalized_text": "Kyiv",
+                        "probability": 0.9629,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "Twitter",
+                        "probability": 0.5667,
+                        "start": 84,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "Ukraine"
+                    },
+                    {
+                        "end": 135,
+                        "start": 131,
+                        "tag": "EaP"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 107,
+                        "id": "576094228",
+                        "start": 92,
+                        "username": "EUDelegationUA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qRoRQ",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/qRoRQ",
+                        "start": 108,
+                        "url": "http://t.co/FeulI4mbAz"
+                    }
+                ]
+            },
+            "id": "401731468445364224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 9,
+                "retweet_count": 6
+            },
+            "text": "Interested in what the EU is doing in #Ukraine? Follow the EU Delegation in Kyiv on Twitter @EUDelegationUA http://t.co/FeulI4mbAz #EaP"
+        },
+        {
+            "created_at": "2013-11-16T14:02:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 29,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 67,
+                        "start": 55,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1b6UVZg",
+                        "end": 90,
+                        "expanded_url": "http://bit.ly/1b6UVZg",
+                        "start": 68,
+                        "url": "http://t.co/R8r2iUMwKM"
+                    }
+                ]
+            },
+            "id": "401711911928348672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Check the events organised 4 #SMEs throughout the year #EU4business http://t.co/R8r2iUMwKM"
+        },
+        {
+            "created_at": "2013-11-16T13:00:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 58,
+                        "tag": "EuropeanStory"
+                    },
+                    {
+                        "end": 117,
+                        "start": 109,
+                        "tag": "EYC2013"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qSQ3S",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/qSQ3S",
+                        "start": 118,
+                        "url": "http://t.co/wRMOdWN2Ze"
+                    }
+                ]
+            },
+            "id": "401696239856934912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "It\u2019s your chance to vote for your favorite picture in The #EuropeanStory Photo Competition! Which one is it? #EYC2013 http://t.co/wRMOdWN2Ze"
+        },
+        {
+            "created_at": "2013-11-16T11:40:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "International Day Of Tolerance",
+                        "probability": 0.3855,
+                        "start": 6,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 37,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qSPAb",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/qSPAb",
+                        "start": 117,
+                        "url": "http://t.co/rn6UKi0P3m"
+                    }
+                ]
+            },
+            "id": "401676043423326208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 26
+            },
+            "text": "Happy International Day Of Tolerance!#EU Youth in Action funds initiatives encouraging inclusion of all young people http://t.co/rn6UKi0P3m"
+        },
+        {
+            "created_at": "2013-11-16T10:40:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "finance"
+                    },
+                    {
+                        "end": 57,
+                        "start": 52,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 84,
+                        "start": 78,
+                        "tag": "COSME"
+                    },
+                    {
+                        "end": 117,
+                        "start": 105,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1cqnwz4",
+                        "end": 140,
+                        "expanded_url": "http://bit.ly/1cqnwz4",
+                        "start": 118,
+                        "url": "http://t.co/Uu16mgaw8U"
+                    }
+                ]
+            },
+            "id": "401661071490314241",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 40
+            },
+            "text": "Would you like to get better access to #finance for #SMEs? Check EU programme #COSME, available in 2014! #EU4business http://t.co/Uu16mgaw8U"
+        },
+        {
+            "created_at": "2013-11-16T10:29:47.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Typhoon",
+                        "probability": 0.7207,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9767,
+                        "start": 82,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 33,
+                        "tag": "Haiyan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1dAYolW",
+                        "end": 116,
+                        "expanded_url": "http://bit.ly/1dAYolW",
+                        "start": 94,
+                        "url": "http://t.co/ie60pzYcOW"
+                    }
+                ]
+            },
+            "id": "401658347818323968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "More aid to survivors of Typhoon #Haiyan as Commissioner @KGeorgievaEU visits the Philippines http://t.co/ie60pzYcOW"
+        },
+        {
+            "created_at": "2013-11-15T17:50:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 63,
+                        "tag": "ECOFIN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 114,
+                        "id": "2815632681",
+                        "start": 105,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qRHP7",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/qRHP7",
+                        "start": 79,
+                        "url": "http://t.co/7UPv91djZq"
+                    }
+                ]
+            },
+            "id": "401406981199892480",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 4
+            },
+            "text": "Remarques du Commissaire @MBarnierEU sur la r\u00e9union du Conseil #ECOFIN du jour http://t.co/7UPv91djZq cc @EU_Markt"
+        },
+        {
+            "created_at": "2013-11-15T16:58:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 13,
+                        "tag": "children"
+                    },
+                    {
+                        "end": 53,
+                        "start": 48,
+                        "tag": "well"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 95,
+                        "id": "218812123",
+                        "start": 81,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qRA5W",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/qRA5W",
+                        "start": 96,
+                        "url": "http://t.co/NLSszeDeVi"
+                    }
+                ]
+            },
+            "id": "401393677941366784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 9
+            },
+            "text": "Investing in #children today for our collective #well-being tomorrow - speech by @LaszloAndorEU http://t.co/NLSszeDeVi"
+        },
+        {
+            "created_at": "2013-11-15T16:55:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 113,
+                        "start": 105,
+                        "tag": "Culture"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qRzm9",
+                        "end": 141,
+                        "expanded_url": "http://ow.ly/qRzm9",
+                        "start": 119,
+                        "url": "http://t.co/MNV3nsRmlh"
+                    }
+                ]
+            },
+            "id": "401393076595605504",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 47
+            },
+            "text": "6 Italian cities (Cagliari, Lecce, Matera, Perugia, Ravenna &amp; Sienna) short-listed for EU Capital of #Culture 2019 http://t.co/MNV3nsRmlh"
+        },
+        {
+            "created_at": "2013-11-15T15:45:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 107,
+                        "normalized_text": "Karel de Gucht",
+                        "probability": 0.9282,
+                        "start": 94,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "TTIP"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qRnGq",
+                        "end": 131,
+                        "expanded_url": "http://ow.ly/qRnGq",
+                        "start": 109,
+                        "url": "http://t.co/z6uv2PPg38"
+                    }
+                ]
+            },
+            "id": "401375461366042624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 13
+            },
+            "text": "#TTIP: The new EU-US commercial relationship and the future of the EU-Swiss trade - speech by Karel de Gucht http://t.co/z6uv2PPg38"
+        },
+        {
+            "created_at": "2013-11-15T14:35:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 101,
+                        "start": 94,
+                        "tag": "EUdeb8"
+                    },
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "Limassol"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "20317872",
+                        "start": 0,
+                        "username": "likemonkeys"
+                    },
+                    {
+                        "end": 29,
+                        "id": "177179008",
+                        "start": 13,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 81,
+                        "id": "481964948",
+                        "start": 69,
+                        "username": "VassiliouEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/17toEur",
+                        "end": 138,
+                        "expanded_url": "http://bit.ly/17toEur",
+                        "start": 116,
+                        "url": "http://t.co/6nGNcVpK8Z"
+                    }
+                ]
+            },
+            "id": "401357781107605504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@likemonkeys @VivianeRedingEU Hi there, you can ask your question to @VassiliouEU at the next #EUdeb8 in #Limassol! http://t.co/6nGNcVpK8Z"
+        },
+        {
+            "created_at": "2013-11-15T13:34:16.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "157981564",
+                        "start": 6,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQZMe",
+                        "end": 88,
+                        "expanded_url": "http://ow.ly/qQZMe",
+                        "start": 66,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/fr/CLDR_13_40",
+                        "url": "http://t.co/mmiCajW48E"
+                    }
+                ]
+            },
+            "id": "401342389606187008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Check @EU_Commission Calendar for the week ahead (18-24 November) http://t.co/mmiCajW48E"
+        },
+        {
+            "created_at": "2013-11-15T13:32:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 36,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 64,
+                        "start": 49,
+                        "tag": "cohesionpolicy"
+                    },
+                    {
+                        "end": 131,
+                        "start": 119,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJfb2",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/qJfb2",
+                        "start": 96,
+                        "url": "http://t.co/CY5pveOOlD"
+                    }
+                ]
+            },
+            "id": "401341899258482688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "Supporting creation &amp; growth of #SMEs is how #cohesionpolicy helps boost regional economies http://t.co/CY5pveOOlD #EU4business"
+        },
+        {
+            "created_at": "2013-11-15T13:28:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9922,
+                        "start": 31,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 90,
+                        "tag": "TyphoonHaiyan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/17vo27B",
+                        "end": 137,
+                        "expanded_url": "http://bit.ly/17vo27B",
+                        "start": 115,
+                        "url": "http://t.co/7EZpA27O9w"
+                    }
+                ]
+            },
+            "id": "401340986132951040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "RT @KGeorgievaEU On the way to Philippines to assess the humanitarian emergency after the #TyphoonHaiyan. More on: http://t.co/7EZpA27O9w"
+        },
+        {
+            "created_at": "2013-11-15T13:20:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 8,
+                        "tag": "Thailand"
+                    },
+                    {
+                        "end": 74,
+                        "start": 71,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 86,
+                        "start": 75,
+                        "tag": "businesses"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQPOu",
+                        "end": 109,
+                        "expanded_url": "http://ow.ly/qQPOu",
+                        "start": 87,
+                        "url": "http://t.co/nog3FwzeYB"
+                    }
+                ]
+            },
+            "id": "401338942135734272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Booming #Thailand consumer market offers a wealth of opportunities for #EU #businesses http://t.co/nog3FwzeYB"
+        },
+        {
+            "created_at": "2013-11-15T13:05:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 5,
+                        "tag": "autumn"
+                    },
+                    {
+                        "end": 104,
+                        "start": 95,
+                        "tag": "Brussels"
+                    },
+                    {
+                        "end": 117,
+                        "start": 105,
+                        "tag": "MeteoFriday"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQYE6",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/qQYE6",
+                        "start": 72,
+                        "url": "http://t.co/mOXB3kaH36"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/nMGo2A5sKv",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/401335033010475008/photo/1",
+                        "start": 118,
+                        "url": "http://t.co/nMGo2A5sKv"
+                    }
+                ]
+            },
+            "id": "401335033010475008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 8
+            },
+            "text": "Cold #autumn air but plenty happening in the coming weeks! EC top news: http://t.co/mOXB3kaH36 #Brussels #MeteoFriday http://t.co/nMGo2A5sKv"
+        },
+        {
+            "created_at": "2013-11-15T12:34:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "4859588668",
+                        "start": 108,
+                        "username": "EIBtheEUbank"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQVVo",
+                        "end": 104,
+                        "expanded_url": "http://ow.ly/qQVVo",
+                        "start": 82,
+                        "url": "http://t.co/SM6xAIk05t"
+                    }
+                ]
+            },
+            "id": "401327373301612544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "The European Long Term Investors association (ELTI) launches its 2014 Action Plan http://t.co/SM6xAIk05t cc @EIBtheEUbank"
+        },
+        {
+            "created_at": "2013-11-15T12:21:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Savings"
+                    },
+                    {
+                        "end": 18,
+                        "start": 9,
+                        "tag": "taxation"
+                    },
+                    {
+                        "end": 98,
+                        "start": 91,
+                        "tag": "ECOFIN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 44,
+                        "id": "381021987",
+                        "start": 34,
+                        "username": "ASemetaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQUKm",
+                        "end": 121,
+                        "expanded_url": "http://ow.ly/qQUKm",
+                        "start": 99,
+                        "url": "http://t.co/BLQFr9nHS7"
+                    }
+                ]
+            },
+            "id": "401324002226225152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#Savings #taxation - Statement by @ASemetaEU at the Economic and Finance Ministers Council #ECOFIN http://t.co/BLQFr9nHS7"
+        },
+        {
+            "created_at": "2013-11-15T11:35:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 42,
+                        "tag": "jobs"
+                    },
+                    {
+                        "end": 68,
+                        "start": 52,
+                        "tag": "apprenticeships"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQQfK",
+                        "end": 91,
+                        "expanded_url": "http://ow.ly/qQQfK",
+                        "start": 69,
+                        "url": "http://t.co/xFEcsao8F8"
+                    }
+                ]
+            },
+            "id": "401312392199823360",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 5
+            },
+            "text": ".@EU_Commission welcomes Nestl\u00e9 pledge on #jobs and #apprenticeships http://t.co/xFEcsao8F8"
+        },
+        {
+            "created_at": "2013-11-15T11:31:43.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "300868924",
+                        "start": 1,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQMqt",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/qQMqt",
+                        "start": 72,
+                        "url": "http://t.co/wVdPbSMLvm"
+                    }
+                ]
+            },
+            "id": "401311546481344512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": ".@EU_Eurostat: Euro area annual inflation down to 0.7%; EU down to 0.9% http://t.co/wVdPbSMLvm"
+        },
+        {
+            "created_at": "2013-11-15T11:26:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 56,
+                        "tag": "Mongolia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQPlO",
+                        "end": 108,
+                        "expanded_url": "http://ow.ly/qQPlO",
+                        "start": 86,
+                        "url": "http://t.co/HMlTYSO7tk"
+                    }
+                ]
+            },
+            "id": "401310271312232448",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@BarrosoEU visit on Monday provides fresh impetus to EU-#Mongolia bilateral relations http://t.co/HMlTYSO7tk"
+        },
+        {
+            "created_at": "2013-11-15T11:22:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 9,
+                        "tag": "Antibiotic"
+                    },
+                    {
+                        "end": 116,
+                        "start": 113,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQP1k",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/qQP1k",
+                        "start": 117,
+                        "url": "http://t.co/XbZpTiqpSL"
+                    }
+                ]
+            },
+            "id": "401309217124270080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "European #Antibiotic Awareness Day 2013: Read the key Facts on the Fight Against Antimicrobial Resistance in the #EU http://t.co/XbZpTiqpSL"
+        },
+        {
+            "created_at": "2013-11-15T11:21:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQORB",
+                        "end": 93,
+                        "expanded_url": "http://ow.ly/qQORB",
+                        "start": 71,
+                        "url": "http://t.co/rafrccAZPo"
+                    }
+                ]
+            },
+            "id": "401308970742456320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "#EU launches new research projects to combat anti-microbial resistance http://t.co/rafrccAZPo"
+        },
+        {
+            "created_at": "2013-11-15T11:18:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 24,
+                        "tag": "Antibiotic"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 139,
+                        "id": "1605512862",
+                        "start": 131,
+                        "username": "borgton"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQOCj",
+                        "end": 127,
+                        "expanded_url": "http://ow.ly/qQOCj",
+                        "start": 105,
+                        "url": "http://t.co/6DlPMzftLZ"
+                    }
+                ]
+            },
+            "id": "401308256754495488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "It is the 2013 European #Antibiotic Awareness Day: EU steps up its fight against drug-resistant bacteria http://t.co/6DlPMzftLZ cc @Borgton"
+        },
+        {
+            "created_at": "2013-11-15T11:15:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 25,
+                        "tag": "Moldova"
+                    },
+                    {
+                        "end": 42,
+                        "start": 34,
+                        "tag": "Ukraine"
+                    },
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Georgia"
+                    },
+                    {
+                        "end": 63,
+                        "start": 58,
+                        "tag": "visa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 144,
+                        "id": "460966881",
+                        "start": 132,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQOh8",
+                        "end": 128,
+                        "expanded_url": "http://ow.ly/qQOh8",
+                        "start": 106,
+                        "url": "http://t.co/XE4o1Ma779"
+                    }
+                ]
+            },
+            "id": "401307394246205441",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": ".@EU_Commission assesses #Moldova,#Ukraine &amp; #Georgia #visa liberalisation Action Plan implementation http://t.co/XE4o1Ma779 cc @MalmstromEU"
+        },
+        {
+            "created_at": "2013-11-15T11:15:00.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "94529866",
+                        "start": 0,
+                        "username": "jameskanter"
+                    }
+                ]
+            },
+            "id": "401307341032669184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@jameskanter We're sorry for any inconvenience;technicians working on repairing the problemn.Wifi works outside press room in press area."
+        },
+        {
+            "created_at": "2013-11-15T11:11:57.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 21,
+                        "tag": "VAT"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 103,
+                        "id": "381021987",
+                        "start": 93,
+                        "username": "ASemetaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQO30",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/qQO30",
+                        "start": 67,
+                        "url": "http://t.co/gt4ssjNd43"
+                    }
+                ]
+            },
+            "id": "401306573831962624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "Towards an efficient #VAT system: 7th Brussels Tax Forum on Monday http://t.co/gt4ssjNd43 cc @ASemetaEU"
+        },
+        {
+            "created_at": "2013-11-15T11:09:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Spain",
+                        "probability": 0.9723,
+                        "start": 62,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "UK",
+                        "probability": 0.8917,
+                        "start": 85,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 31,
+                        "tag": "border"
+                    },
+                    {
+                        "end": 60,
+                        "start": 52,
+                        "tag": "LaL\u00ednea"
+                    },
+                    {
+                        "end": 83,
+                        "start": 73,
+                        "tag": "Gibraltar"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 127,
+                        "id": "460966881",
+                        "start": 115,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQNKM",
+                        "end": 111,
+                        "expanded_url": "http://ow.ly/qQNKM",
+                        "start": 89,
+                        "url": "http://t.co/p63ivdoEhx"
+                    }
+                ]
+            },
+            "id": "401305938747199488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 19
+            },
+            "text": ".@EU_Commission reports on the #border situation in #LaL\u00ednea (Spain) and #Gibraltar (UK) http://t.co/p63ivdoEhx cc @MalmstromEU"
+        },
+        {
+            "created_at": "2013-11-15T11:06:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "Environment"
+                    },
+                    {
+                        "end": 38,
+                        "start": 32,
+                        "tag": "Waste"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 107,
+                        "id": "2560246616",
+                        "start": 91,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQNzZ",
+                        "end": 87,
+                        "expanded_url": "http://ow.ly/qQNzZ",
+                        "start": 65,
+                        "url": "http://t.co/DcGoGq7yTo"
+                    }
+                ]
+            },
+            "id": "401305218354524160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "#Environment: European Week for #Waste Reduction begins tomorrow http://t.co/DcGoGq7yTo cc @JanezPotocnikEU"
+        },
+        {
+            "created_at": "2013-11-15T11:04:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Tokyo",
+                        "probability": 0.9315,
+                        "start": 26,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 5,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 15,
+                        "start": 9,
+                        "tag": "Japan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQNcC",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/qQNcC",
+                        "start": 79,
+                        "url": "http://t.co/rm3Vri5FyJ"
+                    }
+                ]
+            },
+            "id": "401304630208241664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "21st #EU-#Japan Summit in Tokyo on 19 November 2013 with @BarrosoEU and @euHvR http://t.co/rm3Vri5FyJ"
+        },
+        {
+            "created_at": "2013-11-15T10:48:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 86,
+                        "start": 77,
+                        "tag": "eugrowth"
+                    },
+                    {
+                        "end": 98,
+                        "start": 87,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQM0s",
+                        "end": 121,
+                        "expanded_url": "http://ow.ly/qQM0s",
+                        "start": 99,
+                        "url": "http://t.co/h8OXVbcZdc"
+                    }
+                ]
+            },
+            "id": "401300794198458368",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Want to know more about the Autumn fiscal surveillance package? Read the FAQ #eugrowth #Europe2020 http://t.co/h8OXVbcZdc"
+        },
+        {
+            "created_at": "2013-11-15T10:29:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.56,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 128,
+                        "tag": "eugrowth"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 55,
+                        "id": "157981564",
+                        "start": 41,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQK5B",
+                        "end": 127,
+                        "expanded_url": "http://ow.ly/qQK5B",
+                        "start": 105,
+                        "url": "http://t.co/YeRyjCdvjo"
+                    }
+                ]
+            },
+            "id": "401295781208281088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "EU budgetary surveillance into full gear:@EU_Commission 1st opinions on eurozone countries draft budgets http://t.co/YeRyjCdvjo #eugrowth"
+        },
+        {
+            "created_at": "2013-11-15T09:55:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 16,
+                        "tag": "Rehn"
+                    },
+                    {
+                        "end": 127,
+                        "start": 118,
+                        "tag": "eugrowth"
+                    },
+                    {
+                        "end": 139,
+                        "start": 128,
+                        "tag": "europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qQH2R",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/qQH2R",
+                        "start": 95,
+                        "url": "http://t.co/nNp2wlVP6N"
+                    }
+                ]
+            },
+            "id": "401287449361793024",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Presser w/ Olli #Rehn on Autumn budgetary surveillance package starting at 11 CET, watch live: http://t.co/nNp2wlVP6N #eugrowth #europe2020"
+        },
+        {
+            "created_at": "2013-11-15T09:45:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 54,
+                        "start": 49,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 130,
+                        "start": 115,
+                        "tag": "CohesionPolicy"
+                    },
+                    {
+                        "end": 143,
+                        "start": 131,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/16MkErA",
+                        "end": 114,
+                        "expanded_url": "http://bit.ly/16MkErA",
+                        "start": 92,
+                        "url": "http://t.co/ZVkAFCm2no"
+                    }
+                ]
+            },
+            "id": "401284934721359872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "text": "Encouraging use of financial instruments to give #SMEs more support &amp; access to credit: http://t.co/ZVkAFCm2no #CohesionPolicy #EU4business"
+        },
+        {
+            "created_at": "2013-11-14T19:42:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 9,
+                        "tag": "eudeb8"
+                    },
+                    {
+                        "end": 43,
+                        "start": 36,
+                        "tag": "Cyprus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 61,
+                        "id": "481964948",
+                        "start": 49,
+                        "username": "VassiliouEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qPAIl",
+                        "end": 136,
+                        "expanded_url": "http://ow.ly/qPAIl",
+                        "start": 114,
+                        "url": "http://t.co/eUSFvNdX90"
+                    }
+                ]
+            },
+            "id": "401072641614028800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 9
+            },
+            "text": "The next #eudeb8 will take place in #Cyprus with @VassiliouEU on 28 November! Make your voice heard. More info at http://t.co/eUSFvNdX90"
+        },
+        {
+            "created_at": "2013-11-14T19:40:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Europe",
+                        "probability": 0.9739,
+                        "start": 21,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 47,
+                        "id": "177179008",
+                        "start": 31,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 64,
+                        "id": "93484066",
+                        "start": 54,
+                        "username": "ChTaubira"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qPAjh",
+                        "end": 144,
+                        "expanded_url": "http://ow.ly/qPAjh",
+                        "start": 122,
+                        "url": "http://t.co/A1X12UdALS"
+                    }
+                ]
+            },
+            "id": "401072177942102016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "#eudeb8 on future of Europe w/ @VivianeRedingEU &amp; @ChTaubira is over! Thanks for participating. Check our liveblog at http://t.co/A1X12UdALS"
+        },
+        {
+            "created_at": "2013-11-14T16:50:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Europe",
+                        "probability": 0.9709,
+                        "start": 35,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 133,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 61,
+                        "id": "44082475",
+                        "start": 47,
+                        "username": "VivianeReding"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qP8Xn",
+                        "end": 132,
+                        "expanded_url": "http://ow.ly/qP8Xn",
+                        "start": 110,
+                        "url": "http://t.co/biRh4YS7IE"
+                    }
+                ]
+            },
+            "id": "401029338642264064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Follow the debate on the future of Europe with @VivianeReding starting in 10 minutes and share your comments: http://t.co/biRh4YS7IE #eudeb8"
+        },
+        {
+            "created_at": "2013-11-14T16:46:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 127,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 73,
+                        "id": "177179008",
+                        "start": 57,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qPakm",
+                        "end": 126,
+                        "expanded_url": "http://ow.ly/qPakm",
+                        "start": 104,
+                        "url": "http://t.co/ozEPHlhTUb"
+                    }
+                ]
+            },
+            "id": "401028319338315776",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Pour suivre le d\u00e9bat sur l'avenir de l'Europe \u00e0 18h avec @VivianeRedingEU et partager vos commentaires: http://t.co/ozEPHlhTUb #eudeb8"
+        },
+        {
+            "created_at": "2013-11-14T15:35:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 47,
+                        "tag": "cin\u00e9matographique"
+                    },
+                    {
+                        "end": 97,
+                        "start": 83,
+                        "tag": "audiovisuelle"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 139,
+                        "id": "825369480",
+                        "start": 124,
+                        "username": "AlmuniaJoaquin"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOXnL",
+                        "end": 120,
+                        "expanded_url": "http://ow.ly/qOXnL",
+                        "start": 98,
+                        "url": "http://t.co/GHFUHraWZq"
+                    }
+                ]
+            },
+            "id": "401010518636654593",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Nouvelles r\u00e8gles aides d\u2019\u00c9tat pour l'industrie #cin\u00e9matographique pour la cr\u00e9ation #audiovisuelle http://t.co/GHFUHraWZq cc @AlmuniaJoaquin"
+        },
+        {
+            "created_at": "2013-11-14T15:21:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 93,
+                        "start": 86,
+                        "tag": "eudeb8"
+                    },
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "moneurope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 23,
+                        "id": "177179008",
+                        "start": 7,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 37,
+                        "id": "93484066",
+                        "start": 27,
+                        "username": "ChTaubira"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOV9B",
+                        "end": 128,
+                        "expanded_url": "http://ow.ly/qOV9B",
+                        "start": 106,
+                        "url": "http://t.co/ON4vhpGGhW"
+                    }
+                ]
+            },
+            "id": "401006898897756161",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "A 18h, @VivianeRedingEU et @ChTaubira d\u00e9battront \u00e0 Marseille de l'avenir de l'Europe! #eudeb8 #moneurope  http://t.co/ON4vhpGGhW"
+        },
+        {
+            "created_at": "2013-11-14T14:26:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "Ireland",
+                        "probability": 0.9565,
+                        "start": 37,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 28,
+                        "tag": "Rehn"
+                    },
+                    {
+                        "end": 119,
+                        "start": 111,
+                        "tag": "Ireland"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOLD0",
+                        "end": 110,
+                        "expanded_url": "http://ow.ly/qOLD0",
+                        "start": 88,
+                        "url": "http://t.co/eXCHa3bVtw"
+                    }
+                ]
+            },
+            "id": "400993109032841216",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "Statement by Vice-President #Rehn on Ireland's decision regarding EU/IMF programme exit http://t.co/eXCHa3bVtw #Ireland"
+        },
+        {
+            "created_at": "2013-11-14T13:12:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "Europe",
+                        "probability": 0.9833,
+                        "start": 13,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "Berlin",
+                        "probability": 0.9884,
+                        "start": 85,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 55,
+                        "tag": "cloudforeurope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 47,
+                        "id": "159950527",
+                        "start": 33,
+                        "username": "NeelieKroesEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOBAO",
+                        "end": 121,
+                        "expanded_url": "http://ow.ly/qOBAO",
+                        "start": 99,
+                        "url": "http://t.co/oDsABCKTTC"
+                    }
+                ]
+            },
+            "id": "400974445193359360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 17,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 49
+            },
+            "text": "\"A cloud for Europe\" - speech by @NeelieKroesEU at the #cloudforeurope conference in Berlin today: http://t.co/oDsABCKTTC"
+        },
+        {
+            "created_at": "2013-11-14T11:21:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 27,
+                        "tag": "Research"
+                    },
+                    {
+                        "end": 52,
+                        "start": 41,
+                        "tag": "Innovation"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOpUK",
+                        "end": 99,
+                        "expanded_url": "http://ow.ly/qOpUK",
+                        "start": 77,
+                        "url": "http://t.co/QOdwGLoLLx"
+                    }
+                ]
+            },
+            "id": "400946692402716672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 4
+            },
+            "text": "Eurobarometer: Responsible #Research and #Innovation, Science and Technology http://t.co/QOdwGLoLLx"
+        },
+        {
+            "created_at": "2013-11-14T11:20:57.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 32,
+                        "tag": "Globalisation"
+                    },
+                    {
+                        "end": 98,
+                        "start": 87,
+                        "tag": "employment"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOpKd",
+                        "end": 86,
+                        "expanded_url": "http://ow.ly/qOpKd",
+                        "start": 64,
+                        "url": "http://t.co/JrsbL1Kp7L"
+                    }
+                ]
+            },
+            "id": "400946451502878720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "FAQs on 2012 report on European #Globalisation Adjustment Fund  http://t.co/JrsbL1Kp7L #employment"
+        },
+        {
+            "created_at": "2013-11-14T11:19:24.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 51,
+                        "tag": "cinema"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOpwy",
+                        "end": 50,
+                        "expanded_url": "http://ow.ly/qOpwy",
+                        "start": 28,
+                        "url": "http://t.co/kvSTyaAuaj"
+                    }
+                ]
+            },
+            "id": "400946058202992640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "FAQs on State Aid for films http://t.co/kvSTyaAuaj #cinema"
+        },
+        {
+            "created_at": "2013-11-14T11:17:29.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 107,
+                        "tag": "SMEs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "157981564",
+                        "start": 6,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 27,
+                        "id": "83466368",
+                        "start": 23,
+                        "username": "ecb"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOphL",
+                        "end": 135,
+                        "expanded_url": "http://ow.ly/qOphL",
+                        "start": 113,
+                        "url": "http://t.co/WnAf8oBgAl"
+                    }
+                ]
+            },
+            "id": "400945576336195584",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "Joint @EU_Commission / @ECB report: Access to finance and finding customers the most pressing problems for #SMEs http://t.co/WnAf8oBgAl"
+        },
+        {
+            "created_at": "2013-11-14T11:15:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Brussels",
+                        "probability": 0.9931,
+                        "start": 66,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Transport"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOp6A",
+                        "end": 97,
+                        "expanded_url": "http://ow.ly/qOp6A",
+                        "start": 75,
+                        "url": "http://t.co/UF4u8kJ0BQ"
+                    }
+                ]
+            },
+            "id": "400945163713122304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Transport: Union for the Mediterranean ministerial conference in Brussels http://t.co/UF4u8kJ0BQ"
+        },
+        {
+            "created_at": "2013-11-14T11:13:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 75,
+                        "tag": "broadband"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 33,
+                        "id": "157981564",
+                        "start": 19,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 144,
+                        "id": "159950527",
+                        "start": 130,
+                        "username": "NeelieKroesEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOoMb",
+                        "end": 129,
+                        "expanded_url": "http://ow.ly/qOoMb",
+                        "start": 107,
+                        "url": "http://t.co/D8GDDcUYGu"
+                    }
+                ]
+            },
+            "id": "400944573545218048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 55
+            },
+            "text": "Surfing in the sky:@EU_Commission gives airlines green-light for 3G&amp;4G #broadband services in aircraft http://t.co/D8GDDcUYGu @NeelieKroesEU"
+        },
+        {
+            "created_at": "2013-11-14T11:10:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 17,
+                        "tag": "SMEs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOoxI",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/qOoxI",
+                        "start": 67,
+                        "url": "http://t.co/sZq8QpDvJr"
+                    }
+                ]
+            },
+            "id": "400943800551743488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "text": "One out of three #SMEs did not get the finance they needed in 2013 http://t.co/sZq8QpDvJr"
+        },
+        {
+            "created_at": "2013-11-14T11:08:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 50,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 75,
+                        "start": 64,
+                        "tag": "innovation"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOokH",
+                        "end": 98,
+                        "expanded_url": "http://ow.ly/qOokH",
+                        "start": 76,
+                        "url": "http://t.co/rBDLjGxmnh"
+                    }
+                ]
+            },
+            "id": "400943299315658752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "text": "EU-wide poll shows public support for responsible #research and #innovation http://t.co/rBDLjGxmnh"
+        },
+        {
+            "created_at": "2013-11-14T11:06:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Employment"
+                    },
+                    {
+                        "end": 27,
+                        "start": 13,
+                        "tag": "Globalisation"
+                    },
+                    {
+                        "end": 93,
+                        "start": 90,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOodk",
+                        "end": 132,
+                        "expanded_url": "http://ow.ly/qOodk",
+                        "start": 110,
+                        "url": "http://t.co/Qf144Ck83W"
+                    }
+                ]
+            },
+            "id": "400942919584321536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#Employment: #Globalisation Adjustment Fund provided over \u20ac73.5 million to support 15 700 #EU workers in 2012 http://t.co/Qf144Ck83W"
+        },
+        {
+            "created_at": "2013-11-14T11:04:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Europe",
+                        "probability": 0.6781,
+                        "start": 10,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 73,
+                        "tag": "Marseille"
+                    },
+                    {
+                        "end": 127,
+                        "start": 120,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "177179008",
+                        "start": 25,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOnNn",
+                        "end": 106,
+                        "expanded_url": "http://ow.ly/qOnNn",
+                        "start": 84,
+                        "url": "http://t.co/sdKtXuivEO"
+                    }
+                ]
+            },
+            "id": "400942392196751360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Future of Europe Debate: @VivianeRedingEU takes French views on board in #Marseille http://t.co/sdKtXuivEO Join in with #eudeb8 from 6 CET!"
+        },
+        {
+            "created_at": "2013-11-14T10:52:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 37,
+                        "tag": "film"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 25,
+                        "id": "157981564",
+                        "start": 11,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 95,
+                        "id": "825369480",
+                        "start": 80,
+                        "username": "AlmuniaJoaquin"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOmNo",
+                        "end": 79,
+                        "expanded_url": "http://ow.ly/qOmNo",
+                        "start": 57,
+                        "url": "http://t.co/M3OyfwTgHD"
+                    }
+                ]
+            },
+            "id": "400939405730676736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "State aid: @EU_Commission adopts new #film support rules http://t.co/M3OyfwTgHD @AlmuniaJoaquin"
+        },
+        {
+            "created_at": "2013-11-14T10:10:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Eurostat"
+                    },
+                    {
+                        "end": 16,
+                        "start": 11,
+                        "tag": "Euro"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOiCZ",
+                        "end": 79,
+                        "expanded_url": "http://ow.ly/qOiCZ",
+                        "start": 57,
+                        "url": "http://t.co/DirwZO7ewT"
+                    }
+                ]
+            },
+            "id": "400928820452392960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "#Eurostat: #Euro area GDP up by 0.1% and EU28 up by 0.2% http://t.co/DirwZO7ewT"
+        },
+        {
+            "created_at": "2013-11-14T09:51:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Security"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "157981564",
+                        "start": 26,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 66,
+                        "id": "377976301",
+                        "start": 52,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qOgCh",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/qOgCh",
+                        "start": 67,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_13_921",
+                        "url": "http://t.co/McVjmIojdM"
+                    }
+                ]
+            },
+            "id": "400923874877243393",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Security Strategy in the @EU_Commission: speech by @MarosSefcovic http://t.co/McVjmIojdM"
+        },
+        {
+            "created_at": "2013-11-14T09:40:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 11,
+                        "tag": "SME"
+                    },
+                    {
+                        "end": 99,
+                        "start": 87,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1dRSGg6",
+                        "end": 86,
+                        "expanded_url": "http://bit.ly/1dRSGg6",
+                        "start": 64,
+                        "url": "http://t.co/kca4FQIr8N"
+                    }
+                ]
+            },
+            "id": "400921212039495680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "text": "Are you an #SME looking for inspiration, advice or information? http://t.co/kca4FQIr8N #EU4business"
+        },
+        {
+            "created_at": "2013-11-14T08:36:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 29,
+                        "tag": "Myanmar"
+                    },
+                    {
+                        "end": 63,
+                        "start": 51,
+                        "tag": "development"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 25,
+                        "id": "2560248703",
+                        "start": 13,
+                        "username": "APiebalgsEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qO9ZZ",
+                        "end": 98,
+                        "expanded_url": "http://ow.ly/qO9ZZ",
+                        "start": 76,
+                        "url": "http://t.co/ljpXJR3JNI"
+                    }
+                ]
+            },
+            "id": "400905055211384832",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 8
+            },
+            "text": "Commissioner @APiebalgsEU in #Myanmar to reinforce #development cooperation http://t.co/ljpXJR3JNI"
+        },
+        {
+            "created_at": "2013-11-14T08:35:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "Parliament",
+                        "probability": 0.4177,
+                        "start": 68,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qO9Um",
+                        "end": 131,
+                        "expanded_url": "http://ow.ly/qO9Um",
+                        "start": 109,
+                        "url": "http://t.co/HnT02hAKxT"
+                    }
+                ]
+            },
+            "id": "400904836734255104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Commissioner @MBarnierEU welcomes trilogue agreement by Council and Parliament on the \"Omnibus II\" Directive http://t.co/HnT02hAKxT"
+        },
+        {
+            "created_at": "2013-11-13T17:55:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Europe",
+                        "probability": 0.9549,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 24,
+                        "tag": "SME"
+                    },
+                    {
+                        "end": 38,
+                        "start": 29,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 88,
+                        "start": 77,
+                        "tag": "EUresearch"
+                    },
+                    {
+                        "end": 104,
+                        "start": 89,
+                        "tag": "EU4LifeQuality"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "786508396245639172",
+                        "start": 105,
+                        "username": "innovationunion"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qDwFP",
+                        "end": 76,
+                        "expanded_url": "http://ow.ly/qDwFP",
+                        "start": 54,
+                        "url": "http://t.co/PetUTn5RDP"
+                    }
+                ]
+            },
+            "id": "400683434474876928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 20
+            },
+            "text": "Investing in innovative #SME #research around Europe: http://t.co/PetUTn5RDP #EUresearch #EU4LifeQuality @innovationunion"
+        },
+        {
+            "created_at": "2013-11-13T17:49:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 60,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "2149669489",
+                        "start": 0,
+                        "username": "tokoch80"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qDwFP",
+                        "end": 137,
+                        "expanded_url": "http://ow.ly/qDwFP",
+                        "start": 115,
+                        "url": "http://t.co/PetUTn5RDP"
+                    }
+                ]
+            },
+            "id": "400681719193280512",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@tokoch80 you can read about 24 good examples of results of #EU funded research on the link that was in the tweet: http://t.co/PetUTn5RDP"
+        },
+        {
+            "created_at": "2013-11-13T15:23:59.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "Europe",
+                        "probability": 0.9085,
+                        "start": 13,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 43,
+                        "tag": "FAQs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 84,
+                        "id": "2815632681",
+                        "start": 75,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qMoHn",
+                        "end": 71,
+                        "expanded_url": "http://ow.ly/qMoHn",
+                        "start": 49,
+                        "url": "http://t.co/iQlD3a1RaC"
+                    }
+                ]
+            },
+            "id": "400645221266251776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Licences for Europe stakeholder dialogue \u2013 #FAQs http://t.co/iQlD3a1RaC cc @EU_Markt"
+        },
+        {
+            "created_at": "2013-11-13T15:22:51.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 102,
+                        "start": 93,
+                        "tag": "Eugrowth"
+                    },
+                    {
+                        "end": 114,
+                        "start": 103,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 69,
+                        "id": "218812123",
+                        "start": 55,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qMoq2",
+                        "end": 92,
+                        "expanded_url": "http://ow.ly/qMoq2",
+                        "start": 70,
+                        "url": "http://t.co/ex9rvWCrKq"
+                    }
+                ]
+            },
+            "id": "400644938683412480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"Joint European Report confirms growing divergence\" by @LaszloAndorEU http://t.co/ex9rvWCrKq #Eugrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T15:20:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 46,
+                        "start": 41,
+                        "tag": "Rehn"
+                    },
+                    {
+                        "end": 79,
+                        "start": 70,
+                        "tag": "EUgrowth"
+                    },
+                    {
+                        "end": 91,
+                        "start": 80,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 109,
+                        "id": "2853940703",
+                        "start": 95,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qMo3a",
+                        "end": 69,
+                        "expanded_url": "http://ow.ly/qMo3a",
+                        "start": 47,
+                        "url": "http://t.co/CMDGI6rRHH"
+                    }
+                ]
+            },
+            "id": "400644280190238720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#EuropeanSemester 2014 speech by VP Olli #Rehn http://t.co/CMDGI6rRHH #EUgrowth #Europe2020 cc @ECSpokesSimon"
+        },
+        {
+            "created_at": "2013-11-13T15:18:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 31,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 86,
+                        "start": 77,
+                        "tag": "EUGrowth"
+                    },
+                    {
+                        "end": 98,
+                        "start": 87,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qMnPT",
+                        "end": 76,
+                        "expanded_url": "http://ow.ly/qMnPT",
+                        "start": 54,
+                        "url": "http://t.co/6HLj8HmFYu"
+                    }
+                ]
+            },
+            "id": "400643946059407362",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Statement by @BarrosoEU on the #EuropeanSemester 2014 http://t.co/6HLj8HmFYu #EUGrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T14:42:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 64,
+                        "tag": "EuropeanSemester2014"
+                    },
+                    {
+                        "end": 118,
+                        "start": 109,
+                        "tag": "EUgrowth"
+                    },
+                    {
+                        "end": 130,
+                        "start": 119,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qMgvc",
+                        "end": 108,
+                        "expanded_url": "http://ow.ly/qMgvc",
+                        "start": 86,
+                        "url": "http://t.co/tmwgRieBCX"
+                    }
+                ]
+            },
+            "id": "400634819501367296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 7
+            },
+            "text": "If you missed it, here are the opening remarks by @BarrosoEU on #EuropeanSemester2014 http://t.co/tmwgRieBCX #EUgrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T12:35:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 22,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 140,
+                        "start": 128,
+                        "tag": "EU4business"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 43,
+                        "id": "920249612329504768",
+                        "start": 34,
+                        "username": "EU_H2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/17Hv3G3",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/17Hv3G3",
+                        "start": 85,
+                        "url": "http://t.co/cAJSnwC37h"
+                    }
+                ]
+            },
+            "id": "400602901045055488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 62
+            },
+            "text": "Big opportunities for #SMEs under @EU_H2020, nearly \u20ac9 billion earmarked over 7 yrs. http://t.co/cAJSnwC37h First calls in Dec! #EU4business"
+        },
+        {
+            "created_at": "2013-11-13T12:27:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 17,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 95,
+                        "start": 86,
+                        "tag": "EUgrowth"
+                    },
+                    {
+                        "end": 107,
+                        "start": 96,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 123,
+                        "id": "2853418829",
+                        "start": 111,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 137,
+                        "id": "2855615075",
+                        "start": 124,
+                        "username": "ecspokeskoen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLYI2",
+                        "end": 85,
+                        "expanded_url": "http://ow.ly/qLYI2",
+                        "start": 63,
+                        "url": "http://t.co/OOQaS7imQN"
+                    }
+                ]
+            },
+            "id": "400600926261891072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "text": "Full versions of #EuropeanSemester 2014 documents available at http://t.co/OOQaS7imQN #EUgrowth #Europe2020 cc @ECSpokesPia @ECSpokesKoen"
+        },
+        {
+            "created_at": "2013-11-13T12:23:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 12,
+                        "tag": "Employment"
+                    },
+                    {
+                        "end": 38,
+                        "start": 33,
+                        "tag": "FAQs"
+                    },
+                    {
+                        "end": 71,
+                        "start": 62,
+                        "tag": "EUgrowth"
+                    },
+                    {
+                        "end": 83,
+                        "start": 72,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLYg1",
+                        "end": 61,
+                        "expanded_url": "http://ow.ly/qLYg1",
+                        "start": 39,
+                        "url": "http://t.co/VyPz0UmlTY"
+                    }
+                ]
+            },
+            "id": "400599743380086784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "text": "Draft Joint #Employment Report \u2013 #FAQs http://t.co/VyPz0UmlTY #EUgrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T12:22:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 58,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "EUgrowth"
+                    },
+                    {
+                        "end": 120,
+                        "start": 109,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLY6l",
+                        "end": 98,
+                        "expanded_url": "http://ow.ly/qLY6l",
+                        "start": 76,
+                        "url": "http://t.co/4OVTEhODrC"
+                    }
+                ]
+            },
+            "id": "400599499804270592",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "3rd Alert Mechanism Report on macroeconomic imbalances in #EU Member States http://t.co/4OVTEhODrC #EUgrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T12:20:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "EU",
+                        "probability": 0.4671,
+                        "start": 24,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 105,
+                        "start": 96,
+                        "tag": "Eugrowth"
+                    },
+                    {
+                        "end": 117,
+                        "start": 106,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 80,
+                        "id": "2853418829",
+                        "start": 68,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 95,
+                        "id": "2853940703",
+                        "start": 81,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLXXT",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/qLXXT",
+                        "start": 118,
+                        "url": "http://t.co/wcroM3QC4Z"
+                    }
+                ]
+            },
+            "id": "400599167468601345",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "#EuropeanSemester 2014: EU priorities - the Annual Growth Survey cc @EcspokesPia @ECspokesSimon #Eugrowth #Europe2020 http://t.co/wcroM3QC4Z"
+        },
+        {
+            "created_at": "2013-11-13T12:19:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "EuropeanSemester"
+                    },
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "Eugrowth"
+                    },
+                    {
+                        "end": 126,
+                        "start": 115,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 89,
+                        "id": "2853418829",
+                        "start": 77,
+                        "username": "ECSpokesPia"
+                    },
+                    {
+                        "end": 104,
+                        "id": "2853940703",
+                        "start": 90,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLXyb",
+                        "end": 73,
+                        "expanded_url": "http://ow.ly/qLXyb",
+                        "start": 51,
+                        "url": "http://t.co/HJ3qtZqHCs"
+                    }
+                ]
+            },
+            "id": "400598825452462080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#EuropeanSemester 2014: strengthening the recovery http://t.co/HJ3qtZqHCs cc @EcspokesPia @ECspokesSimon #Eugrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T12:05:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 36,
+                        "tag": "Rehn"
+                    },
+                    {
+                        "end": 132,
+                        "start": 123,
+                        "tag": "eugrowth"
+                    },
+                    {
+                        "end": 144,
+                        "start": 133,
+                        "tag": "Europe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 62,
+                        "id": "218812123",
+                        "start": 48,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLUwI",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/qLUwI",
+                        "start": 100,
+                        "url": "http://t.co/SSJgqwV3oS"
+                    }
+                ]
+            },
+            "id": "400595350446026754",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 4
+            },
+            "text": "Press conference with @BarrosoEU O. #Rehn &amp; @LaszloAndorEU on European Semester 2014 starts now http://t.co/SSJgqwV3oS #eugrowth #Europe2020"
+        },
+        {
+            "created_at": "2013-11-13T11:48:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 44,
+                        "tag": "Rehn"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 70,
+                        "id": "218812123",
+                        "start": 56,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLUwI",
+                        "end": 143,
+                        "expanded_url": "http://ow.ly/qLUwI",
+                        "start": 121,
+                        "url": "http://t.co/mKWTDIBAs6"
+                    }
+                ]
+            },
+            "id": "400590994439430144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "13:00: Press conference with @BarrosoEU, O. #Rehn &amp; @LaszloAndorEU to start the European Semester 2014. Follow live: http://t.co/mKWTDIBAs6"
+        },
+        {
+            "created_at": "2013-11-13T11:31:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "EU",
+                        "probability": 0.4828,
+                        "start": 24,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qKwWq",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/qKwWq",
+                        "start": 95,
+                        "url": "http://t.co/ydgV19WOMB"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mrvPAnipmV",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/400586735177854977/photo/1",
+                        "start": 118,
+                        "url": "http://t.co/mrvPAnipmV"
+                    }
+                ]
+            },
+            "id": "400586735177854977",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 57
+            },
+            "text": "European Semester 2014, EU's economic policy-making calendar starts today 13h What it is about http://t.co/ydgV19WOMB http://t.co/mrvPAnipmV"
+        },
+        {
+            "created_at": "2013-11-13T11:18:17.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 8,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "Albania"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 86,
+                        "id": "505748969",
+                        "start": 73,
+                        "username": "StefanFuleEU"
+                    },
+                    {
+                        "end": 102,
+                        "id": "3010679741",
+                        "start": 87,
+                        "username": "EU_enlargement"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLRPZ",
+                        "end": 69,
+                        "expanded_url": "http://ow.ly/qLRPZ",
+                        "start": 47,
+                        "url": "http://t.co/TRVkjBUM7O"
+                    }
+                ]
+            },
+            "id": "400583390145310720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Renewed #EU support to key reforms in #Albania http://t.co/TRVkjBUM7O cc @StefanFuleEU @EU_enlargement"
+        },
+        {
+            "created_at": "2013-11-13T11:16:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "Europe",
+                        "probability": 0.9496,
+                        "start": 13,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 94,
+                        "tag": "SingleMarket"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 140,
+                        "id": "2815632681",
+                        "start": 131,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLRKi",
+                        "end": 130,
+                        "expanded_url": "http://ow.ly/qLRKi",
+                        "start": 108,
+                        "url": "http://t.co/NIDKMxnyJE"
+                    }
+                ]
+            },
+            "id": "400582994366169088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "text": "Licences for Europe: industry pledges solutions to make more content available in the Digital #SingleMarket http://t.co/NIDKMxnyJE @EU_markt"
+        },
+        {
+            "created_at": "2013-11-13T11:15:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 77,
+                        "start": 65,
+                        "tag": "EUsatellite"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 125,
+                        "id": "1227470592",
+                        "start": 109,
+                        "username": "ECspokesCorazza"
+                    },
+                    {
+                        "end": 142,
+                        "id": "3029538799",
+                        "start": 126,
+                        "username": "antoniotajanieu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLRws",
+                        "end": 105,
+                        "expanded_url": "http://ow.ly/qLRws",
+                        "start": 83,
+                        "url": "http://t.co/XHFSkqkTIU"
+                    }
+                ]
+            },
+            "id": "400582668230066176",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Business, citizens &amp; environment benefit from free access to #EUsatellite data http://t.co/XHFSkqkTIU cc @EcspokesCorazza @AntonioTajaniEU"
+        },
+        {
+            "created_at": "2013-11-13T11:12:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 56,
+                        "tag": "Brussels"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLRbI",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/qLRbI",
+                        "start": 72,
+                        "url": "http://t.co/9BzXXlkjSw"
+                    }
+                ]
+            },
+            "id": "400581842438750208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Preparation of Economic &amp; Finance Ministers Council #Brussels,15/11 http://t.co/9BzXXlkjSw"
+        },
+        {
+            "created_at": "2013-11-13T10:42:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 7,
+                        "tag": "EUTrade"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 130,
+                        "id": "1109452214",
+                        "start": 121,
+                        "username": "Trade_EU"
+                    },
+                    {
+                        "end": 144,
+                        "id": "106426994",
+                        "start": 131,
+                        "username": "EUJohnClancy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLOop",
+                        "end": 120,
+                        "expanded_url": "http://ow.ly/qLOop",
+                        "start": 98,
+                        "url": "http://t.co/TQO3Fq9mCQ"
+                    }
+                ]
+            },
+            "id": "400574374673412096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "Video \"#EUTrade Policy explained.\" Setting direction for trade &amp; investment in and out the EU http://t.co/TQO3Fq9mCQ @Trade_EU @EUJohnClancy"
+        },
+        {
+            "created_at": "2013-11-13T10:18:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 73,
+                        "tag": "Marseille"
+                    },
+                    {
+                        "end": 138,
+                        "start": 131,
+                        "tag": "EUdeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 105,
+                        "id": "177179008",
+                        "start": 89,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "debat-europe2013.fr/inscription-re\u2026",
+                        "end": 128,
+                        "expanded_url": "http://www.debat-europe2013.fr/inscription-rencontre.php?event=14-novembre-docks-sud",
+                        "start": 106,
+                        "url": "http://t.co/4PrnaQ4Itn"
+                    }
+                ]
+            },
+            "id": "400568347609542656",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Dernier jour d'inscription au Grand Dialogue Citoyen de demain \u00e0 18h sur #Marseille avec @VivianeRedingEU http://t.co/4PrnaQ4Itn \u2026 #EUdeb8"
+        },
+        {
+            "created_at": "2013-11-13T10:02:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 37,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 92,
+                        "start": 81,
+                        "tag": "EUresearch"
+                    },
+                    {
+                        "end": 114,
+                        "start": 102,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qDwFP",
+                        "end": 137,
+                        "expanded_url": "http://ow.ly/qDwFP",
+                        "start": 115,
+                        "url": "http://t.co/pxr0NbtQFi"
+                    }
+                ]
+            },
+            "id": "400564402061344768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 39
+            },
+            "text": "By the end of 2013, more than 15,000 #SMEs will have received &gt; \u20ac5 billion in #EUresearch funding. #EU4business http://t.co/pxr0NbtQFi"
+        },
+        {
+            "created_at": "2013-11-13T09:10:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 73,
+                        "start": 58,
+                        "tag": "YouthGuarantee"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qLFbp",
+                        "end": 118,
+                        "expanded_url": "http://ow.ly/qLFbp",
+                        "start": 96,
+                        "url": "http://t.co/qvQ2fGWxaF"
+                    }
+                ]
+            },
+            "id": "400551301140185088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 19
+            },
+            "text": ".@EU_Commission urges Member States to urgently implement #YouthGuarantee to help young jobless http://t.co/qvQ2fGWxaF"
+        },
+        {
+            "created_at": "2013-11-12T18:30:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "Employment"
+                    },
+                    {
+                        "end": 83,
+                        "start": 77,
+                        "tag": "Youth"
+                    },
+                    {
+                        "end": 94,
+                        "start": 84,
+                        "tag": "Guarantee"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 34,
+                        "id": "157981564",
+                        "start": 20,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 137,
+                        "expanded_url": "http://europa.eu/rapid/press-release_MEMO-13-984_en.htm",
+                        "start": 115,
+                        "url": "http://t.co/GqBqIVIqgu"
+                    }
+                ]
+            },
+            "id": "400329789783154688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 13
+            },
+            "text": "#Employment Summit: @EU_Commission urges Member States to urgently implement #Youth #Guarantee: state of play here http://t.co/GqBqIVIqgu"
+        },
+        {
+            "created_at": "2013-11-12T17:03:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 86,
+                        "normalized_text": "European Criminal Law",
+                        "probability": 0.448,
+                        "start": 66,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "177179008",
+                        "start": 3,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qKewd",
+                        "end": 111,
+                        "expanded_url": "http://ow.ly/qKewd",
+                        "start": 89,
+                        "url": "http://t.co/y2QURKZj1K"
+                    }
+                ]
+            },
+            "id": "400307953506738176",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "VP @VivianeRedingEU \"Believing in people: Balancing the scales in European Criminal Law\" http://t.co/y2QURKZj1K"
+        },
+        {
+            "created_at": "2013-11-12T14:35:11.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 62,
+                        "tag": "Albania"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 116,
+                        "id": "505748969",
+                        "start": 103,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJLm7",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/qJLm7",
+                        "start": 117,
+                        "url": "http://t.co/VQogP1nQOq"
+                    }
+                ]
+            },
+            "id": "400270554873475072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 5
+            },
+            "text": "1st session of the High Level Dialogue on Key Priorities with #Albania in the presence of Commissioner @StefanFuleEU http://t.co/VQogP1nQOq"
+        },
+        {
+            "created_at": "2013-11-12T13:32:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "Vilnius",
+                        "probability": 0.9599,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 27,
+                        "tag": "growth"
+                    },
+                    {
+                        "end": 45,
+                        "start": 42,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 67,
+                        "start": 63,
+                        "tag": "SME"
+                    },
+                    {
+                        "end": 135,
+                        "start": 123,
+                        "tag": "EU4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/156RXmj",
+                        "end": 122,
+                        "expanded_url": "http://bit.ly/156RXmj",
+                        "start": 100,
+                        "url": "http://t.co/9Uxwho6cZa"
+                    }
+                ]
+            },
+            "id": "400254884911800320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "How to foster the economic #growth in the #EU? Follow the 2013 #SME Assembly on 24-26/11 in Vilnius http://t.co/9Uxwho6cZa #EU4business"
+        },
+        {
+            "created_at": "2013-11-12T11:18:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 45,
+                        "start": 33,
+                        "tag": "Philippines"
+                    },
+                    {
+                        "end": 121,
+                        "start": 115,
+                        "tag": "hayan"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 100,
+                        "id": "2560248703",
+                        "start": 88,
+                        "username": "APiebalgsEU"
+                    },
+                    {
+                        "end": 114,
+                        "id": "2345716675",
+                        "start": 101,
+                        "username": "EUspokesAlex"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJk1s",
+                        "end": 84,
+                        "expanded_url": "http://ow.ly/qJk1s",
+                        "start": 62,
+                        "url": "http://t.co/VrSyS8xFMV"
+                    }
+                ]
+            },
+            "id": "400220999045898240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 9
+            },
+            "text": "#EU mobilises new support to the #Philippines' reconstruction http://t.co/VrSyS8xFMV cc @APiebalgsEU @EUspokesAlex #hayan"
+        },
+        {
+            "created_at": "2013-11-12T11:16:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "Philippe Maystadt",
+                        "probability": 0.9857,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 55,
+                        "normalized_text": "EU",
+                        "probability": 0.547,
+                        "start": 54,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 59,
+                        "tag": "role"
+                    },
+                    {
+                        "end": 84,
+                        "start": 73,
+                        "tag": "accounting"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 134,
+                        "id": "2815632681",
+                        "start": 125,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJjIC",
+                        "end": 124,
+                        "expanded_url": "http://ow.ly/qJjIC",
+                        "start": 102,
+                        "url": "http://t.co/7rzYhQb9lJ"
+                    }
+                ]
+            },
+            "id": "400220486292221952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Philippe Maystadt (special adviser to @MBarnierEU) on EU\u2019s #role in intl #accounting standard-setting http://t.co/7rzYhQb9lJ @EU_Markt"
+        },
+        {
+            "created_at": "2013-11-12T11:08:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 43,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "460966881",
+                        "start": 1,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJjf1",
+                        "end": 70,
+                        "expanded_url": "http://ow.ly/qJjf1",
+                        "start": 48,
+                        "url": "http://t.co/Bw5NCJR0B3"
+                    }
+                ]
+            },
+            "id": "400218501706964992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 11
+            },
+            "text": ".@MalmstromEU \"Combating hate crime in the #EU\" http://t.co/Bw5NCJR0B3"
+        },
+        {
+            "created_at": "2013-11-12T10:06:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 82,
+                        "id": "2541793782",
+                        "start": 66,
+                        "username": "ECspokesOlivier"
+                    },
+                    {
+                        "end": 112,
+                        "id": "2853940703",
+                        "start": 98,
+                        "username": "ecspokessimon"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJcOK",
+                        "end": 62,
+                        "expanded_url": "http://ow.ly/qJcOK",
+                        "start": 40,
+                        "url": "http://t.co/6GJHD6rOQ6"
+                    }
+                ]
+            },
+            "id": "400202990784901120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "The #EU's economic governance explained http://t.co/6GJHD6rOQ6 cc @ECspokesOlivier @ECspokesSarah @ECspokesSimon"
+        },
+        {
+            "created_at": "2013-11-12T10:04:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 10,
+                        "tag": "Horizon2020"
+                    },
+                    {
+                        "end": 40,
+                        "start": 26,
+                        "tag": "BasqueCountry"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 76,
+                        "id": "920249612329504768",
+                        "start": 67,
+                        "username": "EU_H2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJcFL",
+                        "end": 63,
+                        "expanded_url": "http://ow.ly/qJcFL",
+                        "start": 41,
+                        "url": "http://t.co/21N10sXQLc"
+                    }
+                ]
+            },
+            "id": "400202434972508160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "Launch of #Horizon2020 in #BasqueCountry http://t.co/21N10sXQLc cc @EU_H2020"
+        },
+        {
+            "created_at": "2013-11-12T09:02:28.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 20,
+                        "tag": "business"
+                    },
+                    {
+                        "end": 68,
+                        "start": 60,
+                        "tag": "Erasmus"
+                    },
+                    {
+                        "end": 140,
+                        "start": 128,
+                        "tag": "EU4business"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 127,
+                        "id": "857931348979396608",
+                        "start": 114,
+                        "username": "EYEmoderator"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qI2wb",
+                        "end": 113,
+                        "expanded_url": "http://ow.ly/qI2wb",
+                        "start": 91,
+                        "url": "http://t.co/nEENj5WhWL"
+                    }
+                ]
+            },
+            "id": "400186822321766400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 22
+            },
+            "text": "Want to expand your #business or get fresh ideas? Check out #Erasmus 4 Young entrepreneurs http://t.co/nEENj5WhWL @EYEmoderator #EU4business"
+        },
+        {
+            "created_at": "2013-11-12T08:51:35.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "UBS"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 63,
+                        "id": "825369480",
+                        "start": 48,
+                        "username": "AlmuniaJoaquin"
+                    },
+                    {
+                        "end": 106,
+                        "id": "2560262977",
+                        "start": 90,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJ5tx",
+                        "end": 86,
+                        "expanded_url": "http://ow.ly/qJ5tx",
+                        "start": 64,
+                        "url": "http://t.co/cAEOFHUEze"
+                    }
+                ]
+            },
+            "id": "400184084028469248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#UBS European Conference 2013 - statement by VP @AlmuniaJoaquin http://t.co/cAEOFHUEze cc @ECSpokesAntoine"
+        },
+        {
+            "created_at": "2013-11-12T08:48:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Commissioner Janusz",
+                        "probability": 0.5755,
+                        "start": 44,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 13,
+                        "tag": "EUbudget"
+                    },
+                    {
+                        "end": 76,
+                        "start": 64,
+                        "tag": "Lewandowski"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 119,
+                        "id": "2531022596",
+                        "start": 104,
+                        "username": "ECspokesbudget"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/qJ5gz",
+                        "end": 100,
+                        "expanded_url": "http://ow.ly/qJ5gz",
+                        "start": 78,
+                        "url": "http://t.co/nsGJMBxAof"
+                    }
+                ]
+            },
+            "id": "400183371235864576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "Agreement on #EUbudget 2014: Statement from Commissioner Janusz #Lewandowski: http://t.co/nsGJMBxAof cc @ECspokesbudget"
+        }
+    ],
+    "meta": {
+        "newest_id": "402070051702177793",
+        "next_token": "1jzu9lk96gu5npw15sf83ko6be6277uw34ygxzgjc1od",
+        "oldest_id": "400183371235864576",
+        "result_count": 100
+    }
+}

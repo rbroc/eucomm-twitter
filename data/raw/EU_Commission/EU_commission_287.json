@@ -1,0 +1,3818 @@
+{
+    "data": [
+        {
+            "created_at": "2012-06-26T13:28:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "EU",
+                        "probability": 0.3914,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 11,
+                        "tag": "Vietnam"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/KZrNwi",
+                        "end": 92,
+                        "expanded_url": "http://bit.ly/KZrNwi",
+                        "start": 72,
+                        "url": "http://t.co/9gM7aTaR"
+                    }
+                ]
+            },
+            "id": "217610161467047937",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "The EU and #Vietnam to sign Partnership and Cooperation Agreement (PCA) http://t.co/9gM7aTaR"
+        },
+        {
+            "created_at": "2012-06-26T13:20:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MX7Q32",
+                        "end": 110,
+                        "expanded_url": "http://bit.ly/MX7Q32",
+                        "start": 90,
+                        "url": "http://t.co/AhfxQZWg"
+                    }
+                ]
+            },
+            "id": "217608397225332738",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#Mergers: Commission approves acquisition of computer distributor Altimate by rival Arrow http://t.co/AhfxQZWg"
+        },
+        {
+            "created_at": "2012-06-26T13:19:20.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "Robert Bosch",
+                        "probability": 0.8819,
+                        "start": 87,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/KZrtxJ",
+                        "end": 120,
+                        "expanded_url": "http://bit.ly/KZrtxJ",
+                        "start": 100,
+                        "url": "http://t.co/Xm5XfdeS"
+                    }
+                ]
+            },
+            "id": "217607980307324928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Mergers: Commission clears acquisition of US-based SPX' Service Solutions Business by Robert Bosch http://t.co/Xm5XfdeS"
+        },
+        {
+            "created_at": "2012-06-26T10:20:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 68,
+                        "start": 59,
+                        "tag": "Industry"
+                    },
+                    {
+                        "end": 113,
+                        "start": 100,
+                        "tag": "Technologies"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 35,
+                        "id": "3029538799",
+                        "start": 19,
+                        "username": "antoniotajanieu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 134,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 114,
+                        "url": "http://t.co/JzpEqxyn"
+                    }
+                ]
+            },
+            "id": "217562852695883776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "12.30 Press conf w @AntonioTajaniEU: Strategy for European #Industry to better exploit Key Enabling #Technologies http://t.co/JzpEqxyn"
+        },
+        {
+            "created_at": "2012-06-26T08:08:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 19,
+                        "tag": "Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MOdtoa",
+                        "end": 137,
+                        "expanded_url": "http://bit.ly/MOdtoa",
+                        "start": 117,
+                        "url": "http://t.co/D1MYlObN"
+                    }
+                ]
+            },
+            "id": "217529672068628480",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Concentrations: la #Commission autorise l\u2019acquisition du distributeur informatique Altimate par son concurrent Arrow http://t.co/D1MYlObN"
+        },
+        {
+            "created_at": "2012-06-25T16:01:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 113,
+                        "tag": "realwomeninscience"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "132658860",
+                        "start": 0,
+                        "username": "biolibelula"
+                    }
+                ]
+            },
+            "id": "217286421336162305",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@BioLibelula Max 500 people can be in one list, we have created a second list @EU_Commission/realwomeninscience2 #realwomeninscience"
+        },
+        {
+            "created_at": "2012-06-25T10:44:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 8,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 19,
+                        "start": 12,
+                        "tag": "Fiscal"
+                    },
+                    {
+                        "end": 26,
+                        "start": 20,
+                        "tag": "Union"
+                    },
+                    {
+                        "end": 45,
+                        "start": 36,
+                        "tag": "eurozone"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MjjgU2",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/MjjgU2",
+                        "start": 115,
+                        "url": "http://t.co/FKrBnDLB"
+                    }
+                ]
+            },
+            "id": "217206674111471618",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "Memo on #EU #Fiscal #Union: Further #eurozone integration indispensable to complete economic &amp; monetary union: http://t.co/FKrBnDLB"
+        },
+        {
+            "created_at": "2012-06-25T10:41:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Mr Mohamed",
+                        "probability": 0.9695,
+                        "start": 43,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 39,
+                        "start": 31,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 60,
+                        "start": 54,
+                        "tag": "Morsi"
+                    },
+                    {
+                        "end": 102,
+                        "start": 96,
+                        "tag": "Egypt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Mjj4nY",
+                        "end": 123,
+                        "expanded_url": "http://bit.ly/Mjj4nY",
+                        "start": 103,
+                        "url": "http://t.co/BD0oZWXs"
+                    }
+                ]
+            },
+            "id": "217205917391921152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Congratulations from President #Barroso to Mr Mohamed #Morsi, President of the Arab Republic of #Egypt http://t.co/BD0oZWXs"
+        },
+        {
+            "created_at": "2012-06-25T10:40:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "EC",
+                        "probability": 0.6223,
+                        "start": 10,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Sharp Display Products",
+                        "probability": 0.3,
+                        "start": 77,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 109,
+                        "normalized_text": "Hon Hai",
+                        "probability": 0.9312,
+                        "start": 103,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Mergers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MmqEvL",
+                        "end": 131,
+                        "expanded_url": "http://bit.ly/MmqEvL",
+                        "start": 111,
+                        "url": "http://t.co/TJk8H4db"
+                    }
+                ]
+            },
+            "id": "217205654480363520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "#Mergers: EC approves acquisition of controlling stake in LCD panel producer Sharp Display Products by Hon Hai http://t.co/TJk8H4db"
+        },
+        {
+            "created_at": "2012-06-25T10:39:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Florence",
+                        "probability": 0.9517,
+                        "start": 68,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 40,
+                        "tag": "Migration"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "460966881",
+                        "start": 0,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MjiN4q",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/MjiN4q",
+                        "start": 77,
+                        "url": "http://t.co/9pXydtkt"
+                    }
+                ]
+            },
+            "id": "217205326322208768",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "@MalmstromEU attends the opening of the #Migration Policy Centre in Florence http://t.co/9pXydtkt"
+        },
+        {
+            "created_at": "2012-06-25T10:06:35.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "1217929332",
+                        "start": 12,
+                        "username": "AntonioTajani"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LkkoBl",
+                        "end": 86,
+                        "expanded_url": "http://bit.ly/LkkoBl",
+                        "start": 66,
+                        "url": "http://t.co/CAu7qoFG"
+                    }
+                ]
+            },
+            "id": "217197088587530240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Correction: @AntonioTajani pressconf is tomorrow 26/6 at 12.30 RE http://t.co/CAu7qoFG"
+        },
+        {
+            "created_at": "2012-06-25T09:17:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 36,
+                        "id": "3029538799",
+                        "start": 20,
+                        "username": "antoniotajanieu"
+                    }
+                ]
+            },
+            "id": "217184761083465728",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "12h30 conf presse d'@AntonioTajaniEU: strat\u00e9gie pour permettre \u00e0 l\u2019industrie de l\u2019Union de mieux exploiter les technologies cl\u00e9s g\u00e9n\u00e9riques"
+        },
+        {
+            "created_at": "2012-06-25T08:30:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "EU",
+                        "probability": 0.6546,
+                        "start": 35,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Rio Conference",
+                        "probability": 0.4429,
+                        "start": 98,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2560246616",
+                        "start": 1,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 133,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/482",
+                        "start": 113,
+                        "url": "http://t.co/s02otuvA"
+                    }
+                ]
+            },
+            "id": "217172947159351296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": ".@JanezPotocnikEU on behalf of the EU and its Member States on the adoption of the outcome of the Rio Conference http://t.co/s02otuvA"
+        },
+        {
+            "created_at": "2012-06-25T08:22:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 117,
+                        "normalized_text": "Taiwanese Hon Hai",
+                        "probability": 0.638,
+                        "start": 101,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 139,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/684&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 119,
+                        "url": "http://t.co/qSdjHOK3"
+                    }
+                ]
+            },
+            "id": "217170786690138112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Commission approves acquisition of controlling stake in LCD panel producer Sharp Display Products by Taiwanese Hon Hai http://t.co/qSdjHOK3"
+        },
+        {
+            "created_at": "2012-06-24T18:04:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 36,
+                        "tag": "realwomeninscience"
+                    }
+                ]
+            },
+            "id": "216954933021384705",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 11
+            },
+            "text": "500 list members max is reached for #realwomeninscience, 2nd list will be created. Keep tweeting, ICT and engineering women also welcome ;o)"
+        },
+        {
+            "created_at": "2012-06-24T15:30:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "EU",
+                        "probability": 0.6192,
+                        "start": 47,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "RioPlus20"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "2560246616",
+                        "start": 13,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 130,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/482&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 110,
+                        "url": "http://t.co/YMdF7q6x"
+                    }
+                ]
+            },
+            "id": "216916242915794944",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "Statement by @JanezPotocnikEU on behalf of the EU on the adoption of the outcome of the #RioPlus20 Conference http://t.co/YMdF7q6x"
+        },
+        {
+            "created_at": "2012-06-24T15:28:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "sciencegirlthing"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 138,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/465&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 118,
+                        "url": "http://t.co/D4ThTpF9"
+                    }
+                ]
+            },
+            "id": "216915754761715712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 16
+            },
+            "text": "#sciencegirlthing press release provides stats and some background on the planned campaign roadshow in 5 EU countries http://t.co/D4ThTpF9"
+        },
+        {
+            "created_at": "2012-06-24T15:20:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 43,
+                        "tag": "FP7"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "93598548",
+                        "start": 0,
+                        "username": "rowan_UK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 136,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/12/465&format=HTML&aged=0&language=EN&guiLanguage=en",
+                        "start": 116,
+                        "url": "http://t.co/D4ThTpF9"
+                    }
+                ]
+            },
+            "id": "216913637862940672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 0
+            },
+            "text": "@rowan_UK There are several initiatives in #FP7 to encourage the participation of women in research and innovation. http://t.co/D4ThTpF9"
+        },
+        {
+            "created_at": "2012-06-24T15:06:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "373027193",
+                        "start": 12,
+                        "username": "spscheung"
+                    }
+                ]
+            },
+            "id": "216910119257124865",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@wynnabbott @spscheung list members were suggested by community. Will use them to crowdsource stories etc. Pls give us a bit of time ;o)"
+        },
+        {
+            "created_at": "2012-06-24T14:34:04.000Z",
+            "id": "216902012816723969",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@alankerlin Thanks ;o)"
+        },
+        {
+            "created_at": "2012-06-24T13:48:07.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Samantha",
+                        "probability": 0.9916,
+                        "start": 14,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "Twitter",
+                        "probability": 0.5285,
+                        "start": 71,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "373027193",
+                        "start": 0,
+                        "username": "spscheung"
+                    },
+                    {
+                        "end": 110,
+                        "id": "255505618",
+                        "start": 98,
+                        "username": "EU_RESEARCH"
+                    }
+                ]
+            },
+            "id": "216890448944447488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@spscheung Hi Samantha,  list created to keep hearing those who are on Twitter. Will see with our @EU_research colleagues how to proceed."
+        },
+        {
+            "created_at": "2012-06-24T12:05:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 70,
+                        "tag": "realwomeninscience"
+                    },
+                    {
+                        "end": 112,
+                        "start": 93,
+                        "tag": "realwomeninscience"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 30,
+                        "id": "157981564",
+                        "start": 16,
+                        "username": "EU_Commission"
+                    }
+                ]
+            },
+            "id": "216864506205319168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Note taken ;o) \"@EU_Commission Don't forget us engineers who are also #realwomeninscience!!\" #realwomeninscience"
+        },
+        {
+            "created_at": "2012-06-24T12:03:38.000Z",
+            "id": "216864156006105088",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@alankerlin we will of course do our best to find ways to connect the scientists with the target audience for the campaign"
+        },
+        {
+            "created_at": "2012-06-24T12:02:40.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "Twitter",
+                        "probability": 0.5082,
+                        "start": 72,
+                        "type": "Product"
+                    }
+                ]
+            },
+            "id": "216863912103133184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "@alankerlin no it was not intended so but all the activity generated on Twitter was so impressive that we started collecting role models"
+        },
+        {
+            "created_at": "2012-06-24T11:32:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 64,
+                        "tag": "realwomeninscience"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/#!/EU_Commissi\u2026",
+                        "end": 129,
+                        "expanded_url": "https://twitter.com/#!/EU_Commission/realwomeninscience/members",
+                        "start": 108,
+                        "url": "https://t.co/A2LX24ym"
+                    }
+                ]
+            },
+            "id": "216856324904980480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 45
+            },
+            "text": "Almost 500 female scientists and science journalists now in the #realwomeninscience list. Keep them coming! https://t.co/A2LX24ym"
+        },
+        {
+            "created_at": "2012-06-24T11:28:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 22,
+                        "tag": "realwomeninscience"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19709449",
+                        "start": 0,
+                        "username": "karlok"
+                    },
+                    {
+                        "end": 17,
+                        "id": "110757740",
+                        "start": 8,
+                        "username": "mattions"
+                    }
+                ]
+            },
+            "id": "216855312580345856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@karlok @mattions The #realwomeninscience was the tag used by the community already so we thought best use the existing one //AnneCbxl"
+        },
+        {
+            "created_at": "2012-06-24T11:14:09.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "16983297",
+                        "start": 0,
+                        "username": "carolrclark"
+                    },
+                    {
+                        "end": 44,
+                        "id": "28838219",
+                        "start": 29,
+                        "username": "HelenBranswell"
+                    }
+                ]
+            },
+            "id": "216851704010907648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@carolrclark Yes, have added @HelenBranswell as well as other science writers/journos too. //AnneCbxl"
+        },
+        {
+            "created_at": "2012-06-23T16:09:01.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "50326055",
+                        "start": 0,
+                        "username": "yaydinson"
+                    },
+                    {
+                        "end": 139,
+                        "id": "613378164",
+                        "start": 123,
+                        "username": "ECspokesScience"
+                    }
+                ]
+            },
+            "id": "216563521595506691",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@yaydinson Agree, we are working with our colleagues in the research department to find a way to connect audiences online  @ECspokesScience"
+        },
+        {
+            "created_at": "2012-06-23T15:50:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 61,
+                        "tag": "realwomenofscience"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/#!/ToriHerridg\u2026",
+                        "end": 114,
+                        "expanded_url": "https://twitter.com/#!/ToriHerridge/women-in-science",
+                        "start": 93,
+                        "url": "https://t.co/sMiIYd0E"
+                    }
+                ]
+            },
+            "id": "216558810775564288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 7
+            },
+            "text": "Just updated our @EU_Commission/realwomeninscience list with #realwomenofscience featured in https://t.co/sMiIYd0E"
+        },
+        {
+            "created_at": "2012-06-23T15:49:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 61,
+                        "tag": "realwomenofscience"
+                    }
+                ]
+            },
+            "id": "216558688561938433",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "Just updated our @EU_Commission/realwomeninscience list with #realwomenofscience featured in @mjrobbins/women-science-tweeps-3."
+        },
+        {
+            "created_at": "2012-06-23T15:39:51.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "57076191",
+                        "start": 0,
+                        "username": "ToriHerridge"
+                    }
+                ]
+            },
+            "id": "216556179290202112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@ToriHerridge Great list! Will include it."
+        },
+        {
+            "created_at": "2012-06-23T13:51:34.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "57076191",
+                        "start": 0,
+                        "username": "ToriHerridge"
+                    },
+                    {
+                        "end": 72,
+                        "id": "613378164",
+                        "start": 56,
+                        "username": "ECspokesScience"
+                    },
+                    {
+                        "end": 85,
+                        "id": "255505618",
+                        "start": 73,
+                        "username": "EU_RESEARCH"
+                    },
+                    {
+                        "end": 102,
+                        "id": "786508396245639172",
+                        "start": 86,
+                        "username": "innovationunion"
+                    }
+                ]
+            },
+            "id": "216528929484308481",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "text": "@ToriHerridge we are working on improving the site - cc @ecspokesscience @eu_research @innovationunion"
+        },
+        {
+            "created_at": "2012-06-23T09:49:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 118,
+                        "start": 101,
+                        "tag": "sciencegirlthing"
+                    },
+                    {
+                        "end": 138,
+                        "start": 119,
+                        "tag": "realwomeninscience"
+                    }
+                ]
+            },
+            "id": "216468075011244032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@martinschmidler Hi, the video was taken off last night, this link is a copy posted by someone else. #sciencegirlthing #realwomeninscience"
+        },
+        {
+            "created_at": "2012-06-23T09:15:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 127,
+                        "normalized_text": "twitter",
+                        "probability": 0.6641,
+                        "start": 121,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 89,
+                        "tag": "realwomeninscience"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "19178857",
+                        "start": 0,
+                        "username": "alicebell"
+                    },
+                    {
+                        "end": 21,
+                        "id": "22839233",
+                        "start": 11,
+                        "username": "kaythaney"
+                    }
+                ]
+            },
+            "id": "216459462901379073",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@alicebell @kaythaney Got it. Thanks for spreading the word. Amazing to see so many cool #realwomeninscience profiles on twitter. /AnneCbxl"
+        },
+        {
+            "created_at": "2012-06-23T07:59:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "Europe",
+                        "probability": 0.999,
+                        "start": 71,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 10,
+                        "tag": "ScienceGirlThing"
+                    }
+                ]
+            },
+            "id": "216440424636747776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@scicheer #ScienceGirlThing is a three year campaign incl road trip in Europe to let girls meet inspiring science role models."
+        },
+        {
+            "created_at": "2012-06-22T23:34:51.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "118975084",
+                        "start": 0,
+                        "username": "jgold85"
+                    },
+                    {
+                        "end": 19,
+                        "id": "14315063",
+                        "start": 9,
+                        "username": "mjrobbins"
+                    }
+                ]
+            },
+            "id": "216313328237154304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@jgold85 @mjrobbins Thanks, must check it out tomorrow. Bedtime for me (AnneCbxl) now"
+        },
+        {
+            "created_at": "2012-06-22T20:56:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "339955370",
+                        "start": 0,
+                        "username": "ella922"
+                    },
+                    {
+                        "end": 20,
+                        "id": "4818094703",
+                        "start": 9,
+                        "username": "kathrynj08"
+                    }
+                ]
+            },
+            "id": "216273504763527168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@ella922 @KathrynJ08 @Astro_Awel Added! thx! (AnneCbxl here)"
+        },
+        {
+            "created_at": "2012-06-22T20:45:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 88,
+                        "tag": "realwomeninscience"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/#!/EU_Commissi\u2026",
+                        "end": 130,
+                        "expanded_url": "https://twitter.com/#!/EU_Commission/realwomeninscience/members",
+                        "start": 109,
+                        "url": "https://t.co/A2LX24ym"
+                    }
+                ]
+            },
+            "id": "216270807926718464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 43,
+                "quote_count": 0,
+                "reply_count": 70,
+                "retweet_count": 382
+            },
+            "text": "OK scientists, we've heard you and we want to keep hearing you: Help us build a list of #realwomeninscience: https://t.co/A2LX24ym"
+        },
+        {
+            "created_at": "2012-06-22T16:24:35.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/ik2GNe",
+                        "end": 89,
+                        "expanded_url": "http://bit.ly/ik2GNe",
+                        "start": 69,
+                        "url": "http://t.co/p7e5Pryu"
+                    }
+                ]
+            },
+            "id": "216205048340946947",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Agenda: Top News from the European Commission 23 June - 21 July 2012 http://t.co/p7e5Pryu"
+        },
+        {
+            "created_at": "2012-06-22T16:23:54.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "EC",
+                        "probability": 0.5951,
+                        "start": 9,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 70,
+                        "tag": "competition"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LlUSC5",
+                        "end": 113,
+                        "expanded_url": "http://bit.ly/LlUSC5",
+                        "start": 93,
+                        "url": "http://t.co/xmVv72i2"
+                    }
+                ]
+            },
+            "id": "216204878953975808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Mergers: EC refers Spanish aviation fuel joint venture to the Spanish #competition authority http://t.co/xmVv72i2"
+        },
+        {
+            "created_at": "2012-06-22T16:22:29.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "G20",
+                        "probability": 0.5056,
+                        "start": 41,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 3,
+                        "tag": "Trade"
+                    },
+                    {
+                        "end": 86,
+                        "start": 72,
+                        "tag": "protectionism"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LLOQdC",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/LLOQdC",
+                        "start": 87,
+                        "url": "http://t.co/P8xqdNDN"
+                    }
+                ]
+            },
+            "id": "216204522652049415",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "EU #Trade Commissioner stresses need for G20 vigilance in fight against #protectionism http://t.co/P8xqdNDN"
+        },
+        {
+            "created_at": "2012-06-22T16:18:15.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "DigitalAgenda"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 51,
+                        "id": "1390008950",
+                        "start": 41,
+                        "username": "Europeana"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MG9vtK",
+                        "end": 77,
+                        "expanded_url": "http://bit.ly/MG9vtK",
+                        "start": 57,
+                        "url": "http://t.co/XQfnMpvo"
+                    }
+                ]
+            },
+            "id": "216203455205867520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "#DigitalAgenda: Hackers get EU award for @Europeana apps http://t.co/XQfnMpvo"
+        },
+        {
+            "created_at": "2012-06-22T16:06:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 43,
+                        "start": 39,
+                        "tag": "CAP"
+                    },
+                    {
+                        "end": 103,
+                        "start": 100,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 116,
+                        "start": 104,
+                        "tag": "agriculture"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LnxnXv",
+                        "end": 99,
+                        "expanded_url": "http://bit.ly/LnxnXv",
+                        "start": 79,
+                        "url": "http://t.co/WaEti6Ac"
+                    }
+                ]
+            },
+            "id": "216200470757261312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Commission to recover \u20ac 426 million of #CAP expenditure from the Member States http://t.co/WaEti6Ac #EU #agriculture"
+        },
+        {
+            "created_at": "2012-06-22T15:56:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "ECOFIN",
+                        "probability": 0.4493,
+                        "start": 15,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "381021987",
+                        "start": 3,
+                        "username": "ASemetaEU"
+                    }
+                ]
+            },
+            "id": "216197857542275072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "MT @ASemetaEU: ECOFIN opened the way for enhanced cooperation on Financial Transaction Tax, significant number of EU countries in favour"
+        },
+        {
+            "created_at": "2012-06-22T15:43:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 3,
+                        "tag": "Transparency"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Nhspsb",
+                        "end": 139,
+                        "expanded_url": "http://bit.ly/Nhspsb",
+                        "start": 119,
+                        "url": "http://t.co/KdX4BB32"
+                    }
+                ]
+            },
+            "id": "216194760770195457",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "EU #Transparency Register: 1st birthday with more than 5,150 registrations, Council engagement and public consultation http://t.co/KdX4BB32"
+        },
+        {
+            "created_at": "2012-06-22T15:41:06.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EC",
+                        "probability": 0.6379,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 13,
+                        "normalized_text": "Italy",
+                        "probability": 0.9301,
+                        "start": 9,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 58,
+                        "tag": "waste"
+                    },
+                    {
+                        "end": 71,
+                        "start": 65,
+                        "tag": "water"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NhrNmo",
+                        "end": 112,
+                        "expanded_url": "http://bit.ly/NhrNmo",
+                        "start": 92,
+                        "url": "http://t.co/JlZG42yb"
+                    }
+                ]
+            },
+            "id": "216194108803391488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "EC takes Italy to Court for  failure to ensure that urban #waste #water is properly treated http://t.co/JlZG42yb"
+        },
+        {
+            "created_at": "2012-06-22T15:31:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "CoR",
+                        "probability": 0.4444,
+                        "start": 21,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "RioPlus20"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LlLTkp",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/LlLTkp",
+                        "start": 77,
+                        "url": "http://t.co/Bl7EKUAf"
+                    }
+                ]
+            },
+            "id": "216191810433855490",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "#RioPlus20: UNEP and CoR sign partnership for sustainable cities and regions http://t.co/Bl7EKUAf"
+        },
+        {
+            "created_at": "2012-06-22T15:30:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Rio",
+                        "probability": 0.2537,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 90,
+                        "start": 81,
+                        "tag": "rioplu20"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NhpC2g",
+                        "end": 80,
+                        "expanded_url": "http://bit.ly/NhpC2g",
+                        "start": 60,
+                        "url": "http://t.co/QSHVF9u9"
+                    }
+                ]
+            },
+            "id": "216191504090284032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EU civil society marks its commitment at the Rio+20 summit http://t.co/QSHVF9u9 #rioplu20"
+        },
+        {
+            "created_at": "2012-06-21T15:33:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 124,
+                        "start": 121,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1019536601490313221",
+                        "start": 3,
+                        "username": "EU_Regional"
+                    },
+                    {
+                        "end": 34,
+                        "id": "335838284",
+                        "start": 20,
+                        "username": "LondonEUfunds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=R-fUg0\u2026",
+                        "end": 120,
+                        "expanded_url": "http://www.youtube.com/watch?v=R-fUg0cRR_8&feature=youtu.be",
+                        "start": 100,
+                        "url": "http://t.co/ArPDGs3v"
+                    }
+                ]
+            },
+            "id": "215829901658435585",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "RT @EU_Regional: MT @londoneufunds: Ecovenue, an ERDF funded theatre sustainability project (video) http://t.co/ArPDGs3v #EU cc @EUlondonrep"
+        },
+        {
+            "created_at": "2012-06-21T14:45:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 99,
+                        "tag": "da12innov"
+                    },
+                    {
+                        "end": 115,
+                        "start": 110,
+                        "tag": "da12"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "64404895",
+                        "start": 3,
+                        "username": "SebSigloch"
+                    },
+                    {
+                        "end": 29,
+                        "id": "18512377",
+                        "start": 19,
+                        "username": "ealmirall"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/e0IGL6nI",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/ealmirall/status/215805818233303040/photo/1",
+                        "start": 116,
+                        "url": "http://t.co/e0IGL6nI"
+                    }
+                ]
+            },
+            "id": "215817820070621184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "RT @SebSigloch: RT @ealmirall: Fostering Open Innovation ecosystems - recommendations from Philips #da12innov #da12 http://t.co/e0IGL6nI"
+        },
+        {
+            "created_at": "2012-06-21T14:32:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "K-REP Bank",
+                        "probability": 0.5511,
+                        "start": 61,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 92,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=BEI/12/83&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 72,
+                        "url": "http://t.co/Gux1Zflb"
+                    }
+                ]
+            },
+            "id": "215814516817149953",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Kenyan business to benefit from EUR 7 million EIB funding to K-REP Bank http://t.co/Gux1Zflb"
+        },
+        {
+            "created_at": "2012-06-21T14:15:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "European Parliament",
+                        "probability": 0.5425,
+                        "start": 52,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 93,
+                        "tag": "DA12"
+                    },
+                    {
+                        "end": 110,
+                        "start": 99,
+                        "tag": "da12social"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "14710655",
+                        "start": 3,
+                        "username": "tenhagen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goo.gl/bFdDn",
+                        "end": 131,
+                        "expanded_url": "http://goo.gl/bFdDn",
+                        "start": 111,
+                        "url": "http://t.co/Ezb3Rj7a"
+                    }
+                ]
+            },
+            "id": "215810272097611777",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "text": "RT @tenhagen: List of Key Publications (PDF) by the European Parliament's Policy Departments #DA12 #da12social http://t.co/Ezb3Rj7a"
+        },
+        {
+            "created_at": "2012-06-21T13:15:52.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.8343,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 59,
+                        "tag": "sciencegirlthing"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "facebook.com/sciencegirlthi\u2026",
+                        "end": 97,
+                        "expanded_url": "http://www.facebook.com/sciencegirlthing",
+                        "start": 77,
+                        "url": "http://t.co/yziUoAQm"
+                    }
+                ]
+            },
+            "id": "215795170023718912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 30
+            },
+            "text": "EU launches initiative to encourage young women in science #sciencegirlthing http://t.co/yziUoAQm"
+        },
+        {
+            "created_at": "2012-06-21T12:15:52.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 120,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/679&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 100,
+                        "url": "http://t.co/lAt8Lwy3"
+                    }
+                ]
+            },
+            "id": "215780069610762240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 23
+            },
+            "text": "Eurobarometer: 98% say language learning is good for their children, but tests highlight skills gap http://t.co/lAt8Lwy3"
+        },
+        {
+            "created_at": "2012-06-21T11:58:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "EU",
+                        "probability": 0.6948,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 10,
+                        "normalized_text": "U.S.",
+                        "probability": 0.9209,
+                        "start": 7,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 90,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/680&format=HTML&aged=0&language=EN&guiLanguage=fr",
+                        "start": 70,
+                        "url": "http://t.co/aSLugj4V"
+                    }
+                ]
+            },
+            "id": "215775819656728577",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "EU and U.S. launch Global Alliance to fight child sexual abuse online http://t.co/aSLugj4V"
+        },
+        {
+            "created_at": "2012-06-21T10:45:52.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 94,
+                        "normalized_text": "IGN France",
+                        "probability": 0.3677,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 122,
+                        "start": 117,
+                        "tag": "da12"
+                    },
+                    {
+                        "end": 132,
+                        "start": 123,
+                        "tag": "da12data"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16999848",
+                        "start": 3,
+                        "username": "mgarrigap"
+                    },
+                    {
+                        "end": 34,
+                        "id": "194048338",
+                        "start": 18,
+                        "username": "ClairePressTeam"
+                    }
+                ]
+            },
+            "id": "215757419626758144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @mgarrigap: RT @ClairePressTeam: 120,000 requests for data 60k gb downloaded when IGN France opened up their data #da12 #da12data"
+        },
+        {
+            "created_at": "2012-06-21T06:58:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 57,
+                        "tag": "Greek"
+                    },
+                    {
+                        "end": 72,
+                        "start": 64,
+                        "tag": "Cypriot"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "Turkish"
+                    },
+                    {
+                        "end": 123,
+                        "start": 116,
+                        "tag": "SPEECH"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "505748969",
+                        "start": 0,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MhwnEv",
+                        "end": 144,
+                        "expanded_url": "http://bit.ly/MhwnEv",
+                        "start": 124,
+                        "url": "http://t.co/NvwDPdqQ"
+                    }
+                ]
+            },
+            "id": "215700079422603264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@StefanFuleEU: Address to political parties representing #Greek #Cypriot community &amp; #Turkish Cypriot community #SPEECH http://t.co/NvwDPdqQ"
+        },
+        {
+            "created_at": "2012-06-21T06:34:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 11,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MhxHai",
+                        "end": 97,
+                        "expanded_url": "http://bit.ly/MhxHai",
+                        "start": 77,
+                        "url": "http://t.co/6OecekFz"
+                    }
+                ]
+            },
+            "id": "215694036563005440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "State aid: #EU invites comments on use of General block exemption Regulation http://t.co/6OecekFz"
+        },
+        {
+            "created_at": "2012-06-20T18:31:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "US"
+                    },
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "trade.ec.europa.eu/doclib/docs/20\u2026",
+                        "end": 92,
+                        "expanded_url": "http://trade.ec.europa.eu/doclib/docs/2012/june/tradoc_149557.pdf",
+                        "start": 72,
+                        "url": "http://t.co/BOTVCAAe"
+                    }
+                ]
+            },
+            "id": "215512330698637312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#US-#EU: Interim report of working group on Jobs and Growth now online: http://t.co/BOTVCAAe"
+        },
+        {
+            "created_at": "2012-06-20T16:32:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Los Cabos",
+                        "probability": 0.9166,
+                        "start": 76,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 13,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 29,
+                        "start": 21,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 69,
+                        "start": 65,
+                        "tag": "G20"
+                    },
+                    {
+                        "end": 95,
+                        "start": 90,
+                        "tag": "MEMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwV6A7",
+                        "end": 116,
+                        "expanded_url": "http://bit.ly/MwV6A7",
+                        "start": 96,
+                        "url": "http://t.co/RLW41Zh3"
+                    }
+                ]
+            },
+            "id": "215482139867746305",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": "Statement by #EU Pdt #Barroso &amp; @euHvR on the results of the #G20 summit in Los Cabos #MEMO http://t.co/RLW41Zh3"
+        },
+        {
+            "created_at": "2012-06-20T16:16:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Justice and Home Affairs Ministerial",
+                        "probability": 0.2932,
+                        "start": 9,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 8,
+                        "start": 5,
+                        "tag": "US"
+                    },
+                    {
+                        "end": 80,
+                        "start": 69,
+                        "tag": "Copenhagen"
+                    },
+                    {
+                        "end": 86,
+                        "start": 81,
+                        "tag": "MEMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwVvCy",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/MwVvCy",
+                        "start": 87,
+                        "url": "http://t.co/Xdt59Qt7"
+                    }
+                ]
+            },
+            "id": "215478116758466560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#EU- #US Justice and Home Affairs Ministerial meeting: 20-21 June in #Copenhagen #MEMO http://t.co/Xdt59Qt7"
+        },
+        {
+            "created_at": "2012-06-20T15:58:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 32,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "Barroso"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 31,
+                        "id": "813286",
+                        "start": 19,
+                        "username": "BarackObama"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwUudL",
+                        "end": 82,
+                        "expanded_url": "http://bit.ly/MwUudL",
+                        "start": 62,
+                        "url": "http://t.co/srQy9jh0"
+                    }
+                ]
+            },
+            "id": "215473585895116800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Joint Statement by @BarackObama #EU Pdt #Barroso &amp; @euHvR http://t.co/srQy9jh0"
+        },
+        {
+            "created_at": "2012-06-20T15:33:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 66,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 75,
+                        "start": 70,
+                        "tag": "MEMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LAZfFR",
+                        "end": 96,
+                        "expanded_url": "http://bit.ly/LAZfFR",
+                        "start": 76,
+                        "url": "http://t.co/gpReX8iU"
+                    }
+                ]
+            },
+            "id": "215467291230470144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "Climate change: CO2 emissions from new cars dropped by 3% in 2011 #EU #MEMO http://t.co/gpReX8iU"
+        },
+        {
+            "created_at": "2012-06-20T15:23:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 52,
+                        "start": 46,
+                        "tag": "Auken"
+                    },
+                    {
+                        "end": 89,
+                        "start": 79,
+                        "tag": "Rioplus20"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 35,
+                        "id": "2560246616",
+                        "start": 19,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LAPibw",
+                        "end": 110,
+                        "expanded_url": "http://bit.ly/LAPibw",
+                        "start": 90,
+                        "url": "http://t.co/r1PZyWyM"
+                    }
+                ]
+            },
+            "id": "215464777340821506",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "Joint statement by @JanezPotocnikEU &amp; Ida #Auken on the Rio+20 Declaration #Rioplus20 http://t.co/r1PZyWyM"
+        },
+        {
+            "created_at": "2012-06-20T14:58:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 22,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 88,
+                        "start": 72,
+                        "tag": "WorldRefugeeDay"
+                    },
+                    {
+                        "end": 92,
+                        "start": 89,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 98,
+                        "start": 93,
+                        "tag": "MEMO"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 48,
+                        "id": "460966881",
+                        "start": 36,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MhlkLw",
+                        "end": 119,
+                        "expanded_url": "http://bit.ly/MhlkLw",
+                        "start": 99,
+                        "url": "http://t.co/hMpQxDWS"
+                    }
+                ]
+            },
+            "id": "215458487394762753",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Joint Statement by HR #Ashton &amp; @MalmstromEU on the occasion of the #WorldRefugeeDay #EU #MEMO http://t.co/hMpQxDWS"
+        },
+        {
+            "created_at": "2012-06-20T14:58:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 19,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 33,
+                        "start": 26,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 92,
+                        "start": 76,
+                        "tag": "WorldRefugeeDay"
+                    },
+                    {
+                        "end": 101,
+                        "start": 96,
+                        "tag": "MEMO"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 52,
+                        "id": "460966881",
+                        "start": 40,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MhlkLw",
+                        "end": 122,
+                        "expanded_url": "http://bit.ly/MhlkLw",
+                        "start": 102,
+                        "url": "http://t.co/hMpQxDWS"
+                    }
+                ]
+            },
+            "id": "215458485427650562",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Joint Statement by #EU HR #Ashton &amp; @MalmstromEU on the occasion of the #WorldRefugeeDay EU #MEMO http://t.co/hMpQxDWS"
+        },
+        {
+            "created_at": "2012-06-20T14:42:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "Syrian",
+                        "probability": 0.4413,
+                        "start": 71,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 46,
+                        "start": 40,
+                        "tag": "Syria"
+                    },
+                    {
+                        "end": 87,
+                        "start": 78,
+                        "tag": "refugees"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LAYFYA",
+                        "end": 108,
+                        "expanded_url": "http://bit.ly/LAYFYA",
+                        "start": 88,
+                        "url": "http://t.co/ziuFXuUr"
+                    }
+                ]
+            },
+            "id": "215454457398444032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "The #EU boosts its humanitarian aid for #Syria as @KGeorgievaEU visits Syrian #refugees http://t.co/ziuFXuUr"
+        },
+        {
+            "created_at": "2012-06-20T14:28:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 13,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 41,
+                        "start": 32,
+                        "tag": "refugees"
+                    },
+                    {
+                        "end": 47,
+                        "start": 42,
+                        "tag": "MEMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwPIgm",
+                        "end": 68,
+                        "expanded_url": "http://bit.ly/MwPIgm",
+                        "start": 48,
+                        "url": "http://t.co/vjhSuIfq"
+                    }
+                ]
+            },
+            "id": "215450933562318848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "Q&amp;A: The #EU's work to help #refugees #MEMO http://t.co/vjhSuIfq"
+        },
+        {
+            "created_at": "2012-06-20T14:24:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 13,
+                        "tag": "WorldRefugeeDay"
+                    },
+                    {
+                        "end": 74,
+                        "start": 65,
+                        "tag": "refugees"
+                    },
+                    {
+                        "end": 86,
+                        "start": 78,
+                        "tag": "Ecuador"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "470099591",
+                        "start": 3,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NRp3SK",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/NRp3SK",
+                        "start": 87,
+                        "url": "http://t.co/HvFr2hyD"
+                    }
+                ]
+            },
+            "id": "215450109218000897",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "RT @eu_echo: #WorldRefugeeDay Have a look the story of colombian #refugees in #Ecuador http://t.co/HvFr2hyD"
+        },
+        {
+            "created_at": "2012-06-20T14:23:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "MEMO"
+                    },
+                    {
+                        "end": 72,
+                        "start": 69,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwRAWs",
+                        "end": 93,
+                        "expanded_url": "http://bit.ly/MwRAWs",
+                        "start": 73,
+                        "url": "http://t.co/akhoeRTa"
+                    }
+                ]
+            },
+            "id": "215449679469613056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "#MEMO Employment, Social Policy, Health and Consumer Affairs Council #EU http://t.co/akhoeRTa"
+        },
+        {
+            "created_at": "2012-06-20T14:23:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 23,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Mhjla5",
+                        "end": 87,
+                        "expanded_url": "http://bit.ly/Mhjla5",
+                        "start": 67,
+                        "url": "http://t.co/dvysvYN4"
+                    }
+                ]
+            },
+            "id": "215449676256776194",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "The outermost regions: #EU unveils plan to support jobs and growth http://t.co/dvysvYN4"
+        },
+        {
+            "created_at": "2012-06-20T14:18:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 57,
+                        "start": 54,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Mhmfvh",
+                        "end": 98,
+                        "expanded_url": "http://bit.ly/Mhmfvh",
+                        "start": 78,
+                        "url": "http://t.co/97lJbuvp"
+                    }
+                ]
+            },
+            "id": "215448419018354691",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "High Level Group report recommends gradual opening of #EU road haulage market http://t.co/97lJbuvp"
+        },
+        {
+            "created_at": "2012-06-20T14:14:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 48,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 79,
+                        "start": 74,
+                        "tag": "MEMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwQgCV",
+                        "end": 100,
+                        "expanded_url": "http://bit.ly/MwQgCV",
+                        "start": 80,
+                        "url": "http://t.co/MsC634G2"
+                    }
+                ]
+            },
+            "id": "215447580837027840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\"Wise men\" hand over report on situation of the #EU road transport market #MEMO http://t.co/MsC634G2"
+        },
+        {
+            "created_at": "2012-06-20T14:12:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "SPEECH"
+                    },
+                    {
+                        "end": 58,
+                        "start": 47,
+                        "tag": "Bandabulya"
+                    },
+                    {
+                        "end": 102,
+                        "start": 94,
+                        "tag": "Nicosia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 21,
+                        "id": "505748969",
+                        "start": 8,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MhiTZn",
+                        "end": 123,
+                        "expanded_url": "http://bit.ly/MhiTZn",
+                        "start": 103,
+                        "url": "http://t.co/S5N67YaP"
+                    }
+                ]
+            },
+            "id": "215446907093397504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#SPEECH @StefanFuleEU: Opening of the restored #Bandabulya old market in the northern part of #Nicosia http://t.co/S5N67YaP"
+        },
+        {
+            "created_at": "2012-06-20T13:57:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "Europe",
+                        "probability": 0.9874,
+                        "start": 51,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "SPEECH"
+                    },
+                    {
+                        "end": 47,
+                        "start": 37,
+                        "tag": "Education"
+                    },
+                    {
+                        "end": 61,
+                        "start": 58,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "481964948",
+                        "start": 8,
+                        "username": "VassiliouEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/MwMDNj",
+                        "end": 82,
+                        "expanded_url": "http://bit.ly/MwMDNj",
+                        "start": 62,
+                        "url": "http://t.co/AKpp3IC6"
+                    }
+                ]
+            },
+            "id": "215443299056619521",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "#SPEECH @VassiliouEU: Creativity and #Education in Europe #EU http://t.co/AKpp3IC6"
+        },
+        {
+            "created_at": "2012-06-20T08:45:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "World Refugee Day",
+                        "probability": 0.4663,
+                        "start": 18,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "iPhone",
+                        "probability": 0.8854,
+                        "start": 59,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Android",
+                        "probability": 0.7877,
+                        "start": 66,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 110,
+                        "start": 101,
+                        "tag": "refugees"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "470099591",
+                        "start": 3,
+                        "username": "eu_echo"
+                    },
+                    {
+                        "end": 52,
+                        "id": "240598249",
+                        "start": 46,
+                        "username": "unhcr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Jnekec",
+                        "end": 131,
+                        "expanded_url": "http://bit.ly/Jnekec",
+                        "start": 111,
+                        "url": "http://t.co/RwZXhRyz"
+                    }
+                ]
+            },
+            "id": "215364617290006529",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "RT @eu_echo: It\u2019s World Refugee Day! Download @UNHCR\u2019s new iPhone/Android app \"My Life as a Refugee\" #refugees http://t.co/RwZXhRyz"
+        },
+        {
+            "created_at": "2012-06-20T08:02:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 23,
+                        "tag": "eusewawards"
+                    },
+                    {
+                        "end": 86,
+                        "start": 80,
+                        "tag": "eusew"
+                    },
+                    {
+                        "end": 99,
+                        "start": 87,
+                        "tag": "sustainable"
+                    },
+                    {
+                        "end": 107,
+                        "start": 100,
+                        "tag": "energy"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 79,
+                        "id": "425167544",
+                        "start": 66,
+                        "username": "euenergyweek"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/vi1dsGjU",
+                        "end": 65,
+                        "expanded_url": "https://twitter.com/euenergyweek/status/215148277153267713/photo/1",
+                        "start": 45,
+                        "url": "http://t.co/vi1dsGjU"
+                    }
+                ]
+            },
+            "id": "215353793922088961",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Congratulations to the #eusewawards winners! http://t.co/vi1dsGjU @euenergyweek #eusew #sustainable #energy"
+        },
+        {
+            "created_at": "2012-06-19T15:58:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 60,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 93,
+                        "start": 81,
+                        "tag": "trafficking"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NdzkpH",
+                        "end": 130,
+                        "expanded_url": "http://bit.ly/NdzkpH",
+                        "start": 110,
+                        "url": "http://t.co/kKll6Ly7"
+                    }
+                ]
+            },
+            "id": "215111194858627072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 23
+            },
+            "text": "Combatting the slavery of our times: 40 new measures for an #EU strategy against #trafficking in human beings http://t.co/kKll6Ly7"
+        },
+        {
+            "created_at": "2012-06-19T15:23:01.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "159950527",
+                        "start": 3,
+                        "username": "NeelieKroesEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/KxcSbi",
+                        "end": 129,
+                        "expanded_url": "http://bit.ly/KxcSbi",
+                        "start": 109,
+                        "url": "http://t.co/KSmczDsD"
+                    }
+                ]
+            },
+            "id": "215102390985170951",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @NeelieKroesEU: ...if we haven't done our homework to ensure enough spectrum \u2013 citizens won't be patient. http://t.co/KSmczDsD"
+        },
+        {
+            "created_at": "2012-06-19T14:58:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "SPEECH"
+                    },
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "Gucht"
+                    },
+                    {
+                        "end": 26,
+                        "start": 23,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 34,
+                        "start": 28,
+                        "tag": "ASEAN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Kxcvxq",
+                        "end": 99,
+                        "expanded_url": "http://bit.ly/Kxcvxq",
+                        "start": 79,
+                        "url": "http://t.co/nAKE1sao"
+                    }
+                ]
+            },
+            "id": "215096097293606913",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#SPEECH Cssr De #Gucht #EU- #ASEAN: An efficient machine for the next 45 years http://t.co/nAKE1sao"
+        },
+        {
+            "created_at": "2012-06-19T14:29:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 32,
+                        "start": 29,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/KxclWT",
+                        "end": 119,
+                        "expanded_url": "http://bit.ly/KxclWT",
+                        "start": 99,
+                        "url": "http://t.co/3nS107jb"
+                    }
+                ]
+            },
+            "id": "215088798076383234",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Asylum decisions in the EU27 #EU Member States granted protection to 84 100 asylum seekers in 2011 http://t.co/3nS107jb"
+        },
+        {
+            "created_at": "2012-06-19T14:11:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 34,
+                        "tag": "BlueGrowth"
+                    },
+                    {
+                        "end": 75,
+                        "start": 66,
+                        "tag": "maritime"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "266031327",
+                        "start": 3,
+                        "username": "MariaDamanakiEU"
+                    }
+                ]
+            },
+            "id": "215084450332155905",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @MariaDamanakiEU: We must fuel #BlueGrowth: identify promising #maritime sectors, reinforce assets driving them &amp; remove bottlenecks..."
+        },
+        {
+            "created_at": "2012-06-19T14:01:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "SPEECH"
+                    },
+                    {
+                        "end": 88,
+                        "start": 85,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "177179008",
+                        "start": 8,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/KxcHgi",
+                        "end": 109,
+                        "expanded_url": "http://bit.ly/KxcHgi",
+                        "start": 89,
+                        "url": "http://t.co/UAFtm3qr"
+                    }
+                ]
+            },
+            "id": "215081755126927362",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#SPEECH @VivianeRedingEU: Using criminal law to support growth and economic recovery #EU http://t.co/UAFtm3qr"
+        },
+        {
+            "created_at": "2012-06-19T13:49:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 20,
+                        "start": 12,
+                        "tag": "Finnish"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "broadband"
+                    },
+                    {
+                        "end": 112,
+                        "start": 107,
+                        "tag": "da12"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LZBLul",
+                        "end": 133,
+                        "expanded_url": "http://bit.ly/LZBLul",
+                        "start": 113,
+                        "url": "http://t.co/WgzBYvC7"
+                    }
+                ]
+            },
+            "id": "215078731390259200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#EU queries #Finnish regulator's plans not to impose strict price control for wholesale #broadband markets #da12 http://t.co/WgzBYvC7"
+        },
+        {
+            "created_at": "2012-06-19T13:36:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "Europe",
+                        "probability": 0.9769,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 95,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 33,
+                        "id": "177179008",
+                        "start": 17,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Ndx4Pd",
+                        "end": 119,
+                        "expanded_url": "http://bit.ly/Ndx4Pd",
+                        "start": 99,
+                        "url": "http://t.co/9K56qMi3"
+                    }
+                ]
+            },
+            "id": "215075461745754114",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Women on Boards: @VivianeRedingEU meets with leaders of Europe's business schools and industry #EU http://t.co/9K56qMi3"
+        },
+        {
+            "created_at": "2012-06-19T13:23:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Europe",
+                        "probability": 0.9571,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "SPEECH"
+                    },
+                    {
+                        "end": 83,
+                        "start": 80,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 99,
+                        "start": 84,
+                        "tag": "dataprotection"
+                    },
+                    {
+                        "end": 105,
+                        "start": 100,
+                        "tag": "da12"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "177179008",
+                        "start": 8,
+                        "username": "VivianeRedingEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Kxc4Do",
+                        "end": 126,
+                        "expanded_url": "http://bit.ly/Kxc4Do",
+                        "start": 106,
+                        "url": "http://t.co/PyCdbePe"
+                    }
+                ]
+            },
+            "id": "215072191732133888",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "#SPEECH @VivianeRedingEU: Forging a high level of data protection for Europe... #EU #dataprotection #da12 http://t.co/PyCdbePe"
+        },
+        {
+            "created_at": "2012-06-19T12:58:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 90,
+                        "start": 87,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LZzSxN",
+                        "end": 111,
+                        "expanded_url": "http://bit.ly/LZzSxN",
+                        "start": 91,
+                        "url": "http://t.co/cvD1S1BI"
+                    }
+                ]
+            },
+            "id": "215065900653608960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "Public consultation: Boosting the demand for innovative European products and services #EU http://t.co/cvD1S1BI"
+        },
+        {
+            "created_at": "2012-06-19T12:30:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 47,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 109,
+                        "start": 102,
+                        "tag": "EO2012"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "63771101",
+                        "start": 3,
+                        "username": "bhagard"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/LBskzn",
+                        "end": 101,
+                        "expanded_url": "http://bit.ly/LBskzn",
+                        "start": 81,
+                        "url": "http://t.co/cC6Lp2ot"
+                    }
+                ]
+            },
+            "id": "215058860321423361",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "RT @bhagard: Public Service Principles for the #EU civil service launched today: http://t.co/cC6Lp2ot #EO2012"
+        },
+        {
+            "created_at": "2012-06-19T10:28:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "EU",
+                        "probability": 0.5746,
+                        "start": 22,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 54,
+                        "start": 42,
+                        "tag": "trafficking"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "460966881",
+                        "start": 0,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 85,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 65,
+                        "url": "http://t.co/JzpEqxyn"
+                    }
+                ]
+            },
+            "id": "215028370986115072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "@MalmstromEU presents EU strategy against #trafficking, watch at http://t.co/JzpEqxyn straight after the daily briefing!"
+        },
+        {
+            "created_at": "2012-06-19T10:14:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 69,
+                        "tag": "trafficking"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 115,
+                        "id": "460966881",
+                        "start": 103,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "j.mp/LwsOZ0",
+                        "end": 102,
+                        "expanded_url": "http://j.mp/LwsOZ0",
+                        "start": 82,
+                        "url": "http://t.co/7ntvegsE"
+                    }
+                ]
+            },
+            "id": "215024628719026176",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "\"He took my passport, I couldn't leave the house.\" Video: Victims of #trafficking http://t.co/7ntvegsE @MalmstromEU presents strategy today."
+        },
+        {
+            "created_at": "2012-06-19T09:55:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 71,
+                        "tag": "trafficking"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "460966881",
+                        "start": 29,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 126,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 106,
+                        "url": "http://t.co/JzpEqxyn"
+                    }
+                ]
+            },
+            "id": "215019843873816576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Eradicating the slave trade: @MalmstromEU presents EU strategy against #trafficking, live at 12.15 on EbS http://t.co/JzpEqxyn"
+        },
+        {
+            "created_at": "2012-06-19T09:34:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "EU",
+                        "probability": 0.6393,
+                        "start": 79,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 73,
+                        "id": "460966881",
+                        "start": 61,
+                        "username": "MalmstromEU"
+                    }
+                ]
+            },
+            "id": "215014717507383296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Joint investigation teams &amp; cooperation to help victims: @MalmstromEU presents EU strategy against human trafficking"
+        },
+        {
+            "created_at": "2012-06-19T09:34:03.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "460966881",
+                        "start": 29,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "j.mp/yOTRmP",
+                        "end": 125,
+                        "expanded_url": "http://j.mp/yOTRmP",
+                        "start": 105,
+                        "url": "http://t.co/W6eNAAD6"
+                    }
+                ]
+            },
+            "id": "215014570358603777",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 11
+            },
+            "text": "Eradicating the slave trade: @MalmstromEU presents EU strategy against trafficking, live at 12.30 on EbS http://t.co/W6eNAAD6"
+        },
+        {
+            "created_at": "2012-06-19T09:33:37.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 114,
+                        "id": "460966881",
+                        "start": 102,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "j.mp/LwsOZ0",
+                        "end": 101,
+                        "expanded_url": "http://j.mp/LwsOZ0",
+                        "start": 81,
+                        "url": "http://t.co/7ntvegsE"
+                    }
+                ]
+            },
+            "id": "215014464662151169",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\"He took my passport, I couldn't leave the house.\" Video: Victims of trafficking http://t.co/7ntvegsE @MalmstromEU presents strategy today"
+        },
+        {
+            "created_at": "2012-06-18T16:40:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Los Cabos",
+                        "probability": 0.9203,
+                        "start": 76,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 30,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 72,
+                        "start": 68,
+                        "tag": "G20"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 105,
+                        "id": "800896050",
+                        "start": 97,
+                        "username": "EC_live"
+                    }
+                ]
+            },
+            "id": "214759600212279299",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "For key quotes from President #Barroso's press conference  ahead of #G20 in Los Cabos follow now @ec_live"
+        },
+        {
+            "created_at": "2012-06-18T16:00:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "Los Cabos",
+                        "probability": 0.8555,
+                        "start": 48,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 10,
+                        "tag": "G20"
+                    },
+                    {
+                        "end": 80,
+                        "start": 72,
+                        "tag": "Barroso"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 131,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 111,
+                        "url": "http://t.co/JzpEqxyn"
+                    }
+                ]
+            },
+            "id": "214749314013085696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Now live: #G20 Summit joint press conference in Los Cabos by Presidents #Barroso &amp; @euHvR - Watch it here: http://t.co/JzpEqxyn"
+        },
+        {
+            "created_at": "2012-06-18T15:17:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 94,
+                        "normalized_text": "Los Cabos",
+                        "probability": 0.4671,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 66,
+                        "start": 59,
+                        "tag": "Rompuy"
+                    },
+                    {
+                        "end": 80,
+                        "start": 76,
+                        "tag": "G20"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 117,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 97,
+                        "url": "http://t.co/JzpEqxyn"
+                    }
+                ]
+            },
+            "id": "214738563798020096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Watch live press conference by Presidents #Barroso and Van #Rompuy ahead of #G20 from Los Cabos  http://t.co/JzpEqxyn 10 am local, 6 pm CET"
+        },
+        {
+            "created_at": "2012-06-18T15:03:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 25,
+                        "tag": "RioPlus20"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 73,
+                        "id": "2560246616",
+                        "start": 57,
+                        "username": "JanezPotocnikEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Ml9Vrq",
+                        "end": 56,
+                        "expanded_url": "http://bit.ly/Ml9Vrq",
+                        "start": 36,
+                        "url": "http://t.co/FdX0EfrA"
+                    }
+                ]
+            },
+            "id": "214734968709070848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Questions and answers on #RioPlus20 http://t.co/FdX0EfrA @JanezPotocnikEU"
+        },
+        {
+            "created_at": "2012-06-18T13:07:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Los Cabos",
+                        "probability": 0.8752,
+                        "start": 37,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 61,
+                        "tag": "Barroso"
+                    },
+                    {
+                        "end": 82,
+                        "start": 78,
+                        "tag": "G20"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/EBSlive",
+                        "end": 117,
+                        "expanded_url": "http://bit.ly/EBSlive",
+                        "start": 97,
+                        "url": "http://t.co/JzpEqxyn"
+                    }
+                ]
+            },
+            "id": "214705774960717824",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "18h00 CEST Joint Press Conference in Los Cabos by Presidents #Barroso @euHvR: #G20 Summit. Watch http://t.co/JzpEqxyn"
+        },
+        {
+            "created_at": "2012-06-18T13:00:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "EU",
+                        "probability": 0.8056,
+                        "start": 21,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "Sahel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Ml7vJs",
+                        "end": 107,
+                        "expanded_url": "http://bit.ly/Ml7vJs",
+                        "start": 87,
+                        "url": "http://t.co/odesBafN"
+                    }
+                ]
+            },
+            "id": "214704046475444225",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#Sahel food crisis \u2013 EU scales up assistance and launches a Partnership for Resilience http://t.co/odesBafN"
+        }
+    ],
+    "meta": {
+        "newest_id": "217610161467047937",
+        "next_token": "1jzu9lk96gu5npvzzao1dr5zf23s34pyfyer20quiirh",
+        "oldest_id": "214704046475444225",
+        "result_count": 100
+    }
+}

@@ -1,0 +1,4520 @@
+{
+    "data": [
+        {
+            "created_at": "2013-10-09T10:39:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 35,
+                        "tag": "Lampedusa"
+                    },
+                    {
+                        "end": 56,
+                        "start": 50,
+                        "tag": "Italy"
+                    }
+                ]
+            },
+            "id": "387890033723596800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "RT @BarrosoEU: The challenges that #Lampedusa and #Italy are facing are European challenges."
+        },
+        {
+            "created_at": "2013-10-09T10:20:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 90,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 64,
+                        "id": "419622371",
+                        "start": 52,
+                        "username": "EnricoLetta"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pDEL7",
+                        "end": 123,
+                        "expanded_url": "http://ow.ly/pDEL7",
+                        "start": 101,
+                        "url": "http://t.co/wZlwtFtfvM"
+                    }
+                ]
+            },
+            "id": "387885232651005952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 8
+            },
+            "text": "Watch live joint press briefing by @BarrosoEU &amp; @EnricoLetta following their visit to #Lampedusa http://t.co/wZlwtFtfvM"
+        },
+        {
+            "created_at": "2013-10-09T10:09:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 59,
+                        "tag": "FAQs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 112,
+                        "id": "2815632681",
+                        "start": 103,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pDDoF",
+                        "end": 87,
+                        "expanded_url": "http://ow.ly/pDDoF",
+                        "start": 65,
+                        "url": "http://t.co/BD15GmiiwK"
+                    }
+                ]
+            },
+            "id": "387882557641326592",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Modernisation of the Professional Qualifications Directive #FAQs http://t.co/BD15GmiiwK cc @MBarnierEU @EU_Markt"
+        },
+        {
+            "created_at": "2013-10-09T10:08:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 34,
+                        "id": "36329597",
+                        "start": 22,
+                        "username": "Europarl_EN"
+                    },
+                    {
+                        "end": 137,
+                        "id": "2815632681",
+                        "start": 128,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pDDc6",
+                        "end": 124,
+                        "expanded_url": "http://ow.ly/pDDc6",
+                        "start": 102,
+                        "url": "http://t.co/BaagIei9Ya"
+                    }
+                ]
+            },
+            "id": "387882344105115649",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": ".@MBarnierEU welcomes @Europarl_EN vote on modernisation of the Professional Qualifications Directive http://t.co/BaagIei9Ya cc @EU_Markt"
+        },
+        {
+            "created_at": "2013-10-09T10:06:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 8,
+                        "tag": "Taxation"
+                    },
+                    {
+                        "end": 25,
+                        "start": 22,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 93,
+                        "id": "381021987",
+                        "start": 83,
+                        "username": "ASemetaEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pDCUK",
+                        "end": 79,
+                        "expanded_url": "http://ow.ly/pDCUK",
+                        "start": 57,
+                        "url": "http://t.co/txJfhGkxBq"
+                    }
+                ]
+            },
+            "id": "387881649738096641",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Digital #Taxation: An #EU reflection in a global context http://t.co/txJfhGkxBq by @ASemetaEU"
+        },
+        {
+            "created_at": "2013-10-09T08:32:34.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Pres",
+                        "probability": 0.4901,
+                        "start": 20,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 79,
+                        "tag": "EbS"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 52,
+                        "id": "419622371",
+                        "start": 40,
+                        "username": "EnricoLetta"
+                    },
+                    {
+                        "end": 62,
+                        "id": "149060372",
+                        "start": 53,
+                        "username": "angealfa"
+                    },
+                    {
+                        "end": 75,
+                        "id": "460966881",
+                        "start": 63,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pDuKd",
+                        "end": 120,
+                        "expanded_url": "http://ow.ly/pDuKd",
+                        "start": 98,
+                        "url": "http://t.co/VjUTHskERc"
+                    }
+                ]
+            },
+            "id": "387858110960107520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 5
+            },
+            "text": "Press conference by Pres. @BarrosoEU w/ @EnricoLetta @angealfa @MalmstromEU on #EbS at 11:30 LIVE http://t.co/VjUTHskERc"
+        },
+        {
+            "created_at": "2013-10-09T08:30:34.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 16,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 43,
+                        "id": "419622371",
+                        "start": 31,
+                        "username": "EnricoLetta"
+                    },
+                    {
+                        "end": 53,
+                        "id": "149060372",
+                        "start": 44,
+                        "username": "angealfa"
+                    },
+                    {
+                        "end": 72,
+                        "id": "460966881",
+                        "start": 60,
+                        "username": "MalmstromEU"
+                    }
+                ]
+            },
+            "id": "387857609552064512",
+            "lang": "it",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "MT @BarrosoEU A #Lampedusa con @EnricoLetta @Angealfa &amp; @MalmstromEU per onorare le vittime e mostrare solidarit\u00e0 con azioni concrete"
+        },
+        {
+            "created_at": "2013-10-09T08:29:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 42,
+                        "id": "419622371",
+                        "start": 30,
+                        "username": "EnricoLetta"
+                    },
+                    {
+                        "end": 52,
+                        "id": "149060372",
+                        "start": 43,
+                        "username": "angealfa"
+                    },
+                    {
+                        "end": 71,
+                        "id": "460966881",
+                        "start": 59,
+                        "username": "MalmstromEU"
+                    }
+                ]
+            },
+            "id": "387857382195617792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 7
+            },
+            "text": "MT @BarrosoEU in #Lampedusa w/@EnricoLetta @Angealfa &amp; @MalmstromEU to pay tribute to victims &amp; show solidarity through concrete action/JMB"
+        },
+        {
+            "created_at": "2013-10-09T07:28:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 50,
+                        "id": "419622371",
+                        "start": 38,
+                        "username": "EnricoLetta"
+                    },
+                    {
+                        "end": 60,
+                        "id": "149060372",
+                        "start": 51,
+                        "username": "angealfa"
+                    },
+                    {
+                        "end": 73,
+                        "id": "460966881",
+                        "start": 61,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/avservices/ebs\u2026",
+                        "end": 113,
+                        "expanded_url": "http://ec.europa.eu/avservices/ebs/schedule.cfm",
+                        "start": 91,
+                        "url": "http://t.co/8VXcWCAgB3"
+                    }
+                ]
+            },
+            "id": "387841873865605120",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 23
+            },
+            "text": "#Lampedusa - Joint presser @BarrosoEU @EnricoLetta @angealfa @MalmstromEU today 11:30 LIVE http://t.co/8VXcWCAgB3"
+        },
+        {
+            "created_at": "2013-10-08T19:00:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 50,
+                        "id": "419622371",
+                        "start": 38,
+                        "username": "EnricoLetta"
+                    },
+                    {
+                        "end": 60,
+                        "id": "149060372",
+                        "start": 51,
+                        "username": "angealfa"
+                    },
+                    {
+                        "end": 73,
+                        "id": "460966881",
+                        "start": 61,
+                        "username": "MalmstromEU"
+                    },
+                    {
+                        "end": 134,
+                        "id": "963938472",
+                        "start": 120,
+                        "username": "Palazzo_Chigi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/avservices/ebs\u2026",
+                        "end": 116,
+                        "expanded_url": "http://ec.europa.eu/avservices/ebs/schedule.cfm",
+                        "start": 94,
+                        "url": "http://t.co/8VXcWCAgB3"
+                    }
+                ]
+            },
+            "id": "387653691018592256",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 8,
+                "retweet_count": 10
+            },
+            "text": "#Lampedusa - Joint presser @BarrosoEU @EnricoLetta @angealfa @MalmstromEU tomorrow 11:30 LIVE http://t.co/8VXcWCAgB3 cc @Palazzo_Chigi"
+        },
+        {
+            "created_at": "2013-10-08T17:10:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Home Affairs Council",
+                        "probability": 0.6766,
+                        "start": 39,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "Lampedusa"
+                    },
+                    {
+                        "end": 110,
+                        "start": 100,
+                        "tag": "eucouncil"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "460966881",
+                        "start": 1,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/pressRel\u2026",
+                        "end": 99,
+                        "expanded_url": "http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/13/864",
+                        "start": 77,
+                        "url": "http://t.co/jDnmp670g0"
+                    }
+                ]
+            },
+            "id": "387625942245715968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": ".@MalmstromEU on #Lampedusa during the Home Affairs Council press conference http://t.co/jDnmp670g0 #eucouncil"
+        },
+        {
+            "created_at": "2013-10-08T13:49:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Europe",
+                        "probability": 0.9667,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "481964948",
+                        "start": 1,
+                        "username": "VassiliouEU"
+                    },
+                    {
+                        "end": 106,
+                        "id": "51681636",
+                        "start": 93,
+                        "username": "DennisAbbott"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBNcR",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/pBNcR",
+                        "start": 67,
+                        "url": "http://t.co/VUfqgd9zCv"
+                    }
+                ]
+            },
+            "id": "387575601860988928",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": ".@VassiliouEU \"Europe must act urgently to address skills deficit\" http://t.co/VUfqgd9zCv cc @DennisAbbott"
+        },
+        {
+            "created_at": "2013-10-08T13:47:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "Home Affairs Council",
+                        "probability": 0.8734,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "Freemovement"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 34,
+                        "id": "177179008",
+                        "start": 18,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 111,
+                        "id": "461919971",
+                        "start": 100,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBMLa",
+                        "end": 96,
+                        "expanded_url": "http://ow.ly/pBMLa",
+                        "start": 74,
+                        "url": "http://t.co/CpVPffJCPt"
+                    }
+                ]
+            },
+            "id": "387574853769109504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "text": "#Freemovement: VP @VivianeRedingEU's intervention at Home Affairs Council http://t.co/CpVPffJCPt cc @EU_Justice"
+        },
+        {
+            "created_at": "2013-10-08T13:04:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "crisis"
+                    },
+                    {
+                        "end": 69,
+                        "start": 66,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 78,
+                        "start": 70,
+                        "tag": "banking"
+                    },
+                    {
+                        "end": 123,
+                        "start": 110,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 136,
+                        "start": 124,
+                        "tag": "EU4fairness"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/18uWwI4",
+                        "end": 109,
+                        "expanded_url": "http://bit.ly/18uWwI4",
+                        "start": 87,
+                        "url": "http://t.co/BXdpFxz7bi"
+                    }
+                ]
+            },
+            "id": "387564112563433472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 14
+            },
+            "text": "The economic #crisis began in financial services. How can we make #EU #banking fairer? http://t.co/BXdpFxz7bi #Ideas4Europe #EU4fairness"
+        },
+        {
+            "created_at": "2013-10-08T11:38:10.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 51,
+                        "tag": "EPlenary"
+                    },
+                    {
+                        "end": 81,
+                        "start": 73,
+                        "tag": "Tobacco"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 28,
+                        "id": "1605512862",
+                        "start": 20,
+                        "username": "borgton"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBvyw",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/pBvyw",
+                        "start": 93,
+                        "url": "http://t.co/Kowevi63jL"
+                    }
+                ]
+            },
+            "id": "387542433191710720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Health Commissioner @borgton welcomes the positive #EPlenary vote on the #Tobacco directive: http://t.co/Kowevi63jL"
+        },
+        {
+            "created_at": "2013-10-08T11:32:47.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Commissioner Geoghegan",
+                        "probability": 0.4977,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 27,
+                        "normalized_text": "Quinn",
+                        "probability": 0.5304,
+                        "start": 23,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 65,
+                        "start": 54,
+                        "tag": "NobelPrize"
+                    },
+                    {
+                        "end": 77,
+                        "start": 69,
+                        "tag": "Physics"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 118,
+                        "id": "613378164",
+                        "start": 102,
+                        "username": "ECspokesScience"
+                    },
+                    {
+                        "end": 134,
+                        "id": "2817719635",
+                        "start": 119,
+                        "username": "Nobelprize_org"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBuGx",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/pBuGx",
+                        "start": 79,
+                        "url": "http://t.co/t2XUUUHnva"
+                    }
+                ]
+            },
+            "id": "387541078704156672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "Commissioner Geoghegan-Quinn congratulates winners of #NobelPrize in #Physics! http://t.co/t2XUUUHnva @ECSpokesScience @Nobelprize_org"
+        },
+        {
+            "created_at": "2013-10-08T11:20:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 8,
+                        "tag": "NobelPrize"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 95,
+                        "id": "15234407",
+                        "start": 90,
+                        "username": "CERN"
+                    },
+                    {
+                        "end": 112,
+                        "id": "786508396245639172",
+                        "start": 96,
+                        "username": "innovationunion"
+                    },
+                    {
+                        "end": 129,
+                        "id": "613378164",
+                        "start": 113,
+                        "username": "ECspokesScience"
+                    },
+                    {
+                        "end": 143,
+                        "id": "2855615075",
+                        "start": 130,
+                        "username": "ecspokeskoen"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/154tz2",
+                        "end": 89,
+                        "expanded_url": "http://bit.ly/154tz2",
+                        "start": 67,
+                        "url": "http://t.co/7mJOhWQB7q"
+                    }
+                ]
+            },
+            "id": "387538064815321088",
+            "lang": "de",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "text": "Physics #NobelPrize goes to Fran\u00e7ois Englert &amp; Peter W. Higgs  http://t.co/7mJOhWQB7q @CERN @innovationunion @ECspokesScience @ECspokesKoen"
+        },
+        {
+            "created_at": "2013-10-08T11:14:21.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "15234407",
+                        "start": 17,
+                        "username": "CERN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1cqHf0P",
+                        "end": 126,
+                        "expanded_url": "http://bit.ly/1cqHf0P",
+                        "start": 104,
+                        "url": "http://t.co/h700zxLupU"
+                    }
+                ]
+            },
+            "id": "387536438243254272",
+            "lang": "ro",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@NicolasSabourin @CERN Thanks! Maire Geoghegan Quinn congratulated Peter W. Higgs and Fran\u00e7ois Englert: http://t.co/h700zxLupU"
+        },
+        {
+            "created_at": "2013-10-08T11:12:27.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "3148384150",
+                        "start": 0,
+                        "username": "Bontrop"
+                    },
+                    {
+                        "end": 14,
+                        "id": "15234407",
+                        "start": 9,
+                        "username": "CERN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1cqHf0P",
+                        "end": 110,
+                        "expanded_url": "http://bit.ly/1cqHf0P",
+                        "start": 88,
+                        "url": "http://t.co/h700zxLupU"
+                    }
+                ]
+            },
+            "id": "387535958536486912",
+            "lang": "ca",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "@Bontrop @CERN Maire Geoghegan Quinn congratulated Peter W. Higgs and Fran\u00e7ois Englert: http://t.co/h700zxLupU"
+        },
+        {
+            "created_at": "2013-10-08T11:11:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 92,
+                        "start": 82,
+                        "tag": "Nobel2013"
+                    },
+                    {
+                        "end": 111,
+                        "start": 103,
+                        "tag": "Physics"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 118,
+                        "id": "15234407",
+                        "start": 113,
+                        "username": "CERN"
+                    },
+                    {
+                        "end": 135,
+                        "id": "613378164",
+                        "start": 119,
+                        "username": "ECspokesScience"
+                    }
+                ]
+            },
+            "id": "387535594676432896",
+            "lang": "ca",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "Maire Geoghegan Quinn congratulates Peter W. Higgs and Fran\u00e7ois Englert for their #Nobel2013 Prize for #Physics! @CERN @ECspokesScience"
+        },
+        {
+            "created_at": "2013-10-08T10:11:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 13,
+                        "tag": "EuropeanUnion"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "20646711",
+                        "start": 1,
+                        "username": "UNESCO"
+                    },
+                    {
+                        "end": 96,
+                        "id": "2345716675",
+                        "start": 83,
+                        "username": "EUspokesAlex"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBn09",
+                        "end": 79,
+                        "expanded_url": "http://ow.ly/pBn09",
+                        "start": 57,
+                        "url": "http://t.co/eAD6HUJFrx"
+                    }
+                ]
+            },
+            "id": "387520685708673024",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": ".@UNESCO and #EuropeanUnion: working together for change http://t.co/eAD6HUJFrx cc @EUspokesAlex"
+        },
+        {
+            "created_at": "2013-10-08T10:10:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 40,
+                        "start": 29,
+                        "tag": "ElSalvador"
+                    },
+                    {
+                        "end": 79,
+                        "start": 71,
+                        "tag": "poverty"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 119,
+                        "id": "2345716675",
+                        "start": 106,
+                        "username": "EUspokesAlex"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBmP1",
+                        "end": 102,
+                        "expanded_url": "http://ow.ly/pBmP1",
+                        "start": 80,
+                        "url": "http://t.co/DqBi0VktgP"
+                    }
+                ]
+            },
+            "id": "387520380245929984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "#EU will continue to support #ElSalvador\u2019s contribution to eradicating #poverty http://t.co/DqBi0VktgP cc @EUspokesAlex"
+        },
+        {
+            "created_at": "2013-10-08T10:08:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "PIAAC"
+                    },
+                    {
+                        "end": 37,
+                        "start": 32,
+                        "tag": "FAQs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 77,
+                        "id": "51681636",
+                        "start": 64,
+                        "username": "DennisAbbott"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBmI1",
+                        "end": 60,
+                        "expanded_url": "http://ow.ly/pBmI1",
+                        "start": 38,
+                        "url": "http://t.co/oTkosBrzm7"
+                    }
+                ]
+            },
+            "id": "387519797745176576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "#PIAAC Survey of Adult Skills \u2013 #FAQs http://t.co/oTkosBrzm7 cc @DennisAbbott"
+        },
+        {
+            "created_at": "2013-10-08T10:06:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 133,
+                        "start": 124,
+                        "tag": "openuped"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 108,
+                        "id": "481964948",
+                        "start": 96,
+                        "username": "VassiliouEU"
+                    },
+                    {
+                        "end": 123,
+                        "id": "218812123",
+                        "start": 109,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBmwE",
+                        "end": 95,
+                        "expanded_url": "http://ow.ly/pBmwE",
+                        "start": 73,
+                        "url": "http://t.co/pl0bxNOX7l"
+                    }
+                ]
+            },
+            "id": "387519424905117696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 23
+            },
+            "text": "Survey of adult skills highlights need to improve education and training http://t.co/pl0bxNOX7l @VassiliouEU @LaszloAndorEU #openuped"
+        },
+        {
+            "created_at": "2013-10-08T10:04:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 143,
+                        "start": 132,
+                        "tag": "euopendays"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 131,
+                        "id": "1011129121",
+                        "start": 123,
+                        "username": "JHahnEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBmrV",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/pBmrV",
+                        "start": 100,
+                        "url": "http://t.co/lPqnGMR1Ew"
+                    }
+                ]
+            },
+            "id": "387518918451277824",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "text": "\u201cQuality of Life in European Cities\u201d a snapshot of citizens\u2019 anxieties &amp; hopes in urban centres http://t.co/lPqnGMR1Ew @JHahnEU #euopendays"
+        },
+        {
+            "created_at": "2013-10-08T10:01:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 54,
+                        "tag": "dataprotection"
+                    },
+                    {
+                        "end": 131,
+                        "start": 123,
+                        "tag": "EudataP"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "177179008",
+                        "start": 1,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 143,
+                        "id": "461919971",
+                        "start": 132,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pBm4p",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/pBm4p",
+                        "start": 100,
+                        "url": "http://t.co/6uJTrhtMMx"
+                    }
+                ]
+            },
+            "id": "387518035722268672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "text": ".@VivianeRedingEU's intervention @ Justice Council on #dataprotection &amp; one-stop shop principle http://t.co/6uJTrhtMMx #EudataP @EU_Justice"
+        },
+        {
+            "created_at": "2013-10-08T06:42:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "PIAAC"
+                    },
+                    {
+                        "end": 134,
+                        "start": 127,
+                        "tag": "mobile"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/24NdEo",
+                        "end": 96,
+                        "expanded_url": "http://ow.ly/24NdEo",
+                        "start": 74,
+                        "url": "http://t.co/eGcGFG8IQl"
+                    },
+                    {
+                        "display_url": "ow.ly/24Ne4P",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/24Ne4P",
+                        "start": 100,
+                        "url": "http://t.co/wOg8HL7DAX"
+                    }
+                ]
+            },
+            "id": "387468077140811776",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "Results of survey on adult skills #PIAAC to be presented today 12:30 LIVE http://t.co/eGcGFG8IQl or http://t.co/wOg8HL7DAX (on #mobile)"
+        },
+        {
+            "created_at": "2013-10-08T06:17:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 47,
+                        "tag": "UE"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2541793782",
+                        "start": 3,
+                        "username": "ECspokesOlivier"
+                    }
+                ]
+            },
+            "id": "387461773156421632",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "RT @ECspokesOlivier Reunion cruciale ministres #UE auj. Gestion Frontieres ext apres Lampedus &amp; libre circulation des citoyens&amp; travailleurs"
+        },
+        {
+            "created_at": "2013-10-07T13:38:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 85,
+                        "normalized_text": "EN & ES",
+                        "probability": 0.4875,
+                        "start": 79,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 13,
+                        "tag": "banking"
+                    },
+                    {
+                        "end": 32,
+                        "start": 29,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 128,
+                        "start": 115,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 141,
+                        "start": 129,
+                        "tag": "EU4fairness"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 66,
+                        "id": "825369480",
+                        "start": 51,
+                        "username": "AlmuniaJoaquin"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/15RnqxC",
+                        "end": 114,
+                        "expanded_url": "http://bit.ly/15RnqxC",
+                        "start": 92,
+                        "url": "http://t.co/zEZ7N3KMs6"
+                    }
+                ]
+            },
+            "id": "387210416482295809",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 12
+            },
+            "text": "Questions on #banking in the #EU? Ask Commissioner @AlmuniaJoaquin live now in EN &amp; ES: http://t.co/zEZ7N3KMs6 #Ideas4Europe #EU4fairness"
+        },
+        {
+            "created_at": "2013-10-07T12:18:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Eurostat"
+                    },
+                    {
+                        "end": 65,
+                        "start": 62,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pyZun",
+                        "end": 117,
+                        "expanded_url": "http://ow.ly/pyZun",
+                        "start": 95,
+                        "url": "http://t.co/GffnCF341y"
+                    }
+                ]
+            },
+            "id": "387190136834109440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 33
+            },
+            "text": "#Eurostat regional yearbook 2013: A more detailed view of the #EU through regional statistics: http://t.co/GffnCF341y"
+        },
+        {
+            "created_at": "2013-10-07T10:26:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "banks"
+                    },
+                    {
+                        "end": 33,
+                        "start": 30,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 126,
+                        "start": 114,
+                        "tag": "eu4fairness"
+                    },
+                    {
+                        "end": 140,
+                        "start": 127,
+                        "tag": "ideas4europe"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pyN5o",
+                        "end": 113,
+                        "expanded_url": "http://ow.ly/pyN5o",
+                        "start": 91,
+                        "url": "http://t.co/zpHLA9s0mH"
+                    }
+                ]
+            },
+            "id": "387161971491373056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 15
+            },
+            "text": "What future for #banks in the #EU? Tell us your views! Live interactive debates this week: http://t.co/zpHLA9s0mH #eu4fairness #ideas4europe"
+        },
+        {
+            "created_at": "2013-10-07T10:23:18.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 63,
+                        "start": 51,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 77,
+                        "start": 67,
+                        "tag": "Nicaragua"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pyMXE",
+                        "end": 100,
+                        "expanded_url": "http://ow.ly/pyMXE",
+                        "start": 78,
+                        "url": "http://t.co/GdrFloKOkf"
+                    }
+                ]
+            },
+            "id": "387161203149381632",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "The #EU confirms its commitment to the sustainable #development of #Nicaragua http://t.co/GdrFloKOkf"
+        },
+        {
+            "created_at": "2013-10-07T10:22:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 37,
+                        "tag": "SMEs"
+                    },
+                    {
+                        "end": 83,
+                        "start": 75,
+                        "tag": "digital"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pyMQm",
+                        "end": 107,
+                        "expanded_url": "http://ow.ly/pyMQm",
+                        "start": 85,
+                        "url": "http://t.co/DIPAzFtxt1"
+                    }
+                ]
+            },
+            "id": "387160971044990976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "European regions encouraged to offer #SMEs vouchers of up to \u20ac10,000 to go #digital: http://t.co/DIPAzFtxt1"
+        },
+        {
+            "created_at": "2013-10-07T10:21:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 32,
+                        "tag": "Justice"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 106,
+                        "id": "177179008",
+                        "start": 90,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 118,
+                        "id": "461919971",
+                        "start": 107,
+                        "username": "EU_Justice"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pyMHy",
+                        "end": 89,
+                        "expanded_url": "http://ow.ly/pyMHy",
+                        "start": 67,
+                        "url": "http://t.co/3Q4TCZoNnE"
+                    }
+                ]
+            },
+            "id": "387160702269808640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "Completing the European area of #Justice: Tell us what comes next: http://t.co/3Q4TCZoNnE @VivianeRedingEU @EU_Justice"
+        },
+        {
+            "created_at": "2013-10-07T10:20:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 48,
+                        "tag": "rights"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pyMxL",
+                        "end": 111,
+                        "expanded_url": "http://ow.ly/pyMxL",
+                        "start": 89,
+                        "url": "http://t.co/hxPx9M16kg"
+                    }
+                ]
+            },
+            "id": "387160397817860096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 13
+            },
+            "text": ".@EU_Commission proposal to guarantee citizens\u2019 #rights to access a lawyer to become law http://t.co/hxPx9M16kg"
+        },
+        {
+            "created_at": "2013-10-07T07:06:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 30,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 86,
+                        "expanded_url": "http://europa.eu/rapid/press-release_MEMO-13-856_en.htm",
+                        "start": 64,
+                        "url": "http://t.co/vuf3bI9fDR"
+                    }
+                ]
+            },
+            "id": "387111689428414464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 13
+            },
+            "text": "President @BarrosoEU to visit #Lampedusa on Wednesday 9 October http://t.co/vuf3bI9fDR"
+        },
+        {
+            "created_at": "2013-10-07T06:26:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 113,
+                        "start": 105,
+                        "tag": "eudatap"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 94,
+                        "id": "157981564",
+                        "start": 80,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 130,
+                        "id": "177179008",
+                        "start": 114,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 143,
+                        "id": "460966881",
+                        "start": 131,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 60,
+                        "expanded_url": "http://europa.eu/rapid/press-release_MEMO-13-852_en.htm",
+                        "start": 38,
+                        "url": "http://t.co/RkSwyIQomF"
+                    }
+                ]
+            },
+            "id": "387101706414485504",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 7
+            },
+            "text": "Justice &amp; Home Aff Council 7-8/10 http://t.co/RkSwyIQomF Main agenda items, @EU_Commission position. #eudatap @VivianeRedingEU @MalmstromEU"
+        },
+        {
+            "created_at": "2013-10-06T15:01:41.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 25,
+                        "tag": "iCapital"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pv7Zc",
+                        "end": 133,
+                        "expanded_url": "http://ow.ly/pv7Zc",
+                        "start": 111,
+                        "url": "http://t.co/GXGQom9k0Q"
+                    }
+                ]
+            },
+            "id": "386868873758511105",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 27
+            },
+            "text": "Looking for the European #iCapital! Cities that foster \"innovation ecosystems\": send your applications by 3/12 http://t.co/GXGQom9k0Q"
+        },
+        {
+            "created_at": "2013-10-06T13:40:37.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 11,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 39,
+                        "start": 36,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 78,
+                        "start": 65,
+                        "tag": "malnutrition"
+                    },
+                    {
+                        "end": 98,
+                        "start": 90,
+                        "tag": "storify"
+                    },
+                    {
+                        "end": 140,
+                        "start": 127,
+                        "tag": "worldfoodday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "470099591",
+                        "start": 24,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 126,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 104,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386848473225900032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 5
+            },
+            "text": "Missed our #EUchat with @eu_echo on #EU Humanitarian response to #malnutrition? Check out #storify here http://t.co/xxzLMP8thO #worldfoodday"
+        },
+        {
+            "created_at": "2013-10-06T12:02:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "EUopendays"
+                    },
+                    {
+                        "end": 73,
+                        "start": 70,
+                        "tag": "EU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 110,
+                        "id": "1019536601490313221",
+                        "start": 98,
+                        "username": "EU_Regional"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/puZys",
+                        "end": 97,
+                        "expanded_url": "http://ow.ly/puZys",
+                        "start": 75,
+                        "url": "http://t.co/ySRZjLTzyB"
+                    }
+                ]
+            },
+            "id": "386823741512359936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "text": "#EUopendays 11th edition starting tomorrow! Events happening all over #EU: http://t.co/ySRZjLTzyB @EU_Regional"
+        },
+        {
+            "created_at": "2013-10-06T10:10:27.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "tag": "bailout"
+                    },
+                    {
+                        "end": 57,
+                        "start": 51,
+                        "tag": "banks"
+                    },
+                    {
+                        "end": 117,
+                        "start": 104,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 130,
+                        "start": 118,
+                        "tag": "EU4fairness"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/18uWwI4",
+                        "end": 103,
+                        "expanded_url": "http://bit.ly/18uWwI4",
+                        "start": 81,
+                        "url": "http://t.co/BXdpFxz7bi"
+                    }
+                ]
+            },
+            "id": "386795581001437184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 11,
+                "retweet_count": 28
+            },
+            "text": "Over \u20ac1 600bn of taxpayers\u2019 money used to #bailout #banks. Join debate tomorrow: http://t.co/BXdpFxz7bi #Ideas4Europe #EU4fairness"
+        },
+        {
+            "created_at": "2013-10-05T14:10:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUdeb8"
+                    },
+                    {
+                        "end": 50,
+                        "start": 45,
+                        "tag": "Fico"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "377976301",
+                        "start": 13,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psIeH",
+                        "end": 132,
+                        "expanded_url": "http://ow.ly/psIeH",
+                        "start": 110,
+                        "url": "http://t.co/k2kLwtHU4e"
+                    }
+                ]
+            },
+            "id": "386493500142796800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#EUdeb8 with @MarosSefcovic and Slovak PM R. #Fico is just kicking off! Follow it live with our live blog on: http://t.co/k2kLwtHU4e"
+        },
+        {
+            "created_at": "2013-10-05T12:01:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 13,
+                        "tag": "banks"
+                    },
+                    {
+                        "end": 43,
+                        "start": 30,
+                        "tag": "SingleMarket"
+                    },
+                    {
+                        "end": 129,
+                        "start": 116,
+                        "tag": "Ideas4Europe"
+                    },
+                    {
+                        "end": 142,
+                        "start": 130,
+                        "tag": "EU4fairness"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/18S4lvC",
+                        "end": 115,
+                        "expanded_url": "http://bit.ly/18S4lvC",
+                        "start": 93,
+                        "url": "http://t.co/jrljVbtWL2"
+                    }
+                ]
+            },
+            "id": "386461249917423616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 14
+            },
+            "text": "Questions on #banks &amp; the #SingleMarket? Submit them here before next week\u2019s live chats: http://t.co/jrljVbtWL2 #Ideas4Europe #EU4fairness"
+        },
+        {
+            "created_at": "2013-10-05T10:30:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 12,
+                        "tag": "Teachers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pvhjg",
+                        "end": 114,
+                        "expanded_url": "http://ow.ly/pvhjg",
+                        "start": 92,
+                        "url": "http://t.co/Mf8Ma7qkWU"
+                    }
+                ]
+            },
+            "id": "386438360572911616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 18
+            },
+            "text": "Happy World #Teachers' Day! This year's focus: tackling the huge shortage of professionals. http://t.co/Mf8Ma7qkWU"
+        },
+        {
+            "created_at": "2013-10-05T09:50:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 16,
+                        "tag": "EUdeb8"
+                    },
+                    {
+                        "end": 54,
+                        "start": 47,
+                        "tag": "Kosice"
+                    },
+                    {
+                        "end": 65,
+                        "start": 56,
+                        "tag": "Slovakia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 43,
+                        "id": "377976301",
+                        "start": 29,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psIeH",
+                        "end": 133,
+                        "expanded_url": "http://ow.ly/psIeH",
+                        "start": 111,
+                        "url": "http://t.co/Lv5Lc39SVX"
+                    }
+                ]
+            },
+            "id": "386428128559923200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "16h CET tonight #EUdeb8 with @MarosSefcovic in #Kosice, #Slovakia! Follow streaming, live blog and comment on: http://t.co/Lv5Lc39SVX"
+        },
+        {
+            "created_at": "2013-10-04T19:36:15.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "De Gucht",
+                        "probability": 0.471,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "US",
+                        "probability": 0.8686,
+                        "start": 80,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 54,
+                        "tag": "TTIP"
+                    },
+                    {
+                        "end": 107,
+                        "start": 98,
+                        "tag": "shutdown"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 140,
+                        "id": "1109452214",
+                        "start": 131,
+                        "username": "Trade_EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 130,
+                        "expanded_url": "http://europa.eu/rapid/press-release_MEMO-13-855_en.htm",
+                        "start": 108,
+                        "url": "http://t.co/AzrulR4PD4"
+                    }
+                ]
+            },
+            "id": "386213192734887936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 26
+            },
+            "text": "Trade Commissioner De Gucht on cancellation 2nd Round #TTIP negotiations due to US administration #shutdown http://t.co/AzrulR4PD4 @trade_eu"
+        },
+        {
+            "created_at": "2013-10-04T19:05:55.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 95,
+                        "tag": "ICAO"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "157981564",
+                        "start": 4,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 94,
+                        "expanded_url": "http://europa.eu/rapid/press-release_IP-13-918_en.htm",
+                        "start": 72,
+                        "url": "http://t.co/g8Wb3zU0a7"
+                    }
+                ]
+            },
+            "id": "386205561383305216",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 16
+            },
+            "text": "The @EU_Commission welcomes agreement on global aviation emissions deal http://t.co/g8Wb3zU0a7 #ICAO"
+        },
+        {
+            "created_at": "2013-10-04T17:26:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 11,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 39,
+                        "start": 36,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 78,
+                        "start": 65,
+                        "tag": "malnutrition"
+                    },
+                    {
+                        "end": 98,
+                        "start": 90,
+                        "tag": "storify"
+                    },
+                    {
+                        "end": 140,
+                        "start": 127,
+                        "tag": "worldfoodday"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "470099591",
+                        "start": 24,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 126,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 104,
+                        "url": "http://t.co/cfJHoKyjX4"
+                    }
+                ]
+            },
+            "id": "386180522637922304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Missed our #EUchat with @eu_echo on #EU Humanitarian response to #malnutrition? Check out #storify here http://t.co/cfJHoKyjX4 #worldfoodday"
+        },
+        {
+            "created_at": "2013-10-04T17:24:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 65,
+                        "start": 58,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 86,
+                        "start": 83,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 112,
+                        "start": 99,
+                        "tag": "malnutrition"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "410101821",
+                        "start": 0,
+                        "username": "veru_s"
+                    },
+                    {
+                        "end": 16,
+                        "id": "470099591",
+                        "start": 8,
+                        "username": "eu_echo"
+                    },
+                    {
+                        "end": 79,
+                        "id": "470099591",
+                        "start": 71,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 137,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 115,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386179950380056576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@veru_s @eu_echo You've been quoted in my #Storify story \"#EUchat with @eu_echo on #EU response to #malnutrition \" http://t.co/xxzLMP8thO"
+        },
+        {
+            "created_at": "2013-10-04T17:24:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 39,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 62,
+                        "start": 55,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 83,
+                        "start": 80,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 109,
+                        "start": 96,
+                        "tag": "malnutrition"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "75351129",
+                        "start": 0,
+                        "username": "NickPStanton"
+                    },
+                    {
+                        "end": 76,
+                        "id": "470099591",
+                        "start": 68,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 134,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 112,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386179950325555200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@NickPStanton You've been quoted in my #Storify story \"#EUchat with @eu_echo on #EU response to #malnutrition \" http://t.co/xxzLMP8thO"
+        },
+        {
+            "created_at": "2013-10-04T17:24:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 41,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 64,
+                        "start": 57,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 85,
+                        "start": 82,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 111,
+                        "start": 98,
+                        "tag": "malnutrition"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "426545990",
+                        "start": 0,
+                        "username": "intmedcorps_uk"
+                    },
+                    {
+                        "end": 78,
+                        "id": "470099591",
+                        "start": 70,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 136,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 114,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386179950300372992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "@IntMedCorps_UK You've been quoted in my #Storify story \"#EUchat with @eu_echo on #EU response to #malnutrition \" http://t.co/xxzLMP8thO"
+        },
+        {
+            "created_at": "2013-10-04T17:17:40.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 41,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 64,
+                        "start": 57,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 85,
+                        "start": 82,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 111,
+                        "start": 98,
+                        "tag": "malnutrition"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 78,
+                        "id": "470099591",
+                        "start": 70,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 135,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 113,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386178318967799808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@BreakSamsaraVT You've been quoted in my #Storify story \"#EUchat with @eu_echo on #EU response to #malnutrition\" http://t.co/xxzLMP8thO"
+        },
+        {
+            "created_at": "2013-10-04T17:14:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "EU",
+                        "probability": 0.3784,
+                        "start": 86,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 45,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 68,
+                        "start": 61,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1108951087",
+                        "start": 0,
+                        "username": "Brecht_Lein"
+                    },
+                    {
+                        "end": 19,
+                        "id": "29213506",
+                        "start": 13,
+                        "username": "ECDPM"
+                    },
+                    {
+                        "end": 82,
+                        "id": "470099591",
+                        "start": 74,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 137,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 115,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386177397290455041",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@Brecht_Lein @ECDPM You've been quoted in my #Storify story \"#EUchat with @eu_echo on EU response to malnutrition\" http://t.co/xxzLMP8thO"
+        },
+        {
+            "created_at": "2013-10-04T17:14:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "EU",
+                        "probability": 0.3805,
+                        "start": 81,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "Storify"
+                    },
+                    {
+                        "end": 63,
+                        "start": 56,
+                        "tag": "EUchat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "157981564",
+                        "start": 0,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 77,
+                        "id": "470099591",
+                        "start": 69,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sfy.co/hSkR",
+                        "end": 132,
+                        "expanded_url": "http://sfy.co/hSkR",
+                        "start": 110,
+                        "url": "http://t.co/xxzLMP8thO"
+                    }
+                ]
+            },
+            "id": "386177397235933184",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "@EU_Commission You've been quoted in my #Storify story \"#EUchat with @eu_echo on EU response to malnutrition\" http://t.co/xxzLMP8thO"
+        },
+        {
+            "created_at": "2013-10-04T14:56:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "FF"
+                    },
+                    {
+                        "end": 68,
+                        "start": 59,
+                        "tag": "research"
+                    },
+                    {
+                        "end": 86,
+                        "start": 75,
+                        "tag": "innovation"
+                    },
+                    {
+                        "end": 127,
+                        "start": 121,
+                        "tag": "h2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "920249612329504768",
+                        "start": 8,
+                        "username": "EU_H2020"
+                    },
+                    {
+                        "end": 144,
+                        "id": "613378164",
+                        "start": 128,
+                        "username": "ECspokesScience"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pv2OJ",
+                        "end": 120,
+                        "expanded_url": "http://ow.ly/pv2OJ",
+                        "start": 98,
+                        "url": "http://t.co/Bu8v5pMED8"
+                    }
+                ]
+            },
+            "id": "386142706143334400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 34
+            },
+            "text": "#FF for @EU_H2020 launched today! Info on Horizon2020 EU's #research &amp; #innovation programme! http://t.co/Bu8v5pMED8 #h2020 @ECSpokesScience"
+        },
+        {
+            "created_at": "2013-10-04T11:31:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "157981564",
+                        "start": 18,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/puul7",
+                        "end": 84,
+                        "expanded_url": "http://ow.ly/puul7",
+                        "start": 62,
+                        "url": "http://t.co/vd7ArNnMZG"
+                    }
+                ]
+            },
+            "id": "386091151838957568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Top News from the @EU_Commission 5 October \u2013 1 November 2013: http://t.co/vd7ArNnMZG"
+        },
+        {
+            "created_at": "2013-10-04T11:11:50.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "calendar"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 27,
+                        "id": "157981564",
+                        "start": 13,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/puu86",
+                        "end": 70,
+                        "expanded_url": "http://ow.ly/puu86",
+                        "start": 48,
+                        "url": "http://t.co/Ko7YJjIbt4"
+                    }
+                ]
+            },
+            "id": "386086253290348544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "#calendar of @EU_Commission activities 7-13/10: http://t.co/Ko7YJjIbt4"
+        },
+        {
+            "created_at": "2013-10-04T10:50:53.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 61,
+                        "start": 51,
+                        "tag": "Guatemala"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 98,
+                        "id": "2560248703",
+                        "start": 86,
+                        "username": "APiebalgsEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/putTS",
+                        "end": 85,
+                        "expanded_url": "http://ow.ly/putTS",
+                        "start": 63,
+                        "url": "http://t.co/s6pakwwm2N"
+                    }
+                ]
+            },
+            "id": "386080980928569344",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#EU to discuss future development cooperation with #Guatemala: http://t.co/s6pakwwm2N @APiebalgsEU @ECSpokesAlex"
+        },
+        {
+            "created_at": "2013-10-04T10:25:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Europe",
+                        "probability": 0.9783,
+                        "start": 55,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 45,
+                        "start": 40,
+                        "tag": "Fico"
+                    },
+                    {
+                        "end": 90,
+                        "start": 83,
+                        "tag": "Kosice"
+                    },
+                    {
+                        "end": 147,
+                        "start": 140,
+                        "tag": "eudeb8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 23,
+                        "id": "377976301",
+                        "start": 9,
+                        "username": "MarosSefcovic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psIeH",
+                        "end": 139,
+                        "expanded_url": "http://ow.ly/psIeH",
+                        "start": 117,
+                        "url": "http://t.co/Lv5Lc39SVX"
+                    }
+                ]
+            },
+            "id": "386074505673973760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Sat 5/10 @MarosSefcovic &amp; Slovak PM #Fico will discuss Europe with citizens in #Kosice! Streaming&amp;live blog: http://t.co/Lv5Lc39SVX #eudeb8"
+        },
+        {
+            "created_at": "2013-10-04T10:16:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Home Affairs Council",
+                        "probability": 0.8772,
+                        "start": 17,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 58,
+                        "tag": "Luxembourg"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "461919971",
+                        "start": 1,
+                        "username": "EU_Justice"
+                    },
+                    {
+                        "end": 110,
+                        "id": "177179008",
+                        "start": 94,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 123,
+                        "id": "460966881",
+                        "start": 111,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pusPK",
+                        "end": 93,
+                        "expanded_url": "http://ow.ly/pusPK",
+                        "start": 71,
+                        "url": "http://t.co/sm6lQNjdg8"
+                    }
+                ]
+            },
+            "id": "386072413156691968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": ".@EU_Justice and Home Affairs Council 7-8 October 2013 in #Luxembourg: http://t.co/sm6lQNjdg8 @VivianeRedingEU @MalmstromEU"
+        },
+        {
+            "created_at": "2013-10-04T10:11:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 54,
+                        "start": 49,
+                        "tag": "Visa"
+                    },
+                    {
+                        "end": 81,
+                        "start": 73,
+                        "tag": "Morocco"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 118,
+                        "id": "460966881",
+                        "start": 106,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pusip",
+                        "end": 105,
+                        "expanded_url": "http://ow.ly/pusip",
+                        "start": 83,
+                        "url": "http://t.co/2lwnLcFOqF"
+                    }
+                ]
+            },
+            "id": "386071141284331520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": ".@EU_Commission proposes to open negotiations on #Visa Facilitation with #Morocco: http://t.co/2lwnLcFOqF @MalmstromEU"
+        },
+        {
+            "created_at": "2013-10-04T10:09:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 32,
+                        "start": 19,
+                        "tag": "foodsecurity"
+                    },
+                    {
+                        "end": 77,
+                        "start": 68,
+                        "tag": "Ethiopia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 114,
+                        "id": "2560248703",
+                        "start": 102,
+                        "username": "APiebalgsEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pus2T",
+                        "end": 101,
+                        "expanded_url": "http://ow.ly/pus2T",
+                        "start": 79,
+                        "url": "http://t.co/u0sulb5rFy"
+                    }
+                ]
+            },
+            "id": "386070676182138880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#EU helps to boost #foodsecurity and build resilience to drought in #Ethiopia: http://t.co/u0sulb5rFy @APiebalgsEU @KGeorgievaEU"
+        },
+        {
+            "created_at": "2013-10-04T10:06:47.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "300868924",
+                        "start": 1,
+                        "username": "EU_Eurostat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/purtg",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/purtg",
+                        "start": 118,
+                        "url": "http://t.co/4HKkblUxbp"
+                    }
+                ]
+            },
+            "id": "386069881923588096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": ".@EU_eurostat: August 2013 compared with July 2013 Industrial producer prices stable in euro area up by 0.1% in EU28: http://t.co/4HKkblUxbp"
+        },
+        {
+            "created_at": "2013-10-04T09:12:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Alfano",
+                        "probability": 0.5242,
+                        "start": 37,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 137,
+                        "start": 127,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "460966881",
+                        "start": 3,
+                        "username": "MalmstromEU"
+                    }
+                ]
+            },
+            "id": "386056297910530048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 16
+            },
+            "text": "RT @MalmstromEU Spoke to Italian min.Alfano to express support. Issue to be discussed at Council next week Will also travel to #Lampedusa/CM"
+        },
+        {
+            "created_at": "2013-10-04T08:12:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUchat"
+                    },
+                    {
+                        "end": 78,
+                        "start": 65,
+                        "tag": "humanitarian"
+                    },
+                    {
+                        "end": 117,
+                        "start": 104,
+                        "tag": "WorldFoodDay"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "470099591",
+                        "start": 9,
+                        "username": "eu_echo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/X3ij44HPRn",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/386041019445153792/photo/1",
+                        "start": 118,
+                        "url": "http://t.co/X3ij44HPRn"
+                    }
+                ]
+            },
+            "id": "386041019445153792",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 13
+            },
+            "text": "#EUchat: @eu_echo experts are taking your questions right now on #humanitarian response to malnutrition #WorldFoodDay http://t.co/X3ij44HPRn"
+        },
+        {
+            "created_at": "2013-10-03T18:09:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "IMF",
+                        "probability": 0.6188,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "Portugal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 31,
+                        "id": "157981564",
+                        "start": 17,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 48,
+                        "id": "83466368",
+                        "start": 44,
+                        "username": "ecb"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 131,
+                        "expanded_url": "http://europa.eu/rapid/press-release_MEMO-13-850_en.htm",
+                        "start": 109,
+                        "url": "http://t.co/AtK8N4fQRz"
+                    }
+                ]
+            },
+            "id": "385828929627779072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Statement by the @EU_Commission Commission, @ECB and IMF on the eighth and ninth review mission to #Portugal http://t.co/AtK8N4fQRz"
+        },
+        {
+            "created_at": "2013-10-03T14:38:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "EUdeb8"
+                    },
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Hungary"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 45,
+                        "id": "218812123",
+                        "start": 31,
+                        "username": "LaszloAndorEU"
+                    },
+                    {
+                        "end": 143,
+                        "id": "1904294538",
+                        "start": 131,
+                        "username": "EC_Budapest"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/18TKtEW",
+                        "end": 130,
+                        "expanded_url": "http://bit.ly/18TKtEW",
+                        "start": 108,
+                        "url": "http://t.co/sUzzVrN656"
+                    }
+                ]
+            },
+            "id": "385775947586097153",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "#EUdeb8 starting at 5 CET with @LaszloAndorEU in #Hungary!Looking forward to Qs &amp; comments! Watch live: http://t.co/sUzzVrN656 @EC_Budapest"
+        },
+        {
+            "created_at": "2013-10-03T13:29:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Europe",
+                        "probability": 0.8959,
+                        "start": 1,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "Bruges"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 46,
+                        "id": "381021987",
+                        "start": 36,
+                        "username": "ASemetaEU"
+                    },
+                    {
+                        "end": 70,
+                        "id": "161307853",
+                        "start": 54,
+                        "username": "collegeofeurope"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psuMt",
+                        "end": 110,
+                        "expanded_url": "http://ow.ly/psuMt",
+                        "start": 88,
+                        "url": "http://t.co/Pi8zvjW0nM"
+                    }
+                ]
+            },
+            "id": "385758478322925568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "\"Europe at a crossroad\" - speech by @ASemetaEU at the @collegeofeurope in #Bruges today http://t.co/Pi8zvjW0nM"
+        },
+        {
+            "created_at": "2013-10-03T12:53:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 106,
+                        "start": 96,
+                        "tag": "Lampedusa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 64,
+                        "id": "460966881",
+                        "start": 52,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/174HIyz",
+                        "end": 129,
+                        "expanded_url": "http://bit.ly/174HIyz",
+                        "start": 107,
+                        "url": "http://t.co/ec1acXtkOp"
+                    }
+                ]
+            },
+            "id": "385749323872337920",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 32
+            },
+            "text": "Statement by European Commissioner for Home Affairs @MalmstromEU on the tragic accident outside #Lampedusa http://t.co/ec1acXtkOp"
+        },
+        {
+            "created_at": "2013-10-03T10:46:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 46,
+                        "tag": "crowdfunding"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1bt5LyF",
+                        "end": 82,
+                        "expanded_url": "http://bit.ly/1bt5LyF",
+                        "start": 60,
+                        "url": "http://t.co/hl7eatOVcP"
+                    }
+                ]
+            },
+            "id": "385717564178825216",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Get the Q&amp;A on the public consultation on #crowdfunding http://t.co/hl7eatOVcP"
+        },
+        {
+            "created_at": "2013-10-03T10:44:05.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 57,
+                        "tag": "development"
+                    },
+                    {
+                        "end": 88,
+                        "start": 80,
+                        "tag": "edd2013"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 99,
+                        "id": "153026901",
+                        "start": 89,
+                        "username": "eudevdays"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1bt5njK",
+                        "end": 122,
+                        "expanded_url": "http://bit.ly/1bt5njK",
+                        "start": 100,
+                        "url": "http://t.co/CKSzZkWJrm"
+                    }
+                ]
+            },
+            "id": "385716883162271746",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 20
+            },
+            "text": "European Development Days 2013: Building a new vision on #development post-2015 #edd2013 @eudevdays http://t.co/CKSzZkWJrm"
+        },
+        {
+            "created_at": "2013-10-03T10:41:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 23,
+                        "tag": "Ashton"
+                    },
+                    {
+                        "end": 125,
+                        "start": 114,
+                        "tag": "Azerbaijan"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 50,
+                        "id": "505748969",
+                        "start": 37,
+                        "username": "StefanFuleEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pscHs",
+                        "end": 148,
+                        "expanded_url": "http://ow.ly/pscHs",
+                        "start": 126,
+                        "url": "http://t.co/BWkjwnHfR7"
+                    }
+                ]
+            },
+            "id": "385716294831849472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "Statement by spokes of #Ashton &amp; @StefanFuleEU on cases of pressure on opposition, civil society&amp;media in #Azerbaijan http://t.co/BWkjwnHfR7"
+        },
+        {
+            "created_at": "2013-10-03T10:37:30.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 97,
+                        "start": 84,
+                        "tag": "humanitarian"
+                    },
+                    {
+                        "end": 117,
+                        "start": 111,
+                        "tag": "Syria"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 40,
+                        "id": "14159148",
+                        "start": 37,
+                        "username": "UN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pscld",
+                        "end": 140,
+                        "expanded_url": "http://ow.ly/pscld",
+                        "start": 118,
+                        "url": "http://t.co/xeS3S8Qgvt"
+                    }
+                ]
+            },
+            "id": "385715226509058049",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "Statement by @KGeorgievaEU following @UN Security Council Presidential Statement on #humanitarian situation in #Syria http://t.co/xeS3S8Qgvt"
+        },
+        {
+            "created_at": "2013-10-03T10:33:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 31,
+                        "start": 19,
+                        "tag": "development"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psbYh",
+                        "end": 94,
+                        "expanded_url": "http://ow.ly/psbYh",
+                        "start": 72,
+                        "url": "http://t.co/FwCZSBqlXh"
+                    }
+                ]
+            },
+            "id": "385714327808135168",
+            "lang": "ca",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "Significant new EU #development assistance foreseen for Central America http://t.co/FwCZSBqlXh"
+        },
+        {
+            "created_at": "2013-10-03T10:32:09.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "tag": "DigitalAgenda"
+                    },
+                    {
+                        "end": 52,
+                        "start": 44,
+                        "tag": "digital"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psbHP",
+                        "end": 122,
+                        "expanded_url": "http://ow.ly/psbHP",
+                        "start": 100,
+                        "url": "http://t.co/WKc2b176ZJ"
+                    }
+                ]
+            },
+            "id": "385713877159542784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "#DigitalAgenda: Bringing more women into EU #digital sector would bring \u20ac9 billion annual GDP boost http://t.co/WKc2b176ZJ"
+        },
+        {
+            "created_at": "2013-10-03T10:30:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "Crowdfunding"
+                    },
+                    {
+                        "end": 24,
+                        "start": 21,
+                        "tag": "EU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psbD5",
+                        "end": 99,
+                        "expanded_url": "http://ow.ly/psbD5",
+                        "start": 77,
+                        "url": "http://t.co/vseeALlhUR"
+                    }
+                ]
+            },
+            "id": "385713500074815488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 24
+            },
+            "text": "#Crowdfunding in the #EU - exploring the added value of potential EU action: http://t.co/vseeALlhUR"
+        },
+        {
+            "created_at": "2013-10-03T10:29:53.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 50,
+                        "normalized_text": "Germany",
+                        "probability": 0.9984,
+                        "start": 44,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 59,
+                        "normalized_text": "Austria",
+                        "probability": 0.9818,
+                        "start": 53,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "Czech Republic",
+                        "probability": 0.921,
+                        "start": 62,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "Romania",
+                        "probability": 0.9952,
+                        "start": 79,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 3,
+                        "tag": "Solidarity"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 35,
+                        "id": "157981564",
+                        "start": 21,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/psbzW",
+                        "end": 147,
+                        "expanded_url": "http://ow.ly/psbzW",
+                        "start": 125,
+                        "url": "http://t.co/03CRLjGbYV"
+                    }
+                ]
+            },
+            "id": "385713306516066304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "EU #Solidarity Fund: @EU_Commission to help Germany, Austria, Czech Republic &amp; Romania after flood&amp;drought disasters http://t.co/03CRLjGbYV"
+        },
+        {
+            "created_at": "2013-10-03T08:40:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 33,
+                        "tag": "EUDeb8"
+                    },
+                    {
+                        "end": 101,
+                        "start": 93,
+                        "tag": "Hungary"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "id": "177179008",
+                        "start": 44,
+                        "username": "VivianeRedingEU"
+                    },
+                    {
+                        "end": 119,
+                        "id": "218812123",
+                        "start": 105,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1g6iA1p",
+                        "end": 142,
+                        "expanded_url": "http://bit.ly/1g6iA1p",
+                        "start": 120,
+                        "url": "http://t.co/h5ZNwDbhN4"
+                    }
+                ]
+            },
+            "id": "385685896189575168",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "RT @EUtube: Check out the latest #EUDeb8 w/ @VivianeRedingEU &amp; join us today at 17CET in #Hungary w/ @LaszloAndorEU http://t.co/h5ZNwDbhN4"
+        },
+        {
+            "created_at": "2013-10-02T17:38:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "EU",
+                        "probability": 0.4259,
+                        "start": 101,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "36058478",
+                        "start": 0,
+                        "username": "jmackin2"
+                    }
+                ]
+            },
+            "id": "385458814696574976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@jmackin2 making a real effort to focus on the right priorities&amp;have the right dose of regulation at EU level. Not new, but moving up a gear"
+        },
+        {
+            "created_at": "2013-10-02T17:14:33.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "eufit4growth"
+                    },
+                    {
+                        "end": 38,
+                        "start": 35,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 69,
+                        "start": 60,
+                        "tag": "examples"
+                    },
+                    {
+                        "end": 76,
+                        "start": 70,
+                        "tag": "facts"
+                    },
+                    {
+                        "end": 89,
+                        "start": 77,
+                        "tag": "infographic"
+                    },
+                    {
+                        "end": 102,
+                        "start": 90,
+                        "tag": "EU4business"
+                    },
+                    {
+                        "end": 115,
+                        "start": 103,
+                        "tag": "EU4citizens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/NuN7K4Z480",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/385452757668200449/photo/1",
+                        "start": 116,
+                        "url": "http://t.co/NuN7K4Z480"
+                    }
+                ]
+            },
+            "id": "385452757668200449",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 10
+            },
+            "text": "#eufit4growth: Lighter and simpler #EU law = cheaper EU law #examples #facts #infographic #EU4business #EU4citizens http://t.co/NuN7K4Z480"
+        },
+        {
+            "created_at": "2013-10-02T16:29:52.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "eufit4growth"
+                    },
+                    {
+                        "end": 77,
+                        "start": 74,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 108,
+                        "start": 102,
+                        "tag": "facts"
+                    },
+                    {
+                        "end": 121,
+                        "start": 109,
+                        "tag": "infographic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/EZoWbXqNAG",
+                        "end": 144,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/385441511980019712/photo/1",
+                        "start": 122,
+                        "url": "http://t.co/EZoWbXqNAG"
+                    }
+                ]
+            },
+            "id": "385441511980019712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 13
+            },
+            "text": "#eufit4growth: Since 05 almost 6000 legal acts have been repealed to make #EU law simpler&amp;cheaper #facts #infographic http://t.co/EZoWbXqNAG"
+        },
+        {
+            "created_at": "2013-10-02T15:45:20.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 23,
+                        "tag": "Italy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pqviq",
+                        "end": 53,
+                        "expanded_url": "http://ow.ly/pqviq",
+                        "start": 31,
+                        "url": "http://t.co/0gCmLn8E7k"
+                    }
+                ]
+            },
+            "id": "385430304498147328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 6
+            },
+            "text": ".@BarrosoEU remarks on #Italy: http://t.co/0gCmLn8E7k"
+        },
+        {
+            "created_at": "2013-10-02T14:46:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "eufit4growth"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/refit",
+                        "end": 116,
+                        "expanded_url": "http://ec.europa.eu/refit",
+                        "start": 94,
+                        "url": "http://t.co/1nJ76sVa6n"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RDF45O8WgO",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/385415397014372352/photo/1",
+                        "start": 117,
+                        "url": "http://t.co/RDF45O8WgO"
+                    }
+                ]
+            },
+            "id": "385415397014372352",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 18
+            },
+            "text": "#eufit4growth: Legislation we will not take forward &amp; new initiatives we want to simplify http://t.co/1nJ76sVa6n http://t.co/RDF45O8WgO"
+        },
+        {
+            "created_at": "2013-10-02T13:53:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 4,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 104,
+                        "start": 91,
+                        "tag": "eufit4growth"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/refit",
+                        "end": 90,
+                        "expanded_url": "http://ec.europa.eu/refit",
+                        "start": 68,
+                        "url": "http://t.co/1nJ76sVa6n"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/kzuUFQXHHj",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/EU_Commission/status/385402115142590464/photo/1",
+                        "start": 116,
+                        "url": "http://t.co/kzuUFQXHHj"
+                    }
+                ]
+            },
+            "id": "385402115142590464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 30
+            },
+            "text": "The #EU needs to be \"big on big things and smaller on small things\" http://t.co/1nJ76sVa6n #eufit4growth @BarrosoEU http://t.co/kzuUFQXHHj"
+        },
+        {
+            "created_at": "2013-10-02T13:34:23.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "EUfit4growth"
+                    },
+                    {
+                        "end": 40,
+                        "start": 37,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 124,
+                        "start": 112,
+                        "tag": "EU4business"
+                    },
+                    {
+                        "end": 137,
+                        "start": 125,
+                        "tag": "EU4citizens"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pq0rK",
+                        "end": 111,
+                        "expanded_url": "http://ow.ly/pq0rK",
+                        "start": 89,
+                        "url": "http://t.co/TIhRUZtYci"
+                    }
+                ]
+            },
+            "id": "385397351197966336",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "#EUfit4growth: concrete examples how #EU law is becoming lighter, simpler and cheaper: \n http://t.co/TIhRUZtYci #EU4business #EU4citizens"
+        },
+        {
+            "created_at": "2013-10-02T12:56:49.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "EUfit4growth"
+                    },
+                    {
+                        "end": 91,
+                        "start": 85,
+                        "tag": "facts"
+                    },
+                    {
+                        "end": 103,
+                        "start": 92,
+                        "tag": "infographs"
+                    },
+                    {
+                        "end": 113,
+                        "start": 104,
+                        "tag": "examples"
+                    },
+                    {
+                        "end": 126,
+                        "start": 114,
+                        "tag": "eu4citizens"
+                    },
+                    {
+                        "end": 139,
+                        "start": 127,
+                        "tag": "eu4business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/refit",
+                        "end": 84,
+                        "expanded_url": "http://ec.europa.eu/refit",
+                        "start": 62,
+                        "url": "http://t.co/1nJ76sVa6n"
+                    }
+                ]
+            },
+            "id": "385387899111215104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 15
+            },
+            "text": "#EUfit4growth All info on the ambitious steps announced today http://t.co/1nJ76sVa6n #facts #infographs #examples #eu4citizens #eu4business"
+        },
+        {
+            "created_at": "2013-10-02T12:46:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "67397583",
+                        "start": 0,
+                        "username": "mwarhurst"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 57,
+                        "expanded_url": "http://europa.eu/rapid/press-release_IP-13-891_en.htm",
+                        "start": 35,
+                        "url": "http://t.co/GOtXjrrTrd"
+                    },
+                    {
+                        "display_url": "twitter.com/ECspokesKoen/s\u2026",
+                        "end": 90,
+                        "expanded_url": "https://twitter.com/ECspokesKoen/status/385352898290667520",
+                        "start": 67,
+                        "url": "https://t.co/c8xGgc7Otb"
+                    }
+                ]
+            },
+            "id": "385385416649498624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@mwarhurst hello, please check out http://t.co/GOtXjrrTrd Also see https://t.co/c8xGgc7Otb"
+        },
+        {
+            "created_at": "2013-10-02T12:45:36.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 126,
+                        "tag": "EUfit4growth"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "703624902478340102",
+                        "start": 0,
+                        "username": "humanerr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "europa.eu/rapid/press-re\u2026",
+                        "end": 125,
+                        "expanded_url": "http://europa.eu/rapid/press-release_IP-13-891_en.htm",
+                        "start": 103,
+                        "url": "http://t.co/GOtXjrrTrd"
+                    }
+                ]
+            },
+            "id": "385385075006644224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@humanErr thank you for your Q! it is not outdated, just one of previous steps in this process. Today: http://t.co/GOtXjrrTrd #EUfit4growth"
+        },
+        {
+            "created_at": "2013-10-02T12:45:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "EUfit4growth"
+                    },
+                    {
+                        "end": 68,
+                        "start": 65,
+                        "tag": "EU"
+                    },
+                    {
+                        "end": 117,
+                        "start": 105,
+                        "tag": "EU4business"
+                    },
+                    {
+                        "end": 130,
+                        "start": 118,
+                        "tag": "EU4citizens"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "157981564",
+                        "start": 15,
+                        "username": "EU_Commission"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/pq08h",
+                        "end": 104,
+                        "expanded_url": "http://ow.ly/pq08h",
+                        "start": 82,
+                        "url": "http://t.co/GBaT2dHImT"
+                    }
+                ]
+            },
+            "id": "385384927229140993",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "text": "#EUfit4growth: @EU_Commission takes ambitious next steps to make #EU law lighter: http://t.co/GBaT2dHImT #EU4business #EU4citizens"
+        },
+        {
+            "created_at": "2013-10-02T11:31:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 68,
+                        "tag": "NewYork"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "14159148",
+                        "start": 9,
+                        "username": "UN"
+                    },
+                    {
+                        "end": 92,
+                        "id": "460966881",
+                        "start": 80,
+                        "username": "MalmstromEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppOpO",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/ppOpO",
+                        "start": 93,
+                        "status": 200,
+                        "unwound_url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_13_898",
+                        "url": "http://t.co/2rWSvkqxtP"
+                    }
+                ]
+            },
+            "id": "385366528130306048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 10
+            },
+            "text": "Historic @UN meeting on migration and development on 3-4 October in #NewYork cc @MalmstromEU http://t.co/2rWSvkqxtP"
+        },
+        {
+            "created_at": "2013-10-02T10:58:16.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 38,
+                        "tag": "EMU"
+                    },
+                    {
+                        "end": 48,
+                        "start": 43,
+                        "tag": "FAQs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 85,
+                        "id": "141158796",
+                        "start": 75,
+                        "username": "EU_Social"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppPrI",
+                        "end": 71,
+                        "expanded_url": "http://ow.ly/ppPrI",
+                        "start": 49,
+                        "url": "http://t.co/tcHIDeC5FE"
+                    }
+                ]
+            },
+            "id": "385358061717970944",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 10
+            },
+            "text": "Strengthening the social dimension of #EMU #FAQs http://t.co/tcHIDeC5FE cc @EU_social"
+        },
+        {
+            "created_at": "2013-10-02T10:49:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 14,
+                        "tag": "EMU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 34,
+                        "id": "157981564",
+                        "start": 20,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 113,
+                        "id": "2853418829",
+                        "start": 101,
+                        "username": "ECSpokesPia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppOHq",
+                        "end": 100,
+                        "expanded_url": "http://ow.ly/ppOHq",
+                        "start": 78,
+                        "url": "http://t.co/rp7uVX1m2v"
+                    }
+                ]
+            },
+            "id": "385355911709347841",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 13
+            },
+            "text": "The future of #EMU: @EU_Commission propose ideas to deepen social integration http://t.co/rp7uVX1m2v @ECSpokesPia @ECspokesSarah"
+        },
+        {
+            "created_at": "2013-10-02T10:47:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 55,
+                        "tag": "EMU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 115,
+                        "id": "218812123",
+                        "start": 101,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppOCJ",
+                        "end": 138,
+                        "expanded_url": "http://ow.ly/ppOCJ",
+                        "start": 116,
+                        "url": "http://t.co/MwMM3OmH9s"
+                    }
+                ]
+            },
+            "id": "385355307821842432",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": ".@EU_Commission puts forward initiatives to strengthen #EMU social dimension. Press conf live now w/ @LaszloAndorEU http://t.co/MwMM3OmH9s"
+        },
+        {
+            "created_at": "2013-10-02T10:35:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "EUEmployment"
+                    },
+                    {
+                        "end": 101,
+                        "start": 97,
+                        "tag": "EMU"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 142,
+                        "id": "218812123",
+                        "start": 128,
+                        "username": "LaszloAndorEU"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppNyc",
+                        "end": 124,
+                        "expanded_url": "http://ow.ly/ppNyc",
+                        "start": 102,
+                        "url": "http://t.co/pnLglF0Q9E"
+                    }
+                ]
+            },
+            "id": "385352339533864960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "#EUEmployment &amp; Social Situation: Quarterly Review highlights fragility of economic recovery #EMU http://t.co/pnLglF0Q9E cc @LaszloAndorEU"
+        },
+        {
+            "created_at": "2013-10-02T10:32:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 57,
+                        "tag": "FAQs"
+                    },
+                    {
+                        "end": 94,
+                        "start": 86,
+                        "tag": "EU4jobs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 119,
+                        "id": "2815632681",
+                        "start": 110,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppNlT",
+                        "end": 85,
+                        "expanded_url": "http://ow.ly/ppNlT",
+                        "start": 63,
+                        "url": "http://t.co/ikG5VdclNy"
+                    }
+                ]
+            },
+            "id": "385351480943071232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 9
+            },
+            "text": "Evaluating national regulations on access to professions #FAQs http://t.co/ikG5VdclNy #EU4jobs cc @MBarnierEU @EU_Markt"
+        },
+        {
+            "created_at": "2013-10-02T10:31:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 144,
+                        "start": 136,
+                        "tag": "EU4jobs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 135,
+                        "id": "2815632681",
+                        "start": 126,
+                        "username": "EU_Markt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppN6s",
+                        "end": 110,
+                        "expanded_url": "http://ow.ly/ppN6s",
+                        "start": 88,
+                        "url": "http://t.co/KYMlH9Va1H"
+                    }
+                ]
+            },
+            "id": "385351224289402880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": ".@EU_Commission &amp; MS to assess barriers restricting access to regulated professions http://t.co/KYMlH9Va1H cc @MBarnierEU @EU_Markt #EU4jobs"
+        },
+        {
+            "created_at": "2013-10-02T10:08:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Nedalco",
+                        "probability": 0.3408,
+                        "start": 53,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 73,
+                        "tag": "stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "157981564",
+                        "start": 1,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 125,
+                        "id": "2560262977",
+                        "start": 109,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppL7l",
+                        "end": 105,
+                        "expanded_url": "http://ow.ly/ppL7l",
+                        "start": 83,
+                        "url": "http://t.co/sbUDpji5Be"
+                    }
+                ]
+            },
+            "id": "385345617457070080",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": ".@EU_Commission finds expropriation compensation for Nedalco involves no #stateaid http://t.co/sbUDpji5Be cc @ECSpokesAntoine"
+        },
+        {
+            "created_at": "2013-10-02T10:07:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Simet SpA",
+                        "probability": 0.544,
+                        "start": 36,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 135,
+                        "id": "2560262977",
+                        "start": 119,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppKZN",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/ppKZN",
+                        "start": 93,
+                        "url": "http://t.co/UMueowBK2u"
+                    }
+                ]
+            },
+            "id": "385345309775523840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Stateaid @EU_Commission finds that Simet SpA is not entitled to public service compensation http://t.co/UMueowBK2u cc @ECSpokesAntoine"
+        },
+        {
+            "created_at": "2013-10-02T10:06:45.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Stateaid"
+                    },
+                    {
+                        "end": 58,
+                        "start": 50,
+                        "tag": "Renault"
+                    },
+                    {
+                        "end": 92,
+                        "start": 77,
+                        "tag": "hybridvehicles"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 24,
+                        "id": "157981564",
+                        "start": 10,
+                        "username": "EU_Commission"
+                    },
+                    {
+                        "end": 135,
+                        "id": "2560262977",
+                        "start": 119,
+                        "username": "ECspokesAntoine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/ppKR3",
+                        "end": 115,
+                        "expanded_url": "http://ow.ly/ppKR3",
+                        "start": 93,
+                        "url": "http://t.co/l5PcaTv2gT"
+                    }
+                ]
+            },
+            "id": "385345096566444032",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#Stateaid @EU_Commission approves \u20ac20.5mil aid to #Renault to develop diesel #hybridvehicles http://t.co/l5PcaTv2gT cc @ECSpokesAntoine"
+        },
+        {
+            "created_at": "2013-10-02T09:31:58.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 7,
+                        "tag": "EUfit4growth"
+                    },
+                    {
+                        "end": 61,
+                        "start": 58,
+                        "tag": "EU"
+                    }
+                ]
+            },
+            "id": "385336343943213056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 8
+            },
+            "text": "Follow #EUfit4growth today for results of major review of #EU legislation - what we've done, new proposals (incl. repeals) &amp; future steps"
+        }
+    ],
+    "meta": {
+        "newest_id": "387890033723596800",
+        "next_token": "1jzu9lk96gu5npw0l617bloypim5ng0hoavp924licu5",
+        "oldest_id": "385336343943213056",
+        "result_count": 100
+    }
+}
