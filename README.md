@@ -2,12 +2,10 @@
 
 
 #### TODO
-- Check POTUS and compare engagement?
 - Rerun topic models (both EU only and all)
 - Re-fit XGB
-- Finalize transformers
+- Wrap up analysis and plots
 - Make package structure and clean up archive files
-- Tidy up plots
 - Write up and add paraphrase example
 
 
