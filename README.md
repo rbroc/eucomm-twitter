@@ -2,7 +2,7 @@
 
 
 #### TODO
-- Rerun topic models (both EU only and all)
+- Rerun neural topic model (eucomm and all)
 - Re-fit XGB
 - Wrap up analysis and plots
 - Make package structure and clean up archive files
