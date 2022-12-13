@@ -7,7 +7,7 @@
 - Wrap up analysis and plots
 - Make package structure and clean up archive files
 - Write up and add paraphrase example
-
+- Update logs in repo
 
 ### Description
 We use topic modeling to analyse discourse from EU institutions on Twitter, focusing particularly on the European Commission.
