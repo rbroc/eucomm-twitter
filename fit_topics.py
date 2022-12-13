@@ -40,12 +40,20 @@ def _compute_metrics(split, ds, tlists, tlists_20, scores, ctm):
             scores[f'rbo_{n}'] = rbo.score(topk=n).round(4)
     
 
-def main(responses=False):
+def main(responses=False, eucomm_only=False):
+     
     sent_transformers = glob.glob('models/sent_transformers/distilbert*')
     sent_transformers += glob.glob('models/sent_transformers/cardiffnlp*')
-    topic_df = pd.read_json('data/preprocessed/EU_Commission.jsonl', 
-                            orient='records', 
-                            lines=True)
+    
+    if eucomm_only:
+        fs = glob.glob('data/derivatives/EU_Comm*')
+    else:
+        fs = glob.glob('data/derivatives/*')
+    dfs = []
+    for f in fs:
+        dfs.append(pd.read_json(f, orient='records', lines=True))
+    topic_df = pd.concat(dfs)
+    
     # Get training indices
     train_idx = set(np.where(topic_df['topic_split']=='train')[0].tolist())
     val_idx = set(np.where(topic_df['topic_split']=='val')[0].tolist())
@@ -154,7 +162,7 @@ def main(responses=False):
                                 to_be_merged = topic_df.iloc[retained_idx, :]
                                 assert preds.shape[0] == to_be_merged.shape[0]
                                 merged = to_be_merged.merge(preds)
-                                merged.to_json(f'{model_out}/topic_preds_{run}.jsonl',
+                                merged.to_json(f'{model_out}/preds_{run}.jsonl',
                                                orient='records', lines=True)
 
                                 # Evaluate model
