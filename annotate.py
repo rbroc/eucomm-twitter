@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import spacy
+import emojis
 from pliers.extractors import PredefinedDictionaryExtractor, merge_results
 from pliers.stimuli import ComplexTextStim
 import textdescriptives as td
@@ -89,6 +90,12 @@ def main(entity, style_subset_only=True):
     df['benoit_word-length-syllables'] = df['syllables_per_token_mean']
     df['benoit_word-length-characters'] = df['token_length_mean']
     df['benoit_prop-noun'] = df['pos_prop_NOUN']
+    
+    # Compute alphanumeric metrics: mentions, hashtags, emojis, is link
+    df['n_hashtag'] = df['text'].replace('[^#]', '').str.len()
+    df['n_mentions'] = df['text'].replace('[^@]', '').str.len()
+    df['n_emojis'] = df['text'].apply(lambda x: emojis.count(x))
+    df['emojis'] = df['text'].apply(lambda x: emojis.get(x))
     
     # Save
     df.to_json(f'data/derivatives/{entity}_annotated.jsonl', 

@@ -111,10 +111,23 @@ def _make_trainer(model_id,
         #fp16=True,
         save_total_limit=1
     )
-    model = AutoModelForSequenceClassification.from_pretrained(checkpoint,
-                                                               num_labels=1,
-                                                               problem_type='regression',
-                                                               seq_classif_dropout=0).to(device)
+    if 'sentence-transformer' in checkpoint:
+        model = AutoModelForSequenceClassification.from_pretrained(checkpoint,
+                                                                   num_labels=1,
+                                                                   problem_type='regression',
+                                                                   classifier_dropout=0).to(device)
+    elif checkpoint == 'distilbert-base-uncased-finetuned-sst-2-english':
+        model = AutoModelForSequenceClassification.from_pretrained(checkpoint,
+                                                                   problem_type='regression',
+                                                                   seq_classif_dropout=0).to(device)
+        model.classifier = nn.Linear(in_features=768, out_features=1, bias=True)
+        model.config.id2label = {'0': 'LABEL_0'}
+        model.config.label2id = {'LABEL_0': '0'} 
+    else:
+        model = AutoModelForSequenceClassification.from_pretrained(checkpoint,
+                                                                   num_labels=1,
+                                                                   problem_type='regression',
+                                                                   seq_classif_dropout=0).to(device)
     if freeze_layers==1:
         modules = [model.base_model.embeddings]
         try:
