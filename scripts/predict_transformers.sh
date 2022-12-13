@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for model in distilbert-base-uncased
+for model in distilbert-base-uncased-finetuned-sst-2-english
 do
     for om in sum_count
     do 
@@ -26,5 +26,5 @@ done
 
 
 
+# distilbert-base-uncased
 # sentence-transformers/all-MiniLM-L6-v2 
-# distilbert-base-uncased-finetuned-sst-2-english
