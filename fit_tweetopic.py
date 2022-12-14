@@ -4,6 +4,7 @@ import pandas as pd
 from contextualized_topic_models.evaluation.measures import CoherenceNPMI
 import json
 import argparse
+import pickle as pkl
 import glob
 from pathlib import Path
 
@@ -18,12 +19,21 @@ def main(eucomm_only):
         fs = glob.glob('data/derivatives/EU_Comm*')
     dfs = []
     for f in fs:
-        dfs.append(pd.read_json(f, orient='records', lines=True))
-    topic_df = pd.concat(dfs)
+        df = pd.read_json(f, orient='records', lines=True)
+        df['entity'] = f.split('/')[-1][:-16]
+        dfs.append(df)
+    topic_df = pd.concat(dfs, ignore_index=True)
     
     train_texts = topic_df[topic_df['topic_split']=='train'].text.tolist()
     val_texts = topic_df[topic_df['topic_split']=='val'].text.tolist()
     test_texts = topic_df[topic_df['topic_split']=='test'].text.tolist()
+    
+    eucomm_train_texts = topic_df[(topic_df['topic_split']=='train') & 
+                                  (topic_df['entity']=='EU_Commission')].text.tolist()
+    eucomm_val_texts = topic_df[(topic_df['topic_split']=='val') & 
+                                (topic_df['entity']=='EU_Commission')].text.tolist()
+    eucomm_test_texts = topic_df[(topic_df['topic_split']=='test') &
+                                 (topic_df['entity']=='EU_Commission')].text.tolist()
     
     scores = []
     for run in range(5):
@@ -54,26 +64,44 @@ def main(eucomm_only):
                             OUT_PATH = Path('models') / 'tweetopic' / 'all' / id_model / f'run-{run}'
                         OUT_PATH.mkdir(exist_ok=True, parents=True)
                         json.dump(topic_save, 
-                                  open(str(OUT_PATH / f'model.json'), 
-                                       'w'))
+                                  open(str(OUT_PATH / f'model.json'), 'w'))
+                        pkl.dump(pipeline, 
+                                  open(str(OUT_PATH / f'model.pkl'), 'wb'))
+                        
                         words = pipeline.vectorizer.get_feature_names_out() 
-                        for split, ds in zip(['train','val','test'],
-                                             [train_texts, val_texts, test_texts]):
+                        for split, ds, ent in zip(['train','train',
+                                                   'val','val',
+                                                   'test','test'],
+                                                   [train_texts, 
+                                                    eucomm_train_texts, 
+                                                    val_texts, 
+                                                    eucomm_val_texts, 
+                                                    test_texts, 
+                                                    eucomm_test_texts],
+                                                   ['all', 
+                                                    'EU_Commission',
+                                                    'all', 
+                                                    'EU_Commission',
+                                                    'all', 
+                                                    'EU_Commission']):
                             out = pipeline.vectorizer.transform(ds)
+                            
                             feats = [] 
                             for o in out.toarray(): 
                                 f = [words[i] for i in range(len(words)) if o[i]==1]
-                                feats.append(f) 
+                                feats.append(f)
                             metric = CoherenceNPMI(topics=topics, texts=feats)
                             cscore = metric.score()
-                            score_dict = {'name': id_model,
+                            score_dict = {'name': id_model + f'run-{run}',
                                           'split': split,
-                                          'score': cscore}
+                                          'score': cscore,
+                                          'entity': ent}
                             scores.append(score_dict)
+                            
                         pred_mat = pipeline.transform(topic_df['text'].tolist())
                         pred_mat = pd.DataFrame(pred_mat, columns=[f'topic_{i}' 
                                                                    for i in range(n_clusters)])
-                        pred_mat = pd.concat([topic_df, pred_mat], axis=1)
+                        pred_mat = pd.concat([topic_df, pred_mat], axis=1, ignore_index=True)
                         if eucomm_only:
                             PRED_PATH = Path('logs') / 'tweetopic' / 'eucomm' / id_model / f'run-{run}'
                         else:

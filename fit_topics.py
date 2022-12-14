@@ -1,8 +1,8 @@
-from ctmodel import CTModel
+from src.ctmodel import CTModel
 from contextualized_topic_models.utils.data_preparation import TopicModelDataPreparation
 from contextualized_topic_models.utils.preprocessing import WhiteSpacePreprocessingStopwords
 from contextualized_topic_models.evaluation.measures import CoherenceNPMI, InvertedRBO
-from evaluation import CoherenceWordEmbeddings
+from src.evaluation import CoherenceWordEmbeddings
 import nltk
 from nltk.corpus import stopwords as stop_words
 import pandas as pd
@@ -11,12 +11,23 @@ from pathlib import Path
 import json
 import glob
 import os
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--eucomm-only', type=int, default=1)
+
+
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-def _save_results(rlist, responses):
-    fname = 'logs/topic/performances.jsonl'
+
+def _save_results(rlist, responses, eucomm_only):
+    if eucomm_only:
+        DF_PATH = Path('logs') / 'topic' / 'eucomm'
+    else:
+        DF_PATH = Path('logs') / 'topic' / 'all'
+    fname = DF_PATH / 'performances.jsonl'
     try:
-        rdf = pd.read_json(fname, 
+        rdf = pd.read_json(str(fname), 
                            orient="records",
                            lines=True)
         rdf = pd.concat([rdf, pd.DataFrame(rlist)])
@@ -24,26 +35,30 @@ def _save_results(rlist, responses):
         rdf = rdf.drop_duplicates('unique_name').drop('unique_name', axis=1)
     except:
         rdf = pd.DataFrame(rlist)
-    rdf.to_json(fname, orient="records", lines=True)
+    rdf.to_json(str(fname), orient="records", lines=True)
 
     
-def _compute_metrics(split, ds, tlists, tlists_20, scores, ctm):
+def _compute_metrics(split, ds, tlists, tlists_20, scores, ctm, subset):
     scores[f'name'] = ctm.model_name
     for n, tl in zip([10, 20], [tlists, tlists_20]):
         npmi = CoherenceNPMI(texts=[d.split() for d in ds], 
                              topics=tl)
         rbo = InvertedRBO(topics=tl)
         cwe = CoherenceWordEmbeddings(topics=tl) 
-        scores[f'{split}_npmi_{n}'] = npmi.score(topk=n).round(4)
+        if subset:
+            prefix = f'{subset}_'
+        else:
+            prefix = ''
+        scores[f'{prefix}{split}_npmi_{n}'] = npmi.score(topk=n).round(4)
         if split == 'train':
-            scores[f'cwe_{n}'] = cwe.score(topk=n).round(4)
-            scores[f'rbo_{n}'] = rbo.score(topk=n).round(4)
+            scores[f'{prefix}cwe_{n}'] = cwe.score(topk=n).round(4)
+            scores[f'{prefix}rbo_{n}'] = rbo.score(topk=n).round(4)
     
 
 def main(responses=False, eucomm_only=False):
      
-    sent_transformers = glob.glob('models/sent_transformers/distilbert*')
-    sent_transformers += glob.glob('models/sent_transformers/cardiffnlp*')
+    sent_transformers = glob.glob('models/sent_transformers/*/distilbert*')
+    sent_transformers += glob.glob('models/sent_transformers/*/cardiffnlp*')
     
     if eucomm_only:
         fs = glob.glob('data/derivatives/EU_Comm*')
@@ -51,20 +66,36 @@ def main(responses=False, eucomm_only=False):
         fs = glob.glob('data/derivatives/*')
     dfs = []
     for f in fs:
-        dfs.append(pd.read_json(f, orient='records', lines=True))
+        df = pd.read_json(f, orient='records', lines=True)
+        df['entity'] = f.split('/')[-1][:-16]
+        dfs.append(df)
     topic_df = pd.concat(dfs)
     
     # Get training indices
     train_idx = set(np.where(topic_df['topic_split']=='train')[0].tolist())
     val_idx = set(np.where(topic_df['topic_split']=='val')[0].tolist())
     test_idx = set(np.where(topic_df['topic_split']=='test')[0].tolist())
+    eucomm_train_idx = set(np.where((topic_df['topic_split']=='train') &
+                                    (topic_df['entity']=='EU_Commission'))[0].tolist())
+    eucomm_val_idx = set(np.where((topic_df['topic_split']=='val') &
+                                    (topic_df['entity']=='EU_Commission'))[0].tolist())
+    eucomm_test_idx = set(np.where((topic_df['topic_split']=='test') &
+                                    (topic_df['entity']=='EU_Commission'))[0].tolist())
 
     # Preprocess
     nltk.download('stopwords')
     stopwords = list(stop_words.words("english"))
     documents = topic_df.text.tolist() 
-    indices = topic_df['index'].tolist()     
-    logpath = 'logs/topic'
+    topic_df = topic_df.reset_index()
+    indices = topic_df.index.tolist()  
+    
+    if eucomm_only:
+        logpath = Path('logs') / 'topic' / 'eucomm'
+        modelpath = Path('models') / 'topic' / 'eucomm'
+    else:
+        logpath = Path('logs') / 'topic' / 'all'
+        modelpath = Path('models') / 'topic' / 'all'
+        
     vocabulary_sizes = [250, 500]
     score_list = []
     
@@ -94,15 +125,23 @@ def main(responses=False, eucomm_only=False):
                          if retained_idx[i] in val_idx]
         unprepped_test = [unprepped[i] for i in range(len(unprepped)) 
                           if retained_idx[i] in test_idx]
-
+        
+        prepped_eucomm_train = [prepped[i] for i in range(len(prepped)) 
+                                if retained_idx[i] in eucomm_train_idx]
+        prepped_eucomm_val = [prepped[i] for i in range(len(prepped)) 
+                                if retained_idx[i] in eucomm_val_idx]
+        prepped_eucomm_test = [prepped[i] for i in range(len(prepped)) 
+                                if retained_idx[i] in eucomm_test_idx]
+        
         # Set parameters and prepare
-        models = ["all-mpnet-base-v2"] + sent_transformers
+        models = sent_transformers # ["all-mpnet-base-v2"]
         n_comps = [10, 20, 30, 50]
         ctx_size = 768 
         batch_sizes = [64]
-        lrs = [2e-3 2e-5]
+        lrs = [2e-2, 2e-3, 2e-5]
         
         for model in models:
+            mtraining = model.split('/')[-2]
             for run in range(5):
                 print(model)
                 for n_components in n_comps:
@@ -140,10 +179,13 @@ def main(responses=False, eucomm_only=False):
                                                                   n_samples=20)
 
                                 # Save topics
-                                model_out = f'{logpath}/{ctm.model_name}'
-                                Path(model_out).mkdir(parents=True, exist_ok=True)
-                                topic_out = f'{model_out}/topic_map_{run}.json'
-                                with open(topic_out, "w") as fh:
+                                model_id = f'{ctm.model_name}_train-{mtraining}'
+                                LOG_PATH = logpath / model_id / f'run-{run}'
+                                LOG_PATH.mkdir(parents=True, exist_ok=True)
+                                MODEL_PATH = modelpath / model_id / f'run-{run}'
+                                MODEL_PATH.mkdir(parents=True, exist_ok=True)
+                                topic_out = MODEL_PATH / 'model.json'
+                                with open(str(topic_out), "w") as fh:
                                     json.dump(ctm.get_topics(k=20), fh)
 
                                 # Merge predicted topics with tweets table
@@ -162,7 +204,7 @@ def main(responses=False, eucomm_only=False):
                                 to_be_merged = topic_df.iloc[retained_idx, :]
                                 assert preds.shape[0] == to_be_merged.shape[0]
                                 merged = to_be_merged.merge(preds)
-                                merged.to_json(f'{model_out}/preds_{run}.jsonl',
+                                merged.to_json(str(LOG_PATH / 'preds.jsonl'),
                                                orient='records', lines=True)
 
                                 # Evaluate model
@@ -186,13 +228,36 @@ def main(responses=False, eucomm_only=False):
                                                  tlists_20,
                                                  scores,
                                                  ctm) 
+                                for i in ['EU_Commission']:
+                                    _compute_metrics('train', 
+                                                     prepped_eucomm_train, 
+                                                     tlists, 
+                                                     tlists_20,
+                                                     scores,
+                                                     ctm,
+                                                     subset=i)
+                                    _compute_metrics('val', 
+                                                     prepped_eucomm_val, 
+                                                     tlists, 
+                                                     tlists_20,
+                                                     scores,
+                                                     ctm,
+                                                     subset=i)
+                                    _compute_metrics('test', 
+                                                     prepped_eucomm_test, 
+                                                     tlists, 
+                                                     tlists_20,
+                                                     scores,
+                                                     ctm,
+                                                     subset=i) 
                                 scores['run'] = run
                                 score_list.append(scores)
 
                                 # Save model
-                                ctm.save(models_dir='models/topic', final=True, run=run)
-                                _save_results(score_list, responses)
+                                ctm.save(models_dir=str(MODEL_PATH), final=True)
+                                _save_results(score_list, responses, eucomm_only)
 
     
 if __name__=="__main__":
-    main(responses=True)
+    args = parser.parse_args()
+    main(bool(args.eucomm_only))
