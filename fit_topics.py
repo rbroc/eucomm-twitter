@@ -30,29 +30,33 @@ def _save_results(rlist, responses, eucomm_only):
         rdf = pd.read_json(str(fname), 
                            orient="records",
                            lines=True)
-        rdf = pd.concat([rdf, pd.DataFrame(rlist)])
-        rdf['unique_name'] = rdf['name'] + '_' + rdf['run'].astype(str)
-        rdf = rdf.drop_duplicates('unique_name').drop('unique_name', axis=1)
+        rdf = pd.concat([rdf, 
+                         pd.DataFrame(rlist)], ignore_index=True)
     except:
         rdf = pd.DataFrame(rlist)
     rdf.to_json(str(fname), orient="records", lines=True)
 
     
-def _compute_metrics(split, ds, tlists, tlists_20, scores, ctm, subset):
-    scores[f'name'] = ctm.model_name
+def _compute_metrics(model_id, run, split, ds, tlists, tlists_20, 
+                     score_list, ctm, entity='all'):
+    scores = {}
+    scores[f'name'] = model_id
+    scores['run'] = run
+    scores['split'] = split
     for n, tl in zip([10, 20], [tlists, tlists_20]):
         npmi = CoherenceNPMI(texts=[d.split() for d in ds], 
                              topics=tl)
         rbo = InvertedRBO(topics=tl)
         cwe = CoherenceWordEmbeddings(topics=tl) 
-        if subset:
-            prefix = f'{subset}_'
-        else:
-            prefix = ''
-        scores[f'{prefix}{split}_npmi_{n}'] = npmi.score(topk=n).round(4)
+        scores['entity'] = entity
+        scores[f'npmi_{n}'] = npmi.score(topk=n).round(4)
         if split == 'train':
-            scores[f'{prefix}cwe_{n}'] = cwe.score(topk=n).round(4)
-            scores[f'{prefix}rbo_{n}'] = rbo.score(topk=n).round(4)
+            scores[f'cwe_{n}'] = cwe.score(topk=n).round(4)
+            scores[f'rbo_{n}'] = rbo.score(topk=n).round(4)
+        else:
+            scores[f'cwe_{n}'] = np.nan
+            scores[f'rbo_{n}'] = np.nan
+    score_list.append(scores)
     
 
 def main(responses=False, eucomm_only=False):
@@ -149,7 +153,6 @@ def main(responses=False, eucomm_only=False):
                             for lr in lrs:
 
                                 # Preparation
-                                scores = {}
                                 tp = TopicModelDataPreparation(model)
                                 train_dataset = tp.fit(unprepped_train, 
                                                        prepped_train)
@@ -210,48 +213,59 @@ def main(responses=False, eucomm_only=False):
                                 # Evaluate model
                                 tlists = ctm.get_topic_lists(10)
                                 tlists_20 = ctm.get_topic_lists(20)
-                                _compute_metrics('train', 
+                                _compute_metrics(model_id,
+                                                 run,
+                                                 'train', 
                                                  prepped_train, 
                                                  tlists, 
                                                  tlists_20,
-                                                 scores,
+                                                 score_list,
                                                  ctm)
-                                _compute_metrics('val', 
+                                _compute_metrics(model_id,
+                                                 run,
+                                                 'val', 
                                                  prepped_val, 
                                                  tlists, 
                                                  tlists_20,
-                                                 scores,
+                                                 score_list,
                                                  ctm)
-                                _compute_metrics('test', 
+                                _compute_metrics(model_id,
+                                                 run,
+                                                 'test', 
                                                  prepped_test, 
                                                  tlists, 
                                                  tlists_20,
-                                                 scores,
+                                                 score_list,
                                                  ctm) 
+                                
                                 for i in ['EU_Commission']:
-                                    _compute_metrics('train', 
+                                    _compute_metrics(model_id,
+                                                     run,
+                                                     'train', 
                                                      prepped_eucomm_train, 
                                                      tlists, 
                                                      tlists_20,
-                                                     scores,
+                                                     score_list,
                                                      ctm,
                                                      subset=i)
-                                    _compute_metrics('val', 
+                                    _compute_metrics(model_id,
+                                                     run,
+                                                     'val', 
                                                      prepped_eucomm_val, 
                                                      tlists, 
                                                      tlists_20,
-                                                     scores,
+                                                     score_list,
                                                      ctm,
                                                      subset=i)
-                                    _compute_metrics('test', 
+                                    _compute_metrics(model_id,
+                                                     run,
+                                                     'test', 
                                                      prepped_eucomm_test, 
                                                      tlists, 
                                                      tlists_20,
-                                                     scores,
+                                                     score_list,
                                                      ctm,
-                                                     subset=i) 
-                                scores['run'] = run
-                                score_list.append(scores)
+                                                     subset=i)
 
                                 # Save model
                                 ctm.save(models_dir=str(MODEL_PATH), final=True)
