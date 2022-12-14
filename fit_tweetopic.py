@@ -92,10 +92,11 @@ def main(eucomm_only):
                                 feats.append(f)
                             metric = CoherenceNPMI(topics=topics, texts=feats)
                             cscore = metric.score()
-                            score_dict = {'name': id_model + f'run-{run}',
+                            score_dict = {'name': id_model,
                                           'split': split,
                                           'score': cscore,
-                                          'entity': ent}
+                                          'entity': ent,
+                                          'run': run}
                             scores.append(score_dict)
                             
                         pred_mat = pipeline.transform(topic_df['text'].tolist())
