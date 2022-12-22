@@ -20,7 +20,7 @@ parser.add_argument('--eucomm-only', type=int, default=1)
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 
-def _save_results(rlist, responses, eucomm_only):
+def _save_results(rlist, eucomm_only):
     if eucomm_only:
         DF_PATH = Path('logs') / 'topic' / 'eucomm'
     else:
@@ -59,7 +59,7 @@ def _compute_metrics(model_id, run, split, ds, tlists, tlists_20,
     score_list.append(scores)
     
 
-def main(responses=False, eucomm_only=False):
+def main(eucomm_only=False):
      
     sent_transformers = glob.glob('models/sent_transformers/*/distilbert*')
     sent_transformers += glob.glob('models/sent_transformers/*/cardiffnlp*')
@@ -123,6 +123,7 @@ def main(responses=False, eucomm_only=False):
                        if retained_idx[i] in val_idx]
         prepped_test = [prepped[i] for i in range(len(prepped)) 
                         if retained_idx[i] in test_idx]
+        
         unprepped_train = [unprepped[i] for i in range(len(unprepped)) 
                            if retained_idx[i] in train_idx]
         unprepped_val = [unprepped[i] for i in range(len(unprepped)) 
@@ -138,11 +139,11 @@ def main(responses=False, eucomm_only=False):
                                 if retained_idx[i] in eucomm_test_idx]
         
         # Set parameters and prepare
-        models = sent_transformers # ["all-mpnet-base-v2"]
-        n_comps = [10, 20, 30, 50]
+        models = sent_transformers
+        n_comps = [10, 20, 30]
         ctx_size = 768 
         batch_sizes = [64]
-        lrs = [2e-2, 2e-3, 2e-5]
+        lrs = [2e-2]
         
         for model in models:
             mtraining = model.split('/')[-2]
@@ -158,6 +159,8 @@ def main(responses=False, eucomm_only=False):
                                                        prepped_train)
                                 val_dataset = tp.transform(unprepped_val, 
                                                            prepped_val)
+                                
+                                print(val_dataset)
                                 test_dataset = tp.transform(unprepped_test, 
                                                             prepped_test)
 
@@ -204,9 +207,10 @@ def main(responses=False, eucomm_only=False):
                                 preds = pd.DataFrame(pred_mat,
                                                      columns=col_names)
                                 preds = pd.concat([texts, preds], axis=1)
-                                to_be_merged = topic_df.iloc[retained_idx, :]
+                                to_be_merged = topic_df.iloc[retained_idx, :].drop('index',
+                                                                                   axis=1).reset_index()
                                 assert preds.shape[0] == to_be_merged.shape[0]
-                                merged = to_be_merged.merge(preds)
+                                merged = to_be_merged.merge(preds, on=['text', 'index'])
                                 merged.to_json(str(LOG_PATH / 'preds.jsonl'),
                                                orient='records', lines=True)
 
@@ -247,7 +251,7 @@ def main(responses=False, eucomm_only=False):
                                                      tlists_20,
                                                      score_list,
                                                      ctm,
-                                                     subset=i)
+                                                     entity=i)
                                     _compute_metrics(model_id,
                                                      run,
                                                      'val', 
@@ -256,7 +260,7 @@ def main(responses=False, eucomm_only=False):
                                                      tlists_20,
                                                      score_list,
                                                      ctm,
-                                                     subset=i)
+                                                     entity=i)
                                     _compute_metrics(model_id,
                                                      run,
                                                      'test', 
@@ -265,11 +269,11 @@ def main(responses=False, eucomm_only=False):
                                                      tlists_20,
                                                      score_list,
                                                      ctm,
-                                                     subset=i)
+                                                     entity=i)
 
                                 # Save model
                                 ctm.save(models_dir=str(MODEL_PATH), final=True)
-                                _save_results(score_list, responses, eucomm_only)
+                                _save_results(score_list, eucomm_only)
 
     
 if __name__=="__main__":

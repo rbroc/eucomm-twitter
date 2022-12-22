@@ -2,20 +2,22 @@ import glob
 from sentence_transformers import SentenceTransformer, models
 from transformers import AutoModel
 import os
+from pathlib import Path
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
-model_paths = glob.glob('models/pretrained/*')
-model_paths = list(set(model_paths) - set(['models/pretrained/legacy']))
-base_models = ['sentence-transformers/distiluse-base-multilingual-cased-v1',
-               'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
+base_models = ['sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
                'distilbert-base-uncased',
                'distilbert-base-uncased-finetuned-sst-2-english',
                'cardiffnlp/tweet-topic-21-multi']
-emo_models = []
 
 def main():
-    for model_name in base_models: # model_paths + base_models or emo_models
+    model_paths = glob.glob('../models/pretraining/*/*')
+    for model_name in model_paths + base_models:
+        if model_name in base_models:
+            eucomm = 'pretrained'
+        else:
+            eucomm = model_name.split('/')[-2]
         if 'cardiffnlp/' in model_name or 'distiluse' in model_name or 'paraphrase' in model_name:
             model_id = '/'.join(model_name.split('/')[-2:])
         else:
@@ -24,7 +26,7 @@ def main():
             tok = '-'.join(model_id.split('-')[:3])
         else:
             tok = 'cardiffnlp/tweet-topic-21-multi'
-        if 'pretrained' in model_id:
+        if model_name in model_paths:
             AutoModel.from_pretrained(model_name, 
                                       from_tf=True).save_pretrained(model_name)
         we_model = models.Transformer(model_name, 
@@ -32,7 +34,9 @@ def main():
                                       tokenizer_name_or_path=tok)
         pooling = models.Pooling(we_model.get_word_embedding_dimension())
         model = SentenceTransformer(modules=[we_model, pooling])
-        model.save(f'models/sent_transformers/{model_id.replace("/","-")}')
+        OUT_PATH = Path('..') / 'models' / 'sent_transformers' / eucomm
+        OUT_PATH.mkdir(exist_ok=True, parents=True)
+        model.save(str(OUT_PATH / model_id.replace("/","-")))
         
 if __name__=='__main__':
     main()
