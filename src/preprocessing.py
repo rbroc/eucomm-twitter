@@ -45,10 +45,11 @@ def language_detection(s):
         return 'unk'
     
     
-def _preprocessing(df, seed=42, splits=True, train_size=3000, val_size=500):
+def _preprocessing(df, seed=42, train_size=3000, val_size=500):
     ''' Annotate "special" tweets and strip links '''
     df['is_retweet'] = np.where(df['text'].str.startswith('RT'), 1, 0)
     df['is_mention'] = np.where(df['text'].str.startswith('@'), 1, 0)
+    df['is_link'] = np.where(df['text'].str.contains('http'), 1, 0,)
     df['text'] = df['text'].str.replace(r'http.*', '', regex=True)
     df = df[df['text'].str.len() > 0]
     df['text'] = df['text'].str.replace(f'&amp;', '&', regex=True)
@@ -58,23 +59,5 @@ def _preprocessing(df, seed=42, splits=True, train_size=3000, val_size=500):
     
     # Remove retweets and mentions
     df = df[(df['is_retweet']==0) & (df['is_mention']==0)]
-    
-    
-    # Make splits
-    if splits is True:
-        random.seed(seed)
-        train_test = ['train'] * train_size + ['val'] * val_size 
-        train_test += ['test'] * (df.shape[0] - train_size - val_size)
-        random.shuffle(train_test)
-        df['pretraining_splits'] = train_test
-        
-        engage_train_size = int(df.shape[0] * .6)
-        engage_val_size = int(df.shape[0] * .2)
-        engage_test_size = df.shape[0] - engage_train_size - engage_val_size
-        idxs = ['train'] * engage_train_size
-        idxs += ['val'] * engage_val_size        
-        idxs += ['test'] * engage_test_size
-        random.shuffle(idxs)
-        df['engagement_split'] = idxs
     
     return df
