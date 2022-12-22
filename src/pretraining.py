@@ -67,8 +67,8 @@ class Pretrainer:
 
 
     def _make_dataset(self, df, train_prop):
-        train_ds = Dataset.from_pandas(df[df['pretraining_splits']=='train'][['text']], split='train')
-        test_ds = Dataset.from_pandas(df[df['pretraining_splits']=='val'][['text']], split='test')
+        train_ds = Dataset.from_pandas(df[df['pretraining_split']=='train'][['text']], split='train')
+        test_ds = Dataset.from_pandas(df[df['pretraining_split']=='val'][['text']], split='test')
         tokenized_train = train_ds.map(self._tokenizer_function,
                                        batched=True, 
                                        remove_columns=train_ds.features)

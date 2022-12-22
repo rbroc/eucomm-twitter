@@ -53,7 +53,7 @@ def main(eucomm_only):
                         pipeline.fit(train_texts)
 
                         # Eval
-                        topic_dict = pipeline.top_words(top_n=10)
+                        topic_dict = pipeline.top_words(top_n=20)
                         topics = [list(d.keys()) for d in topic_dict]
                         topic_save = {i: t for i, t in enumerate(topics)}
                         id_model = f'comps-{n_clusters}_vocab-{max_features}'
@@ -102,7 +102,7 @@ def main(eucomm_only):
                         pred_mat = pipeline.transform(topic_df['text'].tolist())
                         pred_mat = pd.DataFrame(pred_mat, columns=[f'topic_{i}' 
                                                                    for i in range(n_clusters)])
-                        pred_mat = pd.concat([topic_df, pred_mat], axis=1, ignore_index=True)
+                        pred_mat = pd.concat([topic_df, pred_mat], axis=1)
                         if eucomm_only:
                             PRED_PATH = Path('logs') / 'tweetopic' / 'eucomm' / id_model / f'run-{run}'
                         else:
