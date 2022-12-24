@@ -2,12 +2,8 @@
 
 
 #### TODO
-- Refit neural
-- Finalize topic (classifiers, stats, visualization)
-- Finalize XGB and transformers
-- Update logs
-- Wrap up analysis and plots
-- Write up and add paraphrase example
+- Re-fit prediction
+- Wrap up
 
 ### Description
 We use topic modeling to analyse discourse from EU institutions on Twitter, focusing particularly on the European Commission.

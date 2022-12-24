@@ -18,6 +18,7 @@ parser.add_argument('--eucomm-only', type=int, default=1)
 
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 
 
 def _save_results(rlist, eucomm_only):
@@ -64,10 +65,8 @@ def main(eucomm_only=False):
     sent_transformers = glob.glob('models/sent_transformers/*/distilbert*')
     sent_transformers += glob.glob('models/sent_transformers/*/cardiffnlp*')
     
-    if eucomm_only:
-        fs = glob.glob('data/derivatives/EU_Comm*')
-    else:
-        fs = glob.glob('data/derivatives/*')
+    
+    fs = glob.glob('data/derivatives/*')
     dfs = []
     for f in fs:
         df = pd.read_json(f, orient='records', lines=True)
@@ -109,13 +108,21 @@ def main(eucomm_only=False):
                                               stopwords_list=stopwords, 
                                               vocabulary_size=vs)
         prepped, unprepped, vocab, retained_idx = sp.preprocess()
-
-        train_indices = [indices[r_idx] for r_idx in retained_idx
-                         if r_idx in train_idx]
-        val_indices = [indices[r_idx] for r_idx in retained_idx
-                       if r_idx in val_idx]
-        test_indices = [indices[r_idx] for r_idx in retained_idx
-                        if r_idx in test_idx]
+        
+        if eucomm_only:
+            train_indices = [indices[r_idx] for r_idx in retained_idx
+                             if r_idx in train_idx]
+            val_indices = [indices[r_idx] for r_idx in retained_idx
+                           if r_idx in val_idx]
+            test_indices = [indices[r_idx] for r_idx in retained_idx
+                            if r_idx in test_idx]
+        else:
+            train_indices = [indices[r_idx] for r_idx in retained_idx
+                             if r_idx in eucomm_train_idx]
+            val_indices = [indices[r_idx] for r_idx in retained_idx
+                           if r_idx in eucomm_val_idx]
+            test_indices = [indices[r_idx] for r_idx in retained_idx
+                            if r_idx in eucomm_test_idx]
         
         prepped_train = [prepped[i] for i in range(len(prepped)) 
                          if retained_idx[i] in train_idx]
@@ -130,6 +137,13 @@ def main(eucomm_only=False):
                          if retained_idx[i] in val_idx]
         unprepped_test = [unprepped[i] for i in range(len(unprepped)) 
                           if retained_idx[i] in test_idx]
+        
+        unprepped_eucomm_train = [unprepped[i] for i in range(len(unprepped)) 
+                                if retained_idx[i] in eucomm_train_idx]
+        unprepped_eucomm_val = [unprepped[i] for i in range(len(unprepped)) 
+                                if retained_idx[i] in eucomm_val_idx]
+        unprepped_eucomm_test = [unprepped[i] for i in range(len(unprepped)) 
+                                if retained_idx[i] in eucomm_test_idx]
         
         prepped_eucomm_train = [prepped[i] for i in range(len(prepped)) 
                                 if retained_idx[i] in eucomm_train_idx]
@@ -155,15 +169,20 @@ def main(eucomm_only=False):
 
                                 # Preparation
                                 tp = TopicModelDataPreparation(model)
-                                train_dataset = tp.fit(unprepped_train, 
-                                                       prepped_train)
-                                val_dataset = tp.transform(unprepped_val, 
-                                                           prepped_val)
-                                
-                                print(val_dataset)
-                                test_dataset = tp.transform(unprepped_test, 
-                                                            prepped_test)
-
+                                if eucomm_only is False:
+                                    train_dataset = tp.fit(unprepped_train, 
+                                                           prepped_train)
+                                    val_dataset = tp.transform(unprepped_val, 
+                                                               prepped_val)
+                                    test_dataset = tp.transform(unprepped_test, 
+                                                                prepped_test)
+                                else:
+                                    train_dataset = tp.fit(unprepped_eucomm_train, 
+                                                           prepped_eucomm_train)
+                                    val_dataset = tp.transform(unprepped_eucomm_val, 
+                                                               prepped_eucomm_val)
+                                    test_dataset = tp.transform(unprepped_eucomm_test, 
+                                                                prepped_eucomm_test)
                                 # Fit and predict
                                 ctm = CTModel(model=model,
                                               bow_size=len(tp.vocab), 

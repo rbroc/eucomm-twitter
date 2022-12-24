@@ -92,8 +92,8 @@ def main(entity, style_subset_only=True):
     df['benoit_prop-noun'] = df['pos_prop_NOUN']
     
     # Compute alphanumeric metrics: mentions, hashtags, emojis, is link
-    df['n_hashtag'] = df['text'].replace('[^#]', '').str.len()
-    df['n_mentions'] = df['text'].replace('[^@]', '').str.len()
+    df['n_hashtag'] = df['text'].replace('[^#]', '', regex=True).str.len()
+    df['n_mentions'] = df['text'].replace('[^@]', '', regex=True).str.len()
     df['n_emojis'] = df['text'].apply(lambda x: emojis.count(x))
     df['emojis'] = df['text'].apply(lambda x: emojis.get(x))
     
