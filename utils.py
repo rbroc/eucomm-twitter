@@ -20,7 +20,7 @@ def _pca_transform(X):
     pca = PCA(n_components=X.shape[1])
     pca.fit(X)
     new_feats = pca.transform(X)
-    return new_feats
+    return new_feats, pca
 
 
 def plot_volume(data, 
@@ -76,7 +76,7 @@ def plot_volume(data,
             fig.add_trace(go.Scatter(
                 x=grouped['created_at'],
                 y=grouped.rename({'smoothed': f'Tweets per {FREQ_DICT[freq]}'}, 
-                                 axis=1)[f'Tweets per {FREQ_DICT[freq]}'],
+                                  axis=1)[f'Tweets per {FREQ_DICT[freq]}'],
                 mode="lines", name=e))
 
     if interactive is False:  
