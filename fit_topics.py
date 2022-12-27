@@ -62,9 +62,9 @@ def _compute_metrics(model_id, run, split, ds, tlists, tlists_20,
 
 def main(eucomm_only=False):
      
-    sent_transformers = glob.glob('models/sent_transformers/*/distilbert*')
-    sent_transformers += glob.glob('models/sent_transformers/*/cardiffnlp*')
-    
+    sent_transformers = glob.glob('models/sent_transformers/all/distilbert*')
+    sent_transformers += glob.glob('models/sent_transformers/pretrained/distilbert*')
+    # sent_transformers += glob.glob('models/sent_transformers/*/cardiffnlp*')
     
     fs = glob.glob('data/derivatives/*')
     dfs = []
@@ -109,34 +109,26 @@ def main(eucomm_only=False):
                                               vocabulary_size=vs)
         prepped, unprepped, vocab, retained_idx = sp.preprocess()
         
-        if eucomm_only:
-            train_indices = [indices[r_idx] for r_idx in retained_idx
-                             if r_idx in train_idx]
-            val_indices = [indices[r_idx] for r_idx in retained_idx
-                           if r_idx in val_idx]
-            test_indices = [indices[r_idx] for r_idx in retained_idx
-                            if r_idx in test_idx]
-        else:
-            train_indices = [indices[r_idx] for r_idx in retained_idx
-                             if r_idx in eucomm_train_idx]
-            val_indices = [indices[r_idx] for r_idx in retained_idx
-                           if r_idx in eucomm_val_idx]
-            test_indices = [indices[r_idx] for r_idx in retained_idx
-                            if r_idx in eucomm_test_idx]
+        train_indices = [indices[r_idx] for r_idx in retained_idx
+                         if r_idx in train_idx]
+        val_indices = [indices[r_idx] for r_idx in retained_idx
+                       if r_idx in val_idx]
+        test_indices = [indices[r_idx] for r_idx in retained_idx
+                        if r_idx in test_idx]
+
+        prepped_all_train = [prepped[i] for i in range(len(prepped)) 
+                             if retained_idx[i] in train_idx]
+        prepped_all_val = [prepped[i] for i in range(len(prepped)) 
+                           if retained_idx[i] in val_idx]
+        prepped_all_test = [prepped[i] for i in range(len(prepped)) 
+                            if retained_idx[i] in test_idx]
         
-        prepped_train = [prepped[i] for i in range(len(prepped)) 
-                         if retained_idx[i] in train_idx]
-        prepped_val = [prepped[i] for i in range(len(prepped)) 
-                       if retained_idx[i] in val_idx]
-        prepped_test = [prepped[i] for i in range(len(prepped)) 
-                        if retained_idx[i] in test_idx]
-        
-        unprepped_train = [unprepped[i] for i in range(len(unprepped)) 
-                           if retained_idx[i] in train_idx]
-        unprepped_val = [unprepped[i] for i in range(len(unprepped)) 
-                         if retained_idx[i] in val_idx]
-        unprepped_test = [unprepped[i] for i in range(len(unprepped)) 
-                          if retained_idx[i] in test_idx]
+        unprepped_all_train = [unprepped[i] for i in range(len(unprepped)) 
+                               if retained_idx[i] in train_idx]
+        unprepped_all_val = [unprepped[i] for i in range(len(unprepped)) 
+                             if retained_idx[i] in val_idx]
+        unprepped_all_test = [unprepped[i] for i in range(len(unprepped)) 
+                              if retained_idx[i] in test_idx]
         
         unprepped_eucomm_train = [unprepped[i] for i in range(len(unprepped)) 
                                 if retained_idx[i] in eucomm_train_idx]
@@ -152,9 +144,10 @@ def main(eucomm_only=False):
         prepped_eucomm_test = [prepped[i] for i in range(len(prepped)) 
                                 if retained_idx[i] in eucomm_test_idx]
         
+        
         # Set parameters and prepare
         models = sent_transformers
-        n_comps = [10, 20, 30]
+        n_comps = [20] # 10, 30
         ctx_size = 768 
         batch_sizes = [64]
         lrs = [2e-2]
@@ -169,20 +162,25 @@ def main(eucomm_only=False):
 
                                 # Preparation
                                 tp = TopicModelDataPreparation(model)
-                                if eucomm_only is False:
-                                    train_dataset = tp.fit(unprepped_train, 
-                                                           prepped_train)
-                                    val_dataset = tp.transform(unprepped_val, 
-                                                               prepped_val)
-                                    test_dataset = tp.transform(unprepped_test, 
-                                                                prepped_test)
+                                if eucomm_only:
+                                    train_eucomm_dataset = tp.fit(unprepped_eucomm_train, 
+                                                                  prepped_eucomm_train)
+                                    train_dataset = tp.transform(unprepped_all_train, 
+                                                                 prepped_all_train)
                                 else:
-                                    train_dataset = tp.fit(unprepped_eucomm_train, 
-                                                           prepped_eucomm_train)
-                                    val_dataset = tp.transform(unprepped_eucomm_val, 
-                                                               prepped_eucomm_val)
-                                    test_dataset = tp.transform(unprepped_eucomm_test, 
-                                                                prepped_eucomm_test)
+                                    train_dataset = tp.fit(unprepped_all_train, 
+                                                           prepped_all_train)
+                                    train_eucomm_dataset = tp.transform(unprepped_eucomm_train, 
+                                                                        prepped_eucomm_train)
+                                val_dataset = tp.transform(unprepped_all_val, 
+                                                           prepped_all_val)
+                                test_dataset = tp.transform(unprepped_all_test, 
+                                                            prepped_all_test)
+                                val_eucomm_dataset = tp.transform(unprepped_eucomm_val, 
+                                                                  prepped_eucomm_val)
+                                test_eucomm_dataset = tp.transform(unprepped_eucomm_test, 
+                                                                   prepped_eucomm_test)
+
                                 # Fit and predict
                                 ctm = CTModel(model=model,
                                               bow_size=len(tp.vocab), 
@@ -194,13 +192,18 @@ def main(eucomm_only=False):
                                               activation='softplus',
                                               vocabulary_size=vs,
                                               num_data_loader_workers=5)
-                                ctm.fit(train_dataset, 
-                                        validation_dataset=val_dataset)
-                                pred_train_topics = ctm.get_thetas(train_dataset, 
+                                if eucomm_only is True:
+                                    ctm.fit(train_eucomm_dataset, 
+                                            validation_dataset=val_eucomm_dataset)
+                                else:
+                                    ctm.fit(train_dataset, 
+                                            validation_dataset=val_dataset)
+                                    
+                                pred_train_topics = ctm.get_thetas(train_dataset,
                                                                    n_samples=20)
-                                pred_val_topics = ctm.get_thetas(val_dataset, 
+                                pred_val_topics = ctm.get_thetas(val_dataset,
                                                                  n_samples=20)
-                                pred_test_topics = ctm.get_thetas(test_dataset, 
+                                pred_test_topics = ctm.get_thetas(test_dataset,
                                                                   n_samples=20)
 
                                 # Save topics
@@ -214,7 +217,7 @@ def main(eucomm_only=False):
                                     json.dump(ctm.get_topics(k=20), fh)
 
                                 # Merge predicted topics with tweets table
-                                data = zip(unprepped_train + unprepped_val + unprepped_test,
+                                data = zip(unprepped_all_train + unprepped_all_val + unprepped_all_test,
                                            train_indices + val_indices + test_indices)
                                 cs = ['text', 'index']
                                 texts = pd.DataFrame(data, columns=cs)
@@ -239,7 +242,7 @@ def main(eucomm_only=False):
                                 _compute_metrics(model_id,
                                                  run,
                                                  'train', 
-                                                 prepped_train, 
+                                                 prepped_all_train, 
                                                  tlists, 
                                                  tlists_20,
                                                  score_list,
@@ -247,7 +250,7 @@ def main(eucomm_only=False):
                                 _compute_metrics(model_id,
                                                  run,
                                                  'val', 
-                                                 prepped_val, 
+                                                 prepped_all_val, 
                                                  tlists, 
                                                  tlists_20,
                                                  score_list,
@@ -255,7 +258,7 @@ def main(eucomm_only=False):
                                 _compute_metrics(model_id,
                                                  run,
                                                  'test', 
-                                                 prepped_test, 
+                                                 prepped_all_test, 
                                                  tlists, 
                                                  tlists_20,
                                                  score_list,
