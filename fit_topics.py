@@ -99,7 +99,7 @@ def main(eucomm_only=False):
         logpath = Path('logs') / 'topic' / 'all'
         modelpath = Path('models') / 'topic' / 'all'
         
-    vocabulary_sizes = [250, 500]
+    vocabulary_sizes = [500] # 250
     score_list = []
     
     # Parameters
@@ -192,6 +192,7 @@ def main(eucomm_only=False):
                                               activation='softplus',
                                               vocabulary_size=vs,
                                               num_data_loader_workers=5)
+                                
                                 if eucomm_only is True:
                                     ctm.fit(train_eucomm_dataset, 
                                             validation_dataset=val_eucomm_dataset)
@@ -295,7 +296,7 @@ def main(eucomm_only=False):
 
                                 # Save model
                                 ctm.save(models_dir=str(MODEL_PATH), final=True)
-                                _save_results(score_list, eucomm_only)
+    _save_results(score_list, eucomm_only)
 
     
 if __name__=="__main__":
