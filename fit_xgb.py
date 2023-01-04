@@ -17,8 +17,8 @@ from sklearn.metrics import (r2_score,
 
 from nltk.corpus import stopwords
 import argparse
-from logs.best_topic_names import (topic_col, emotion_col, 
-                                   style_col, exclude_col)
+from src.colnames import (topic_col, emotion_col, 
+                          style_col, exclude_col)
 
 
 # Initialize parser
@@ -82,41 +82,50 @@ def fit_predict(logpath,
                 es=10):
     
     # Get the data
-    data = pd.read_json(f'data/processed/EU_Commission.jsonl',
+    data = pd.read_json(f'data/topic/data.jsonl',
                         orient='records', lines=True)
-    data = data[(data['is_mention']==0) & 
-                (data['is_retweet']==0)]
+    data = data[data['entity']=='EU_Commission'] # TODO: fit without this
+    data['n_mentions'] = data['text'].replace('[^@]','', regex=True).str.len()
+    data['n_hashtag'] = data['text'].replace('[^#]','', regex=True).str.len()
+    for c in ['n_hashtag', 'n_mentions', 'n_emojis']:
+        data[c] = data[c] / data['benoit_sentence-length-words']
     
     # Set up data
     train_data = data[data['topic_split']=='train']
     val_data = data[data['topic_split']=='val']
     test_data = data[data['topic_split']=='test']
     
-    # Find correct feature set
     if model_type == 'topic':
-        train_X = train_data[list(set(topic_col) - set(exclude_col))].values
-        val_X = val_data[list(set(topic_col) - set(exclude_col))].values
-        test_X = test_data[list(set(topic_col) - set(exclude_col))].values
+        train_X = train_data[topic_col].values
+        val_X = val_data[topic_col].values
+        test_X = test_data[topic_col].values   
     
     elif model_type == 'sentiment':
         train_X = train_data[emotion_col].values
         val_X = val_data[emotion_col].values
         test_X = test_data[emotion_col].values
         
-    elif model_type == 'style':
-        cols = [c for c in df.columns if 'rauh' in c or 'benoit' in c]
+    elif model_type == 'style_short':
+        cols = [c for c in data.columns if 'rauh' in c or 'benoit' in c]
         train_X = train_data[cols].fillna(0).values
         val_X = val_data[cols].fillna(0).values
         test_X = test_data[cols].fillna(0).values
         
-    elif model_type == 'style_full':
-        train_X = train_data[style_col].fillna(0).values
-        val_X = val_data[style_col].fillna(0).values
-        test_X = test_data[style_col].fillna(0).values
+    elif model_type == 'style_full': # TODO: Better feature set?
+        style_targets = [c for c in data.columns if any(['rauh' in c, 
+                                                         'benoit' in c, 
+                                                         'alpha_ratio' in c])] + \
+                        ['n_hashtag', 'n_mentions', 'is_link', 'n_emojis']
+        train_X = train_data[style_targets].fillna(0).values
+        val_X = val_data[style_targets].fillna(0).values
+        test_X = test_data[style_targets].fillna(0).values
     
-    elif model_type == 'combined':
-        style_cols =  [c for c in df.columns if 'rauh' in c or 'benoit' in c]
-        cols = list(set(topic_col) - set(exclude_col))+ emotion_col + style_col
+    elif model_type == 'combined': # TODO: Better feature set?
+        style_targets = [c for c in data.columns if any(['rauh' in c, 
+                                                         'benoit' in c, 
+                                                         'alpha_ratio' in c])] + \
+                        ['n_hashtag', 'n_mentions', 'is_link', 'n_emojis']
+        cols = topic_col + emotion_col + style_targets
         train_X = train_data[cols].fillna(0).values
         val_X = val_data[cols].fillna(0).values
         test_X = test_data[cols].fillna(0).values
@@ -130,6 +139,7 @@ def fit_predict(logpath,
         val_X = c_vec.transform(val_data['text'].tolist()).toarray()
         test_X = c_vec.transform(test_data['text'].tolist()).toarray()
         pkl.dump(c_vec, open(tkpath, "wb"))
+        
     else:
         raise ValueError(f'{model_type} is not a valid model type')
     
@@ -148,7 +158,7 @@ def fit_predict(logpath,
         
     grid = RandomizedSearchCV(estimator=est_class,
                               param_distributions=_make_estimator_params(),
-                              cv=None,
+                              cv= 10, #TODO: None,
                               verbose=2,
                               return_train_score=True,
                               refit=False,
@@ -216,23 +226,22 @@ if __name__=='__main__':
     logpath = Path('logs') / 'engagement' 
     logpath = logpath / args.out_metric
     logpath.mkdir(parents=True, exist_ok=True)
-    pm = list(zip([logpath] * 8,
-                  [args.out_metric] * 8,
+    pm = list(zip([logpath] * 6,
+                  [args.out_metric] * 6,
                   ['combined', 
                    'topic', 
                    'sentiment', 
-                   'style',
+                   'style_short',
                    'style_full',
-                   'bow', 'bow', 'bow'],
+                   'bow'],
                   [None, None, None, None, 
-                   None,
-                   100, 250, 500],
-                  [True] * 8,
-                  [args.early_stopping] * 8))
+                   None, 500],
+                  [True] * 6,
+                  [args.early_stopping] * 6))
     results = [fit_predict(*p) for p in pm]
     try:
         old_results = json.load(open(str(logpath)+'.json', 'rb'))
-    else:
+    except:
         old_results = []
     old_results += results
     with open(str(logpath)+'.json', 'w') as of:
