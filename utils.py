@@ -31,7 +31,8 @@ def plot_volume(data,
                 save=True, savename=None,
                 figsize=None, colors=None, 
                 interactive=True,
-                width=1600, height=500):
+                width=1600, height=500,
+                ylim=True, multiple=False):
     ''' Plot tweet volume 
     Args:
         data: pd.DataFrame
@@ -49,6 +50,9 @@ def plot_volume(data,
     entities = data.entity.unique()
     colors = colors or sns.color_palette()[:len(entities)]
     loop_over = set(entities) - set(exclude_entities)
+    if len(loop_over) == 2:
+        other = list(loop_over - set(['EU_Commission']))[0]
+        loop_over = ['EU_Commission', other]
     for i, e in enumerate(loop_over):
         grouper = pd.Grouper(key='created_at', 
                              axis=0, freq=freq)
@@ -57,16 +61,27 @@ def plot_volume(data,
                                                 infer_datetime_format=True)  
         grouped = data[data['entity']==e].groupby(grouper).count().reset_index()
         grouped['smoothed'] = grouped['text'].rolling(roll_window).mean()
+        if i == 0:
+            years = grouped.created_at.dt.year.unique()[1:]
+        grouped['year'] =  grouped.created_at.dt.year
         if interactive is False:
+            if multiple == False:
+                plt.axhline(grouped['text'].mean(), 
+                            color='darkred', 
+                            linestyle='--')
             if plot_smooth_only is False:
                 sns.lineplot(data=grouped,
                              x='created_at', y='text', 
                              color=colors[i], alpha=.2,
                              legend=False)
+            if len(loop_over) == 2 and i == 0:
+                alpha = .7
+            else:
+                alpha = 1.
             sns.lineplot(data=grouped,
                          x='created_at', y='smoothed', 
                          label=e if len(loop_over)>1 else None , 
-                         color=colors[i])
+                         color=colors[i], alpha=alpha)
         else:
             if i == 0:
                 fig = px.line(title='Tweet volume', 
@@ -82,21 +97,30 @@ def plot_volume(data,
     if interactive is False:  
         plt.ylabel(f'Tweets per {FREQ_DICT[freq]}')
         plt.xlabel('')
-        plt.title(f'Tweet volume')
+        # plt.title(f'Tweet volume')
         plt.xticks(rotation=60)
-        for d in grouped.created_at.dt.year.unique()[1:]:
+        for d in years:
             plt.axvline(x=np.datetime64(f'{d}-01-01'), 
-                        color='darkgrey', 
-                        linestyle='--')
-            y = 100 if plot_smooth_only is False else 30
-            plt.annotate(text=d, 
-                         xy=(np.datetime64(f'{d}-06-01'), y), 
-                         color='black')
+                        color='grey', 
+                        linestyle='dotted')
+            y = 43
+            if d not in [2022, 2010]:
+                plt.annotate(text=d, 
+                             xy=(np.datetime64(f'{d}-05-01'), y), 
+                             color='black', fontsize=10)
         ax.xaxis.set_major_locator(md.MonthLocator((1,7)))
         ax.xaxis.set_major_formatter(md.DateFormatter('%b \'%y'))
-        plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
+        plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-08-01'))
+        if ylim == True:
+            plt.ylim(-5,50)
+        if len(loop_over) != 1:
+            plt.legend().remove()
+            plt.title(loop_over[1])
+            plt.tight_layout()
+        
         if save:
-            plt.savefig(f'figs/{savename}.pdf')
+            plt.savefig(f'figs/{savename}.png', dpi=300)
+            
         plt.show()
     else:
         fig.update_xaxes(dtick="M6",
@@ -132,9 +156,8 @@ def plot_topic_volume(data,
         savename (str): filename 
         figsize (tuple): figsize, if not default
     '''
-    if interactive is False:
-        figsize = figsize or FIGSIZE[freq]
-        fig, ax = plt.subplots(figsize=figsize)
+    figsize = figsize or FIGSIZE[freq]
+    fig, ax = plt.subplots(figsize=figsize)
     df = data[data['entity']==entity]
     colors = colors or sns.color_palette()[:len(topics)]
     loop_over = set(topics)
@@ -147,55 +170,36 @@ def plot_topic_volume(data,
             df['created_at'] = pd.to_datetime(df['created_at'], 
                                               infer_datetime_format=True)
         grouped = df.groupby(grouper).mean().reset_index()
-        grouped['smoothed'] = grouped[t].rolling(roll_window).mean()
-        if interactive is False:
-            if plot_smooth_only is False:
-                sns.lineplot(data=grouped,
-                             x='created_at', y=t, 
-                             color=colors[i], alpha=.2,
-                             legend=False)
+        grouped['smoothed'] = grouped[t].rolling(roll_window,
+                                                 min_periods=1).mean()
+        if plot_smooth_only is False:
             sns.lineplot(data=grouped,
-                         x='created_at', y='smoothed', 
-                         label=t if len(loop_over)>1 else None , 
-                         color=colors[i])
-        else:
-            if i == 0:
-                fig = px.line(title='Topic volume', 
-                              width=width, 
-                              height=height,
-                              template='plotly_dark')
-            fig.add_trace(go.Scatter(
-                x=grouped['created_at'],
-                y=grouped.rename({'smoothed': f'Volume per {FREQ_DICT[freq]}'}, 
-                                  axis=1)[f'Volume per {FREQ_DICT[freq]}'],
-                mode="lines", name=t))
+                         x='created_at', y=t, 
+                         color=colors[i], alpha=.2,
+                         legend=False)
+        sns.lineplot(data=grouped,
+                     x='created_at', y='smoothed', 
+                     label=t if len(loop_over)>1 else None , 
+                     color=colors[i])
 
-    if interactive is False:  
-        plt.ylabel(f'Volume per {FREQ_DICT[freq]}')
-        plt.xlabel('')
-        plt.title(f'Topic volume' if title is None else title)
-        plt.xticks(rotation=60)
-        for d in grouped.created_at.dt.year.unique()[1:]:
-            plt.axvline(x=np.datetime64(f'{d}-01-01'), 
-                        color='darkgrey', 
-                        linestyle='--')
-            y = .5
-            plt.annotate(text=d, 
-                         xy=(np.datetime64(f'{d}-06-01'), y), 
-                         color='black')
-        ax.xaxis.set_major_locator(md.MonthLocator((1,7)))
-        ax.xaxis.set_major_formatter(md.DateFormatter('%b \'%y'))
-        plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
-        if save:
-            plt.savefig(f'figs/{savename}.pdf')
-        plt.show()
-    else:
-        fig.update_xaxes(dtick="M6",
-                         tickformat='%b \'%y', 
-                         tickangle=-60, title='')
-        fig.update_layout(legend_title_text='Topic')
-        if save:
-            fig.write_html(f"figs/{savename}.html")
-        fig.show()
+    plt.ylabel(f'Topic volume')
+    plt.xlabel('')
+    plt.title(f'Topic volume' if title is None else title)
+    plt.xticks(rotation=60)
+    for d in grouped.created_at.dt.year.unique()[1:]:
+        plt.axvline(x=np.datetime64(f'{d}-01-01'), 
+                    color='grey',  
+                    linestyle='dotted', alpha=.6)
+        y = .5
+        #plt.annotate(text=d, 
+        #             xy=(np.datetime64(f'{d}-06-01'), y), 
+        #             color='black')
+    ax.xaxis.set_major_locator(md.MonthLocator((1,7)))
+    ax.xaxis.set_major_formatter(md.DateFormatter('%b \'%y'))
+    plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
+    plt.ylim(0,0.15)
+    if save:
+        plt.savefig(f'figs/{savename}.pdf')
+    plt.show()
         
 
