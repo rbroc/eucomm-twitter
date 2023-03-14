@@ -1,6 +1,8 @@
 from contextualized_topic_models.models.ctm import CTM
 import os
 import torch
+from torch.utils.data import DataLoader
+from tqdm import tqdm
 
 class CTModel(CTM):
     def __init__(self, model, vocabulary_size, 
@@ -29,3 +31,4 @@ class CTModel(CTM):
                 with open(fileloc, 'wb') as file:
                     torch.save({'state_dict': self.model.state_dict(),
                                 'dcue_dict': self.__dict__}, file)
+                    

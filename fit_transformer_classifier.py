@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 import json
 from torch import nn
+import os
 import wandb
 import argparse
 from datasets import load_metric
@@ -29,6 +30,8 @@ parser.add_argument('--early-stopping-patience', type=int, default=10)
 parser.add_argument('--freeze-layers', type=int, default=1)
 parser.add_argument('--entity', type=str, default='ecb')
 parser.add_argument('--run', type=int, default=0)
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 PRED_COLUMNS = ['trial_id', 'label', 'prediction', 'model_name', 'split']

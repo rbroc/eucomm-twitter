@@ -2,25 +2,8 @@
 
 
 #### TODO
-- Re-fit prediction
-- Wrap up
-
-### Description
-We use topic modeling to analyse discourse from EU institutions on Twitter, focusing particularly on the European Commission.
-We use contextualized topic modeling and compare it with simple models (tweetopic) and qualitative inspection.
-
-Motivation:
-- Describing EC identity and communication strategy
-- Topic as proxy for identity
-- Investigate engagement
-- Analyze other aspects of EC commmunication (e.g., emotions and style)
-
-** TL;DR **
-- What topics does the European Commission communicate about? How has this changed over time? How do they relate with engagement?
-- How does the style of the EC compare with other institutions? How has this change over time? How does style relate with engagement?
-- How does the sentiment of the EC communication compare with other institutions? How does the sentiment change over time? How does it relate with engagement?
-- What is the best predictor of engagement? What are the most important features? How do they contribute to the model?
-
+- Engagement XGB + refit transformer-based classifier
+- Plots & wrap-up
 
 ### Style metrics
 #### From Benoit et al. (2019)

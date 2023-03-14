@@ -158,7 +158,7 @@ def fit_predict(logpath,
         
     grid = RandomizedSearchCV(estimator=est_class,
                               param_distributions=_make_estimator_params(),
-                              cv= 10, #TODO: None,
+                              cv= 5, #TODO: None,
                               verbose=2,
                               return_train_score=True,
                               refit=False,
@@ -175,7 +175,7 @@ def fit_predict(logpath,
                          n_jobs=20)
     model.fit(train_X, train_y, 
               eval_set=[(val_X, val_y)],
-              early_stopping_rounds=5,
+              early_stopping_rounds=3,
               verbose=False)
 
     grid.best_estimator_ = model
