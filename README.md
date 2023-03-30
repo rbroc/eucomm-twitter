@@ -2,10 +2,10 @@
 
 
 #### TODO
-- Redo plots of topics by group - in progress
-- Redo plots over time by topic - in progress
+- Redo plots of topics by group, topic, and over time
+- Make new exemplary tweets
 - Change plot with correlation of engagement over time to all agencies
-- Add coefficients
+- Add coefficients for regression
 - Style
     - Make plots of increase/decrease over time
     - Play again a little bit with the idea of doing an overall reduction of dimensionality
