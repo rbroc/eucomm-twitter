@@ -140,6 +140,7 @@ def plot_topic_volume(data,
                       exclude_topics=None,
                       plot_smooth_only=True,
                       roll_window=7, 
+                      ylim=None,
                       save=True, savename=None,
                       figsize=None, colors=None, 
                       interactive=True,
@@ -197,7 +198,10 @@ def plot_topic_volume(data,
     ax.xaxis.set_major_locator(md.MonthLocator((1,7)))
     ax.xaxis.set_major_formatter(md.DateFormatter('%b \'%y'))
     plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
-    plt.ylim(0,0.15)
+    if ylim:
+        plt.ylim(*ylim)
+    else:
+        plt.ylim(0,0.15)
     if save:
         plt.savefig(f'figs/{savename}.pdf')
     plt.show()

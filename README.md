@@ -2,10 +2,8 @@
 
 
 #### TODO
-- Relabel topics
-- Regroup plots
-- Redo plots of topics by group
-- Redo plots over time by topic
+- Redo plots of topics by group - in progress
+- Redo plots over time by topic - in progress
 - Change plot with correlation of engagement over time to all agencies
 - Add coefficients
 - Style
