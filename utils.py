@@ -176,34 +176,28 @@ def plot_topic_volume(data,
         if plot_smooth_only is False:
             sns.lineplot(data=grouped,
                          x='created_at', y=t, 
-                         color=colors[i], alpha=.2,
+                         color=colors[i], alpha=.1,
                          legend=False)
         sns.lineplot(data=grouped,
                      x='created_at', y='smoothed', 
                      label=t if len(loop_over)>1 else None , 
                      color=colors[i])
 
-    plt.ylabel(f'Topic volume')
+    plt.ylabel(f'Topic volume', fontsize=16)
     plt.xlabel('')
-    plt.title(f'Topic volume' if title is None else title)
+    plt.title(f'Topic volume' if title is None else title, fontsize=20)
     plt.xticks(rotation=60)
     for d in grouped.created_at.dt.year.unique()[1:]:
         plt.axvline(x=np.datetime64(f'{d}-01-01'), 
-                    color='grey',  
-                    linestyle='dotted', alpha=.6)
-        y = .5
-        #plt.annotate(text=d, 
-        #             xy=(np.datetime64(f'{d}-06-01'), y), 
-        #             color='black')
+                    color='grey', 
+                    linestyle='dotted')
     ax.xaxis.set_major_locator(md.MonthLocator((1,7)))
     ax.xaxis.set_major_formatter(md.DateFormatter('%b \'%y'))
     plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
     if ylim:
         plt.ylim(*ylim)
-    else:
-        plt.ylim(0,0.15)
     if save:
-        plt.savefig(f'figs/{savename}.pdf')
+        plt.savefig(f'figs/{savename}.png')
     plt.show()
         
 
