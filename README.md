@@ -2,7 +2,6 @@
 
 
 #### TODO
-- Redo plots of topics by group, topic, and over time
 - Make new exemplary tweets
 - Change plot with correlation of engagement over time to all agencies
 - Add coefficients for regression
