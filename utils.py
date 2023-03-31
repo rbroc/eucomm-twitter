@@ -173,6 +173,7 @@ def plot_topic_volume(data,
         grouped = df.groupby(grouper).mean().reset_index()
         grouped['smoothed'] = grouped[t].rolling(roll_window,
                                                  min_periods=1).mean()
+        max_smooth = grouped['smoothed'].max()
         if plot_smooth_only is False:
             sns.lineplot(data=grouped,
                          x='created_at', y=t, 
@@ -186,7 +187,8 @@ def plot_topic_volume(data,
     plt.ylabel(f'Topic volume', fontsize=16)
     plt.xlabel('')
     plt.title(f'Topic volume' if title is None else title, fontsize=20)
-    plt.xticks(rotation=60)
+    plt.xticks(rotation=60, fontsize=12)
+    plt.yticks(fontsize=12)
     for d in grouped.created_at.dt.year.unique()[1:]:
         plt.axvline(x=np.datetime64(f'{d}-01-01'), 
                     color='grey', 
@@ -196,6 +198,8 @@ def plot_topic_volume(data,
     plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
     if ylim:
         plt.ylim(*ylim)
+    else:
+        plt.ylim(0,max_smooth+.03)
     if save:
         plt.savefig(f'figs/{savename}.png')
     plt.show()
