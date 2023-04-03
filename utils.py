@@ -219,7 +219,8 @@ def plot_style_timeseries(data,
                           figsize=None, colors=None, 
                           interactive=True,
                           width=1600, height=500,
-                          title=None, no_horizontal=False):
+                          title=None, no_horizontal=False,
+                          legend=True):
     ''' Plot style over time '''
     figsize = figsize or FIGSIZE[freq]
     fig, ax = plt.subplots(figsize=figsize)
@@ -239,6 +240,8 @@ def plot_style_timeseries(data,
         if normalized is True:
             scaler = StandardScaler()
             grouped[metric] = scaler.fit_transform(grouped[[metric]])
+        if no_horizontal == 'mean':
+            plt.axhline(grouped[metric].mean(), linestyle='--', color='black')
         grouped['smoothed'] = grouped[metric].rolling(roll_window,
                                                       min_periods=1).mean()
         max_smooth = grouped['smoothed'].max()
@@ -253,16 +256,18 @@ def plot_style_timeseries(data,
             alpha = 1
         sns.lineplot(data=grouped,
                      x='created_at', y='smoothed', 
-                     label=e, 
-                     color=colors[i], alpha=alpha
+                     label=e if legend else None, 
+                     color=colors[i], alpha=alpha,
+                     legend=legend
                     )
     if 'sentiment' not in metric:
-        plt.ylabel(f'{metric}', fontsize=14)
+        plt.ylabel(f'score', fontsize=14)
     else:
         plt.ylabel(f'')
-    plt.legend(fontsize=12, loc='upper right')
+    if legend:
+        plt.legend(fontsize=12, loc='upper right')
     plt.xlabel('')
-    plt.title(f'')
+    plt.title(f'{metric}', fontsize=15)
     plt.xticks(rotation=60, fontsize=12)
     plt.yticks(fontsize=12)
     for d in grouped.created_at.dt.year.unique()[1:]:
