@@ -2,10 +2,9 @@
 
 
 #### TODO
+- Specify language thing to Laura
+- Revise style text
 - Make new exemplary tweets
-- Style
-    - Complexity
-    - Multimodality
-    - Add concreteness, and other more cognitive metrics?
-- Redo the predictive model with new style metrics and, potentially, time? Or remove?
+- Add concreteness
+- Redo the predictive model with new metrics and style
 - Add discussion and better framing
