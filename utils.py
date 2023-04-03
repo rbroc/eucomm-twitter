@@ -75,7 +75,7 @@ def plot_volume(data,
                              color=colors[i], alpha=.2,
                              legend=False)
             if len(loop_over) == 2 and i == 0:
-                alpha = .7
+                alpha = 1. # 7
             else:
                 alpha = 1.
             sns.lineplot(data=grouped,
@@ -202,6 +202,83 @@ def plot_topic_volume(data,
         plt.ylim(0,max_smooth+.03)
     if save:
         plt.savefig(f'figs/{savename}.png')
+    plt.show()
+    
+    
+    
+def plot_style_timeseries(data, 
+                          metric,
+                          entities,
+                          freq='D',
+                          normalized=False,
+                          exclude_topics=None,
+                          plot_smooth_only=True,
+                          roll_window=7, 
+                          ylim=None,
+                          save=True, savename=None,
+                          figsize=None, colors=None, 
+                          interactive=True,
+                          width=1600, height=500,
+                          title=None, no_horizontal=False):
+    ''' Plot style over time '''
+    figsize = figsize or FIGSIZE[freq]
+    fig, ax = plt.subplots(figsize=figsize)
+    colors = colors or sns.color_palette()[:len(entities)]
+    if no_horizontal is False:  
+        plt.axhline(0, linestyle='--', color='black')
+    for i, e in enumerate(entities):
+        df = data[data['entity']==e].copy()
+        grouper = pd.Grouper(key='created_at', 
+                             axis=0, freq=freq)
+        if df['created_at'].dtype != 'datetime64':
+            df['created_at'] = pd.to_datetime(df['created_at'], 
+                                              infer_datetime_format=True)
+        if 'sentiment' in metric:
+            df[metric] = np.where(df[metric]>.5, 1, 0)
+        grouped = df.groupby(grouper).mean().reset_index()
+        if normalized is True:
+            scaler = StandardScaler()
+            grouped[metric] = scaler.fit_transform(grouped[[metric]])
+        grouped['smoothed'] = grouped[metric].rolling(roll_window,
+                                                      min_periods=1).mean()
+        max_smooth = grouped['smoothed'].max()
+        if plot_smooth_only is False:
+            sns.lineplot(data=grouped,
+                         x='created_at', y=metric, 
+                         color=colors[i], alpha=.1,
+                         legend=False)
+        if e != 'EU_Commission':
+            alpha = .5
+        else:
+            alpha = 1
+        sns.lineplot(data=grouped,
+                     x='created_at', y='smoothed', 
+                     label=e, 
+                     color=colors[i], alpha=alpha
+                    )
+    if 'sentiment' not in metric:
+        plt.ylabel(f'{metric}', fontsize=14)
+    else:
+        plt.ylabel(f'')
+    plt.legend(fontsize=12, loc='upper right')
+    plt.xlabel('')
+    plt.title(f'')
+    plt.xticks(rotation=60, fontsize=12)
+    plt.yticks(fontsize=12)
+    for d in grouped.created_at.dt.year.unique()[1:]:
+        plt.axvline(x=np.datetime64(f'{d}-01-01'), 
+                    color='grey', 
+                    linestyle='dotted')
+    ax.xaxis.set_major_locator(md.MonthLocator((1,7)))
+    ax.xaxis.set_major_formatter(md.DateFormatter('%b \'%y'))
+    plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
+    if ylim:
+        plt.ylim(*ylim)
+    #else:
+    #    plt.ylim(0,max_smooth+.03)
+    plt.tight_layout()
+    if save:
+        plt.savefig(f'figs/{savename}.png', dpi=300)
     plt.show()
         
 
