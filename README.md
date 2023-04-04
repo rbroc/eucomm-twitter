@@ -3,8 +3,6 @@
 
 #### TODO
 - Specify language thing to Laura
-- Revise style text
-- Make new exemplary tweets
-- Add concreteness
-- Redo the predictive model with new metrics and style
-- Add discussion and better framing
+- Add concreteness and combine plots
+- Add tweets
+- Send (discussion and intro pending)
