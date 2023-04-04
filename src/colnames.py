@@ -19,6 +19,27 @@ topic_col = ['humanitarian_support_and_refugees',
              'digital_and_green_transition',
              'finance_and_trade']
 
+new_topic_col = ['Solidarity and Emergency Response',
+                 'Health',
+                 'Citizen Initiatives',
+                 'Press conferences and Statements',
+                 'Citizen Rights and Integration',
+                 'Charts, Links, Infographics',
+                 'Strategic Investments (e.g., recovery, research, innovation)',
+                 'Internal Governance',
+                 'Energy, Sustainability and Climate',
+                 'Identity, Culture and Citizen Engagement',
+                 'Visions for the Future',
+                 'Financial Aid',
+                 'Human Rights',
+                 'Growth and Global Development',
+                 'Economy and markets',
+                 'Digital Policy',
+                 'Trade, Partnerships, and Law',
+                 'Live Events',
+                 'Digital and Green Transition',
+                 'Finance and trade']
+
 exclude_col = ['press_conferences_and_statements',
                'charts_links_and_infographics',
                'live_events'] 
@@ -50,5 +71,18 @@ style_col = ['flesch_reading_ease', 'flesch_kincaid_grade', 'smog', 'gunning_fog
              'pos_prop_AUX', 'pos_prop_CCONJ', 'pos_prop_SPACE', 'pos_prop_PART',
              'pos_prop_INTJ', 'subtlexusfrequency_SUBTLWF', 
              'subtlexusfrequency_Lg10WF', 'subtlexusfrequency_Zipf-value']
+
+new_style_col = ['reading complexity',
+                 'verb-to-noun ratio',
+                 '# words',
+                 'sentence length',
+                 'word length',
+                 'frequency',
+                 'negative sentiment',
+                 'neutral sentiment',
+                 'positive sentiment',
+                 '% hashtag',
+                 '% mentions',
+                 '% emojis']
 
 pca_col = [f'style_dim_{i}' for i in range(len(style_col))]
