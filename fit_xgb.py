@@ -18,7 +18,8 @@ from sklearn.metrics import (r2_score,
 from nltk.corpus import stopwords
 import argparse
 from src.colnames import (topic_col, emotion_col, 
-                          style_col, exclude_col)
+                          style_col, exclude_col,
+                          new_style_col, new_topic_col)
 
 
 # Initialize parser
@@ -82,13 +83,13 @@ def fit_predict(logpath,
                 es=10):
     
     # Get the data
-    data = pd.read_json(f'data/topic/data.jsonl',
+    data = pd.read_json(f'data/topic/data_renamed_reduced.jsonl',
                         orient='records', lines=True)
     data = data[data['entity']=='EU_Commission'] # TODO: fit without this
-    data['n_mentions'] = data['text'].replace('[^@]','', regex=True).str.len()
-    data['n_hashtag'] = data['text'].replace('[^#]','', regex=True).str.len()
-    for c in ['n_hashtag', 'n_mentions', 'n_emojis']:
-        data[c] = data[c] / data['benoit_sentence-length-words']
+    #data['n_mentions'] = data['text'].replace('[^@]','', regex=True).str.len()
+    #data['n_hashtag'] = data['text'].replace('[^#]','', regex=True).str.len()
+    #for c in ['n_hashtag', 'n_mentions', 'n_emojis']:
+    #    data[c] = data[c] / data['benoit_sentence-length-words']
     
     # Set up data
     train_data = data[data['topic_split']=='train']
@@ -105,27 +106,20 @@ def fit_predict(logpath,
         val_X = val_data[emotion_col].values
         test_X = test_data[emotion_col].values
         
-    elif model_type == 'style_short':
-        cols = [c for c in data.columns if 'rauh' in c or 'benoit' in c]
-        train_X = train_data[cols].fillna(0).values
-        val_X = val_data[cols].fillna(0).values
-        test_X = test_data[cols].fillna(0).values
-        
-    elif model_type == 'style_full': # TODO: Better feature set?
-        style_targets = [c for c in data.columns if any(['rauh' in c, 
-                                                         'benoit' in c, 
-                                                         'alpha_ratio' in c])] + \
-                        ['n_hashtag', 'n_mentions', 'is_link', 'n_emojis']
+    elif model_type == 'style':
+        style_targets = [] # targets
         train_X = train_data[style_targets].fillna(0).values
         val_X = val_data[style_targets].fillna(0).values
         test_X = test_data[style_targets].fillna(0).values
     
-    elif model_type == 'combined': # TODO: Better feature set?
-        style_targets = [c for c in data.columns if any(['rauh' in c, 
-                                                         'benoit' in c, 
-                                                         'alpha_ratio' in c])] + \
-                        ['n_hashtag', 'n_mentions', 'is_link', 'n_emojis']
-        cols = topic_col + emotion_col + style_targets
+    elif model_type == 'combined_new':
+        cols = new_topic_col + new_style_col
+        train_X = train_data[cols].fillna(0).values
+        val_X = val_data[cols].fillna(0).values
+        test_X = test_data[cols].fillna(0).values
+        
+    elif model_type == 'combined_new_time':
+        cols = new_topic_col + new_style_col + ['date_mapped']
         train_X = train_data[cols].fillna(0).values
         val_X = val_data[cols].fillna(0).values
         test_X = test_data[cols].fillna(0).values
@@ -158,7 +152,7 @@ def fit_predict(logpath,
         
     grid = RandomizedSearchCV(estimator=est_class,
                               param_distributions=_make_estimator_params(),
-                              cv= 5, #TODO: None,
+                              cv=5,
                               verbose=2,
                               return_train_score=True,
                               refit=False,
@@ -226,18 +220,24 @@ if __name__=='__main__':
     logpath = Path('logs') / 'engagement' 
     logpath = logpath / args.out_metric
     logpath.mkdir(parents=True, exist_ok=True)
-    pm = list(zip([logpath] * 6,
-                  [args.out_metric] * 6,
-                  ['combined', 
-                   'topic', 
-                   'sentiment', 
-                   'style_short',
-                   'style_full',
-                   'bow'],
-                  [None, None, None, None, 
-                   None, 500],
-                  [True] * 6,
-                  [args.early_stopping] * 6))
+    #pm = list(zip([logpath] * 6,
+    #              [args.out_metric] * 6,
+    #              ['combined', 
+    #               'topic', 
+    #               'sentiment', 
+    #               'style_short',
+    #               'style_full',
+    #               'bow'],
+    #              [None, None, None, None, 
+    #               None, 500],
+    #              [True] * 6,
+    #              [args.early_stopping] * 6))
+    pm = list(zip([logpath] * 2,
+                   [args.out_metric] * 2,
+                   ['combined_new', 'combined_new_time'],
+                   [None] * 2,
+                   [True] * 2,
+                   [args.early_stopping] * 2))
     results = [fit_predict(*p) for p in pm]
     try:
         old_results = json.load(open(str(logpath)+'.json', 'rb'))
