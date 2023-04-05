@@ -226,7 +226,7 @@ def plot_style_timeseries(data,
     fig, ax = plt.subplots(figsize=figsize)
     colors = colors or sns.color_palette()[:len(entities)]
     if no_horizontal is False:  
-        plt.axhline(0, linestyle='--', color='black')
+        plt.axhline(0, linestyle='--', color='darkred')
     for i, e in enumerate(entities):
         df = data[data['entity']==e].copy()
         grouper = pd.Grouper(key='created_at', 
@@ -241,7 +241,7 @@ def plot_style_timeseries(data,
             scaler = StandardScaler()
             grouped[metric] = scaler.fit_transform(grouped[[metric]])
         if no_horizontal == 'mean':
-            plt.axhline(grouped[metric].mean(), linestyle='--', color='black')
+            plt.axhline(grouped[metric].mean(), linestyle='--', color='darkred')
         grouped['smoothed'] = grouped[metric].rolling(roll_window,
                                                       min_periods=1).mean()
         max_smooth = grouped['smoothed'].max()
@@ -251,7 +251,7 @@ def plot_style_timeseries(data,
                          color=colors[i], alpha=.1,
                          legend=False)
         if e != 'EU_Commission':
-            alpha = .5
+            alpha = .15 #5
         else:
             alpha = 1
         sns.lineplot(data=grouped,
@@ -261,9 +261,9 @@ def plot_style_timeseries(data,
                      legend=legend
                     )
     if 'sentiment' not in metric:
-        plt.ylabel(f'score', fontsize=14)
+        plt.ylabel(f'score', fontsize=13)
     else:
-        plt.ylabel(f'')
+        plt.ylabel(f'% tweets', fontsize=13)
     if legend:
         plt.legend(fontsize=12, loc='upper right')
     plt.xlabel('')
