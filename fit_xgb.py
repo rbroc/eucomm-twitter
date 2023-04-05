@@ -93,10 +93,10 @@ def fit_predict(logpath,
     data = data.rename(dict(zip(topic_col, new_topic_col)), axis=1)
     
     # Date mapped
-    data['date'] = pd.to_datetime(data[['year', 'month']].assign(day=1)).dt.strftime('%b \'%y')
-    vals = pd.to_datetime(data[['year', 'month']].assign(day=1)).sort_values().dt.strftime('%b \'%y').unique()
-    dct = dict(zip(vals, range(vals.shape[0])))
-    data['date_mapped'] = data['date'].replace(dct)
+    #data['date'] = pd.to_datetime(data[['year', 'month']].assign(day=1)).dt.strftime('%b \'%y')
+    #vals = pd.to_datetime(data[['year', 'month']].assign(day=1)).sort_values().dt.strftime('%b \'%y').unique()
+    #dct = dict(zip(vals, range(vals.shape[0])))
+    #data['date_mapped'] = data['date'].replace(dct)
     # data = data[data['year']>=2017]
     
     # Set up data
@@ -240,18 +240,18 @@ if __name__=='__main__':
     #               None, 500],
     #              [True] * 6,
     #              [args.early_stopping] * 6))
-    pm = list(zip([logpath] * 2,
-                   [args.out_metric] * 2,
-                   ['combined_new_time', 'combined_new'],
-                   [None] * 2,
-                   [True] * 2,
-                   [args.early_stopping] * 2))
+    pm = list(zip([logpath] * 1,
+                   [args.out_metric] * 1,
+                   ['combined_new'],
+                   [None] * 1,
+                   [True] * 1,
+                   [args.early_stopping] * 1))
     results = [fit_predict(*p) for p in pm]
     try:
         old_results = json.load(open(str(logpath)+'.json', 'rb'))
     except:
         old_results = []
     old_results += results
-    with open(str(logpath)+'_2017.json', 'w') as of:
+    with open(str(logpath)+'.json', 'w') as of:
         of.write(json.dumps(old_results))
     
