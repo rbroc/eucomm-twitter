@@ -116,10 +116,8 @@ def plot_volume(data,
         if len(loop_over) != 1:
             plt.legend().remove()
             plt.title(loop_over[1])
-            plt.tight_layout()
-        
-        if save:
-            plt.savefig(f'figs/{savename}.png', dpi=300)
+        plt.tight_layout()
+        plt.savefig(f'figs/topic_volume.png', dpi=300)
             
         plt.show()
     else:
@@ -201,7 +199,8 @@ def plot_topic_volume(data,
     else:
         plt.ylim(0,max_smooth+.03)
     if save:
-        plt.savefig(f'figs/{savename}.png')
+        plt.tight_layout()
+        plt.savefig(f'figs/{savename}.png', dpi=300)
     plt.show()
     
     
