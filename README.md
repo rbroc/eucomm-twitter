@@ -3,9 +3,8 @@
 
 #### TODO
 - Make new figures
-- Make new predictive plots
+- Rerun predictive models and plots!
 - Adapt text
-- Send!
-- Specify language thing to Laura
-- Add tweets
-- Send (discussion and intro pending)
+- Send (language thing)!
+- Add tweets and uniform data
+- Discussion and intro pending
