@@ -72,17 +72,15 @@ style_col = ['flesch_reading_ease', 'flesch_kincaid_grade', 'smog', 'gunning_fog
              'pos_prop_INTJ', 'subtlexusfrequency_SUBTLWF', 
              'subtlexusfrequency_Lg10WF', 'subtlexusfrequency_Zipf-value']
 
-new_style_col = ['reading complexity',
+new_style_col = ['concreteness',
+                 'reading complexity',
                  'verb-to-noun ratio',
-                 '# words',
+                 'tweet length',
                  'sentence length',
                  'word length',
                  'frequency',
-                 'negative sentiment',
-                 'neutral sentiment',
-                 'positive sentiment',
-                 '% hashtag',
-                 '% mentions',
+                 'negative sentiment', 'neutral sentiment', 'positive sentiment',
+                 '% hashtag', '% mentions', 
                  '% emojis']
 
 pca_col = [f'style_dim_{i}' for i in range(len(style_col))]
