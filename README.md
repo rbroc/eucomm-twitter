@@ -2,7 +2,10 @@
 
 
 #### TODO
+- Make new figures
+- Make new predictive plots
+- Adapt text
+- Send!
 - Specify language thing to Laura
-- Add concreteness and combine plots
 - Add tweets
 - Send (discussion and intro pending)
