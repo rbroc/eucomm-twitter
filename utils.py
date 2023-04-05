@@ -260,15 +260,15 @@ def plot_style_timeseries(data,
                      legend=legend
                     )
     if 'sentiment' not in metric:
-        plt.ylabel(f'score', fontsize=13)
+        plt.ylabel(f'score', fontsize=12)
     else:
-        plt.ylabel(f'% tweets', fontsize=13)
+        plt.ylabel(f'% tweets', fontsize=12)
     if legend:
         plt.legend(fontsize=12, loc='upper right')
     plt.xlabel('')
-    plt.title(f'{metric}', fontsize=15)
-    plt.xticks(rotation=60, fontsize=12)
-    plt.yticks(fontsize=12)
+    plt.title(f'{metric}', fontsize=13)
+    plt.xticks(rotation=60, fontsize=11)
+    plt.yticks(fontsize=11)
     for d in grouped.created_at.dt.year.unique()[1:]:
         plt.axvline(x=np.datetime64(f'{d}-01-01'), 
                     color='grey', 
