@@ -40,7 +40,7 @@ def _make_estimator_params():
               'reg_alpha' :[0, .1, 5.],
               'reg_lambda': [0, .1, 1.],
               'n_estimators': [1, 5, 10, 30, 50],
-              'tweedie_variance_power': [1.01, 1.99, 1.2, 1.4, 1.6, 1.8]
+              'tweedie_variance_power': [1.01, 1.3, 1.6, 1.8, 1.99]
               }
     return params
 
@@ -90,6 +90,14 @@ def fit_predict(logpath,
     #data['n_hashtag'] = data['text'].replace('[^#]','', regex=True).str.len()
     #for c in ['n_hashtag', 'n_mentions', 'n_emojis']:
     #    data[c] = data[c] / data['benoit_sentence-length-words']
+    data = data.rename(dict(zip(topic_col, new_topic_col)), axis=1)
+    
+    # Date mapped
+    data['date'] = pd.to_datetime(data[['year', 'month']].assign(day=1)).dt.strftime('%b \'%y')
+    vals = pd.to_datetime(data[['year', 'month']].assign(day=1)).sort_values().dt.strftime('%b \'%y').unique()
+    dct = dict(zip(vals, range(vals.shape[0])))
+    data['date_mapped'] = data['date'].replace(dct)
+    # data = data[data['year']>=2017]
     
     # Set up data
     train_data = data[data['topic_split']=='train']
@@ -156,7 +164,7 @@ def fit_predict(logpath,
                               verbose=2,
                               return_train_score=True,
                               refit=False,
-                              n_iter=2000)
+                              n_iter=1000)
     
     # Refit
     grid.fit(train_X,
@@ -234,7 +242,7 @@ if __name__=='__main__':
     #              [args.early_stopping] * 6))
     pm = list(zip([logpath] * 2,
                    [args.out_metric] * 2,
-                   ['combined_new', 'combined_new_time'],
+                   ['combined_new_time', 'combined_new'],
                    [None] * 2,
                    [True] * 2,
                    [args.early_stopping] * 2))
@@ -244,6 +252,6 @@ if __name__=='__main__':
     except:
         old_results = []
     old_results += results
-    with open(str(logpath)+'.json', 'w') as of:
+    with open(str(logpath)+'_2017.json', 'w') as of:
         of.write(json.dumps(old_results))
     
