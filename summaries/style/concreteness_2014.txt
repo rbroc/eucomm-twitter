@@ -1,0 +1,32 @@
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}                                                      &   concreteness   & \textbf{  No. Observations:  } &    15699    \\
+\textbf{Model:}                                                              &       RLM        & \textbf{  Df Residuals:      } &    15690    \\
+\textbf{Method:}                                                             &       IRLS       & \textbf{  Df Model:          } &        8    \\
+\textbf{Norm:}                                                               &      HuberT      & \textbf{                     } &             \\
+\textbf{Scale Est.:}                                                         &       mad        & \textbf{                     } &             \\
+\textbf{Cov Type:}                                                           &        H1        & \textbf{                     } &             \\
+\textbf{Date:}                                                               & Wed, 03 May 2023 & \textbf{                     } &             \\
+\textbf{Time:}                                                               &     10:53:59     & \textbf{                     } &             \\
+\textbf{No. Iterations:}                                                     &        16        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                                                                             & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept}                                                           &      -0.0615  &        0.014     &    -4.450  &         0.000        &       -0.089    &       -0.034     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.10DowningStreet]} &       0.0219  &        0.025     &     0.882  &         0.378        &       -0.027    &        0.071     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.EUCouncil]}       &       0.0743  &        0.039     &     1.882  &         0.060        &       -0.003    &        0.152     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.Europarl\_EN]}    &       0.0617  &        0.020     &     3.056  &         0.002        &        0.022    &        0.101     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.IMFNews]}         &      -0.0443  &        0.026     &    -1.727  &         0.084        &       -0.095    &        0.006     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.OECD]}            &       0.2310  &        0.025     &     9.378  &         0.000        &        0.183    &        0.279     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.UN]}              &       0.1781  &        0.018     &     9.671  &         0.000        &        0.142    &        0.214     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.ecb]}             &      -0.1073  &        0.025     &    -4.251  &         0.000        &       -0.157    &       -0.058     \\
+\textbf{C(entity, Treatment(reference='EU\_Commission'))[T.scotgov]}         &       0.1540  &        0.030     &     5.058  &         0.000        &        0.094    &        0.214     \\
+\bottomrule
+\end{tabular}
+%\caption{Robust linear Model Regression Results}
+\end{center}
+
+If the model instance has been used for another fit with different fit parameters, then the fit options might not be the correct ones anymore .
