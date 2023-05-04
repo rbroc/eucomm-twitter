@@ -143,7 +143,7 @@ def plot_topic_volume(data,
                       figsize=None, colors=None, 
                       interactive=True,
                       width=1600, height=500,
-                      title=None):
+                      title=None, xticksize=12):
     ''' Plot volume per topic
     Args:
         data: pd.DataFrame
@@ -185,7 +185,7 @@ def plot_topic_volume(data,
     plt.ylabel(f'Topic volume', fontsize=16)
     plt.xlabel('')
     plt.title(f'Topic volume' if title is None else title, fontsize=20)
-    plt.xticks(rotation=60, fontsize=12)
+    plt.xticks(rotation=60, fontsize=xticksize)
     plt.yticks(fontsize=12)
     for d in grouped.created_at.dt.year.unique()[1:]:
         plt.axvline(x=np.datetime64(f'{d}-01-01'), 
