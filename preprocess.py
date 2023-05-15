@@ -16,7 +16,7 @@ METRICS = [f'{m}_count'
 
 def main(entity, splits, keep_en=True):
     fs = glob.glob(f'data/raw/{entity}/*')
-    if entity in ['10DowningStreet', 'POTUS']:
+    if entity in ['10DowningStreet']: # comes in a special format
         df = pd.read_csv(fs[0], index_col=0)
         df = _read_df(df, fields=FIELDS, metrics=METRICS)
     else:
