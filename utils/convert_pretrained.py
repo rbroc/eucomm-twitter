@@ -6,10 +6,7 @@ from pathlib import Path
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
-base_models = ['sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
-               'distilbert-base-uncased',
-               'distilbert-base-uncased-finetuned-sst-2-english',
-               'cardiffnlp/tweet-topic-21-multi']
+base_models = ['distilbert-base-uncased']
 
 def main():
     model_paths = glob.glob('../models/pretraining/*/*')
@@ -18,14 +15,8 @@ def main():
             eucomm = 'pretrained'
         else:
             eucomm = model_name.split('/')[-2]
-        if 'cardiffnlp/' in model_name or 'distiluse' in model_name or 'paraphrase' in model_name:
-            model_id = '/'.join(model_name.split('/')[-2:])
-        else:
-            model_id = model_name.split('/')[-1]
-        if 'distilbert' in model_id:
-            tok = '-'.join(model_id.split('-')[:3])
-        else:
-            tok = 'cardiffnlp/tweet-topic-21-multi'
+        model_id = model_name.split('/')[-1]
+        tok = '-'.join(model_id.split('-')[:3])
         if model_name in model_paths:
             AutoModel.from_pretrained(model_name, 
                                       from_tf=True).save_pretrained(model_name)

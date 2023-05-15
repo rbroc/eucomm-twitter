@@ -18,14 +18,11 @@ parser.add_argument('--eucomm-only', type=int, default=1)
 
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+os.environ["CUDA_VISIBLE_DEVICES"] = "2" # GPU nr, adapt for other envs
 
 
 def _save_results(rlist, eucomm_only):
-    if eucomm_only:
-        DF_PATH = Path('logs') / 'topic' / 'eucomm'
-    else:
-        DF_PATH = Path('logs') / 'topic' / 'all'
+    DF_PATH = Path('logs') / 'topic'
     fname = DF_PATH / 'performances.jsonl'
     try:
         rdf = pd.read_json(str(fname), 
@@ -62,9 +59,8 @@ def _compute_metrics(model_id, run, split, ds, tlists, tlists_20,
 
 def main(eucomm_only=False):
      
-    sent_transformers = glob.glob('models/sent_transformers/all/distilbert*')
+    sent_transformers = glob.glob('models/sent_transformers/finetuned/distilbert*')
     sent_transformers += glob.glob('models/sent_transformers/pretrained/distilbert*')
-    # sent_transformers += glob.glob('models/sent_transformers/*/cardiffnlp*')
     
     fs = glob.glob('data/derivatives/*')
     dfs = []
@@ -92,12 +88,8 @@ def main(eucomm_only=False):
     topic_df = topic_df.reset_index()
     indices = topic_df.index.tolist()  
     
-    if eucomm_only:
-        logpath = Path('logs') / 'topic' / 'eucomm'
-        modelpath = Path('models') / 'topic' / 'eucomm'
-    else:
-        logpath = Path('logs') / 'topic' / 'all'
-        modelpath = Path('models') / 'topic' / 'all'
+    logpath = Path('logs') / 'topic'
+    modelpath = Path('models') / 'topic'
         
     vocabulary_sizes = [500] # 250
     score_list = []
@@ -162,16 +154,10 @@ def main(eucomm_only=False):
 
                                 # Preparation
                                 tp = TopicModelDataPreparation(model)
-                                if eucomm_only:
-                                    train_eucomm_dataset = tp.fit(unprepped_eucomm_train, 
-                                                                  prepped_eucomm_train)
-                                    train_dataset = tp.transform(unprepped_all_train, 
-                                                                 prepped_all_train)
-                                else:
-                                    train_dataset = tp.fit(unprepped_all_train, 
-                                                           prepped_all_train)
-                                    train_eucomm_dataset = tp.transform(unprepped_eucomm_train, 
-                                                                        prepped_eucomm_train)
+                                train_eucomm_dataset = tp.fit(unprepped_eucomm_train, 
+                                                              prepped_eucomm_train)
+                                train_dataset = tp.transform(unprepped_all_train, 
+                                                             prepped_all_train)
                                 val_dataset = tp.transform(unprepped_all_val, 
                                                            prepped_all_val)
                                 test_dataset = tp.transform(unprepped_all_test, 
@@ -193,12 +179,8 @@ def main(eucomm_only=False):
                                               vocabulary_size=vs,
                                               num_data_loader_workers=5)
                                 
-                                if eucomm_only is True:
-                                    ctm.fit(train_eucomm_dataset, 
-                                            validation_dataset=val_eucomm_dataset)
-                                else:
-                                    ctm.fit(train_dataset, 
-                                            validation_dataset=val_dataset)
+                                ctm.fit(train_eucomm_dataset, 
+                                        validation_dataset=val_eucomm_dataset)
                                     
                                 pred_train_topics = ctm.get_thetas(train_dataset,
                                                                    n_samples=20)

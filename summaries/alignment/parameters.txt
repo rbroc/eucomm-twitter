@@ -2,14 +2,14 @@
 \toprule
 {} &           entity &    beta &  p-value \\
 \midrule
-2 &    EU\_Commission &  0.0039 &    0.000 \\
-3 &      Europarl\_EN &  0.0021 &    0.001 \\
-6 &               UN &  0.0017 &    0.009 \\
-1 &        EUCouncil &  0.0008 &    0.484 \\
-4 &          IMFNews &  0.0008 &    0.175 \\
-8 &          scotgov &  0.0006 &    0.533 \\
-5 &             OECD & -0.0001 &    0.939 \\
-0 &  10DowningStreet & -0.0004 &    0.583 \\
-7 &              ecb & -0.0025 &    0.001 \\
+2 &    EU\_Commission &  0.0040 &    0.000 \\
+3 &      Europarl\_EN &  0.0012 &    0.053 \\
+6 &               UN &  0.0008 &    0.223 \\
+4 &          IMFNews &  0.0004 &    0.504 \\
+1 &        EUCouncil & -0.0001 &    0.932 \\
+5 &             OECD & -0.0006 &    0.397 \\
+0 &  10DowningStreet & -0.0008 &    0.215 \\
+8 &          scotgov & -0.0009 &    0.298 \\
+7 &              ecb & -0.0030 &    0.000 \\
 \bottomrule
 \end{tabular}
