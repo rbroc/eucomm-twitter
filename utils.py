@@ -226,6 +226,8 @@ def plot_style_timeseries(data,
     colors = colors or sns.color_palette()[:len(entities)]
     if no_horizontal is False:  
         plt.axhline(0, linestyle='--', color='darkred')
+    scaler = StandardScaler()
+    data[metric] = scaler.fit_transform(data[[metric]])
     for i, e in enumerate(entities):
         df = data[data['entity']==e].copy()
         grouper = pd.Grouper(key='created_at', 
@@ -236,11 +238,8 @@ def plot_style_timeseries(data,
         if 'sentiment' in metric:
             df[metric] = np.where(df[metric]>.5, 1, 0)
         grouped = df.groupby(grouper).mean().reset_index()
-        if normalized is True:
-            scaler = StandardScaler()
-            grouped[metric] = scaler.fit_transform(grouped[[metric]])
         if no_horizontal == 'mean':
-            plt.axhline(grouped[metric].mean(), linestyle='--', color='darkred')
+            plt.axhline(0, linestyle='--', color='darkred')
         grouped['smoothed'] = grouped[metric].rolling(roll_window,
                                                       min_periods=1).mean()
         max_smooth = grouped['smoothed'].max()
@@ -278,8 +277,6 @@ def plot_style_timeseries(data,
     plt.xlim(np.datetime64('2010-05-01'),np.datetime64('2022-12-01'))
     if ylim:
         plt.ylim(*ylim)
-    #else:
-    #    plt.ylim(0,max_smooth+.03)
     plt.tight_layout()
     if save:
         plt.savefig(f'figs/{savename}.png', dpi=300)

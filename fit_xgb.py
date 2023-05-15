@@ -3,23 +3,15 @@ import json
 import numpy as np
 import shap
 from xgboost import XGBRegressor
-from sklearn.ensemble import RandomForestClassifier
 import pickle as pkl
 from pathlib import Path
-from sklearn.feature_extraction.text import TfidfVectorizer
-from tensorflow.keras.preprocessing.text import Tokenizer
-from sklearn.model_selection import (GridSearchCV, 
-                                     RandomizedSearchCV,
-                                     PredefinedSplit)
+from sklearn.model_selection import RandomizedSearchCV
 from sklearn.metrics import (r2_score, 
                              mean_absolute_error,
                              mean_squared_error)
-
-from nltk.corpus import stopwords
 import argparse
-from src.colnames import (topic_col, emotion_col, 
-                          style_col, exclude_col,
-                          new_style_col, new_topic_col)
+from src.colnames import (topic_col, 
+                          style_col)
 
 
 # Initialize parser
@@ -57,7 +49,7 @@ def _save_predictions(preds, split, labels, exs,
                                      'prediction',
                                      'model_name',
                                      'split'])
-    ofile = logpath / f'pred_{model_name}_{split}.pkl'
+    ofile = logpath / f'pred_{split}.pkl'
     pred_df.to_pickle(ofile)
 
 
@@ -83,67 +75,20 @@ def fit_predict(logpath,
                 es=10):
     
     # Get the data
-    data = pd.read_json(f'data/topic/data_renamed_reduced.jsonl',
+    data = pd.read_json(str(Path('data') / 'topic' / 'preds_reduced.jsonl'),
                         orient='records', lines=True)
-    data = data[data['entity']=='EU_Commission'] # TODO: fit without this
-    #data['n_mentions'] = data['text'].replace('[^@]','', regex=True).str.len()
-    #data['n_hashtag'] = data['text'].replace('[^#]','', regex=True).str.len()
-    #for c in ['n_hashtag', 'n_mentions', 'n_emojis']:
-    #    data[c] = data[c] / data['benoit_sentence-length-words']
+    data = data[data['entity']=='EU_Commission']
     data = data.rename(dict(zip(topic_col, new_topic_col)), axis=1)
-    
-    # Date mapped
-    #data['date'] = pd.to_datetime(data[['year', 'month']].assign(day=1)).dt.strftime('%b \'%y')
-    #vals = pd.to_datetime(data[['year', 'month']].assign(day=1)).sort_values().dt.strftime('%b \'%y').unique()
-    #dct = dict(zip(vals, range(vals.shape[0])))
-    #data['date_mapped'] = data['date'].replace(dct)
-    # data = data[data['year']>=2017]
     
     # Set up data
     train_data = data[data['topic_split']=='train']
     val_data = data[data['topic_split']=='val']
     test_data = data[data['topic_split']=='test']
-    
-    if model_type == 'topic':
-        train_X = train_data[topic_col].values
-        val_X = val_data[topic_col].values
-        test_X = test_data[topic_col].values   
-    
-    elif model_type == 'sentiment':
-        train_X = train_data[emotion_col].values
-        val_X = val_data[emotion_col].values
-        test_X = test_data[emotion_col].values
-        
-    elif model_type == 'style':
-        style_targets = [] # targets
-        train_X = train_data[style_targets].fillna(0).values
-        val_X = val_data[style_targets].fillna(0).values
-        test_X = test_data[style_targets].fillna(0).values
-    
-    elif model_type == 'combined_new':
-        cols = new_topic_col + new_style_col
-        train_X = train_data[cols].fillna(0).values
-        val_X = val_data[cols].fillna(0).values
-        test_X = test_data[cols].fillna(0).values
-        
-    elif model_type == 'combined_new_time':
-        cols = new_topic_col + new_style_col + ['date_mapped']
-        train_X = train_data[cols].fillna(0).values
-        val_X = val_data[cols].fillna(0).values
-        test_X = test_data[cols].fillna(0).values
-    
-    elif model_type == 'bow':
-        stop_words = stopwords.words('english')
-        tkpath = str(logpath / f'tokenizer_bow-{n_words}.pkl')
-        c_vec = TfidfVectorizer(stop_words=stop_words,
-                                max_features=n_words)
-        train_X = c_vec.fit_transform(train_data['text'].tolist()).toarray()
-        val_X = c_vec.transform(val_data['text'].tolist()).toarray()
-        test_X = c_vec.transform(test_data['text'].tolist()).toarray()
-        pkl.dump(c_vec, open(tkpath, "wb"))
-        
-    else:
-        raise ValueError(f'{model_type} is not a valid model type')
+
+    cols = topic_col + style_col
+    train_X = train_data[cols].fillna(0).values
+    val_X = val_data[cols].fillna(0).values
+    test_X = test_data[cols].fillna(0).values
     
     # Get outcomes
     train_y = train_data[out_metric].values
@@ -187,9 +132,9 @@ def fit_predict(logpath,
     ofile_val = logpath / f'val.txt'
     ofile_test = logpath / f'test.txt'
     result_path = logpath / f'grid.csv'
-    model_name = f'{out_metric}_{model_type}_{n_words}'
-    model_path = logpath / f'{model_name}.pkl'
-    shap_path = logpath / f'shap_{model_name}.pkl'
+    model_name = f'{model_type}'
+    model_path = logpath / f'model.pkl'
+    shap_path = logpath / f'shap.pkl'
 
     # Predict and evaluate on train, val and set
     outs = _save_scores(train_X, train_y, 
@@ -225,33 +170,21 @@ def fit_predict(logpath,
 
 if __name__=='__main__':
     args = parser.parse_args()
-    logpath = Path('logs') / 'engagement' 
-    logpath = logpath / args.out_metric
+    logpath = Path('logs') / 'engagement' / 'results'
     logpath.mkdir(parents=True, exist_ok=True)
-    #pm = list(zip([logpath] * 6,
-    #              [args.out_metric] * 6,
-    #              ['combined', 
-    #               'topic', 
-    #               'sentiment', 
-    #               'style_short',
-    #               'style_full',
-    #               'bow'],
-    #              [None, None, None, None, 
-    #               None, 500],
-    #              [True] * 6,
-    #              [args.early_stopping] * 6))
+    perfpath = Path('logs') / 'engagement' / 'perf.json'
     pm = list(zip([logpath] * 1,
                    [args.out_metric] * 1,
-                   ['combined_new'],
+                   ['combined'],
                    [None] * 1,
                    [True] * 1,
                    [args.early_stopping] * 1))
     results = [fit_predict(*p) for p in pm]
     try:
-        old_results = json.load(open(str(logpath)+'.json', 'rb'))
+        old_results = json.load(open(str(perfpath), 'rb'))
     except:
         old_results = []
     old_results += results
-    with open(str(logpath)+'.json', 'w') as of:
+    with open(str(perfpath), 'w') as of:
         of.write(json.dumps(old_results))
     
