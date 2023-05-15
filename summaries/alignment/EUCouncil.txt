@@ -1,0 +1,33 @@
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}    &      value       & \textbf{  R-squared:         } &     0.000   \\
+\textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &    -0.009   \\
+\textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } &  0.007361   \\
+\textbf{Date:}             & Mon, 15 May 2023 & \textbf{  Prob (F-statistic):} &    0.932    \\
+\textbf{Time:}             &     08:29:07     & \textbf{  Log-Likelihood:    } &   -55.644   \\
+\textbf{No. Observations:} &         113      & \textbf{  AIC:               } &     115.3   \\
+\textbf{Df Residuals:}     &         111      & \textbf{  BIC:               } &     120.7   \\
+\textbf{Df Model:}         &           1      & \textbf{                     } &             \\
+\textbf{Covariance Type:}  &    nonrobust     & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                   & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept} &      -0.0019  &        0.126     &    -0.015  &         0.988        &       -0.252    &        0.248     \\
+\textbf{month}     &    -9.85e-05  &        0.001     &    -0.086  &         0.932        &       -0.002    &        0.002     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       &  0.869 & \textbf{  Durbin-Watson:     } &    1.973  \\
+\textbf{Prob(Omnibus):} &  0.648 & \textbf{  Jarque-Bera (JB):  } &    0.902  \\
+\textbf{Skew:}          &  0.065 & \textbf{  Prob(JB):          } &    0.637  \\
+\textbf{Kurtosis:}      &  2.582 & \textbf{  Cond. No.          } &     369.  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Notes: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
