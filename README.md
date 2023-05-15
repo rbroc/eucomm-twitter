@@ -2,12 +2,13 @@
 
 
 ### Brief description
-
+This repository contains code and data for the paper "From economy to identity: A data-driven analysis of the European Commission’s Twitter communication between 2010 and 2022"
 
 ### Data
-
+Due to Twitter policy, we do not share raw text or metrics data accessed through the API. We only share derivatives of the data, including Twitter IDs and extracted metrics, but no text nor engagement metrics.
 
 ### Processing steps
+Script for data
 
 
 ### Trained models
