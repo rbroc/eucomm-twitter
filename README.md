@@ -1,4 +1,4 @@
-# Dynamic topic modeling of EU-related communication
+# A data-driven analysis of the European Commission’s Twitter communication
 
 
 ### Brief description
