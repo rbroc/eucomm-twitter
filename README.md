@@ -22,6 +22,7 @@ Due to Twitter policy, we do not share raw text or metrics data accessed through
 - Each notebook in the root of the repository maps into a section of the paper
 - `summaries` and `figs` contain outputs that are used in the paper (tables and figures)
 - `src` contains useful functions, used throughout the analysis
+- `utils.py` containts utils for visualization, used for plotting time series
 
 ### Trained models
 Trained topic models are available under `models/topic`. The configuration and training script for our pretrained transformer are shared under `models/pretraining`, and the model is available at: https://huggingface.co/rbroc/twitter-eupol-model/. In the `utils` folder, you can find a script that transforms files (weights and architecture) standard bidirectional transformer encoder architectures into sentence transformers, required for contextualized topic modeling. Note, however, that the standard DistilBERT model performed better than our fine-tuned architecture.
