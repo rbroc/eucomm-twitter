@@ -226,8 +226,9 @@ def plot_style_timeseries(data,
     colors = colors or sns.color_palette()[:len(entities)]
     if no_horizontal is False:  
         plt.axhline(0, linestyle='--', color='darkred')
-    scaler = StandardScaler()
-    data[metric] = scaler.fit_transform(data[[metric]])
+    if normalized is True:
+        scaler = StandardScaler()
+        data[metric] = scaler.fit_transform(data[[metric]])
     for i, e in enumerate(entities):
         df = data[data['entity']==e].copy()
         grouper = pd.Grouper(key='created_at', 
