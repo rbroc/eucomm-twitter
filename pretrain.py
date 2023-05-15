@@ -10,10 +10,6 @@ parser.add_argument('--eucomm-only', type=int, default=1)
 
 def _save_results(rlist, eucomm_only):
     fname = Path('logs') / 'pretraining'
-    if eucomm_only:
-         fname = fname / 'eucomm'
-    else:
-         fname = fname / 'all'
     fname.mkdir(exist_ok=True, parents=True)
     fname = fname / 'performances.jsonl'
     try:
@@ -29,10 +25,7 @@ def _save_results(rlist, eucomm_only):
 def main(eucomm_only):
     
     # Read the data
-    if eucomm_only:
-        fs = glob.glob('data/derivatives/EU_Comm*')
-    else:
-        fs = glob.glob('data/derivatives/*')
+    fs = glob.glob('data/derivatives/*')
     dfs = []
     for f in fs:
         df = pd.read_json(f, lines=True, orient='records')
@@ -57,10 +50,7 @@ def main(eucomm_only):
                         trainer.compile()
                         r = trainer.fit()
                         results.append(r)
-                        if eucomm_only:
-                            OUT_PATH = Path('models') / 'pretraining' / 'eucomm'
-                        else:
-                            OUT_PATH = Path('models') / 'pretraining' / 'all'
+                        OUT_PATH = Path('models') / 'pretraining'
                         OUT_PATH.mkdir(exist_ok=True, parents=True)
                         trainer.save(str(OUT_PATH/f'{trainer.name}'))
                         _save_results(results, eucomm_only)   
