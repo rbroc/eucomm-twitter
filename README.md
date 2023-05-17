@@ -2,7 +2,7 @@
 
 
 ### Brief description
-This repository contains code and data for the paper "From economy to identity: A data-driven analysis of the European Commission’s Twitter communication between 2010 and 2022"
+This repository contains code and data for the paper "From economy to identity: A data-driven analysis of the European Commission’s Twitter communication between 2010 and 2022".
 
 ### Data
 Due to Twitter policy, we do not share raw text or metrics data accessed through the API. We only share derivatives of the data, including Twitter IDs and extracted metrics, but no text nor engagement metrics. Note that the `data/derivatives` and `data/topic` include derivatives of the data uniquely including extracted features. Some of the files are zipped because their raw versions are too large. Data in the `data/topic` folder are the most complete version of the data, as they include both style and topic annotations.
@@ -19,7 +19,7 @@ Due to Twitter policy, we do not share raw text or metrics data accessed through
 - `fit_xgb.py` fits the XGBoost models, and logs outputs and evalution outcomes
 
 ### Other useful information
-- Each notebook in the root of the repository maps into a section of the paper
+- Each notebook in the root of the repository maps onto a section of the paper
 - `summaries` and `figs` contain outputs that are used in the paper (tables and figures)
 - `src` contains useful functions, used throughout the analysis
 - `utils.py` containts utils for visualization, used for plotting time series
