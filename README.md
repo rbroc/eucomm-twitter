@@ -2,7 +2,7 @@
 
 
 ### Brief description
-This repository contains code and data for the paper "From economy to identity: A data-driven analysis of the European Commission’s Twitter communication between 2010 and 2022".
+This repository contains code and data for the paper "From economy to identity: A data-driven analysis of the European Commission’s Twitter communication between 2010 and 2022", currently available as a preprint on SocArXiv: https://osf.io/preprints/socarxiv/a7udw/.
 
 ### Data
 Due to Twitter policy, we do not share raw text or metrics data accessed through the API. We only share derivatives of the data, including Twitter IDs and extracted metrics, but no text nor engagement metrics. Note that the `data/derivatives` and `data/topic` include derivatives of the data uniquely including extracted features. Some of the files are zipped because their raw versions are too large. Data in the `data/topic` folder are the most complete version of the data, as they include both style and topic annotations.
