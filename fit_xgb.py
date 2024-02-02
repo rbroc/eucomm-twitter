@@ -6,11 +6,11 @@ from xgboost import XGBRegressor
 import pickle as pkl
 from pathlib import Path
 from sklearn.model_selection import RandomizedSearchCV
-from sklearn.metrics import (r2_score, 
+from sklearn.metrics import (r2_score,
                              mean_absolute_error,
                              mean_squared_error)
 import argparse
-from src.colnames import (topic_col, 
+from src.colnames import (topic_col,
                           style_col)
 
 
@@ -57,6 +57,7 @@ def _save_scores(X, y, logpath, ofile, split, exs, grid, model_name):
     ''' Save scores '''
     preds = grid.best_estimator_.predict(X)
     _save_predictions(preds, split, y, exs, logpath, model_name)
+    print(y, preds)
     r2 = r2_score(y, preds)
     mae = mean_absolute_error(y, preds)
     mse = mean_squared_error(y, preds)
@@ -70,15 +71,22 @@ def _save_scores(X, y, logpath, ofile, split, exs, grid, model_name):
 def fit_predict(logpath,
                 out_metric,
                 model_type,
-                n_words=None,
-                eval_on_test=True,
-                es=10):
+                eval_on_test=True):
     
+    dct = json.load(open(str(Path('data') / 'follower_mappings.json')))
+
     # Get the data
     data = pd.read_json(str(Path('data') / 'topic' / 'preds_reduced.jsonl'),
                         orient='records', lines=True)
     data = data[data['entity']=='EU_Commission']
-    data = data.rename(dict(zip(topic_col, new_topic_col)), axis=1)
+    data['month'] = np.where(data['month'].astype(str).str.len() == 1,
+                             '0' + data['month'].astype(str),
+                             data['month'].astype(str))
+    data['date_full'] = data['year'].astype(str) + data['month']+ data['day'].astype(str) # added
+    data['follower_count'] = data['date_full'].astype(str).map(dct) # added
+    data = data.dropna(subset=['follower_count'], axis=0) # added
+    data[out_metric] = data[out_metric] / (data['follower_count'] / 100) # per 100 followers
+    # data = data.rename(dict(zip(topic_col, new_topic_col)), axis=1)
     
     # Set up data
     train_data = data[data['topic_split']=='train']
@@ -117,8 +125,8 @@ def fit_predict(logpath,
              verbose=False)
     
     # Get best model and fit on training data only
-    model = XGBRegressor(**grid.best_params_, 
-                         objective=objective, 
+    model = XGBRegressor(**grid.best_params_,
+                         objective=objective,
                          n_jobs=20)
     model.fit(train_X, train_y, 
               eval_set=[(val_X, val_y)],
@@ -170,15 +178,13 @@ def fit_predict(logpath,
 
 if __name__=='__main__':
     args = parser.parse_args()
-    logpath = Path('logs') / 'engagement' / 'results'
+    logpath = Path('logs') / 'engagement' / 'results_norm'
     logpath.mkdir(parents=True, exist_ok=True)
-    perfpath = Path('logs') / 'engagement' / 'perf.json'
+    perfpath = Path('logs') / 'engagement' / 'perf_norm.json'
     pm = list(zip([logpath] * 1,
                    [args.out_metric] * 1,
                    ['combined'],
-                   [None] * 1,
-                   [True] * 1,
-                   [args.early_stopping] * 1))
+                   [True] * 1))
     results = [fit_predict(*p) for p in pm]
     try:
         old_results = json.load(open(str(perfpath), 'rb'))
